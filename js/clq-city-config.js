@@ -1,0 +1,8 @@
+/** Préfixe localStorage et identité ville (Mons). */
+window.CLQ_CITY = {
+  storagePrefix: 'mons',
+  name: 'Mons',
+  slug: 'mons',
+  postalCode: '7000',
+  packageName: 'clq-mons'
+};

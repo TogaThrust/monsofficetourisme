@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "updatedAt": "2026-07-08",
+    "distanceNote": "Distances approximatives a vol d'oiseau ; temps de marche indicatif.",
+    "coordinatesUpdated": true
+  },
+  "emergencyByCountry": {
+    "belgique": {
+      "general": "112",
+      "police": "101",
+      "firefighters": "112",
+      "medical": "-"
+    },
+    "france": {
+      "general": "112",
+      "police": "17",
+      "firefighters": "18",
+      "medical": "15"
+    },
+    "espagne": {
+      "general": "112",
+      "police": "-",
+      "firefighters": "080 / 085",
+      "medical": "061"
+    }
+  },
+  "guardInfoByCountry": {
+    "france": {
+      "pharmacyNumber": "3237",
+      "pharmacyNote": "Service officiel pharmacie de garde.",
+      "veterinaryNumber": "3115",
+      "veterinaryNote": "Urgences veterinaires nationales."
+    }
+  },
+  "cityAliases": {
+    "mons": "mons"
+  },
+  "cities": {
+    "mons": {
+      "country": "Belgique",
+      "onDuty": {},
+      "facilities": [
+        {
+          "category": "hospital",
+          "name": "CHU HELORA – Hôpital de Mons, site Kennedy",
+          "address": "Boulevard Président Kennedy 2, 7000 Mons",
+          "phone": "+32 65414000 / +32 65414444",
+          "sourceUrl": "https://www.helora.be/hopitaux/contactez-nous",
+          "lat": 50.45775097791848,
+          "lng": 3.9619252299250225
+        },
+        {
+          "category": "hospital",
+          "name": "CHU HELORA – site Warquignies",
+          "address": "Rue des Chaufours 27, 7300 Boussu",
+          "phone": "+32 65414141",
+          "sourceUrl": "https://www.helora.be/hopitaux/contactez-nous",
+          "lat": 50.41731343789969,
+          "lng": 3.8068696740865864
+        },
+        {
+          "category": "pharmacy",
+          "name": "BENU Bois de Mons",
+          "address": "chaussée de Binche 92, 7000 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.44912353154902,
+          "lng": 3.989107001098286
+        },
+        {
+          "category": "pharmacy",
+          "name": "BENU Flénu",
+          "address": "rue du Moulin d'En Haut 168, 7012 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.43820064687991,
+          "lng": 3.895596708584756
+        },
+        {
+          "category": "pharmacy",
+          "name": "BENU Mons Ghlin",
+          "address": "Chaussée de Ghlin 9X, 7000 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.46340355885795,
+          "lng": 3.9362630045673206
+        },
+        {
+          "category": "pharmacy",
+          "name": "BRUYAUX PHARMA",
+          "address": "RUE MONTREUIL-SOUS-BOIS 78, 7022 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.44040154382045,
+          "lng": 3.9568586446485314
+        },
+        {
+          "category": "pharmacy",
+          "name": "CONEM PASCAL",
+          "address": "AVENUE MARECHAL FOCH 768, 7012 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.44806208324185,
+          "lng": 3.88841539586736
+        },
+        {
+          "category": "pharmacy",
+          "name": "Demaphar",
+          "address": "rue de l'Etang Derbaix 137, 7033 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.440080949127235,
+          "lng": 3.91935814636691
+        },
+        {
+          "category": "pharmacy",
+          "name": "Familia",
+          "address": "avenue du Bélian 30, 7000 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.43901535293792,
+          "lng": 3.9460256094070862
+        },
+        {
+          "category": "pharmacy",
+          "name": "GARIN FANNY",
+          "address": "RUE DE VILLERS 9, 7022 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.40837519740228,
+          "lng": 4.015276134724511
+        },
+        {
+          "category": "pharmacy",
+          "name": "La grande pharmacie de Cuesmes",
+          "address": "avenue Joseph Wauters 43, 7033 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.4468684260209,
+          "lng": 3.93041018502627
+        },
+        {
+          "category": "pharmacy",
+          "name": "La grande pharmacie de Ghlin",
+          "address": "Avenue de la libération 15A, 7011 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.474404291093165,
+          "lng": 3.900729418267924
+        },
+        {
+          "category": "pharmacy",
+          "name": "La grande pharmacie de Nimy",
+          "address": "route d'Ath 64, 7020 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.48354539508852,
+          "lng": 3.946654321715451
+        },
+        {
+          "category": "pharmacy",
+          "name": "MAESEN BERTRAND",
+          "address": "RUE DES QUATRE FILS AYMON 2, 7000 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.45653448106963,
+          "lng": 3.954638153188826
+        },
+        {
+          "category": "pharmacy",
+          "name": "Meurant Paul-Emile",
+          "address": "chaussée du Roeulx 1190, 7021 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.46358747764581,
+          "lng": 4.044482287015732
+        },
+        {
+          "category": "pharmacy",
+          "name": "Mons Pharma",
+          "address": "avenue de Jemappes 169, 7000 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.452539537154166,
+          "lng": 3.9301025785793766
+        },
+        {
+          "category": "pharmacy",
+          "name": "Multipharma",
+          "address": "rue Ferrer 60-62, 7033 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.437154691346194,
+          "lng": 3.9214596929698438
+        },
+        {
+          "category": "pharmacy",
+          "name": "Multipharma",
+          "address": "avenue Maréchal Foch 762, 7012 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.44805586985688,
+          "lng": 3.8888305941034735
+        },
+        {
+          "category": "pharmacy",
+          "name": "Multipharma",
+          "address": "rue d'Havré 100, 7000 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.453633177735405,
+          "lng": 3.954660238606149
+        },
+        {
+          "category": "pharmacy",
+          "name": "Multipharma",
+          "address": "rue d'Havré 52, 7000 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.45363114109279,
+          "lng": 3.954662050758779
+        },
+        {
+          "category": "pharmacy",
+          "name": "NIMY-PHAR",
+          "address": "AVENUE DE LA JOYEUSE ENTREE 60, 7020 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.46972371593168,
+          "lng": 3.9571481272260853
+        },
+        {
+          "category": "pharmacy",
+          "name": "PHARMACIE CORNEZ",
+          "address": "AVENUE DE L'HOPITAL 91, 7000 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.448677743413214,
+          "lng": 3.891647585093758
+        },
+        {
+          "category": "pharmacy",
+          "name": "PHARMACIE DELPATURE-HANSART",
+          "address": "RUE DE L'ATHENEE 19, 7000 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.45181906254197,
+          "lng": 3.9448440720589923
+        },
+        {
+          "category": "pharmacy",
+          "name": "PHARMACIE PIERROT",
+          "address": "PLACE DE MAISIERES 4, 7020 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.48784360222312,
+          "lng": 3.9650831601796965
+        },
+        {
+          "category": "pharmacy",
+          "name": "PHARMAQ",
+          "address": "rue Augustin Brohée 30, 7011 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.47572064539705,
+          "lng": 3.9094896952200147
+        },
+        {
+          "category": "pharmacy",
+          "name": "Pharmacie Bertiaux",
+          "address": "avenue Champ de Bataille 374, 7012 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.43752767242856,
+          "lng": 3.8881652765514554
+        },
+        {
+          "category": "pharmacy",
+          "name": "Pharmacie Cornez",
+          "address": "rue Général Leman 11, 7012 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.448677743413214,
+          "lng": 3.891647585093758
+        },
+        {
+          "category": "pharmacy",
+          "name": "Pharmacie Gosselin-Obourg",
+          "address": "place d'Obourg 21, 7034 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.473336045893625,
+          "lng": 4.008252921895943
+        },
+        {
+          "category": "pharmacy",
+          "name": "Pharmacie Lhoir",
+          "address": "chaussée de Bruxelles 30/A, 7000 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.465581703921835,
+          "lng": 3.9579611182740124
+        },
+        {
+          "category": "pharmacy",
+          "name": "Pharmacie Medifar",
+          "address": "Place de Cuesmes 7, 7033 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.43678858764034,
+          "lng": 3.9240955632873606
+        },
+        {
+          "category": "pharmacy",
+          "name": "Pharmacie Penninck",
+          "address": "avenue du Champ de Bataille 459, 7012 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.43198357099994,
+          "lng": 3.889459074949042
+        },
+        {
+          "category": "pharmacy",
+          "name": "Pharmacie Saint-Georges",
+          "address": "rue de Nimy 86, 7000 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.45789757730423,
+          "lng": 3.9555755688115775
+        },
+        {
+          "category": "pharmacy",
+          "name": "Pharmacie Schneider-Depouhon",
+          "address": "avenue d'Hyon 2, 7000 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.4503455149326,
+          "lng": 3.954020842309942
+        },
+        {
+          "category": "pharmacy",
+          "name": "Pharmacie Siraut",
+          "address": "rue de l'Industrie 1, 7012 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.447685783014215,
+          "lng": 3.881639371544648
+        },
+        {
+          "category": "pharmacy",
+          "name": "Pharmacie Vreux",
+          "address": "Grand'Rue 56, 7000 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.45094632639836,
+          "lng": 3.9492606995187973
+        },
+        {
+          "category": "pharmacy",
+          "name": "Pharmacie by Medi-Market Group - Mons Centre",
+          "address": "Grand'rue 22-24, 7000 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.45185473929046,
+          "lng": 3.9494587378457915
+        },
+        {
+          "category": "pharmacy",
+          "name": "Pharmacie de Jemappes",
+          "address": "avenue Wilson 561, 7012 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.44809664682836,
+          "lng": 3.899312352196106
+        },
+        {
+          "category": "pharmacy",
+          "name": "Pharmacie de Messines",
+          "address": "Grand Rue 87, 7000 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.44977518194436,
+          "lng": 3.949561963615888
+        },
+        {
+          "category": "pharmacy",
+          "name": "Pharmacie de la Brisée",
+          "address": "rue de la Brisée 163A, 7034 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.499611067729155,
+          "lng": 4.003876385793169
+        },
+        {
+          "category": "pharmacy",
+          "name": "Pharmacie de la Chasse Royale",
+          "address": "chaussée de Maubeuge 359, 7022 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.426102712206266,
+          "lng": 3.9490008931485883
+        },
+        {
+          "category": "pharmacy",
+          "name": "Pharmacie de la Porte de Ghlin",
+          "address": "rue Charles Piron 66, 7011 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.47088800826888,
+          "lng": 3.9182119180003627
+        },
+        {
+          "category": "pharmacy",
+          "name": "Pharmacie de la Station",
+          "address": "chaussée du Roeulx 1428, 7021 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.4635826080828,
+          "lng": 4.044489535661807
+        },
+        {
+          "category": "pharmacy",
+          "name": "Pharmacie des 4 Pavés",
+          "address": "chaussée Roi Baudouin 192 A, 7030 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.43922201128086,
+          "lng": 4.010887581306874
+        },
+        {
+          "category": "pharmacy",
+          "name": "Pharmacie du Bon Pasteur",
+          "address": "chaussée du Roeulx 282, 7000 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.45641843452596,
+          "lng": 3.982560859637805
+        },
+        {
+          "category": "pharmacy",
+          "name": "Pharmacie du Joncquois",
+          "address": "avenue d'Hyon 85, 7000 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.445654758609074,
+          "lng": 3.955211001050895
+        },
+        {
+          "category": "pharmacy",
+          "name": "Pharmacie du Vieux Nimy",
+          "address": "rue des Viaducs 212/C, 7020 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.47705196371711,
+          "lng": 3.9530811185886336
+        },
+        {
+          "category": "pharmacy",
+          "name": "Sante Services SPRL",
+          "address": "rue de Ciply 18, 7033 Mons",
+          "phone": "",
+          "sourceUrl": "https://www.afmps.be/fr/humain/medicaments/medicaments/distribution/pharmacies_ouvertes_au_public",
+          "lat": 50.43557076932402,
+          "lng": 3.9244586549416356
+        },
+        {
+          "category": "veterinary",
+          "name": "Animavet",
+          "address": "Rue de Frameries 503, 7033 Cuesmes",
+          "phone": "+32 65884986",
+          "sourceUrl": "https://www.animavet.be/",
+          "lat": 50.424454159282604,
+          "lng": 3.906427743387274
+        },
+        {
+          "category": "veterinary",
+          "name": "BeVet Mons",
+          "address": "Mons, Belgique",
+          "phone": "+32 65140950",
+          "sourceUrl": "https://bevet.be/clinique/cabinet-veterinaire-mons/",
+          "lat": 50.45742694026559,
+          "lng": 3.976691400429987
+        },
+        {
+          "category": "veterinary",
+          "name": "BeVet Mons-Hyon",
+          "address": "Hyon, 7022 Mons",
+          "phone": "+32 65840404",
+          "sourceUrl": "https://bevet.be/clinique/bevet-cabinet-veterinaire-mons-hyon/",
+          "lat": 50.45742354743776,
+          "lng": 3.9766910310270673
+        },
+        {
+          "category": "veterinary",
+          "name": "Desquesnes / Laurent",
+          "address": "Chemin du Pont d'Haine 2, 7034 Mons",
+          "phone": "+32 65842442",
+          "sourceUrl": "http://www.vetodesquesnes.be/",
+          "lat": 50.481464707609604,
+          "lng": 3.9828647577811616
+        },
+        {
+          "category": "veterinary",
+          "name": "Vétérinaire Gauquier",
+          "address": "Rue des Viaducs 215, 7020 Mons",
+          "phone": "",
+          "sourceUrl": "https://veterinairedegardebelgique.com/c/mons-53/",
+          "lat": 50.47761408722678,
+          "lng": 3.9526648803802953
+        },
+        {
+          "category": "veterinary",
+          "name": "Catherine Dufrasne",
+          "address": "Drève du Prophète, 4, 7000 Mons",
+          "phone": "",
+          "sourceUrl": "",
+          "lat": 50.46372209373354,
+          "lng": 3.9767585421316154
+        }
+      ]
+    }
+  }
+}
