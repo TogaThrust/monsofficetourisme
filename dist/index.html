@@ -583,13 +583,13 @@
                   }
                   
                   if (isPWAInstalled) {
-                  if (isFromCheckout) {
-                    sessionStorage.setItem('webLanguageSelected', 'true');
-                    showWarningScreen();
-                    return;
-                  }
-                  await routePwaToParcours();
-                  return; // IMPORTANT : arrêter ici pour éviter le flux normal
+                    if (isFromCheckout) {
+                      sessionStorage.setItem('webLanguageSelected', 'true');
+                      showWarningScreen();
+                      return;
+                    }
+                    await routePwaToParcours();
+                    return; // IMPORTANT : arrêter ici pour éviter le flux normal
                   } else {
                     // non-PWA : on continue l’écran d’avertissement
                   }
