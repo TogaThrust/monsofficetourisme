@@ -39,8 +39,8 @@
       "pharmacyNote": "Ligne nationale payante (1,50 €/min). Le site officiel est gratuit.",
       "pharmacyUrl": "https://www.apotheek.be/PharmacySearch?Query=7000&OnDuty=true",
       "veterinaryNumber": "",
-      "veterinaryNote": "Pas de numéro national unique. Appelez votre vétérinaire habituel (le répondeur indique le service de garde) ou une clinique d'urgence.",
-      "veterinaryUrl": "https://www.veterinaire.be/"
+      "veterinaryNote": "Pas de numéro national unique. Appelez votre vétérinaire habituel (le répondeur indique le service de garde) ou une clinique d'urgence. Annuaire officiel : Ordre des vétérinaires.",
+      "veterinaryUrl": "https://www.ordre-veterinaires.be/recherche_new.php"
     }
   },
   "cityAliases": {

@@ -384,7 +384,7 @@ function lookupBelgiumVeterinaryFallback() {
     provider: "belgium-vet-fallback",
     status: "fallback",
     message: "Pas de numéro national unique : appelez votre vétérinaire habituel (répondeur de garde) ou une clinique d'urgence.",
-    fallbackUrl: "https://www.veterinaire.be/",
+    fallbackUrl: "https://www.ordre-veterinaires.be/recherche_new.php",
   };
 }
 
