@@ -29,8 +29,18 @@
     "france": {
       "pharmacyNumber": "3237",
       "pharmacyNote": "Service officiel pharmacie de garde.",
+      "pharmacyUrl": "https://www.3237.fr/",
       "veterinaryNumber": "3115",
-      "veterinaryNote": "Urgences veterinaires nationales."
+      "veterinaryNote": "Urgences veterinaires nationales.",
+      "veterinaryUrl": "https://www.veterinaire.fr/je-suis-proprietaire-d-animaux/urgences"
+    },
+    "belgique": {
+      "pharmacyNumber": "0903 99 000",
+      "pharmacyNote": "Ligne nationale payante (1,50 €/min). Le site officiel est gratuit.",
+      "pharmacyUrl": "https://www.apotheek.be/PharmacySearch?Query=7000&OnDuty=true",
+      "veterinaryNumber": "",
+      "veterinaryNote": "Pas de numéro national unique. Appelez votre vétérinaire habituel (le répondeur indique le service de garde) ou une clinique d'urgence.",
+      "veterinaryUrl": "https://www.veterinaire.be/"
     }
   },
   "cityAliases": {
@@ -42,6 +52,8 @@
   "cities": {
     "mons": {
       "country": "Belgique",
+      "city": "Mons",
+      "postalCode": "7000",
       "onDuty": {},
       "facilities": [
         {
@@ -525,6 +537,8 @@
     },
     "mons-ot": {
       "country": "Belgique",
+      "city": "Mons",
+      "postalCode": "7000",
       "onDuty": {},
       "facilities": [
         {
@@ -1008,6 +1022,8 @@
     },
     "mons_ot": {
       "country": "Belgique",
+      "city": "Mons",
+      "postalCode": "7000",
       "onDuty": {},
       "facilities": [
         {

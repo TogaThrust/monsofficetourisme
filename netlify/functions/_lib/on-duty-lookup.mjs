@@ -253,6 +253,7 @@ async function lookupBelgiumPharmacies(ctx) {
       status: "needs_location",
       message: "Code postal ou ville requis pour la pharmacie de garde en Belgique.",
       fallbackUrl: "https://www.apotheek.be/",
+      hotline: "0903 99 000",
     };
   }
   let items = (await fetchApotheekPharmacies(query, true)).map(mapApotheekItem);
@@ -263,7 +264,8 @@ async function lookupBelgiumPharmacies(ctx) {
     items,
     provider: "belgium-apotheek",
     status: items.length ? "ok" : "empty",
-    fallbackUrl: `https://www.apotheek.be/PharmacySearch?Query=${encodeURIComponent(query)}&OnDuty=true`,
+      fallbackUrl: `https://www.apotheek.be/PharmacySearch?Query=${encodeURIComponent(query)}&OnDuty=true`,
+      hotline: "0903 99 000",
   };
 }
 
@@ -381,7 +383,7 @@ function lookupBelgiumVeterinaryFallback() {
     items: [],
     provider: "belgium-vet-fallback",
     status: "fallback",
-    message: "Service veterinaire de garde : contactez votre veterinaire habituel ou les urgences locales.",
+    message: "Pas de numéro national unique : appelez votre vétérinaire habituel (répondeur de garde) ou une clinique d'urgence.",
     fallbackUrl: "https://www.veterinaire.be/",
   };
 }

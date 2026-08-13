@@ -31,8 +31,7 @@ jobs:
       - name: Deploy to Netlify
         uses: nwtgck/actions-netlify@v3.0
         with:
-          publish-dir: dist
-          production-branch: main
+          functions-dir: netlify/functions
           github-token: ${{ secrets.GITHUB_TOKEN }}
           deploy-message: ${{ github.event.head_commit.message }}
           enable-pull-request-comment: false

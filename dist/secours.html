@@ -581,16 +581,18 @@
       target.innerHTML = html;
     }
 
-    function renderGuardBox(category, elementId, guardNumberKey, guardNoteKey, guardDefaultNote, guardCurrentKey, guardNumberFallback) {
+    function renderGuardBox(category, elementId, guardNumberKey, guardNoteKey, guardDefaultNote, guardCurrentKey, numberField, urlField, franceFallback) {
       const el = document.getElementById(elementId);
       if (!el) return;
       const countrySlug = normalizeSlug(currentCityRecord.record.country);
       const guard = emergencyData.guardInfoByCountry[countrySlug] || {};
       const meta = getLiveOnDutyMeta(category);
-      const hotline = meta?.hotline || guardNumberFallback || "-";
+      const franceHotline = countrySlug === "france" ? franceFallback : "";
+      const hotline = String(meta?.hotline || guard[numberField] || franceHotline || "").trim() || "—";
       const liveClass = liveOnDutyLoading || (meta && meta.items && meta.items.length) ? " guard-box-live" : "";
-      const fallbackLink = meta?.fallbackUrl
-        ? `<div class="small-note"><a class="web-link-btn" href="${esc(meta.fallbackUrl)}" target="_blank" rel="noreferrer">${t("officialOnDutyService", "Service officiel de garde")}</a></div>`
+      const officialUrl = meta?.fallbackUrl || guard[urlField] || "";
+      const fallbackLink = officialUrl
+        ? `<div class="small-note"><a class="web-link-btn" href="${esc(officialUrl)}" target="_blank" rel="noreferrer">${t("officialOnDutyService", "Service officiel de garde")}</a></div>`
         : "";
       const liveNote = liveOnDutyLoading
         ? `<span class="guard-loading">${t("onDutyLoading", "recherche en cours...")}</span>`
@@ -629,9 +631,11 @@
         "pharmacy-guard",
         "pharmacyGuardNumber",
         "pharmacyNote",
-        "Service officiel pharmacie de garde.",
+        "Le site officiel des pharmacies de garde est gratuit.",
         "pharmacyGuardCurrent",
-        guard.pharmacyNumber || "3237"
+        "pharmacyNumber",
+        "pharmacyUrl",
+        "3237"
       );
 
       const vet = document.getElementById("veterinary-guard");
@@ -640,10 +644,20 @@
         "veterinary-guard",
         "veterinaryGuardNumber",
         "veterinaryNote",
-        "Urgences veterinaires nationales.",
+        "Appelez votre veterinaire habituel ou une clinique d'urgence.",
         "veterinaryGuardCurrent",
-        guard.veterinaryNumber || "3115"
+        "veterinaryNumber",
+        "veterinaryUrl",
+        "3115"
       );
+    }
+
+    function onDutyCityName() {
+      const record = currentCityRecord?.record || {};
+      if (record.city) return String(record.city).trim();
+      const raw = String((window.CLQ_CITY && window.CLQ_CITY.name) || "").trim();
+      const cleaned = raw.replace(/[_-]?ot$/i, "").replace(/_/g, " ").trim();
+      return cleaned || "Mons";
     }
 
     function buildOnDutyQuery() {
@@ -654,8 +668,9 @@
       }
       const record = currentCityRecord?.record || {};
       if (record.country) params.set("country", record.country);
-      if (record.city) params.set("city", record.city);
-      const postal = (window.CLQ_CITY && window.CLQ_CITY.postalCode) || record.postalCode || "";
+      const city = onDutyCityName();
+      if (city) params.set("city", city);
+      const postal = (window.CLQ_CITY && window.CLQ_CITY.postalCode) || record.postalCode || "7000";
       if (postal) params.set("postalCode", postal);
       params.set("_", String(Date.now()));
       return params;
