@@ -417,7 +417,7 @@
     
     .guide-arrow-1 {
         left: 52px;
-        top: 50%;
+        top: 38%;
         bottom: auto;
         transform: translateY(-50%);
     }
@@ -776,12 +776,17 @@
 
     .ui-rail--left {
       left: 6px;
-      top: 50%;
       transform: translateY(-50%);
       display: flex;
       flex-direction: row;
       align-items: center;
       gap: 8px;
+    }
+    .ui-rail--left-audio {
+      top: 38%;
+    }
+    .ui-rail--left-travel {
+      top: 68%;
     }
     .ui-rail--left .ui-rail-panel {
       position: absolute;
@@ -797,7 +802,7 @@
     .ui-rail--left.is-open .ui-rail-panel button {
       transform: translateX(0) scale(1);
     }
-    #ui-rail-left #audio-controls-fixed {
+    #ui-rail-left-audio #audio-controls-fixed {
       display: flex;
       flex-direction: column;
       gap: 8px;
@@ -808,7 +813,7 @@
       margin: 0;
       max-width: none;
     }
-    #ui-rail-left #audio-controls-fixed button {
+    #ui-rail-left-audio #audio-controls-fixed button {
       background: #c8102e;
       color: #fff;
       width: 46px;
@@ -820,17 +825,6 @@
       font-size: 15px;
       margin: 0;
       border-radius: 12px;
-    }
-    .ui-rail-split {
-      width: 36px;
-      height: 2px;
-      background: rgba(184, 134, 11, 0.7);
-      margin: 2px 0;
-      opacity: 0;
-      transition: opacity 0.16s ease 0.12s;
-    }
-    .ui-rail.is-open .ui-rail-split {
-      opacity: 1;
     }
 
     .ui-rail--right {
@@ -891,16 +885,16 @@
       border: 2px solid #d9a400;
       color: #1a1a1a;
     }
-    #ui-rail-left #audio-btn {
+    #ui-rail-left-audio #audio-btn {
       animation: pulseGlow 2s ease-in-out infinite;
     }
     .ui-rail:not(.is-open) #audio-btn {
       animation: none;
     }
-    #ui-rail-left-toggle {
+    #ui-rail-left-audio-toggle {
       animation: pulseGlow 2s ease-in-out infinite;
     }
-    #ui-rail-left.is-open #ui-rail-left-toggle {
+    #ui-rail-left-audio.is-open #ui-rail-left-audio-toggle {
       animation: none;
     }
 
@@ -971,24 +965,29 @@
     </div>
   </main>
 
-  <nav id="ui-rail-left" class="ui-rail ui-rail--left" aria-label="Commandes audio et transport">
-    <button type="button" class="ui-rail-toggle" id="ui-rail-left-toggle" aria-expanded="false" title="Audio et déplacements">▶</button>
-    <div class="ui-rail-panel" id="ui-rail-left-panel">
-      <button id="audio-btn" style="--i:0" title="Play">🎧</button>
+  <nav id="ui-rail-left-audio" class="ui-rail ui-rail--left ui-rail--left-audio" aria-label="Commandes audio">
+    <button type="button" class="ui-rail-toggle" id="ui-rail-left-audio-toggle" data-closed-icon="🎧" aria-expanded="false" title="Audio">🎧</button>
+    <div class="ui-rail-panel" id="ui-rail-left-audio-panel">
+      <button id="audio-btn" style="--i:0" title="Play">▶️</button>
       <div id="audio-controls-fixed">
         <button id="pause-btn" style="--i:1" title="Pause">⏯️</button>
         <button id="stop-btn" style="--i:2" title="Stop">⏹️</button>
         <button id="restart-btn" style="--i:3" title="Recommencer">🔁</button>
       </div>
-      <div class="ui-rail-split" aria-hidden="true"></div>
-      <button id="home-btn" style="--i:4" title="Réinitialiser">🏠</button>
-      <button id="transit-btn" class="footer-btn" style="--i:5" title="Train/Tram/Bus">🚋</button>
-      <button id="uber-btn" class="footer-btn" style="--i:6" data-translate="transit_open_uber" title="Uber">Uber</button>
+    </div>
+  </nav>
+
+  <nav id="ui-rail-left-travel" class="ui-rail ui-rail--left ui-rail--left-travel" aria-label="Réinitialiser et déplacements">
+    <button type="button" class="ui-rail-toggle" id="ui-rail-left-travel-toggle" data-closed-icon="🚋" aria-expanded="false" title="Réinitialiser et déplacements">🚋</button>
+    <div class="ui-rail-panel" id="ui-rail-left-travel-panel">
+      <button id="home-btn" style="--i:0" title="Réinitialiser">🏠</button>
+      <button id="transit-btn" class="footer-btn" style="--i:1" title="Train/Tram/Bus">🚋</button>
+      <button id="uber-btn" class="footer-btn" style="--i:2" data-translate="transit_open_uber" title="Uber">Uber</button>
     </div>
   </nav>
 
   <nav id="ui-rail-right" class="ui-rail ui-rail--right" aria-label="Exploration">
-    <button type="button" class="ui-rail-toggle" id="ui-rail-right-toggle" aria-expanded="false" title="POI, Culture, Doudou">◀</button>
+    <button type="button" class="ui-rail-toggle" id="ui-rail-right-toggle" data-closed-icon="◀" aria-expanded="false" title="POI, Culture, Doudou">◀</button>
     <div class="ui-rail-panel" id="ui-rail-right-panel">
       <button id="poi-interest-btn" style="--i:0" title="Points d'intérêt">📍</button>
       <button id="culture-btn" style="--i:1" title="Culture montoise">🎭</button>
@@ -999,7 +998,7 @@
   </nav>
 
   <nav id="ui-rail-bottom" class="ui-rail ui-rail--bottom" aria-label="Aide et urgences">
-    <button type="button" class="ui-rail-toggle" id="ui-rail-bottom-toggle" aria-expanded="false" title="Aide et urgences">▲</button>
+    <button type="button" class="ui-rail-toggle" id="ui-rail-bottom-toggle" data-closed-icon="▲" aria-expanded="false" title="Aide et urgences">▲</button>
     <div class="ui-rail-panel" id="ui-rail-bottom-panel">
       <button id="instructions-btn" class="small-btn" style="--i:0" title="Aide">❓ Aide</button>
       <button id="emergency-btn" class="footer-btn" style="--i:1" title="Urgences">🚨 Urgences</button>
@@ -1074,17 +1073,18 @@ window.addEventListener("load", function () {
 <script>
 (function initUiRails() {
   const rails = Array.from(document.querySelectorAll('.ui-rail'));
-  const toggleGlyph = { left: ['▶', '✕'], right: ['◀', '✕'], bottom: ['▲', '✕'] };
+
+  function setToggleGlyph(rail, open) {
+    const toggle = rail.querySelector('.ui-rail-toggle');
+    if (!toggle) return;
+    toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+    toggle.textContent = open ? '✕' : (toggle.dataset.closedIcon || '▶');
+  }
 
   function closeRail(rail) {
     if (!rail) return;
     rail.classList.remove('is-open');
-    const toggle = rail.querySelector('.ui-rail-toggle');
-    if (!toggle) return;
-    toggle.setAttribute('aria-expanded', 'false');
-    if (rail.classList.contains('ui-rail--left')) toggle.textContent = toggleGlyph.left[0];
-    else if (rail.classList.contains('ui-rail--right')) toggle.textContent = toggleGlyph.right[0];
-    else toggle.textContent = toggleGlyph.bottom[0];
+    setToggleGlyph(rail, false);
   }
 
   function closeAll(except) {
@@ -1101,10 +1101,7 @@ window.addEventListener("load", function () {
       const willOpen = !rail.classList.contains('is-open');
       if (willOpen) closeAll(rail);
       rail.classList.toggle('is-open', willOpen);
-      toggle.setAttribute('aria-expanded', willOpen ? 'true' : 'false');
-      if (rail.classList.contains('ui-rail--left')) toggle.textContent = toggleGlyph.left[willOpen ? 1 : 0];
-      else if (rail.classList.contains('ui-rail--right')) toggle.textContent = toggleGlyph.right[willOpen ? 1 : 0];
-      else toggle.textContent = toggleGlyph.bottom[willOpen ? 1 : 0];
+      setToggleGlyph(rail, willOpen);
     });
   });
 

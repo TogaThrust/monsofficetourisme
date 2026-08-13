@@ -158,8 +158,9 @@
       // Sur Netlify le site est nommé "clq-bruxelles"
       // Le backend semble attendre le slug complet "bruxelles".
       if (host.includes('brux') || host.includes('bxl')) return 'bruxelles';
+      if (host.includes('officetourisme') || host.includes('mons_ot') || host.includes('mons-ot')) return 'mons_ot';
       if (host.includes('mons')) return 'mons';
-      return 'mons';
+      return 'mons_ot';
     }
     
     
