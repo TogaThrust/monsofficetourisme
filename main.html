@@ -416,8 +416,10 @@
     }
     
     .guide-arrow-1 {
-        bottom: 120px;
-        left: 20px;
+        left: 52px;
+        top: 50%;
+        bottom: auto;
+        transform: translateY(-50%);
     }
     
     .guide-arrow-2 {
@@ -495,8 +497,9 @@
     
     /* Adaptation de la ligne d'info pour occuper toute la largeur disponible */
     #location-bar {
-        width: calc(100% - 60px);
-        margin-right: 60px;
+        width: calc(100% - 110px);
+        margin-left: 48px;
+        margin-right: 62px;
         padding-right: 10px;
         box-sizing: border-box;
         display: flex;
@@ -546,8 +549,9 @@
       }
       
       #location-bar {
-        width: calc(100% - 60px);
-        margin-right: 60px;
+        width: calc(100% - 110px);
+        margin-left: 48px;
+        margin-right: 62px;
         padding-right: 10px;
         box-sizing: border-box;
       }
@@ -664,9 +668,267 @@
         max-height: 25px;
       }
     }
+
+    /* ===== Prototype menus encastrés (colonnes + ligne basse) ===== */
+    body.clq-ot-shell {
+      display: flex;
+      flex-direction: column;
+      height: 100dvh;
+      overflow: hidden;
+    }
+    body.clq-ot-shell header.main-header {
+      flex: 0 0 auto;
+    }
+    body.clq-ot-shell > main {
+      flex: 1 1 auto;
+      min-height: 0;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    body.clq-ot-shell #main-content {
+      flex: 1 1 auto;
+      height: auto;
+      min-height: 0;
+      margin: 6px 10px;
+    }
+    body.clq-ot-shell #info-section {
+      flex: 0 0 auto;
+      padding: 2px 10px 8px;
+    }
+    body.clq-ot-shell #main-footer {
+      display: none !important;
+    }
+
+    .ui-rail {
+      position: fixed;
+      z-index: 1400;
+      pointer-events: none;
+    }
+    .ui-rail-toggle,
+    .ui-rail-panel button {
+      pointer-events: auto;
+    }
+    .ui-rail-toggle {
+      width: 38px;
+      height: 38px;
+      border: 2px solid #b8860b;
+      border-radius: 50%;
+      background: #c8102e;
+      color: #fff;
+      font-size: 16px;
+      line-height: 1;
+      cursor: pointer;
+      box-shadow: 0 3px 10px rgba(0,0,0,0.28);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0;
+      font-family: 'MedievalSharp', Arial, serif;
+    }
+    .ui-rail-toggle[aria-expanded="true"] {
+      background: #4b2e05;
+      border-color: #ffd700;
+    }
+
+    .ui-rail-panel {
+      display: flex;
+      gap: 8px;
+      pointer-events: none;
+    }
+    .ui-rail.is-open .ui-rail-panel {
+      pointer-events: auto;
+    }
+    .ui-rail-panel button {
+      opacity: 0;
+      transform: scale(0.72);
+      pointer-events: none;
+      transition: opacity 0.16s ease, transform 0.16s ease;
+      transition-delay: 0s;
+      width: 46px;
+      min-width: 46px;
+      height: 46px;
+      border: none;
+      border-radius: 12px;
+      background: #c8102e;
+      color: #fff;
+      font-size: 15px;
+      cursor: pointer;
+      box-shadow: 0 3px 10px rgba(0,0,0,0.25);
+      padding: 0 4px;
+      font-family: 'MedievalSharp', Arial, serif;
+      max-width: none;
+      margin: 0;
+    }
+    .ui-rail.is-open .ui-rail-panel button {
+      opacity: 1;
+      transform: scale(1);
+      pointer-events: auto;
+      transition-delay: calc(var(--i, 0) * 45ms);
+    }
+    .ui-rail-panel button:hover {
+      background: #a00020;
+      transform: scale(1.06);
+    }
+    .ui-rail-panel button:disabled {
+      animation: none !important;
+    }
+
+    .ui-rail--left {
+      left: 6px;
+      top: 50%;
+      transform: translateY(-50%);
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      gap: 8px;
+    }
+    .ui-rail--left .ui-rail-panel {
+      position: absolute;
+      left: 46px;
+      top: 50%;
+      transform: translateY(-50%);
+      flex-direction: column;
+      align-items: flex-start;
+    }
+    .ui-rail--left .ui-rail-panel button {
+      transform: translateX(-14px) scale(0.72);
+    }
+    .ui-rail--left.is-open .ui-rail-panel button {
+      transform: translateX(0) scale(1);
+    }
+    #ui-rail-left #audio-controls-fixed {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      background: none;
+      border: none;
+      border-radius: 0;
+      padding: 0;
+      margin: 0;
+      max-width: none;
+    }
+    #ui-rail-left #audio-controls-fixed button {
+      background: #c8102e;
+      color: #fff;
+      width: 46px;
+      min-width: 46px;
+      max-width: 46px;
+      height: 46px;
+      min-height: 46px;
+      max-height: 46px;
+      font-size: 15px;
+      margin: 0;
+      border-radius: 12px;
+    }
+    .ui-rail-split {
+      width: 36px;
+      height: 2px;
+      background: rgba(184, 134, 11, 0.7);
+      margin: 2px 0;
+      opacity: 0;
+      transition: opacity 0.16s ease 0.12s;
+    }
+    .ui-rail.is-open .ui-rail-split {
+      opacity: 1;
+    }
+
+    .ui-rail--right {
+      right: 6px;
+      top: 72%;
+      transform: translateY(-50%);
+      display: flex;
+      flex-direction: row-reverse;
+      align-items: center;
+      gap: 8px;
+    }
+    .ui-rail--right .ui-rail-panel {
+      position: absolute;
+      right: 46px;
+      top: 50%;
+      transform: translateY(-50%);
+      flex-direction: column;
+      align-items: flex-end;
+    }
+    .ui-rail--right .ui-rail-panel button {
+      transform: translateX(14px) scale(0.72);
+    }
+    .ui-rail--right.is-open .ui-rail-panel button {
+      transform: translateX(0) scale(1);
+    }
+
+    .ui-rail--bottom {
+      left: 50%;
+      bottom: calc(8px + env(safe-area-inset-bottom, 0px));
+      transform: translateX(-50%);
+      display: flex;
+      flex-direction: column-reverse;
+      align-items: center;
+      gap: 8px;
+    }
+    .ui-rail--bottom .ui-rail-panel {
+      position: absolute;
+      bottom: 46px;
+      left: 50%;
+      transform: translateX(-50%);
+      flex-direction: row;
+      align-items: center;
+    }
+    .ui-rail--bottom .ui-rail-panel button {
+      min-width: 72px;
+      width: auto;
+      padding: 0 10px;
+      font-size: 13px;
+      transform: translateY(12px) scale(0.72);
+    }
+    .ui-rail--bottom.is-open .ui-rail-panel button {
+      transform: translateY(0) scale(1);
+    }
+
+    #ui-rail-right #emergency-btn,
+    #ui-rail-bottom #emergency-btn {
+      background-color: #fff6bf;
+      border: 2px solid #d9a400;
+      color: #1a1a1a;
+    }
+    #ui-rail-left #audio-btn {
+      animation: pulseGlow 2s ease-in-out infinite;
+    }
+    .ui-rail:not(.is-open) #audio-btn {
+      animation: none;
+    }
+    #ui-rail-left-toggle {
+      animation: pulseGlow 2s ease-in-out infinite;
+    }
+    #ui-rail-left.is-open #ui-rail-left-toggle {
+      animation: none;
+    }
+
+    @media screen and (max-width: 480px) {
+      body.clq-ot-shell #main-content {
+        flex-direction: column;
+        height: auto;
+        min-height: 0;
+      }
+      .ui-rail-toggle {
+        width: 34px;
+        height: 34px;
+        font-size: 14px;
+      }
+      .ui-rail-panel button {
+        width: 42px;
+        min-width: 42px;
+        height: 42px;
+        font-size: 13px;
+      }
+      .ui-rail--bottom .ui-rail-panel button {
+        min-width: 64px;
+        font-size: 12px;
+      }
+    }
   </style>
 </head>
-<body>
+<body class="clq-ot-shell">
 
   <!-- Pas de redirection PWA sur main.html - c'est une page normale de l'application -->
 
@@ -709,28 +971,45 @@
     </div>
   </main>
 
-  <footer id="main-footer">
-    <button id="audio-btn">🎧</button>
-    <div id="audio-controls-fixed">
-      <button id="pause-btn">⏯️</button>
-      <button id="stop-btn">⏹️</button>
-      <button id="restart-btn">🔁</button>
+  <nav id="ui-rail-left" class="ui-rail ui-rail--left" aria-label="Commandes audio et transport">
+    <button type="button" class="ui-rail-toggle" id="ui-rail-left-toggle" aria-expanded="false" title="Audio et déplacements">▶</button>
+    <div class="ui-rail-panel" id="ui-rail-left-panel">
+      <button id="audio-btn" style="--i:0" title="Play">🎧</button>
+      <div id="audio-controls-fixed">
+        <button id="pause-btn" style="--i:1" title="Pause">⏯️</button>
+        <button id="stop-btn" style="--i:2" title="Stop">⏹️</button>
+        <button id="restart-btn" style="--i:3" title="Recommencer">🔁</button>
+      </div>
+      <div class="ui-rail-split" aria-hidden="true"></div>
+      <button id="home-btn" style="--i:4" title="Réinitialiser">🏠</button>
+      <button id="transit-btn" class="footer-btn" style="--i:5" title="Train/Tram/Bus">🚋</button>
+      <button id="uber-btn" class="footer-btn" style="--i:6" data-translate="transit_open_uber" title="Uber">Uber</button>
     </div>
-    <button id="home-btn">🏠</button>
-    <button id="transit-btn" class="footer-btn" title="Train/Tram/Bus">🚋</button>
-    <button id="uber-btn" class="footer-btn" data-translate="transit_open_uber">Uber</button>
-    <button id="culture-btn" title="Culture montoise">🎭</button>
-    <button id="quiz-resume-btn" class="footer-btn" style="display: none;" data-translate="quiz_footer_btn" title="Quiz">Quiz</button>
-    <button id="doudou-btn" data-translate="doudou_song">🎶 Doudou</button>
-    <button id="selfie-btn" style="display: none;" title="Prendre un selfie avec Saint Georges">📸 Selfie</button>
-    <button id="instructions-btn" class="small-btn" title="Instructions">❓</button>
-    <button id="emergency-btn" class="footer-btn" title="Secours">🚨</button>
-  </footer>
+  </nav>
+
+  <nav id="ui-rail-right" class="ui-rail ui-rail--right" aria-label="Exploration">
+    <button type="button" class="ui-rail-toggle" id="ui-rail-right-toggle" aria-expanded="false" title="POI, Culture, Doudou">◀</button>
+    <div class="ui-rail-panel" id="ui-rail-right-panel">
+      <button id="poi-interest-btn" style="--i:0" title="Points d'intérêt">📍</button>
+      <button id="culture-btn" style="--i:1" title="Culture montoise">🎭</button>
+      <button id="doudou-btn" style="--i:2" data-translate="doudou_song" title="Doudou">🎶</button>
+      <button id="quiz-resume-btn" class="footer-btn" style="--i:3; display: none;" data-translate="quiz_footer_btn" title="Quiz">Quiz</button>
+      <button id="selfie-btn" style="--i:4; display: none;" title="Prendre un selfie avec Saint Georges">📸</button>
+    </div>
+  </nav>
+
+  <nav id="ui-rail-bottom" class="ui-rail ui-rail--bottom" aria-label="Aide et urgences">
+    <button type="button" class="ui-rail-toggle" id="ui-rail-bottom-toggle" aria-expanded="false" title="Aide et urgences">▲</button>
+    <div class="ui-rail-panel" id="ui-rail-bottom-panel">
+      <button id="instructions-btn" class="small-btn" style="--i:0" title="Aide">❓ Aide</button>
+      <button id="emergency-btn" class="footer-btn" style="--i:1" title="Urgences">🚨 Urgences</button>
+    </div>
+  </nav>
   
   <!-- Flèches de guidage pour le premier point -->
   <div id="guide-arrow-1" class="guide-arrow guide-arrow-1" style="display: none;">
     <span class="arrow-number">1</span>
-    <span class="arrow-symbol">⬇️</span>
+    <span class="arrow-symbol">⬅️</span>
   </div>
   
   <div id="guide-arrow-2" class="guide-arrow guide-arrow-2" style="display: none;">
@@ -793,9 +1072,53 @@ window.addEventListener("load", function () {
 </script>
 
 <script>
-document.getElementById('instructions-btn').addEventListener('click', function() {
-  window.location.href = 'instructions.html';
-});
+(function initUiRails() {
+  const rails = Array.from(document.querySelectorAll('.ui-rail'));
+  const toggleGlyph = { left: ['▶', '✕'], right: ['◀', '✕'], bottom: ['▲', '✕'] };
+
+  function closeRail(rail) {
+    if (!rail) return;
+    rail.classList.remove('is-open');
+    const toggle = rail.querySelector('.ui-rail-toggle');
+    if (!toggle) return;
+    toggle.setAttribute('aria-expanded', 'false');
+    if (rail.classList.contains('ui-rail--left')) toggle.textContent = toggleGlyph.left[0];
+    else if (rail.classList.contains('ui-rail--right')) toggle.textContent = toggleGlyph.right[0];
+    else toggle.textContent = toggleGlyph.bottom[0];
+  }
+
+  function closeAll(except) {
+    rails.forEach((rail) => {
+      if (rail !== except) closeRail(rail);
+    });
+  }
+
+  rails.forEach((rail) => {
+    const toggle = rail.querySelector('.ui-rail-toggle');
+    if (!toggle) return;
+    toggle.addEventListener('click', (e) => {
+      e.stopPropagation();
+      const willOpen = !rail.classList.contains('is-open');
+      if (willOpen) closeAll(rail);
+      rail.classList.toggle('is-open', willOpen);
+      toggle.setAttribute('aria-expanded', willOpen ? 'true' : 'false');
+      if (rail.classList.contains('ui-rail--left')) toggle.textContent = toggleGlyph.left[willOpen ? 1 : 0];
+      else if (rail.classList.contains('ui-rail--right')) toggle.textContent = toggleGlyph.right[willOpen ? 1 : 0];
+      else toggle.textContent = toggleGlyph.bottom[willOpen ? 1 : 0];
+    });
+  });
+
+  document.addEventListener('click', (e) => {
+    if (!e.target.closest('.ui-rail')) closeAll();
+  });
+})();
+
+const instructionsBtn = document.getElementById('instructions-btn');
+if (instructionsBtn) {
+  instructionsBtn.addEventListener('click', function() {
+    window.location.href = 'instructions.html';
+  });
+}
 
 // Ajouter le sélecteur de langue
 document.addEventListener('DOMContentLoaded', function() {
