@@ -1,1 +1,1 @@
-window.CLQ_CITY={storagePrefix:"mons",name:"Mons",slug:"mons",postalCode:"7000",packageName:"clq-mons"};
+window.CLQ_CITY={storagePrefix:"mons_ot",name:"Mons_OT",slug:"mons_ot",postalCode:"7000",packageName:"clq-mons-ot"};

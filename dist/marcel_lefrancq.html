@@ -1,13 +1,15 @@
-<!DOCTYPE html><html lang="fr"><head><meta charset="utf-8"><meta content="width=device-width,initial-scale=1" name="viewport"><title>Marcel Lefrancq</title><link href="style.css" rel="stylesheet"><script src="translations/translationManager.js"></script><script src="translations/languageSelector.js"></script><script src="js/access-guard.js" defer="defer"></script><style>body{font-family:sans-serif;padding:20px;line-height:1.6}h1{text-align:center}.content{max-width:720px;margin:auto;white-space:pre-wrap}#return-btn{display:block;margin:40px auto;padding:10px 20px;font-size:1rem}.language-selector{position:fixed;top:20px;right:20px;z-index:1000;background:#fff;border:2px solid #b8860b;border-radius:10px;padding:10px;box-shadow:0 4px 8px rgba(0,0,0,.2)}.language-selector select{padding:5px;border:1px solid #ccc;border-radius:5px;font-size:14px}.back-button{position:fixed;top:50%;right:10px;transform:translateY(-50%);z-index:1000;padding:10px 14px;background-color:#c8102e;color:#fff;font-size:16px;border:none;border-radius:8px 0 0 8px;cursor:pointer;box-shadow:0 0 6px rgba(0,0,0,.2)}</style></head><body><header class="main-header"><div class="header-content"><img src="images/icone titre0.png" alt="Icone 0" class="header-img left"><h1 id="mainTitle">CityLoop Quest Mons - La Chevauchée de Saint Georges</h1><img src="images/icone titre1.png" alt="Icone 1" class="header-img right"></div></header><div class="content"><h1 id="pageTitle">Marcel Lefrancq (1916-1974)<br>L'oeil du Cobra</h1><br><br><img src="images/lefrancq.jpg" alt="Lefrancq" class="portrait"><br><br><h1 id="source">(texte tiré du site Mons.be)</h1><div id="contentContainer"></div></div><button class="back-button" id="back-button">BACK</button><script>// Charger les traductions
+<!DOCTYPE html><html lang="fr"><head><meta charset="utf-8"><meta content="width=device-width,initial-scale=1" name="viewport"><title>Marcel Lefrancq</title><link href="style.css" rel="stylesheet"><script src="js/access-control.js"></script><script src="translations/translationManager.js"></script><script src="translations/languageSelector.js"></script><script src="js/access-guard.js" defer="defer"></script><style>body{font-family:sans-serif;padding:20px;line-height:1.6}h1{text-align:center}.content{max-width:720px;margin:auto}#contentContainer h2,#contentContainer p,.content h2,.content p{color:#333!important;font-family:sans-serif!important}#contentContainer p{font-size:16px!important;line-height:1.6!important;white-space:pre-wrap}#return-btn{display:block;margin:40px auto;padding:10px 20px;font-size:1rem}.language-selector{position:fixed;top:20px;right:20px;z-index:1000;background:#fff;border:2px solid #b8860b;border-radius:10px;padding:10px;box-shadow:0 4px 8px rgba(0,0,0,.2)}.language-selector select{padding:5px;border:1px solid #ccc;border-radius:5px;font-size:14px}.back-button{position:fixed;top:50%;right:10px;transform:translateY(-50%);z-index:1000;padding:10px 14px;background-color:#c8102e;color:#fff;font-size:16px;border:none;border-radius:8px 0 0 8px;cursor:pointer;box-shadow:0 0 6px rgba(0,0,0,.2)}</style></head><body><header class="main-header"><div class="header-content"><img src="images/icone titre0.png" alt="Icone 0" class="header-img left"><h1 id="mainTitle">CityLoop Quest Mons - La Chevauchée de Saint Georges</h1><img src="images/icone titre1.png" alt="Icone 1" class="header-img right"></div></header><div class="content"><h1 id="pageTitle">Marcel Lefrancq (1916-1974)<br>L'oeil du Cobra</h1><br><br><img src="images/lefrancq.jpg" alt="Lefrancq" class="portrait"><br><br><h1 id="source">(texte tiré du site Mons.be)</h1><div id="contentContainer"></div></div><button class="back-button" id="back-button">BACK</button><script>// Charger les traductions
 let translations = {};
 
 async function loadTranslations() {
     try {
-        const response = await fetch('translations/translations_marcel_lefrancq.json');
+        const response = await fetch('translations/translations_marcel_lefrancq.json?v=' + Date.now());
         translations = await response.json();
         applyTranslations();
     } catch (error) {
         console.error('Erreur lors du chargement des traductions:', error);
+        document.getElementById('contentContainer').innerHTML =
+            '<p style="color:#c8102e;font-weight:bold;">Impossible de charger le texte de Marcel Lefrancq.</p>';
     }
 }
 
@@ -31,18 +33,21 @@ function initLanguageSelector() {
 }
 
 function generateContent(content) {
+    if (!content) return '';
     return `
-        <p>${content.intro}</p>
-        <h2>${content.surrealistesTitle}</h2>
-        <p>${content.surrealistesContent}</p>
-        <h2>${content.engageTitle}</h2>
-        <p>${content.engageContent}</p>
+        <p>${content.intro || ''}</p>
+        <h2>${content.surrealistesTitle || ''}</h2>
+        <p>${content.surrealistesContent || ''}</p>
+        <h2>${content.engageTitle || ''}</h2>
+        <p>${content.engageContent || ''}</p>
     `;
 }
 
 function applyTranslations() {
-    const lang = localStorage.getItem('selectedLanguage') || 'fr';
+    const rawLang = localStorage.getItem('selectedLanguage') || 'fr';
+    const lang = rawLang === 'zh' ? 'cn' : rawLang === 'ja' ? 'jp' : rawLang;
     const t = translations[lang] || translations.fr;
+    if (!t) return;
     
     // Mettre à jour le sélecteur de langue personnalisé
     if (window.languageSelector) {
@@ -67,7 +72,9 @@ function applyTranslations() {
 
 // Initialiser les traductions au chargement de la page
 document.addEventListener('DOMContentLoaded', function() {
-    // Forcer la mise à jour du cache en ajoutant un timestamp
+    if (window.checkPageAccess && !window.checkPageAccess('marcel_lefrancq.html')) {
+        return;
+    }
     
     loadTranslations();
     initLanguageSelector();

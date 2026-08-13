@@ -1718,6 +1718,13 @@ function showPointImageDisplay(options) {
     }
 }
 
+function setAudioPlayPauseIcon(playing) {
+    const btn = document.getElementById('audio-btn');
+    if (!btn) return;
+    btn.textContent = playing ? '⏸️' : '▶️';
+    btn.title = playing ? 'Pause' : 'Play';
+}
+
 function stopAllAudio() {
     if (currentAudio) {
         maybeFinalizePoiAudioOnStop(currentAudio);
@@ -1726,6 +1733,7 @@ function stopAllAudio() {
         currentAudio = null;
     }
     poiDescriptionAudioIndex = null;
+    setAudioPlayPauseIcon(false);
 
     // Vider le texte mémorisé
     currentDescriptionText = "";
@@ -1851,9 +1859,9 @@ function playExclusiveAudio(src, textFile = null, imageElement = null, originalI
         if (textContainer) {
             textContainer.scrollTop = 0;
         }
-        const pauseBtnEl = document.getElementById('pause-btn');
-        if (pauseBtnEl) {
-            pauseBtnEl.textContent = '▶️';
+        const pauseBtnEl = document.getElementById('audio-btn');
+        if (pauseBtnEl && pauseBtnEl.textContent === '⏸️') {
+            setAudioPlayPauseIcon(false);
         }
         if (src !== 'Chansons/air_doudou.mp3') {
             showPointImageDisplay();
@@ -1912,11 +1920,7 @@ function playExclusiveAudio(src, textFile = null, imageElement = null, originalI
     bindPoiDescriptionStartedUnlock(currentAudio);
     currentAudio.play();
 
-    // Mettre à jour le bouton play/pause
-    const pauseBtn = document.getElementById('pause-btn');
-    if (pauseBtn) {
-        pauseBtn.textContent = '⏸️';
-    }
+    setAudioPlayPauseIcon(true);
 
     if (src === "Chansons/air_doudou.mp3" && textContainer) {
         isDoudouSongPlaying = true;
@@ -4854,7 +4858,7 @@ document.addEventListener("DOMContentLoaded", () => {
     audioBtn = document.getElementById('audio-btn');
     poiInterestBtn = document.getElementById('poi-interest-btn');
     doudouBtn = document.getElementById('doudou-btn');
-    pauseBtn = document.getElementById('pause-btn');
+    pauseBtn = document.getElementById('audio-btn');
     stopBtn = document.getElementById('stop-btn');
     restartBtn = document.getElementById('restart-btn');
     quizResumeBtn = document.getElementById('quiz-resume-btn');
@@ -4994,11 +4998,45 @@ document.addEventListener("DOMContentLoaded", () => {
 
     if (audioBtn) {
     audioBtn.addEventListener('click', () => {
-        // Masquer la flèche de guidage 1 si elle est visible
         if (typeof hideGuideArrow1 === 'function') {
             hideGuideArrow1();
         }
-        
+
+        const currentLang = window.translationManager ? window.translationManager.getCurrentLanguage() : 'fr';
+
+        // Lecture en cours → pause (le bouton play devient pause, et inversement)
+        if (currentAudio && !currentAudio.paused) {
+            currentAudio.pause();
+            setAudioPlayPauseIcon(false);
+            return;
+        }
+
+        // Audio en pause → reprise
+        if (currentAudio && currentAudio.paused) {
+            if (lastAudioLang !== null && lastAudioLang !== currentLang) {
+                const current = filteredLocations[currentIndex];
+                const imageElement = document.getElementById("point-image");
+                if (current && current.audio) {
+                    const textFile = `data/${normalizeFileName(current.name)}.txt`;
+                    playExclusiveAudio(current.audio, textFile, imageElement);
+                    unlockPointNavigationAfterAudioStart(currentIndex);
+                    lastAudioLang = currentLang;
+                }
+                setAudioPlayPauseIcon(true);
+            } else {
+                if (lastAudioLang === null) {
+                    lastAudioLang = currentLang;
+                }
+                currentAudio.play();
+                setAudioPlayPauseIcon(true);
+                if (currentDescriptionText) {
+                    showPointTextDisplay(currentDescriptionText);
+                }
+            }
+            return;
+        }
+
+        // Aucun audio chargé → lancer la description du point
         stopAllAudio();
         const current = getLocationAtIndex(currentIndex);
         const imageElement = document.getElementById("point-image");
@@ -5006,13 +5044,10 @@ document.addEventListener("DOMContentLoaded", () => {
             const textFile = `data/${normalizeFileName(current.name)}.txt`;
             playExclusiveAudio(current.audio, textFile, imageElement);
             unlockPointNavigationAfterAudioStart(currentIndex);
-            // Initialiser lastAudioLang lors du premier lancement
             if (lastAudioLang === null) {
-                const currentLang = window.translationManager ? window.translationManager.getCurrentLanguage() : 'fr';
                 lastAudioLang = currentLang;
             }
         } else {
-            // Si le point n'a pas d'audio (rare), on évite de bloquer le "suivant"
             unlockPointNavigationAfterAudioStart(currentIndex);
             markAudioCompletedForIndex(currentIndex);
             poiDescriptionAudioIndex = null;
@@ -5045,60 +5080,12 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 
-    if (pauseBtn) {
-    pauseBtn.addEventListener('click', () => {
-        const currentLang = window.translationManager ? window.translationManager.getCurrentLanguage() : 'fr';
-        if (currentAudio) {
-            if (!currentAudio.paused) {
-                currentAudio.pause();
-                pauseBtn.textContent = "▶️";
-            } else {
-                // Si la langue a changé depuis la dernière lecture, relancer l'audio dans la nouvelle langue
-                // MAIS seulement si lastAudioLang est déjà défini (pas null lors du premier play)
-                if (lastAudioLang !== null && lastAudioLang !== currentLang) {
-                    const current = filteredLocations[currentIndex];
-                    const imageElement = document.getElementById("point-image");
-                    if(current && current.audio) {
-                        const textFile = `data/${normalizeFileName(current.name)}.txt`;
-                        playExclusiveAudio(current.audio, textFile, imageElement);
-                        unlockPointNavigationAfterAudioStart(currentIndex);
-                        lastAudioLang = currentLang;
-                    }
-                    pauseBtn.textContent = "⏸️";
-                } else {
-                    // Si lastAudioLang est null, c'est la première fois, on initialise et on reprend simplement
-                    if (lastAudioLang === null) {
-                        lastAudioLang = currentLang;
-                    }
-                    currentAudio.play();
-                    pauseBtn.textContent = "⏸️";
-                    // Restaurer le texte (description ou chanson) si on reprend la lecture
-                    if (currentDescriptionText) {
-                        showPointTextDisplay(currentDescriptionText);
-                    }
-                }
-            }
-        } else {
-            // Si aucun audio n'est chargé (après stop ou fin), relancer la description et l'audio dans la langue courante
-            const current = filteredLocations[currentIndex];
-            const imageElement = document.getElementById("point-image");
-            if(current && current.audio) {
-                const textFile = `data/${normalizeFileName(current.name)}.txt`;
-                playExclusiveAudio(current.audio, textFile, imageElement);
-                unlockPointNavigationAfterAudioStart(currentIndex);
-                lastAudioLang = currentLang;
-            }
-            pauseBtn.textContent = "⏸️";
-        }
-    });
-    }
-
     if (stopBtn) {
     stopBtn.addEventListener('click', () => {
         if (currentAudio) {
             currentAudio.pause();
             currentAudio.currentTime = 0;
-            pauseBtn.textContent = "▶️";
+            setAudioPlayPauseIcon(false);
 
             // Revert UI to image view, mais SANS vider le texte mémorisé
             const textContainer = document.getElementById("media-display");
@@ -5114,7 +5101,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if (currentAudio) {
             currentAudio.currentTime = 0;
             currentAudio.play();
-            pauseBtn.textContent = "⏸️";
+            setAudioPlayPauseIcon(true);
 
             // Ré-afficher le texte (description ou chanson) au redémarrage
             if (currentDescriptionText) {

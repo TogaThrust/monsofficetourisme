@@ -61,7 +61,7 @@ function showHistoireDoudouPopup() {
 }
 
 // 🔓 Parler montois : toujours accessible
-function showParlerMontoisPopup() {
+async function showParlerMontoisPopup() {
   if (document.getElementById('popup-parler-montois')) return;
 
   const overlay = document.createElement('div');
@@ -96,20 +96,39 @@ function showParlerMontoisPopup() {
   Object.assign(yt.style, { borderRadius:'12px', marginBottom:'20px' });
   box.appendChild(yt);
 
-  const currentLang = window.translationManager?.getCurrentLanguage?.() || 'fr';
-  const phrases = window.translationManager?.translations?.[currentLang]?.phrases || [];
+  overlay.appendChild(box);
+  document.body.appendChild(overlay);
+
+  let montoisPack = {};
+  const currentLangRaw = window.translationManager?.getCurrentLanguage?.()
+    || localStorage.getItem('selectedLanguage')
+    || 'fr';
+  const langKey = currentLangRaw === 'zh' ? 'cn' : currentLangRaw === 'ja' ? 'jp' : currentLangRaw;
+  try {
+    const res = await fetch('translations/translations_montois.json');
+    if (res.ok) {
+      const data = await res.json();
+      montoisPack = data[langKey] || data.fr || {};
+    }
+  } catch (e) {
+    console.warn('Traduction montoise indisponible', e);
+  }
+
+  const phrases = montoisPack.phrases || [];
   const labels = {
-    lang: window.translationManager?.translate('montois_in_french') || 'En français :',
-    mt:   window.translationManager?.translate('montois_in_montois') || 'En montois :'
+    lang: montoisPack.montois_in_french
+      || 'En français :',
+    mt: montoisPack.montois_in_montois
+      || 'En montois :'
   };
-  const key = ['fr','en','nl','de','it','es','pl','cn','ar','jp'].includes(currentLang) ? currentLang : 'fr';
+  const key = ['fr','en','nl','de','it','es','pl','cn','ar','jp'].includes(langKey) ? langKey : 'fr';
 
   if (phrases.length) {
     phrases.forEach(p => {
       const langDiv = document.createElement('div');
       langDiv.style.fontWeight = 'bold';
       langDiv.style.marginTop  = '10px';
-      langDiv.textContent = `${labels.lang} "${p[key]}"`;
+      langDiv.textContent = `${labels.lang} "${p[key] || p.fr || ''}"`;
       box.appendChild(langDiv);
 
       const mt = document.createElement('div');
@@ -134,14 +153,14 @@ function showParlerMontoisPopup() {
     marginTop:'20px', paddingTop:'20px', borderTop:'2px solid #b8860b',
     textAlign:'center', fontSize:'0.9em', fontStyle:'italic', color:'#333'
   });
-  const txt = window.translationManager?.translate('montois_more_info')
+  const txt = montoisPack.montois_more_info
+    || (window.translationManager?.translate('montois_more_info') !== 'montois_more_info'
+        ? window.translationManager.translate('montois_more_info')
+        : null)
     || "Visitez le site https://www.beljike.be/mots-courants-wallon-lexique/ pour plus d'informations et de phrases en Montois";
   more.innerHTML = txt.replace('https://www.beljike.be/mots-courants-wallon-lexique/',
     '<a href="https://www.beljike.be/mots-courants-wallon-lexique/" target="_blank" style="color:#b8860b;font-weight:bold;text-decoration:underline;">https://www.beljike.be/mots-courants-wallon-lexique/</a>');
   box.appendChild(more);
-
-  overlay.appendChild(box);
-  document.body.appendChild(overlay);
 }
 
 // 🔓 Infos / Contacts : toujours accessible
