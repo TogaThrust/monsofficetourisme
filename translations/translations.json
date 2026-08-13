@@ -178,7 +178,8 @@
     "quiz_resume_confirm_title": "Reprendre le quiz ?",
     "quiz_resume_confirm_message": "Voulez-vous reprendre le quiz à ce point ? Les questions seront proposées pour ce lieu et les points suivants.",
     "quiz_stop_confirm_title": "Arrêter le quiz ?",
-    "quiz_stop_confirm_message": "Voulez-vous arrêter le quiz maintenant ?"
+    "quiz_stop_confirm_message": "Voulez-vous arrêter le quiz maintenant ?",
+    "photo_listen_hint": "Cliquez pour écouter"
   },
   "en": {
     "ios_warning_message": "WARNING: THIS APPLICATION IS ONLY FULLY COMPATIBLE ON APPLE IOS. ITS BEHAVIOUR IS NOT GUARANTEED ON ANDROID OR OTHER PLATFORMS. AN ANDROID VERSION IS UNDER DEVELOPMENT.",
@@ -359,7 +360,8 @@
     "quiz_resume_confirm_title": "Resume the quiz?",
     "quiz_resume_confirm_message": "Do you want to resume the quiz from this point? Questions will be offered for this place and the following ones.",
     "quiz_stop_confirm_title": "Stop the quiz?",
-    "quiz_stop_confirm_message": "Do you want to stop the quiz now?"
+    "quiz_stop_confirm_message": "Do you want to stop the quiz now?",
+    "photo_listen_hint": "Tap to listen"
   },
   "nl": {
     "ios_warning_message": "LET OP: DEZE APPLICATIE IS ALLEEN VOLLEDIG COMPATIBEL OP APPLE IOS. HET GEDRAG WORDT NIET GEGARANDEERD OP ANDROID OF ANDERE PLATFORMEN. EEN ANDROID-VERSIE IS IN ONTWIKKELING.",
@@ -536,7 +538,8 @@
     "quiz_resume_confirm_title": "Quiz hervatten?",
     "quiz_resume_confirm_message": "Wilt u de quiz vanaf dit punt hervatten? Vragen worden voorgesteld voor deze plaats en de volgende.",
     "quiz_stop_confirm_title": "Quiz stoppen?",
-    "quiz_stop_confirm_message": "Wilt u de quiz nu stoppen?"
+    "quiz_stop_confirm_message": "Wilt u de quiz nu stoppen?",
+    "photo_listen_hint": "Tik om te luisteren"
   },
   "de": {
     "ios_warning_message": "ACHTUNG: DIESE ANWENDUNG IST NUR AUF APPLE IOS VOLL KOMPATIBEL. IHR VERHALTEN AUF ANDROID ODER ANDEREN PLATTFORMEN IST NICHT GARANTIERT. EINE ANDROID-VERSION BEFINDET SICH IN ENTWICKLUNG.",
@@ -713,7 +716,8 @@
     "quiz_resume_confirm_title": "Quiz fortsetzen?",
     "quiz_resume_confirm_message": "Möchten Sie das Quiz an diesem Punkt fortsetzen? Fragen werden für diesen Ort und die folgenden vorgeschlagen.",
     "quiz_stop_confirm_title": "Quiz beenden?",
-    "quiz_stop_confirm_message": "Möchten Sie das Quiz jetzt beenden?"
+    "quiz_stop_confirm_message": "Möchten Sie das Quiz jetzt beenden?",
+    "photo_listen_hint": "Tippen zum Hören"
   },
   "it": {
     "ios_warning_message": "ATTENZIONE: QUESTA APPLICAZIONE È PIENAMENTE COMPATIBILE SOLO SU PIATTAFORMA APPLE IOS. IL SUO COMPORTAMENTO NON È GARANTITO SU ANDROID O ALTRE PIATTAFORME. È IN SVILUPPO UNA VERSIONE ANDROID.",
@@ -890,7 +894,8 @@
     "quiz_resume_confirm_title": "Riprendere il quiz?",
     "quiz_resume_confirm_message": "Vuoi riprendere il quiz da questo punto? Le domande saranno proposte per questo luogo e i successivi.",
     "quiz_stop_confirm_title": "Fermare il quiz?",
-    "quiz_stop_confirm_message": "Vuoi fermare il quiz adesso?"
+    "quiz_stop_confirm_message": "Vuoi fermare il quiz adesso?",
+    "photo_listen_hint": "Tocca per ascoltare"
   },
   "es": {
     "ios_warning_message": "ATENCIÓN: ESTA APLICACIÓN SOLO ES TOTALMENTE COMPATIBLE EN PLATAFORMA APPLE IOS. SU COMPORTAMIENTO NO ESTÁ GARANTIZADO EN ANDROID U OTRAS PLATAFORMAS. SE ESTÁ DESARROLLANDO UNA VERSIÓN ANDROID.",
@@ -1067,7 +1072,8 @@
     "quiz_resume_confirm_title": "¿Reanudar el quiz?",
     "quiz_resume_confirm_message": "¿Quieres reanudar el quiz en este punto? Se propondrán preguntas para este lugar y los siguientes.",
     "quiz_stop_confirm_title": "¿Detener el quiz?",
-    "quiz_stop_confirm_message": "¿Quieres detener el quiz ahora?"
+    "quiz_stop_confirm_message": "¿Quieres detener el quiz ahora?",
+    "photo_listen_hint": "Pulsa para escuchar"
   },
   "pl": {
     "ios_warning_message": "UWAGA: TA APLIKACJA JEST W PEŁNI KOMPATYBILNA TYLKO Z PLATFORMĄ APPLE IOS. JEJ DZIAŁANIE NIE JEST GWARANTOWANE NA ANDROIDZIE ANI INNYCH PLATFORMACH. WERSJA NA ANDROIDA JEST W TRAKCIE OPRACOWYWANIA.",
@@ -1244,7 +1250,8 @@
     "quiz_resume_confirm_title": "Wznowić quiz?",
     "quiz_resume_confirm_message": "Czy chcesz wznowić quiz od tego punktu? Pytania będą proponowane dla tego miejsca i kolejnych.",
     "quiz_stop_confirm_title": "Zatrzymać quiz?",
-    "quiz_stop_confirm_message": "Czy chcesz teraz zatrzymać quiz?"
+    "quiz_stop_confirm_message": "Czy chcesz teraz zatrzymać quiz?",
+    "photo_listen_hint": "Dotknij, aby posłuchać"
   },
   "ar": {
     "ios_warning_message": "انتباه: هذا التطبيق متوافق بالكامل فقط على منصة APPLE IOS. لا نضمن سلوكه على ANDROID أو غيره من الأنظمة. يتم حالياً تطوير نسخة ANDROID.",
@@ -1421,7 +1428,8 @@
     "quiz_resume_confirm_title": "استئناف الاختبار؟",
     "quiz_resume_confirm_message": "هل تريد استئناف الاختبار من هذه النقطة؟ ستُطرح الأسئلة لهذا المكان والنقاط التالية.",
     "quiz_stop_confirm_title": "إيقاف الاختبار؟",
-    "quiz_stop_confirm_message": "هل تريد إيقاف الاختبار الآن؟"
+    "quiz_stop_confirm_message": "هل تريد إيقاف الاختبار الآن؟",
+    "photo_listen_hint": "انقر للاستماع"
   },
   "cn": {
     "ios_warning_message": "注意：本应用仅在 APPLE IOS 平台上完全兼容。在 ANDROID 或其他平台上的运行行为不作保证。ANDROID 版本正在开发中。",
@@ -1598,7 +1606,8 @@
     "quiz_resume_confirm_title": "继续测验？",
     "quiz_resume_confirm_message": "你想从这一点继续测验吗？将为此地点及后续地点提供问题。",
     "quiz_stop_confirm_title": "停止测验？",
-    "quiz_stop_confirm_message": "你现在要停止测验吗？"
+    "quiz_stop_confirm_message": "你现在要停止测验吗？",
+    "photo_listen_hint": "点击收听"
   },
   "jp": {
     "ios_warning_message": "注意：このアプリは APPLE IOS プラットフォームでのみ完全な互換性が保証されています。ANDROID やその他のプラットフォームでの動作は保証されません。現在 ANDROID 版を開発中です。",
@@ -1776,13 +1785,15 @@
     "quiz_resume_confirm_title": "クイズを再開しますか？",
     "quiz_resume_confirm_message": "この地点からクイズを再開しますか？この場所以降の地点で問題が出題されます。",
     "quiz_stop_confirm_title": "クイズを停止しますか？",
-    "quiz_stop_confirm_message": "今すぐクイズを停止しますか？"
+    "quiz_stop_confirm_message": "今すぐクイズを停止しますか？",
+    "photo_listen_hint": "タップして聴く"
   },
   "ja": {
     "quiz_resume_confirm_title": "クイズを再開しますか？",
     "quiz_resume_confirm_message": "この地点からクイズを再開しますか？この場所以降の地点で問題が出題されます。",
     "quiz_stop_confirm_title": "クイズを停止しますか？",
     "quiz_stop_confirm_message": "今すぐクイズを停止しますか？",
+    "photo_listen_hint": "タップして聴く",
     "buy_full_button": "7日間有効なライセンスを購入"
   },
   "zh": {
@@ -1790,6 +1801,7 @@
     "quiz_resume_confirm_message": "你想从这一点继续测验吗？将为此地点及后续地点提供问题。",
     "quiz_stop_confirm_title": "停止测验？",
     "quiz_stop_confirm_message": "你现在要停止测验吗？",
+    "photo_listen_hint": "点击收听",
     "buy_full_button": "购买有效期 7 天的许可证"
   }
 }

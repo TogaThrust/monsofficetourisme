@@ -196,6 +196,39 @@ function markAudioHeardForIndex(idx) {
 function unlockPointNavigationAfterAudioStart(idx) {
     markAudioHeardForIndex(idx);
     syncNextButtonState();
+    syncPhotoListenPrompt();
+}
+
+function shouldShowPhotoListenPrompt() {
+    if (localStorage.getItem('museumMode') === 'true') return false;
+    if (isTourFreeRoam()) return false;
+    if (isPointUnlockedForNext(currentIndex)) return false;
+    return !!getLocationAtIndex(currentIndex);
+}
+
+function syncPhotoListenPrompt() {
+    const btn = document.getElementById('photo-listen-btn');
+    if (!btn) return;
+    const label = btn.querySelector('.photo-listen-label');
+    if (label) {
+        label.textContent = translateClq('photo_listen_hint', 'Cliquez pour écouter');
+    }
+    if (shouldShowPhotoListenPrompt()) btn.removeAttribute('hidden');
+    else btn.setAttribute('hidden', '');
+}
+
+function startCurrentPointAudioFromPhoto(event) {
+    if (event) {
+        event.preventDefault();
+        event.stopPropagation();
+    }
+    const btn = document.getElementById('photo-listen-btn');
+    if (btn) btn.setAttribute('hidden', '');
+    if (typeof window.clqOpenUiRail === 'function') {
+        window.clqOpenUiRail('ui-rail-left-audio');
+    }
+    const playBtn = document.getElementById('audio-btn');
+    if (playBtn) playBtn.click();
 }
 
 function ensureNextButtonRef() {
@@ -300,6 +333,7 @@ function syncNextButtonState() {
             nextButton.style.opacity = '';
             nextButton.style.cursor = '';
         }
+        syncPhotoListenPrompt();
     } catch (err) {
         console.warn('syncNextButtonState:', err);
         if (nextButton) nextButton.disabled = true;
@@ -5063,6 +5097,12 @@ document.addEventListener("DOMContentLoaded", () => {
     });
     }
 
+    const photoListenBtn = document.getElementById('photo-listen-btn');
+    if (photoListenBtn) {
+        photoListenBtn.addEventListener('click', startCurrentPointAudioFromPhoto);
+    }
+    syncPhotoListenPrompt();
+
     if (poiInterestBtn) {
         poiInterestBtn.addEventListener('click', () => {
             stopAllAudio();
@@ -5484,6 +5524,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         // Recharger les descriptions pour la nouvelle langue
         loadDescriptions();
+        syncPhotoListenPrompt();
         
         // Mettre à jour le splash screen si il est visible (seulement sur index.html)
         const isOnIndexPage = window.location.pathname.endsWith('index.html') || 
