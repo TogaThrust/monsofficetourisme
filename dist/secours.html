@@ -341,9 +341,14 @@
       return null;
     }
 
-    function forceTargetStorageKey() {
-      const prefix = (window.CLQ_CITY && window.CLQ_CITY.storagePrefix) || "{{CITY_SLUG}}";
-      return prefix + "_forceTarget";
+    function forceTargetStorageKeys() {
+      const keys = ["mons_forceTarget"];
+      const prefix = (window.CLQ_CITY && window.CLQ_CITY.storagePrefix) || "";
+      if (prefix) {
+        const prefixed = prefix + "_forceTarget";
+        if (!keys.includes(prefixed)) keys.push(prefixed);
+      }
+      return keys;
     }
 
     function scrollToSection(id) {
@@ -504,7 +509,8 @@
       yes.style.cssText = "background:#1f9d55;color:#fff;border:none;border-radius:8px;padding:9px 16px;cursor:pointer;min-width:120px;width:auto;display:inline-flex;justify-content:center;";
       no.style.cssText = "background:#c8102e;color:#fff;border:none;border-radius:8px;padding:9px 16px;cursor:pointer;min-width:120px;width:auto;display:inline-flex;justify-content:center;";
       yes.onclick = () => {
-        localStorage.setItem(forceTargetStorageKey(), JSON.stringify(payload));
+        const raw = JSON.stringify(payload);
+        forceTargetStorageKeys().forEach((key) => localStorage.setItem(key, raw));
         const target = (window.clqDevMode && window.clqDevMode.append)
           ? window.clqDevMode.append("main.html")
           : "main.html";

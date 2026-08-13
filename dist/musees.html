@@ -304,14 +304,17 @@ function showMuseumConfirmPopup(name, lat, lng, audio, image, museumInfo) {
   btnYes.style.cursor = 'pointer';
   btnYes.addEventListener('click', () => {
     document.body.removeChild(overlay);
-    localStorage.setItem("mons_forceTarget", JSON.stringify({ 
+    const payload = JSON.stringify({ 
       name, 
       lat, 
       lng, 
       audio, 
       image,
       info: museumInfo
-    }));
+    });
+    localStorage.setItem("mons_forceTarget", payload);
+    const prefix = (window.CLQ_CITY && window.CLQ_CITY.storagePrefix) || "mons_ot";
+    localStorage.setItem(prefix + "_forceTarget", payload);
     window.location.href = "main.html";
   });
 

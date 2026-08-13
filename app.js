@@ -3646,7 +3646,11 @@ function initializeMainLogic() {
         enableTourExplorationMode();
     }
     
-    const forceTarget = localStorage.getItem("mons_forceTarget");
+    const forceTargetPrefix = (window.CLQ_CITY && window.CLQ_CITY.storagePrefix)
+      ? window.CLQ_CITY.storagePrefix + "_forceTarget"
+      : "";
+    const forceTarget = localStorage.getItem("mons_forceTarget")
+      || (forceTargetPrefix ? localStorage.getItem(forceTargetPrefix) : null);
 
     if (forceTarget) {
         try {
