@@ -67,6 +67,15 @@
         },
         {
           "category": "hospital",
+          "name": "CHU HELORA – Hôpital de Mons, site Constantinople",
+          "address": "Avenue Baudouin de Constantinople 5, 7000 Mons",
+          "phone": "+32 65385511",
+          "sourceUrl": "https://www.helora.be/hopitaux/hopital-de-mons-site-constantinople",
+          "lat": 50.4544723,
+          "lng": 3.9599816
+        },
+        {
+          "category": "hospital",
           "name": "CHU HELORA – site Warquignies",
           "address": "Rue des Chaufours 27, 7300 Boussu",
           "phone": "+32 65414141",
@@ -552,6 +561,15 @@
         },
         {
           "category": "hospital",
+          "name": "CHU HELORA – Hôpital de Mons, site Constantinople",
+          "address": "Avenue Baudouin de Constantinople 5, 7000 Mons",
+          "phone": "+32 65385511",
+          "sourceUrl": "https://www.helora.be/hopitaux/hopital-de-mons-site-constantinople",
+          "lat": 50.4544723,
+          "lng": 3.9599816
+        },
+        {
+          "category": "hospital",
           "name": "CHU HELORA – site Warquignies",
           "address": "Rue des Chaufours 27, 7300 Boussu",
           "phone": "+32 65414141",
@@ -1034,6 +1052,15 @@
           "sourceUrl": "https://www.helora.be/hopitaux/contactez-nous",
           "lat": 50.45775097791848,
           "lng": 3.9619252299250225
+        },
+        {
+          "category": "hospital",
+          "name": "CHU HELORA – Hôpital de Mons, site Constantinople",
+          "address": "Avenue Baudouin de Constantinople 5, 7000 Mons",
+          "phone": "+32 65385511",
+          "sourceUrl": "https://www.helora.be/hopitaux/hopital-de-mons-site-constantinople",
+          "lat": 50.4544723,
+          "lng": 3.9599816
         },
         {
           "category": "hospital",
