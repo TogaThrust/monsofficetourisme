@@ -1045,11 +1045,30 @@
 
  <!-- Service Worker -->
 <script>
-  if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('service-worker.js')
-      .then(() => console.log('Service Worker enregistré.'))
-      .catch(error => console.log('Service Worker échec :', error));
-  }
+  (function () {
+    var EPOCH = 'ot-sw-v9';
+    try {
+      if (localStorage.getItem('clq_sw_epoch') !== EPOCH) {
+        localStorage.setItem('clq_sw_epoch', EPOCH);
+        if (window.caches) {
+          caches.keys().then(function (keys) {
+            keys.forEach(function (k) { caches.delete(k); });
+          });
+        }
+      }
+    } catch (e) {}
+    if ('serviceWorker' in navigator) {
+      var refreshing = false;
+      navigator.serviceWorker.addEventListener('controllerchange', function () {
+        if (refreshing) return;
+        refreshing = true;
+        window.location.reload();
+      });
+      navigator.serviceWorker.register('service-worker.js')
+        .then(function () { console.log('Service Worker enregistré.'); })
+        .catch(function (error) { console.log('Service Worker échec :', error); });
+    }
+  })();
 </script>
 
 <!-- Scripts de ton projet -->
@@ -1059,7 +1078,8 @@
 <script src="circuit.js"></script>
 <script src="circuit-data.js"></script>
 <script src="js/main-geo-prompt.js?v=6"></script>
-<script defer src="app.js?v=17"></script>
+<script src="version.js"></script>
+<script defer src="app.js?v=18"></script>
 
 <script>
 window.addEventListener("load", function () {

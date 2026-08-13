@@ -5064,7 +5064,7 @@ document.addEventListener("DOMContentLoaded", () => {
             stopAllAudio();
             markGuidancePauseForLeave();
             snapshotTourStateForExternalPage();
-            window.location.href = "poi-experiment.html";
+            window.location.href = "poi-experiment.html?v=" + (window.APP_VERSION || "ot");
         });
     }
 

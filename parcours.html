@@ -741,6 +741,23 @@
 
     // PWA
     if ('serviceWorker' in navigator) {
+      var swEpoch = 'ot-sw-v9';
+      try {
+        if (localStorage.getItem('clq_sw_epoch') !== swEpoch) {
+          localStorage.setItem('clq_sw_epoch', swEpoch);
+          if (window.caches) {
+            caches.keys().then(function (keys) {
+              keys.forEach(function (k) { caches.delete(k); });
+            });
+          }
+        }
+      } catch (e) {}
+      var refreshing = false;
+      navigator.serviceWorker.addEventListener('controllerchange', function () {
+        if (refreshing) return;
+        refreshing = true;
+        window.location.reload();
+      });
       navigator.serviceWorker.register('service-worker.js')
         .then(() => console.log('Service Worker enregistré sur parcours.html'))
         .catch(error => console.log('Service Worker échec sur parcours.html:', error));

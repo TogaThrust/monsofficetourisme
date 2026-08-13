@@ -1,24 +1,62 @@
-const PRECACHE = 'precache-v8'; // v8: main sans badge + quiz stop
-const RUNTIME  = 'runtime-v7';
+const PRECACHE = 'precache-v9-ot';
+const RUNTIME = 'runtime-v9-ot';
 
 const PRECACHE_URLS = [
-  './',                       // ok si tu sers à la racine du dossier
+  './',
   './index.html',
   './language-selection.html',
   './style.css',
-  './app.js',
-  './secure-content.js',
-  './content-loader.js',
   './manifest.json',
-  // './images/logo.png',      // ❌ supprimé car 404 chez toi
 ];
+
+function isHtmlJsonOrCode(url) {
+  const p = url.pathname.toLowerCase();
+  return (
+    p.endsWith('.html') ||
+    p.endsWith('.json') ||
+    p.endsWith('.js') ||
+    p.endsWith('.css') ||
+    p.endsWith('/') ||
+    p === ''
+  );
+}
+
+function isStaticAsset(url) {
+  return /\.(png|jpe?g|gif|svg|webp|ico|mp3|wav|ogg|woff2?|ttf|mp4)$/i.test(url.pathname);
+}
+
+async function networkFirst(req) {
+  try {
+    const res = await fetch(req, { cache: 'no-store' });
+    if (res && res.ok && res.type === 'basic') {
+      const runtime = await caches.open(RUNTIME);
+      runtime.put(req, res.clone());
+    }
+    return res;
+  } catch (e) {
+    const cached = await caches.match(req);
+    if (cached) return cached;
+    throw e;
+  }
+}
+
+async function cacheFirst(req) {
+  const cached = await caches.match(req);
+  if (cached && cached.ok) return cached;
+  const res = await fetch(req);
+  if (res && res.ok && res.type === 'basic') {
+    const runtime = await caches.open(RUNTIME);
+    runtime.put(req, res.clone());
+  }
+  return res;
+}
 
 self.addEventListener('install', (event) => {
   self.skipWaiting();
   event.waitUntil((async () => {
     const cache = await caches.open(PRECACHE);
     const results = await Promise.allSettled(
-      PRECACHE_URLS.map(url => cache.add(new Request(url, { cache: 'reload' })))
+      PRECACHE_URLS.map((url) => cache.add(new Request(url, { cache: 'reload' })))
     );
     results.forEach((r, i) => {
       if (r.status === 'rejected') console.warn('[SW] precache fail:', PRECACHE_URLS[i]);
@@ -27,10 +65,10 @@ self.addEventListener('install', (event) => {
 });
 
 self.addEventListener('activate', (event) => {
-  clients.claim();
   event.waitUntil((async () => {
     const keys = await caches.keys();
-    await Promise.all(keys.filter(k => k !== PRECACHE && k !== RUNTIME).map(k => caches.delete(k)));
+    await Promise.all(keys.filter((k) => k !== PRECACHE && k !== RUNTIME).map((k) => caches.delete(k)));
+    await self.clients.claim();
   })());
 });
 
@@ -38,51 +76,33 @@ self.addEventListener('fetch', (event) => {
   const req = event.request;
   const url = new URL(req.url);
 
-  // Ne pas intercepter l'API
+  if (req.method !== 'GET') return;
+  if (url.origin !== self.location.origin) return;
+  if (url.pathname.endsWith('/service-worker.js')) return;
+  if (url.pathname.startsWith('/.netlify/')) return;
   if (url.origin === 'http://localhost:8080') return;
 
-  // CRITIQUE : Ne JAMAIS mettre en cache language-selection.html pour éviter les problèmes Android
   if (url.pathname.includes('language-selection.html')) {
-    // Toujours aller chercher la version fraîche, jamais depuis le cache
-    event.respondWith(fetch(req).catch(() => {
-      // En cas d'erreur réseau, ne pas utiliser le cache
+    event.respondWith(fetch(req, { cache: 'no-store' }).catch(() => {
       return new Response('Page non disponible', { status: 503 });
     }));
     return;
   }
 
-  // Force network-first sur checkout.js (iOS peut sinon servir une ancienne version du fichier)
-  if (req.method === 'GET' && url.origin === self.location.origin && url.pathname.endsWith('checkout.js')) {
-    event.respondWith((async () => {
-      try {
-        const res = await fetch(req, { cache: 'reload' });
-        const runtime = await caches.open(RUNTIME);
-        runtime.put(req, res.clone());
-        return res;
-      } catch (e) {
-        const cached = await caches.match(req);
-        if (cached) return cached;
-        throw e;
-      }
-    })());
+  const mustBeFresh =
+    req.mode === 'navigate' ||
+    req.cache === 'reload' ||
+    isHtmlJsonOrCode(url);
+
+  if (mustBeFresh) {
+    event.respondWith(networkFirst(req));
     return;
   }
 
-  if (req.method === 'GET' && url.origin === self.location.origin) {
-    event.respondWith((async () => {
-      const cached = await caches.match(req);
-      if (cached) return cached;
-
-      try {
-        const res = await fetch(req);
-        const runtime = await caches.open(RUNTIME);
-        runtime.put(req, res.clone());
-        return res;
-      } catch (e) {
-        // Optionnel: renvoyer une page offline si tu en as une
-        // return caches.match('./offline.html');
-        throw e;
-      }
-    })());
+  if (isStaticAsset(url)) {
+    event.respondWith(cacheFirst(req));
+    return;
   }
+
+  event.respondWith(networkFirst(req));
 });
