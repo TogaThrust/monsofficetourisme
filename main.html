@@ -914,9 +914,10 @@
       align-items: center;
       justify-content: center;
       gap: 6px;
-      padding: 14px 18px;
-      min-width: 132px;
-      max-width: 82%;
+      width: max-content !important;
+      min-width: 0 !important;
+      max-width: none !important;
+      padding: 10px 12px !important;
       border: 2px solid rgba(255, 255, 255, 0.72);
       border-radius: 18px;
       background: rgba(18, 18, 18, 0.42);
@@ -927,6 +928,12 @@
       -webkit-backdrop-filter: blur(3px);
       box-shadow: 0 4px 18px rgba(0, 0, 0, 0.28);
       animation: photoListenPulse 2.2s ease-in-out infinite;
+      box-sizing: border-box;
+      font-size: 0.82rem;
+    }
+    .photo-listen-btn:hover {
+      background: rgba(18, 18, 18, 0.52);
+      transform: translate(-50%, -50%) scale(1.03);
     }
     .photo-listen-btn[hidden] {
       display: none !important;
@@ -941,6 +948,7 @@
       font-weight: 700;
       letter-spacing: 0.01em;
       text-align: center;
+      white-space: nowrap;
       text-shadow: 0 1px 3px rgba(0, 0, 0, 0.7);
     }
     @keyframes photoListenPulse {
