@@ -1,1 +1,701 @@
-class PWAInstaller{constructor(){this.deferredPrompt=null,this.installPrompt=null,this.isInstalled=!1,this.init()}init(){if(window.location.pathname.includes("index.html")||window.location.pathname.endsWith("/"))return;const n=/iPad|iPhone|iPod/.test(navigator.userAgent),t=/Safari/.test(navigator.userAgent)&&!/Chrome/.test(navigator.userAgent);this.isIOS=n&&t,this.isIOS,this.checkIfInstalled(),this.startInstallationMonitoring(),window.addEventListener("focus",()=>{this.checkIfInstalled()}),this.isIOS||window.addEventListener("beforeinstallprompt",n=>{n.preventDefault(),this.deferredPrompt=n,this.showInstallPrompt()}),window.addEventListener("appinstalled",n=>{this.isInstalled=!0,localStorage.setItem("pwa-installed","true"),this.hideInstallPrompt(),this.hideInstallButton(),this.showInstallationSuccess()}),window.matchMedia&&window.matchMedia("(display-mode: standalone)").addEventListener("change",n=>{this.isInstalled=n.matches,n.matches?(localStorage.setItem("pwa-installed","true"),this.hideInstallButton(),this.hideInstallPrompt()):(localStorage.removeItem("pwa-installed"),this.isInstalled=!1,this.showInstallButton(),this.deferredPrompt&&!this.isIOS&&this.showInstallPrompt())})}checkIfInstalled(){return window.matchMedia("(display-mode: standalone)").matches||!0===window.navigator.standalone?(this.isInstalled=!0,this.hideInstallButton(),void localStorage.setItem("pwa-installed","true")):("true"===localStorage.getItem("pwa-installed")&&localStorage.removeItem("pwa-installed"),this.isInstalled=!1,void this.showInstallButton())}showInstallButton(){const n=document.getElementById("pwa-install-btn");n&&(n.style.display="inline-block"),!this.deferredPrompt||this.isInstalled||this.isIOS||this.showInstallPrompt()}hideInstallButton(){const n=document.getElementById("pwa-install-btn");n&&(n.style.display="none")}showInstallPrompt(){this.installPrompt||this.createInstallPrompt(),this.installPrompt&&(this.installPrompt.style.display="block",this.installPrompt.style.animation="slideUp 0.5s ease-out")}createInstallPrompt(){this.installPrompt=document.createElement("div"),this.installPrompt.className="pwa-install-prompt",this.installPrompt.innerHTML='\n            <div class="pwa-install-content">\n                <div class="pwa-install-icon"><img src="images/partager_ios.png" alt="Installer" style="height:2em;width:auto;"></div>\n                <div class="pwa-install-text">\n                    <h3><span data-translate="install_title">Installer l\'application</span></h3>\n                    <p><span data-translate="install_message">Installez CityLoop Quest Mons pour une meilleure expérience</span></p>\n                </div>\n                <div class="pwa-install-buttons">\n                    <button id="pwa-prompt-install-btn" class="pwa-install-btn"><span data-translate="install_button">Installer l\'application et redémarrer à partir de l\'app installée - cliquer ici</span></button>\n                    <button id="pwa-dismiss-btn" class="pwa-dismiss-btn">Plus tard</button>\n                </div>\n            </div>\n        ',this.addInstallPromptStyles(),this.installPrompt.querySelector("#pwa-prompt-install-btn").addEventListener("click",()=>{this.installApp()}),this.installPrompt.querySelector("#pwa-dismiss-btn").addEventListener("click",()=>{this.hideInstallPrompt()}),document.body.appendChild(this.installPrompt),window.translationManager&&"function"==typeof window.translationManager.applyTranslations&&window.translationManager.applyTranslations()}startInstallationMonitoring(){setInterval(()=>{const n=window.matchMedia("(display-mode: standalone)").matches,t=!0===window.navigator.standalone;this.isInstalled!==(n||t)&&this.checkIfInstalled()},5e3)}addInstallPromptStyles(){const n=document.createElement("style");n.textContent="\n            .pwa-install-prompt {\n                position: fixed;\n                bottom: 20px;\n                left: 50%;\n                transform: translateX(-50%);\n                background: linear-gradient(135deg, #b30000, #8b0000);\n                color: white;\n                padding: 20px;\n                border-radius: 15px;\n                box-shadow: 0 8px 32px rgba(0,0,0,0.3);\n                z-index: 10000;\n                display: none;\n                font-family: Arial, sans-serif;\n                max-width: 90vw;\n                width: 350px;\n                border: 2px solid #fff;\n            }\n\n            .pwa-install-content {\n                display: flex;\n                align-items: center;\n                gap: 15px;\n            }\n\n            .pwa-install-icon {\n                font-size: 2em;\n                flex-shrink: 0;\n            }\n\n            .pwa-install-text {\n                flex: 1;\n            }\n\n            .pwa-install-text h3 {\n                margin: 0 0 5px 0;\n                font-size: 1.1em;\n            }\n\n            .pwa-install-text p {\n                margin: 0;\n                font-size: 0.9em;\n                opacity: 0.9;\n            }\n\n            .pwa-install-buttons {\n                display: flex;\n                gap: 10px;\n                margin-top: 15px;\n            }\n\n            .pwa-install-btn, .pwa-dismiss-btn {\n                padding: 12px 20px;\n                border: none;\n                border-radius: 8px;\n                cursor: pointer;\n                font-weight: bold;\n                transition: all 0.2s;\n                flex: 1;\n                min-width: 120px;\n            }\n\n            .pwa-install-btn {\n                background: #4CAF50;\n                color: white;\n                margin-right: 10px;\n                font-size: 0.9em;\n                line-height: 1.2;\n            }\n\n            .pwa-install-btn:hover {\n                background: #45a049;\n                transform: translateY(-2px);\n            }\n\n            .pwa-dismiss-btn {\n                background: #f8f9fa;\n                color: #666;\n                border: 1px solid #ddd;\n                font-size: 0.9em;\n            }\n\n            .pwa-dismiss-btn:hover {\n                background: #e9ecef;\n            }\n\n            @keyframes slideUp {\n                from {\n                    transform: translateX(-50%) translateY(100%);\n                    opacity: 0;\n                }\n                to {\n                    transform: translateX(-50%) translateY(0);\n                    opacity: 1;\n                }\n            }\n\n            @media (max-width: 480px) {\n                .pwa-install-prompt {\n                    bottom: 10px;\n                    left: 10px;\n                    right: 10px;\n                    transform: none;\n                    width: auto;\n                }\n            }\n        ",document.head.appendChild(n)}async installApp(){const n=/iPad|iPhone|iPod/.test(navigator.userAgent),t=/Safari/.test(navigator.userAgent)&&!/Chrome/.test(navigator.userAgent);if(n&&t)this.showIOSInstallInstructions();else if(this.deferredPrompt)try{this.deferredPrompt.prompt();const{outcome:n}=await this.deferredPrompt.userChoice;"accepted"===n&&(this.isInstalled=!0,localStorage.setItem("pwa-installed","true"),this.hideInstallPrompt(),this.showInstallationSuccess()),this.deferredPrompt=null}catch(n){console.error("🚀 Erreur lors de l'installation:",n)}else this.showManualInstallInstructions()}hideInstallPrompt(){this.installPrompt&&(this.installPrompt.style.display="none")}showInstallationSuccess(){const n=document.createElement("div");n.className="pwa-success-message",n.innerHTML='\n            <div class="pwa-success-content">\n                <div class="pwa-success-icon">✅</div>\n                <div class="pwa-success-text">\n                    <h3>Installation réussie !</h3>\n                    <p>L\'application a été installée avec succès.</p>\n                </div>\n            </div>\n        ';const t=document.createElement("style");t.textContent="\n            .pwa-success-message {\n                position: fixed;\n                top: 20px;\n                left: 50%;\n                transform: translateX(-50%);\n                background: #4CAF50;\n                color: white;\n                padding: 15px 20px;\n                border-radius: 10px;\n                box-shadow: 0 4px 20px rgba(0,0,0,0.3);\n                z-index: 10001;\n                font-family: Arial, sans-serif;\n                animation: slideDown 0.5s ease-out;\n            }\n\n            .pwa-success-content {\n                display: flex;\n                align-items: center;\n                gap: 10px;\n            }\n\n            .pwa-success-icon {\n                font-size: 1.5em;\n            }\n\n            @keyframes slideDown {\n                from {\n                    transform: translateX(-50%) translateY(-100%);\n                    opacity: 0;\n                }\n                to {\n                    transform: translateX(-50%) translateY(0);\n                    opacity: 1;\n                }\n            }\n        ",document.head.appendChild(t),document.body.appendChild(n),setTimeout(()=>{n.parentNode&&n.parentNode.removeChild(n)},3e3)}showManualInstallInstructions(){const n=document.createElement("div");n.className="pwa-manual-instructions",n.innerHTML='\n            <div class="pwa-manual-content">\n                <h3><img src="images/partager_ios.png" alt="Installer" style="height:1.3em;vertical-align:-0.2em;margin-right:5px;"> <span data-translate="install_title">Installation de l\'application</span></h3>\n                <p><span data-translate="install_intro">Pour installer CityLoop Quest Mons sur votre appareil :</span></p>\n                <div class="install-steps">\n                    <div class="step">\n                        <div class="step-icon">🔍</div>\n                        <div class="step-text">\n                            <strong>1. <span data-translate="step1">Trouvez l\'icône d\'installation ou confirmez l\'installation automatique</span></strong><br>\n                            <span class="browser-specific" id="browser-instructions">Chargement...</span>\n                        </div>\n                    </div>\n                    <div class="step">\n                        <div class="step-icon">👆</div>\n                        <div class="step-text">\n                            <strong>2. <span data-translate="step2">Appuyez sur "Installer" ou "Ajouter"</span></strong>\n                        </div>\n                    </div>\n                    <div class="step">\n                        <div class="step-icon">✅</div>\n                        <div class="step-text">\n                            <strong>3. <span data-translate="step3">Confirmez l\'installation</span></strong>\n                        </div>\n                    </div>\n                </div>\n                <div class="install-benefits">\n                    <h4><span data-translate="benefits_title">Avantages de l\'installation :</span></h4>\n                    <ul>\n                        <li><span data-translate="benefit1">🎯 Accès rapide depuis l\'écran d\'accueil</span></li>\n                        <li><span data-translate="benefit2">🚀 Performance optimisée</span></li>\n                        <li><span data-translate="benefit3">🔔 Notifications push (si activées)</span></li>\n                    </ul>\n                </div>\n            </div>\n        ';const t=document.createElement("style");t.textContent="\n            .pwa-manual-instructions {\n                position: fixed;\n                top: 50%;\n                left: 50%;\n                transform: translate(-50%, -50%);\n                background: white;\n                color: #333;\n                padding: 25px;\n                border-radius: 15px;\n                box-shadow: 0 12px 40px rgba(0,0,0,0.4);\n                z-index: 10002;\n                font-family: Arial, sans-serif;\n                max-width: 90vw;\n                width: 450px;\n                max-height: 80vh;\n                overflow-y: auto;\n            }\n\n            .pwa-manual-content h3 {\n                margin: 0 0 20px 0;\n                color: #b30000;\n                font-size: 1.3em;\n                text-align: center;\n            }\n\n            .install-steps {\n                margin: 20px 0;\n            }\n\n            .step {\n                display: flex;\n                align-items: flex-start;\n                gap: 15px;\n                margin: 15px 0;\n                padding: 10px;\n                background: #f8f9fa;\n                border-radius: 8px;\n            }\n\n            .step-icon {\n                font-size: 1.5em;\n                flex-shrink: 0;\n                margin-top: 2px;\n            }\n\n            .step-text {\n                flex: 1;\n                line-height: 1.4;\n            }\n\n            .browser-specific {\n                color: #666;\n                font-size: 0.9em;\n                margin-top: 5px;\n                display: block;\n            }\n\n            .install-benefits {\n                margin: 20px 0;\n                padding: 15px;\n                background: #e8f5e8;\n                border-radius: 8px;\n                border-left: 4px solid #4CAF50;\n            }\n\n            .install-benefits h4 {\n                margin: 0 0 10px 0;\n                color: #2e7d32;\n            }\n\n            .install-benefits ul {\n                margin: 10px 0;\n                padding-left: 20px;\n            }\n\n            .install-benefits li {\n                margin: 5px 0;\n                color: #555;\n            }\n\n            .pwa-manual-content button {\n                background: #b30000;\n                color: white;\n                border: none;\n                padding: 12px 24px;\n                border-radius: 8px;\n                cursor: pointer;\n                margin-top: 20px;\n                font-weight: bold;\n                font-size: 1.1em;\n                width: 100%;\n                transition: background 0.2s;\n            }\n\n            .pwa-manual-content button:hover {\n                background: #8b0000;\n            }\n        ",document.head.appendChild(t),document.body.appendChild(n),window.translationManager&&"function"==typeof window.translationManager.applyTranslations&&window.translationManager.applyTranslations(),this.updateBrowserInstructions()}showIOSInstallInstructions(){const n=document.createElement("div");n.className="pwa-manual-instructions ios-instructions",n.innerHTML='\n            <div class="pwa-manual-content">\n                <h3>🍎 <span data-translate="ios_title">Installation sur iPhone/iPad</span></h3>\n                <p><span data-translate="ios_intro">Pour installer CityLoop Quest Mons sur votre appareil iOS :</span></p>\n                <div class="install-steps">\n                    <div class="step">\n                        <div class="step-icon">📤</div>\n                        <div class="step-text">\n                            <strong>1. <span data-translate="ios_step1">Appuyez sur le bouton "Partager"</span></strong><br>\n                            <span class="ios-detail"><span data-translate="ios_step1_detail">Trouvez le bouton carré avec une flèche vers le haut dans la barre d\'outils Safari</span></span>\n                        </div>\n                    </div>\n                    <div class="step">\n                        <div class="step-icon">🏠</div>\n                        <div class="step-text">\n                            <strong>2. <span data-translate="ios_step2">Sélectionnez "Sur l\'écran d\'accueil"</span></strong><br>\n                            <span class="ios-detail"><span data-translate="ios_step2_detail">Faites défiler dans le menu et appuyez sur cette option</span></span>\n                        </div>\n                    </div>\n                    <div class="step">\n                        <div class="step-icon">➕</div>\n                        <div class="step-text">\n                            <strong>3. <span data-translate="ios_step3">Appuyez sur "Ajouter"</span></strong><br>\n                            <span class="ios-detail"><span data-translate="ios_step3_detail">Confirmez l\'ajout de l\'application</span></span>\n                        </div>\n                    </div>\n                </div>\n                <div class="ios-tips">\n                    <h4>💡 <span data-translate="ios_tips_title">Conseils pour iOS :</span></h4>\n                    <ul>\n                        <li><span data-translate="ios_tip1">L\'application apparaîtra sur votre écran d\'accueil</span></li>\n                        <li><span data-translate="ios_tip2">Vous pouvez la déplacer et organiser comme les autres apps</span></li>\n                        <li><span data-translate="ios_tip3">L\'application fonctionnera hors ligne</span></li>\n                    </ul>\n                </div>\n            </div>\n        ';const t=document.createElement("style");t.textContent="\n            .ios-instructions {\n                background: linear-gradient(135deg, #f8f9fa, #e9ecef);\n                border: 2px solid #007AFF;\n            }\n\n            .ios-instructions .pwa-manual-content h3 {\n                color: #007AFF;\n            }\n\n            .ios-detail {\n                color: #666;\n                font-size: 0.85em;\n                margin-top: 5px;\n                display: block;\n                font-style: italic;\n            }\n\n            .ios-tips {\n                margin: 20px 0;\n                padding: 15px;\n                background: #e3f2fd;\n                border-radius: 8px;\n                border-left: 4px solid #007AFF;\n            }\n\n            .ios-tips h4 {\n                margin: 0 0 10px 0;\n                color: #1565c0;\n            }\n\n            .ios-tips ul {\n                margin: 10px 0;\n                padding-left: 20px;\n            }\n\n            .ios-tips li {\n                margin: 5px 0;\n                color: #424242;\n            }\n        ",document.head.appendChild(t),document.body.appendChild(n),window.translationManager&&"function"==typeof window.translationManager.applyTranslations&&window.translationManager.applyTranslations()}updateBrowserInstructions(){const n=document.getElementById("browser-instructions");if(!n)return;const t=navigator.userAgent;let a="";a=t.includes("Chrome")||t.includes("Edg")?'Cherchez l\'icône <img src="images/partager_ios.png" alt="Installer" style="height:1.3em;vertical-align:-0.2em;"> ou "Installer" dans la barre d\'adresse (en haut à droite)':t.includes("Safari")&&t.includes("Mobile")?'Appuyez sur le bouton "Partager" (📤) puis "Sur l\'écran d\'accueil"':t.includes("Firefox")?'Cherchez l\'icône <img src="images/partager_ios.png" alt="Installer" style="height:1.3em;vertical-align:-0.2em;"> ou "Installer" dans la barre d\'adresse':t.includes("SamsungBrowser")?"Appuyez sur Menu (⋮) puis \"Ajouter à l'écran d'accueil\"":"Cherchez l'icône d'installation dans la barre d'adresse ou le menu du navigateur",n.textContent=a}}let pwaInstaller;document.addEventListener("DOMContentLoaded",()=>{pwaInstaller=new PWAInstaller}),window.PWAInstaller=PWAInstaller,window.showInstallPrompt=()=>{pwaInstaller&&pwaInstaller.showInstallPrompt()},window.showManualInstructions=()=>{pwaInstaller&&pwaInstaller.showManualInstallInstructions()};
+// pwa-installer.js - Gestion avancée de l'installation PWA
+
+class PWAInstaller {
+    constructor() {
+        this.deferredPrompt = null;
+        this.installPrompt = null;
+        this.isInstalled = false;
+        this.init();
+    }
+
+    init() {
+        // Ne PAS initialiser sur index.html (géré par le splashscreen)
+        if (window.location.pathname.includes('index.html') || window.location.pathname.endsWith('/')) {
+            return;
+        }
+        
+        
+        // Détecter iOS Safari
+        const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
+        const isSafari = /Safari/.test(navigator.userAgent) && !/Chrome/.test(navigator.userAgent);
+        this.isIOS = isIOS && isSafari;
+        
+        if (this.isIOS) {
+        }
+        
+        // Détecter si l'app est déjà installée
+        this.checkIfInstalled();
+        
+        // Vérification périodique de l'état d'installation
+        this.startInstallationMonitoring();
+        
+        // Vérifier l'état lors du focus de la page (retour depuis une autre app)
+        window.addEventListener('focus', () => {
+            this.checkIfInstalled();
+        });
+        
+        // Écouter l'événement beforeinstallprompt (non supporté sur iOS)
+        if (!this.isIOS) {
+            window.addEventListener('beforeinstallprompt', (e) => {
+                e.preventDefault();
+                this.deferredPrompt = e;
+                this.showInstallPrompt();
+            });
+        }
+
+        // Écouter l'événement appinstalled
+        window.addEventListener('appinstalled', (evt) => {
+            this.isInstalled = true;
+            localStorage.setItem('pwa-installed', 'true');
+            this.hideInstallPrompt();
+            this.hideInstallButton();
+            this.showInstallationSuccess();
+        });
+
+        // Écouter les changements de display-mode
+        if (window.matchMedia) {
+            const mediaQuery = window.matchMedia('(display-mode: standalone)');
+            mediaQuery.addEventListener('change', (e) => {
+                this.isInstalled = e.matches;
+                
+                if (e.matches) {
+                    // App installée ou lancée depuis l'icône
+                    localStorage.setItem('pwa-installed', 'true');
+                    this.hideInstallButton();
+                    this.hideInstallPrompt();
+                } else {
+                    // App désinstallée ou retour au navigateur
+                    localStorage.removeItem('pwa-installed');
+                    this.isInstalled = false;
+                    this.showInstallButton();
+                    
+                    // Vérifier si on peut proposer l'installation
+                    if (this.deferredPrompt && !this.isIOS) {
+                        this.showInstallPrompt();
+                    }
+                }
+            });
+        }
+    }
+
+    checkIfInstalled() {
+        // Vérifier si l'app est en mode standalone (méthode principale)
+        if (window.matchMedia('(display-mode: standalone)').matches) {
+            this.isInstalled = true;
+            this.hideInstallButton();
+            // Mettre à jour localStorage pour confirmer l'installation
+            localStorage.setItem('pwa-installed', 'true');
+            return;
+        }
+
+        // Vérifier si l'app est installée via d'autres méthodes (iOS)
+        if (window.navigator.standalone === true) {
+            this.isInstalled = true;
+            this.hideInstallButton();
+            localStorage.setItem('pwa-installed', 'true');
+            return;
+        }
+
+        // Si l'app n'est PAS en mode standalone, elle n'est pas installée
+        // Nettoyer localStorage si l'app a été désinstallée
+        if (localStorage.getItem('pwa-installed') === 'true') {
+            localStorage.removeItem('pwa-installed');
+        }
+        
+        this.isInstalled = false;
+        this.showInstallButton();
+    }
+    
+    showInstallButton() {
+        // Sur index.html, le bouton est géré par le splashscreen
+        // Cette méthode n'est appelée que pour les prompts d'installation
+        const pwaInstallBtn = document.getElementById('pwa-install-btn');
+        if (pwaInstallBtn) {
+            pwaInstallBtn.style.display = 'inline-block';
+        }
+        
+        // Si on a un prompt d'installation différé, l'afficher
+        if (this.deferredPrompt && !this.isInstalled && !this.isIOS) {
+            this.showInstallPrompt();
+        }
+    }
+    
+    hideInstallButton() {
+        const pwaInstallBtn = document.getElementById('pwa-install-btn');
+        if (pwaInstallBtn) {
+            pwaInstallBtn.style.display = 'none';
+        }
+    }
+
+    showInstallPrompt() {
+        // Créer le prompt d'installation s'il n'existe pas
+        if (!this.installPrompt) {
+            this.createInstallPrompt();
+        }
+
+        // Afficher le prompt immédiatement pour une meilleure UX
+        if (this.installPrompt) {
+            this.installPrompt.style.display = 'block';
+            
+            // Ajouter une animation d'entrée
+            this.installPrompt.style.animation = 'slideUp 0.5s ease-out';
+        }
+    }
+
+    createInstallPrompt() {
+        // Créer le prompt d'installation
+        this.installPrompt = document.createElement('div');
+        this.installPrompt.className = 'pwa-install-prompt';
+        this.installPrompt.innerHTML = `
+            <div class="pwa-install-content">
+                <div class="pwa-install-icon"><img src="images/partager_ios.png" alt="Installer" style="height:2em;width:auto;"></div>
+                <div class="pwa-install-text">
+                    <h3><span data-translate="install_title">Installer l'application</span></h3>
+                    <p><span data-translate="install_message">Installez CityLoop Quest Mons pour une meilleure expérience</span></p>
+                </div>
+                <div class="pwa-install-buttons">
+                    <button id="pwa-prompt-install-btn" class="pwa-install-btn"><span data-translate="install_button">Installer l'application et redémarrer à partir de l'app installée - cliquer ici</span></button>
+                    <button id="pwa-dismiss-btn" class="pwa-dismiss-btn">Plus tard</button>
+                </div>
+            </div>
+        `;
+
+        // Ajouter les styles
+        this.addInstallPromptStyles();
+
+        // Ajouter les événements
+        this.installPrompt.querySelector('#pwa-prompt-install-btn').addEventListener('click', () => {
+            this.installApp();
+        });
+
+        this.installPrompt.querySelector('#pwa-dismiss-btn').addEventListener('click', () => {
+            this.hideInstallPrompt();
+        });
+
+        // Ajouter au DOM
+        document.body.appendChild(this.installPrompt);
+        
+        // Appliquer les traductions si le manager est disponible
+        if (window.translationManager && typeof window.translationManager.applyTranslations === 'function') {
+            window.translationManager.applyTranslations();
+        }
+    }
+
+    startInstallationMonitoring() {
+        // Vérifier l'état d'installation toutes les 5 secondes
+        setInterval(() => {
+            const isCurrentlyStandalone = window.matchMedia('(display-mode: standalone)').matches;
+            const isCurrentlyIOSStandalone = window.navigator.standalone === true;
+            
+            // Si l'état a changé depuis la dernière vérification
+            if (this.isInstalled !== (isCurrentlyStandalone || isCurrentlyIOSStandalone)) {
+                this.checkIfInstalled();
+            }
+        }, 5000);
+    }
+
+    addInstallPromptStyles() {
+        const style = document.createElement('style');
+        style.textContent = `
+            .pwa-install-prompt {
+                position: fixed;
+                bottom: 20px;
+                left: 50%;
+                transform: translateX(-50%);
+                background: linear-gradient(135deg, #b30000, #8b0000);
+                color: white;
+                padding: 20px;
+                border-radius: 15px;
+                box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+                z-index: 10000;
+                display: none;
+                font-family: Arial, sans-serif;
+                max-width: 90vw;
+                width: 350px;
+                border: 2px solid #fff;
+            }
+
+            .pwa-install-content {
+                display: flex;
+                align-items: center;
+                gap: 15px;
+            }
+
+            .pwa-install-icon {
+                font-size: 2em;
+                flex-shrink: 0;
+            }
+
+            .pwa-install-text {
+                flex: 1;
+            }
+
+            .pwa-install-text h3 {
+                margin: 0 0 5px 0;
+                font-size: 1.1em;
+            }
+
+            .pwa-install-text p {
+                margin: 0;
+                font-size: 0.9em;
+                opacity: 0.9;
+            }
+
+            .pwa-install-buttons {
+                display: flex;
+                gap: 10px;
+                margin-top: 15px;
+            }
+
+            .pwa-install-btn, .pwa-dismiss-btn {
+                padding: 12px 20px;
+                border: none;
+                border-radius: 8px;
+                cursor: pointer;
+                font-weight: bold;
+                transition: all 0.2s;
+                flex: 1;
+                min-width: 120px;
+            }
+
+            .pwa-install-btn {
+                background: #4CAF50;
+                color: white;
+                margin-right: 10px;
+                font-size: 0.9em;
+                line-height: 1.2;
+            }
+
+            .pwa-install-btn:hover {
+                background: #45a049;
+                transform: translateY(-2px);
+            }
+
+            .pwa-dismiss-btn {
+                background: #f8f9fa;
+                color: #666;
+                border: 1px solid #ddd;
+                font-size: 0.9em;
+            }
+
+            .pwa-dismiss-btn:hover {
+                background: #e9ecef;
+            }
+
+            @keyframes slideUp {
+                from {
+                    transform: translateX(-50%) translateY(100%);
+                    opacity: 0;
+                }
+                to {
+                    transform: translateX(-50%) translateY(0);
+                    opacity: 1;
+                }
+            }
+
+            @media (max-width: 480px) {
+                .pwa-install-prompt {
+                    bottom: 10px;
+                    left: 10px;
+                    right: 10px;
+                    transform: none;
+                    width: auto;
+                }
+            }
+        `;
+        document.head.appendChild(style);
+    }
+
+    async installApp() {
+        // Détecter iOS Safari
+        const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
+        const isSafari = /Safari/.test(navigator.userAgent) && !/Chrome/.test(navigator.userAgent);
+        
+        if (isIOS && isSafari) {
+            this.showIOSInstallInstructions();
+            return;
+        }
+        
+        if (this.deferredPrompt) {
+            try {
+                this.deferredPrompt.prompt();
+                const { outcome } = await this.deferredPrompt.userChoice;
+                
+                if (outcome === 'accepted') {
+                    this.isInstalled = true;
+                    localStorage.setItem('pwa-installed', 'true');
+                    this.hideInstallPrompt();
+                    this.showInstallationSuccess();
+                }
+                
+                this.deferredPrompt = null;
+            } catch (error) {
+                console.error('🚀 Erreur lors de l\'installation:', error);
+            }
+        } else {
+            // Fallback pour les navigateurs qui ne supportent pas beforeinstallprompt
+            this.showManualInstallInstructions();
+        }
+    }
+
+    hideInstallPrompt() {
+        if (this.installPrompt) {
+            this.installPrompt.style.display = 'none';
+        }
+    }
+
+    showInstallationSuccess() {
+        const successMessage = document.createElement('div');
+        successMessage.className = 'pwa-success-message';
+        successMessage.innerHTML = `
+            <div class="pwa-success-content">
+                <div class="pwa-success-icon">✅</div>
+                <div class="pwa-success-text">
+                    <h3>Installation réussie !</h3>
+                    <p>L'application a été installée avec succès.</p>
+                </div>
+            </div>
+        `;
+
+        // Ajouter les styles pour le message de succès
+        const style = document.createElement('style');
+        style.textContent = `
+            .pwa-success-message {
+                position: fixed;
+                top: 20px;
+                left: 50%;
+                transform: translateX(-50%);
+                background: #4CAF50;
+                color: white;
+                padding: 15px 20px;
+                border-radius: 10px;
+                box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+                z-index: 10001;
+                font-family: Arial, sans-serif;
+                animation: slideDown 0.5s ease-out;
+            }
+
+            .pwa-success-content {
+                display: flex;
+                align-items: center;
+                gap: 10px;
+            }
+
+            .pwa-success-icon {
+                font-size: 1.5em;
+            }
+
+            @keyframes slideDown {
+                from {
+                    transform: translateX(-50%) translateY(-100%);
+                    opacity: 0;
+                }
+                to {
+                    transform: translateX(-50%) translateY(0);
+                    opacity: 1;
+                }
+            }
+        `;
+        document.head.appendChild(style);
+
+        document.body.appendChild(successMessage);
+
+        // Supprimer le message après 3 secondes
+        setTimeout(() => {
+            if (successMessage.parentNode) {
+                successMessage.parentNode.removeChild(successMessage);
+            }
+        }, 3000);
+    }
+
+    showManualInstallInstructions() {
+        const instructions = document.createElement('div');
+        instructions.className = 'pwa-manual-instructions';
+        instructions.innerHTML = `
+            <div class="pwa-manual-content">
+                <h3><img src="images/partager_ios.png" alt="Installer" style="height:1.3em;vertical-align:-0.2em;margin-right:5px;"> <span data-translate="install_title">Installation de l'application</span></h3>
+                <p><span data-translate="install_intro">Pour installer CityLoop Quest Mons sur votre appareil :</span></p>
+                <div class="install-steps">
+                    <div class="step">
+                        <div class="step-icon">🔍</div>
+                        <div class="step-text">
+                            <strong>1. <span data-translate="step1">Trouvez l'icône d'installation ou confirmez l'installation automatique</span></strong><br>
+                            <span class="browser-specific" id="browser-instructions">Chargement...</span>
+                        </div>
+                    </div>
+                    <div class="step">
+                        <div class="step-icon">👆</div>
+                        <div class="step-text">
+                            <strong>2. <span data-translate="step2">Appuyez sur "Installer" ou "Ajouter"</span></strong>
+                        </div>
+                    </div>
+                    <div class="step">
+                        <div class="step-icon">✅</div>
+                        <div class="step-text">
+                            <strong>3. <span data-translate="step3">Confirmez l'installation</span></strong>
+                        </div>
+                    </div>
+                </div>
+                <div class="install-benefits">
+                    <h4><span data-translate="benefits_title">Avantages de l'installation :</span></h4>
+                    <ul>
+                        <li><span data-translate="benefit1">🎯 Accès rapide depuis l'écran d'accueil</span></li>
+                        <li><span data-translate="benefit2">🚀 Performance optimisée</span></li>
+                        <li><span data-translate="benefit3">🔔 Notifications push (si activées)</span></li>
+                    </ul>
+                </div>
+            </div>
+        `;
+
+        // Ajouter les styles
+        const style = document.createElement('style');
+        style.textContent = `
+            .pwa-manual-instructions {
+                position: fixed;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                background: white;
+                color: #333;
+                padding: 25px;
+                border-radius: 15px;
+                box-shadow: 0 12px 40px rgba(0,0,0,0.4);
+                z-index: 10002;
+                font-family: Arial, sans-serif;
+                max-width: 90vw;
+                width: 450px;
+                max-height: 80vh;
+                overflow-y: auto;
+            }
+
+            .pwa-manual-content h3 {
+                margin: 0 0 20px 0;
+                color: #b30000;
+                font-size: 1.3em;
+                text-align: center;
+            }
+
+            .install-steps {
+                margin: 20px 0;
+            }
+
+            .step {
+                display: flex;
+                align-items: flex-start;
+                gap: 15px;
+                margin: 15px 0;
+                padding: 10px;
+                background: #f8f9fa;
+                border-radius: 8px;
+            }
+
+            .step-icon {
+                font-size: 1.5em;
+                flex-shrink: 0;
+                margin-top: 2px;
+            }
+
+            .step-text {
+                flex: 1;
+                line-height: 1.4;
+            }
+
+            .browser-specific {
+                color: #666;
+                font-size: 0.9em;
+                margin-top: 5px;
+                display: block;
+            }
+
+            .install-benefits {
+                margin: 20px 0;
+                padding: 15px;
+                background: #e8f5e8;
+                border-radius: 8px;
+                border-left: 4px solid #4CAF50;
+            }
+
+            .install-benefits h4 {
+                margin: 0 0 10px 0;
+                color: #2e7d32;
+            }
+
+            .install-benefits ul {
+                margin: 10px 0;
+                padding-left: 20px;
+            }
+
+            .install-benefits li {
+                margin: 5px 0;
+                color: #555;
+            }
+
+            .pwa-manual-content button {
+                background: #b30000;
+                color: white;
+                border: none;
+                padding: 12px 24px;
+                border-radius: 8px;
+                cursor: pointer;
+                margin-top: 20px;
+                font-weight: bold;
+                font-size: 1.1em;
+                width: 100%;
+                transition: background 0.2s;
+            }
+
+            .pwa-manual-content button:hover {
+                background: #8b0000;
+            }
+        `;
+        document.head.appendChild(style);
+
+        document.body.appendChild(instructions);
+        
+        // Appliquer les traductions si le manager est disponible
+        if (window.translationManager && typeof window.translationManager.applyTranslations === 'function') {
+            window.translationManager.applyTranslations();
+        }
+        
+        // Détecter le navigateur et afficher les bonnes instructions
+        this.updateBrowserInstructions();
+    }
+
+    showIOSInstallInstructions() {
+        const instructions = document.createElement('div');
+        instructions.className = 'pwa-manual-instructions ios-instructions';
+        instructions.innerHTML = `
+            <div class="pwa-manual-content">
+                <h3>🍎 <span data-translate="ios_title">Installation sur iPhone/iPad</span></h3>
+                <p><span data-translate="ios_intro">Pour installer CityLoop Quest Mons sur votre appareil iOS :</span></p>
+                <div class="install-steps">
+                    <div class="step">
+                        <div class="step-icon">📤</div>
+                        <div class="step-text">
+                            <strong>1. <span data-translate="ios_step1">Appuyez sur le bouton "Partager"</span></strong><br>
+                            <span class="ios-detail"><span data-translate="ios_step1_detail">Trouvez le bouton carré avec une flèche vers le haut dans la barre d'outils Safari</span></span>
+                        </div>
+                    </div>
+                    <div class="step">
+                        <div class="step-icon">🏠</div>
+                        <div class="step-text">
+                            <strong>2. <span data-translate="ios_step2">Sélectionnez "Sur l'écran d'accueil"</span></strong><br>
+                            <span class="ios-detail"><span data-translate="ios_step2_detail">Faites défiler dans le menu et appuyez sur cette option</span></span>
+                        </div>
+                    </div>
+                    <div class="step">
+                        <div class="step-icon">➕</div>
+                        <div class="step-text">
+                            <strong>3. <span data-translate="ios_step3">Appuyez sur "Ajouter"</span></strong><br>
+                            <span class="ios-detail"><span data-translate="ios_step3_detail">Confirmez l'ajout de l'application</span></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="ios-tips">
+                    <h4>💡 <span data-translate="ios_tips_title">Conseils pour iOS :</span></h4>
+                    <ul>
+                        <li><span data-translate="ios_tip1">L'application apparaîtra sur votre écran d'accueil</span></li>
+                        <li><span data-translate="ios_tip2">Vous pouvez la déplacer et organiser comme les autres apps</span></li>
+                        <li><span data-translate="ios_tip3">L'application fonctionnera hors ligne</span></li>
+                    </ul>
+                </div>
+            </div>
+        `;
+
+        // Ajouter les styles spécifiques iOS
+        const style = document.createElement('style');
+        style.textContent = `
+            .ios-instructions {
+                background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+                border: 2px solid #007AFF;
+            }
+
+            .ios-instructions .pwa-manual-content h3 {
+                color: #007AFF;
+            }
+
+            .ios-detail {
+                color: #666;
+                font-size: 0.85em;
+                margin-top: 5px;
+                display: block;
+                font-style: italic;
+            }
+
+            .ios-tips {
+                margin: 20px 0;
+                padding: 15px;
+                background: #e3f2fd;
+                border-radius: 8px;
+                border-left: 4px solid #007AFF;
+            }
+
+            .ios-tips h4 {
+                margin: 0 0 10px 0;
+                color: #1565c0;
+            }
+
+            .ios-tips ul {
+                margin: 10px 0;
+                padding-left: 20px;
+            }
+
+            .ios-tips li {
+                margin: 5px 0;
+                color: #424242;
+            }
+        `;
+        document.head.appendChild(style);
+
+        document.body.appendChild(instructions);
+        
+        // Appliquer les traductions si le manager est disponible
+        if (window.translationManager && typeof window.translationManager.applyTranslations === 'function') {
+            window.translationManager.applyTranslations();
+        }
+    }
+    
+    updateBrowserInstructions() {
+        const browserInstructions = document.getElementById('browser-instructions');
+        if (!browserInstructions) return;
+        
+        const userAgent = navigator.userAgent;
+        let instructions = '';
+        
+        if (userAgent.includes('Chrome') || userAgent.includes('Edg')) {
+            instructions = 'Cherchez l\'icône <img src="images/partager_ios.png" alt="Installer" style="height:1.3em;vertical-align:-0.2em;"> ou "Installer" dans la barre d\'adresse (en haut à droite)';
+        } else if (userAgent.includes('Safari') && userAgent.includes('Mobile')) {
+            instructions = 'Appuyez sur le bouton "Partager" (📤) puis "Sur l\'écran d\'accueil"';
+        } else if (userAgent.includes('Firefox')) {
+            instructions = 'Cherchez l\'icône <img src="images/partager_ios.png" alt="Installer" style="height:1.3em;vertical-align:-0.2em;"> ou "Installer" dans la barre d\'adresse';
+        } else if (userAgent.includes('SamsungBrowser')) {
+            instructions = 'Appuyez sur Menu (⋮) puis "Ajouter à l\'écran d\'accueil"';
+        } else {
+            instructions = 'Cherchez l\'icône d\'installation dans la barre d\'adresse ou le menu du navigateur';
+        }
+        
+        browserInstructions.textContent = instructions;
+    }
+}
+
+// Initialiser l'installateur PWA
+let pwaInstaller;
+document.addEventListener('DOMContentLoaded', () => {
+    pwaInstaller = new PWAInstaller();
+});
+
+// Exposer globalement pour le débogage
+window.PWAInstaller = PWAInstaller;
+
+// Fonctions utilitaires pour les tests
+window.showInstallPrompt = () => {
+    if (pwaInstaller) {
+        pwaInstaller.showInstallPrompt();
+    }
+};
+
+window.showManualInstructions = () => {
+    if (pwaInstaller) {
+        pwaInstaller.showManualInstallInstructions();
+    }
+}; 

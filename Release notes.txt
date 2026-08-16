@@ -1,4 +1,746 @@
 CityLoop Quest Mons - Release notes
+Version 26.08.179
+----------------------------------------
+St Franciscus Kring : texte long réécrit (sans répéter le court), 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.178
+----------------------------------------
+Loge maconnique Rue Chisaire : texte long réécrit (sans répéter le court), 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.177
+----------------------------------------
+Cantoria Roland de Lassus : texte long réécrit (sans répéter le court), 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.176
+----------------------------------------
+A la Ville d'Avesnes : texte long réécrit (sans répéter le court), 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.175
+----------------------------------------
+A la Couronne Grand Rue : texte long réécrit (sans répéter le court), 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.174
+----------------------------------------
+BF IHS IL : texte long réécrit (sans répéter le court), IHS lu I H S, 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.173
+----------------------------------------
+Le Gant : texte long réécrit (sans répéter le court), 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.172
+----------------------------------------
+Cartouche et blason Grande Triperie : texte long réécrit (sans répéter le court), 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.171
+----------------------------------------
+Au Paon et au Cygne : texte long réécrit (sans répéter le court), 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.170
+----------------------------------------
+A Saint-Antoine : texte long réécrit (sans répéter le court), 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.169
+----------------------------------------
+A la Coupe d'Or : texte long réécrit (sans répéter le court), 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.168
+----------------------------------------
+Bas-relief litterature montoise : texte long réécrit (sans répéter le court), 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.167
+----------------------------------------
+Cheval Dore : texte long réécrit (sans répéter le court), 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.166
+----------------------------------------
+16 IHS 93 : texte long réécrit (sans répéter le court), IHS lu I H S, 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.165
+----------------------------------------
+Chateau de le Marcote : texte long réécrit (sans répéter le court), 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.164
+----------------------------------------
+A la Grande Rose : texte long réécrit (sans répéter le court), 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.163
+----------------------------------------
+Croix plume et pinceau : texte long réécrit (sans répéter le court), 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.162
+----------------------------------------
+A la Croix d'Or Croix-Place : texte long réécrit (sans répéter le court), 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.161
+----------------------------------------
+Fontaine Rue de Bertaimont : texte long réécrit (sans répéter le court), 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.160
+----------------------------------------
+A la Bonne Femme : texte long réécrit (sans répéter le court), 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.159
+----------------------------------------
+Colombe du Saint-Esprit : texte long réécrit (sans répéter le court), 10 langues + audio long. TTS : ein / s’invole / infants (patois Gillis).
+
+CityLoop Quest Mons - Release notes
+Version 26.08.158
+----------------------------------------
+Mortier et Pilon : texte long réécrit (sans répéter le court), 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.157
+----------------------------------------
+Au Grand Laboureur : texte long réécrit (sans répéter le court), Clef lu Clé en TTS, 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.156
+----------------------------------------
+A la Tete Saint-Jean : texte long réécrit (sans répéter le court), TETE/Taette lus Tête et Clef lu Clé en TTS, quiz XVIIIe, 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.155
+----------------------------------------
+Buste de la reine Astrid : texte long réécrit (sans répéter le court), 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.154
+----------------------------------------
+La Belle Plébéienne : texte long réécrit (sans répéter le court), Harvent lu Artvent en TTS, 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.153
+----------------------------------------
+Armes de Mons Rue de la Clef : texte long réécrit (sans répéter le court), Clef lu Clé en TTS, 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.152
+----------------------------------------
+A la Licorne : texte long réécrit (sans répéter le court), 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.151
+----------------------------------------
+La Croix d'Or Havre : texte long réécrit (sans répéter le court), LA CROIX D OR en TTS, 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.150
+----------------------------------------
+A la Faux d'Or : texte long réécrit (sans répéter le court), A LA FAUX D OR en TTS, 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.149
+----------------------------------------
+Au Mousqueton d'Or : texte long réécrit (sans répéter le court), AVX MOVSQVETON en TTS, 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.148
+----------------------------------------
+Pelles a enfourner 1573 : texte long réécrit (sans répéter le court), 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.147
+----------------------------------------
+Au Corbeau : texte long réécrit (sans répéter le court), Charleroy en TTS, 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.146
+----------------------------------------
+A la Paile d'Or : texte long réécrit (sans répéter le court), PAILE DOR en TTS, 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.145
+----------------------------------------
+A l'Ecaille d'Or : texte long réécrit (sans répéter le court), A LÉ CAILLE en TTS, 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.144
+----------------------------------------
+Au Pistolet d'Or : texte long réécrit (sans répéter le court), 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.143
+----------------------------------------
+À la Lunette d'Or : texte long réécrit (sans répéter le court), 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.142
+----------------------------------------
+Au Renard : texte long réécrit (sans répéter le court), AV RENARD en TTS, 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.141
+----------------------------------------
+À la Balance d'Or : texte long réécrit (sans répéter le court), 1768/1873 lu 1768, 1873 en TTS, 10 langues + audio court et long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.140
+----------------------------------------
+À la Tasche d'Argent : texte long réécrit (sans répéter le court), TASCHE lu Tachè en TTS FR, 10 langues + audio court et long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.139
+----------------------------------------
+À la Clef d'Or : texte long réécrit (sans répéter le court), Clef prononcé Clé, 10 langues + audio court et long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.138
+----------------------------------------
+Millesime MDCCXII : texte long réécrit (sans répéter le court), MDCCXII lu 1712 en TTS, 10 langues + audio court et long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.137
+----------------------------------------
+Au Lion d'Or : texte long réécrit (sans répéter le court), AV LION / D OR en TTS, 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.136
+----------------------------------------
+Le Lecteur Colas : texte long réécrit (sans répéter le court), 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.135
+----------------------------------------
+À la Tette d'Or : texte long réécrit (sans répéter le court), Tette prononcé Tètt, 10 langues + audio.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.134
+----------------------------------------
+Aux Trois Verts Chapeaux : texte long réécrit (sans répéter le court), AV TROIS VERD CHAPEAVX en TTS, 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.133
+----------------------------------------
+La clé rouge : POI renommé (ex-A la Clee Rouge), texte long réécrit, quiz XVIIIe, 10 langues + audio.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.132
+----------------------------------------
+IHS dans un soleil : texte long réécrit (sans répéter le court), IHS prononcé I H S, 10 langues + audio court et long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.131
+----------------------------------------
+Armes de Mons Petit Marché : texte long réécrit (sans répéter le court), quiz XVIe, 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.130
+----------------------------------------
+Aux Trois Herrents : texte long réécrit (sans répéter le court), AV TROIS HERRENT en TTS, 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.129
+----------------------------------------
+Saint-Pierre Rue de Nimy : texte long réécrit (sans répéter le court), 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.128
+----------------------------------------
+À le Trois Brouet : texte long réécrit (sans répéter le court), 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.127
+----------------------------------------
+IHS Rue de Nimy 71 : texte long réécrit (sans répéter le court), IHS prononcé I H S, 10 langues + audio.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.126
+----------------------------------------
+Au Paradis : texte long réécrit (sans répéter le court), 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.125
+----------------------------------------
+The Bootle Arms : texte long réécrit (sans répéter le court), 10 langues + audio long. Quiz jumelage 1964.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.124
+----------------------------------------
+The Bootle Arms : « Bootle » prononcé « Bouh teul » en TTS français.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.123
+----------------------------------------
+Le Gros Maillet : texte long réécrit (sans répéter le court), 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.122
+----------------------------------------
+A la Poire d'Or : nouvelle photo (cartouche, poire dorée).
+
+CityLoop Quest Mons - Release notes
+Version 26.08.121
+----------------------------------------
+A la Poire d'Or : texte long réécrit (sans répéter le court), 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.120
+----------------------------------------
+Bas-reliefs Nord : Théâtre Royal avant les Portes (grille) du Théâtre Royal.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.119
+----------------------------------------
+Au Gros Visage : texte long réécrit (sans répéter le court), 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.118
+----------------------------------------
+Portes du Theatre Royal : texte long réécrit (sans répéter le court), 10 langues + audio long.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.117
+----------------------------------------
+Portes du Theatre Royal : « plus » d’ajout prononcé « plusse » (S entendu) en TTS français.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.116
+----------------------------------------
+Blasons muets : texte long réécrit, court+long et audio en 10 langues.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.115
+----------------------------------------
+Blasons muets : nouvelle photo (linteau, rue du Miroir).
+
+CityLoop Quest Mons - Release notes
+Version 26.08.114
+----------------------------------------
+Portes du Theatre Royal : « plus » (ajout) prononcé « Pluss » en TTS français.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.113
+----------------------------------------
+Mons insolite : quiz 10 langues (Mystérieux, Cours et passages, Noms impossibles). Colonne gauche de parcours traduite en 10 langues.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.112
+----------------------------------------
+Bas-reliefs Nord/Est/Sud/Ouest : textes court+long et audio en 10 langues pour les nouveaux points ; quiz 3 questions par POI.
+
+CityLoop Quest Mons - Release notes
+Version 26.08.111
+----------------------------------------
+Parcours patrimoine : �glise Notre-Dame de Messines � Bertaimont prononc� � Bert�mont � (textes court et long, 10 langues).
+
+CityLoop Quest Mons - Release notes
+Version 26.08.110
+----------------------------------------
+POI Explorer : catégorie « Mons secret, insolite & mystérieux » (chasse aux curiosités, 39 fiches).
+
+CityLoop Quest Mons - Release notes
+Version 26.08.109
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.108
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.107
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.106
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.105
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.104
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.103
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.102
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.101
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.100
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.99
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.98
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.97
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.96
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.95
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.94
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.93
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.92
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.91
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.90
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.89
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.88
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.87
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.86
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.85
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.84
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.83
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.82
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.81
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.80
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.79
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.78
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.77
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.76
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.75
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.74
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.73
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.72
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.71
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.70
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.69
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.68
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.67
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.66
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.65
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.64
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.63
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.62
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.61
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.60
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.59
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.58
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.57
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.56
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.55
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.54
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.53
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.52
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.51
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.50
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.49
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.48
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.47
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.46
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.45
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.44
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.43
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.42
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.41
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.40
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.39
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.38
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.37
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.36
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.35
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.34
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.33
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.32
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.31
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.30
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.29
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.28
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.27
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.26
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.25
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.24
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.23
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.22
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.21
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.20
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.19
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.18
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.17
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.16
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.15
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.14
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.13
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
+Version 26.08.12
+----------------------------------------
+
+CityLoop Quest Mons - Release notes
 Version 26.08.11
 ----------------------------------------
 

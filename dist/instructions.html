@@ -1,4 +1,26 @@
-<!DOCTYPE html><html lang="fr"><head><script>(function(){var u=navigator.userAgent||'';document.write('<link rel="manifest" href="'+(/android/i.test(u)?'manifest-android.json':'manifest.json')+'">');})();</script><meta name="theme-color" content="#ffffff"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="default"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"><meta charset="UTF-8"><title>Instructions</title><link rel="stylesheet" href="style.css"><script src="translations/translationManager.js"></script><script src="translations/languageSelector.js"></script><script src="js/access-guard.js" defer="defer"></script><script src="version.js"></script><script>document.addEventListener('DOMContentLoaded', function () {
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+
+<script>(function(){var u=navigator.userAgent||'';document.write('<link rel="manifest" href="'+(/android/i.test(u)?'manifest-android.json':'manifest.json')+'">');})();</script>
+<meta name="theme-color" content="#ffffff">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<meta charset="UTF-8">
+<title>Instructions</title>
+<link rel="stylesheet" href="style.css">
+<script src="translations/translationManager.js"></script>
+<script src="translations/languageSelector.js"></script>
+
+<!-- Garde d'accès : bloque l'accès si aucun code d'activation valide (clq_short_code) -->
+<script src="js/access-guard.js" defer></script>
+
+<script src="version.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
     var version = window.APP_VERSION || '?.?.?';
 
     // En haut de la page : "Version xx.xx.x"
@@ -14,7 +36,278 @@
         showReleaseNotesPopup();
       });
     }
-  });</script><style>.cgu-modal{position:fixed;inset:0;display:none;align-items:center;justify-content:center;z-index:9999}.cgu-modal.open{display:flex}.cgu-modal-backdrop{position:absolute;inset:0;background:rgba(0,0,0,.6)}.cgu-modal-content{position:relative;background:#fff;max-width:900px;width:90%;max-height:80vh;margin:0 auto;padding:20px 24px;border-radius:10px;box-shadow:0 4px 16px rgba(0,0,0,.35);overflow-y:auto;z-index:1}.cgu-modal-close{position:absolute;top:6px;right:10px;border:none;background:0 0;font-size:1.8rem;cursor:pointer}.cgu-modal-body{margin-top:10px;font-size:.95rem;line-height:1.4;text-align:left}.cgu-modal-body h3{margin-top:1.2em;margin-bottom:.4em}.cgu-modal-body p{margin:.3em 0}#cgu-btn{top:calc(50% - 120px);padding:8px 16px;font-size:14px;min-width:70px;transform:translateY(-50%)}#release-notes-btn{top:calc(50% - 40px);transform:translateY(-50%)}#contact-btn{top:calc(50% + 40px);transform:translateY(-50%);padding:8px 16px;font-size:14px;min-width:70px}#continue-btn{top:calc(50% + 120px);transform:translateY(-50%)}body.no-scroll{overflow:hidden}.help-version{font-size:.9rem;color:#555;margin-bottom:.5rem}.contact-modal{position:fixed;inset:0;display:none;align-items:center;justify-content:center;z-index:9999}.contact-modal.open{display:flex}.contact-modal-backdrop{position:absolute;inset:0;background:rgba(0,0,0,.6)}.contact-modal-content{position:relative;background:#fff;max-width:500px;width:90%;max-height:80vh;margin:0 auto;padding:20px 24px;border-radius:10px;box-shadow:0 4px 16px rgba(0,0,0,.35);overflow-y:auto;z-index:1}.contact-modal-close{position:absolute;top:6px;right:10px;border:none;background:0 0;font-size:1.8rem;cursor:pointer}.contact-form{margin-top:10px}.contact-form label{display:block;margin-bottom:5px;font-weight:600}.contact-form input,.contact-form textarea{width:100%;padding:8px;margin-bottom:15px;border:1px solid #ddd;border-radius:4px;font-size:.95rem;font-family:inherit;box-sizing:border-box}.contact-form textarea{min-height:120px;resize:vertical}.contact-form button[type=submit]{background:#c8102e;color:#fff;border:none;padding:10px 20px;border-radius:6px;font-size:1em;font-weight:700;cursor:pointer}.contact-form button[type=submit]:disabled{background:#ccc;cursor:not-allowed}.contact-cancel-btn{background:#666;color:#fff;border:none;padding:10px 20px;border-radius:6px;font-size:1em;font-weight:700;cursor:pointer;min-width:100px}.contact-cancel-btn:hover{background:#555}.contact-form .error-message{color:#c8102e;margin-top:5px;font-size:.9em}.contact-form .success-message{color:#28a745;margin-top:5px;font-size:.9em}</style></head><body><div style="padding:20px;text-align:center"><p class="help-version">Version <span id="help-version-text"></span></p><h1 id="title">Instructions</h1><div id="instructions"></div></div><button id="cgu-btn" class="back-button">CGU</button> <button id="release-notes-btn" class="back-button">Rel notes</button> <button id="contact-btn" class="back-button">Contact</button> <button id="continue-btn" class="back-button">CONTINUER</button><div id="cgu-modal" class="cgu-modal" aria-hidden="true"><div class="cgu-modal-backdrop"></div><div class="cgu-modal-content" role="dialog" aria-modal="true" aria-labelledby="cgu-title"><button type="button" class="cgu-modal-close" id="cgu-close" aria-label="Fermer">&times;</button><h2 id="cgu-title">Conditions générales d'utilisation</h2><div class="cgu-modal-body" id="cgu-body"></div></div></div><div id="contact-modal" class="contact-modal" aria-hidden="true"><div class="contact-modal-backdrop"></div><div class="contact-modal-content" role="dialog" aria-modal="true" aria-labelledby="contact-title"><button type="button" class="contact-modal-close" id="contact-close" aria-label="Fermer">&times;</button><h2 id="contact-title"></h2><form id="contact-form" class="contact-form"><label for="contact-message" id="contact-message-label"></label> <textarea id="contact-message" name="message" required placeholder=""></textarea> <label for="contact-email" id="contact-email-label"></label> <input type="email" id="contact-email" name="email" required placeholder=""><div id="contact-error" class="error-message" style="display:none"></div><div id="contact-success" class="success-message" style="display:none"></div><div style="display:flex;gap:10px;margin-top:10px"><button type="button" id="contact-cancel" class="contact-cancel-btn"></button> <button type="submit" id="contact-submit" style="flex:1"></button></div></form></div></div><script>let instructionsTranslations = {};
+  });
+</script>
+
+
+<!-- Styles du popup CGU -->
+<style>
+  .cgu-modal {
+    position: fixed;
+    inset: 0;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+  }
+
+  .cgu-modal.open {
+    display: flex;
+  }
+
+  .cgu-modal-backdrop {
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.6);
+  }
+
+  .cgu-modal-content {
+    position: relative;
+    background: #ffffff;
+    max-width: 900px;
+    width: 90%;
+    max-height: 80vh;
+    margin: 0 auto;
+    padding: 20px 24px;
+    border-radius: 10px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.35);
+    overflow-y: auto;
+    z-index: 1;
+  }
+
+  .cgu-modal-close {
+    position: absolute;
+    top: 6px;
+    right: 10px;
+    border: none;
+    background: transparent;
+    font-size: 1.8rem;
+    cursor: pointer;
+  }
+
+  .cgu-modal-body {
+    margin-top: 10px;
+    font-size: 0.95rem;
+    line-height: 1.4;
+    text-align: left;
+  }
+
+  .cgu-modal-body h3 {
+    margin-top: 1.2em;
+    margin-bottom: 0.4em;
+  }
+
+  .cgu-modal-body p {
+    margin: 0.3em 0;
+  }
+
+  #cgu-btn {
+    top: calc(50% - 120px);
+    padding: 8px 16px;
+    font-size: 14px;
+    min-width: 70px;
+    transform: translateY(-50%);
+  }
+
+  #release-notes-btn {
+    top: calc(50% - 40px);
+    transform: translateY(-50%);
+  }
+
+  #contact-btn {
+    top: calc(50% + 40px);
+    transform: translateY(-50%);
+    padding: 8px 16px;
+    font-size: 14px;
+    min-width: 70px;
+  }
+
+  #continue-btn {
+    top: calc(50% + 120px);
+    transform: translateY(-50%);
+  }
+
+  body.no-scroll {
+    overflow: hidden;
+  }
+
+  .help-version {
+  font-size: 0.9rem;
+  color: #555;
+  margin-bottom: 0.5rem;
+}
+
+  /* Styles pour le modal de contact */
+  .contact-modal {
+    position: fixed;
+    inset: 0;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+  }
+
+  .contact-modal.open {
+    display: flex;
+  }
+
+  .contact-modal-backdrop {
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.6);
+  }
+
+  .contact-modal-content {
+    position: relative;
+    background: #ffffff;
+    max-width: 500px;
+    width: 90%;
+    max-height: 80vh;
+    margin: 0 auto;
+    padding: 20px 24px;
+    border-radius: 10px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.35);
+    overflow-y: auto;
+    z-index: 1;
+  }
+
+  .contact-modal-close {
+    position: absolute;
+    top: 6px;
+    right: 10px;
+    border: none;
+    background: transparent;
+    font-size: 1.8rem;
+    cursor: pointer;
+  }
+
+  .contact-form {
+    margin-top: 10px;
+  }
+
+  .contact-form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: 600;
+  }
+
+  .contact-form input,
+  .contact-form textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 0.95rem;
+    font-family: inherit;
+    box-sizing: border-box;
+  }
+
+  .contact-form textarea {
+    min-height: 120px;
+    resize: vertical;
+  }
+
+  .contact-form button[type="submit"] {
+    background: #c8102e;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+    font-size: 1em;
+    font-weight: bold;
+    cursor: pointer;
+  }
+
+  .contact-form button[type="submit"]:disabled {
+    background: #ccc;
+    cursor: not-allowed;
+  }
+
+  .contact-cancel-btn {
+    background: #666;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+    font-size: 1em;
+    font-weight: bold;
+    cursor: pointer;
+    min-width: 100px;
+  }
+
+  .contact-cancel-btn:hover {
+    background: #555;
+  }
+
+  .contact-form .error-message {
+    color: #c8102e;
+    margin-top: 5px;
+    font-size: 0.9em;
+  }
+
+  .contact-form .success-message {
+    color: #28a745;
+    margin-top: 5px;
+    font-size: 0.9em;
+  }
+
+</style>
+
+</head>
+<body>
+  <div style="padding: 20px; text-align: center;">
+    <p class="help-version">
+      Version <span id="help-version-text"></span>
+    </p>   
+    <h1 id="title">Instructions</h1>
+    <div id="instructions"></div>
+  </div>
+
+  <!-- Bouton CGU au-dessus de CONTINUER -->
+  <button id="cgu-btn" class="back-button">CGU</button>
+  <button id="release-notes-btn" class="back-button">Rel notes</button>
+  <button id="contact-btn" class="back-button">Contact</button>
+  <button id="continue-btn" class="back-button">CONTINUER</button>
+
+  <!-- Popup CGU -->
+  <div id="cgu-modal" class="cgu-modal" aria-hidden="true">
+    <div class="cgu-modal-backdrop"></div>
+    <div class="cgu-modal-content" role="dialog" aria-modal="true" aria-labelledby="cgu-title">
+      <button type="button" class="cgu-modal-close" id="cgu-close" aria-label="Fermer">&times;</button>
+      <h2 id="cgu-title">Conditions générales d'utilisation</h2>
+      <div class="cgu-modal-body" id="cgu-body">
+        <!-- Contenu injecté par JS selon la langue -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Popup Contact -->
+  <div id="contact-modal" class="contact-modal" aria-hidden="true">
+    <div class="contact-modal-backdrop"></div>
+    <div class="contact-modal-content" role="dialog" aria-modal="true" aria-labelledby="contact-title">
+      <button type="button" class="contact-modal-close" id="contact-close" aria-label="Fermer">&times;</button>
+      <h2 id="contact-title"></h2>
+      <form id="contact-form" class="contact-form">
+        <label for="contact-message" id="contact-message-label"></label>
+        <textarea id="contact-message" name="message" required placeholder=""></textarea>
+        
+        <label for="contact-email" id="contact-email-label"></label>
+        <input type="email" id="contact-email" name="email" required placeholder="">
+        
+        <div id="contact-error" class="error-message" style="display: none;"></div>
+        <div id="contact-success" class="success-message" style="display: none;"></div>
+        
+        <div style="display: flex; gap: 10px; margin-top: 10px;">
+          <button type="button" id="contact-cancel" class="contact-cancel-btn"></button>
+          <button type="submit" id="contact-submit" style="flex: 1;"></button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <script>
+    let instructionsTranslations = {};
 
     // Textes CGU par langue (HTML)
     const cguTexts = {
@@ -4959,4 +5252,7 @@ content: `
           document.body.removeChild(overlay);
         }
       });
-    }</script></body></html>
+    }
+  </script>
+</body>
+</html>

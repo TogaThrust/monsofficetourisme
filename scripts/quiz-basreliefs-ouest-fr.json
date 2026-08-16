@@ -1,0 +1,379 @@
+{
+  "Cheval Dore": [
+    {
+      "question": "Quel motif est sculpté sur la clé de l'entrée du Cheval Dore ?",
+      "options": [
+        "Un lion",
+        "Une fleur",
+        "Un cheval"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "À quelle époque le Cheval Dore a-t-il été sculpté ?",
+      "options": [
+        "Au 19ème siècle",
+        "Au 18ème siècle",
+        "Au 20ème siècle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve le Cheval Dore à Mons ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue du Parc",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Bas-relief litterature montoise": [
+    {
+      "question": "Quel matériau est utilisé pour la plaque dédiée aux créateurs de la littérature montoise ?",
+      "options": [
+        "Bronze",
+        "Marbre",
+        "Pierre"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qui est l'auteur de la plaque de bronze honorant les écrivains montois ?",
+      "options": [
+        "Henri Delmotte",
+        "Gustave Jacobs",
+        "Charles Letellier"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve la plaque dédiée à la littérature montoise ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Clercs",
+        "Jardin du Mayeur"
+      ],
+      "answer": 2
+    }
+  ],
+  "A la Coupe d'Or": [
+    {
+      "question": "Quel type d'objet est représenté en haut-relief à l'enseigne 'À la Coupe d'Or' ?",
+      "options": [
+        "Une coupe",
+        "Un ciboire",
+        "Un chandelier"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "À quelle époque le ciboire sculpté de 'À la Coupe d'Or' a-t-il été réalisé ?",
+      "options": [
+        "Au 18ème siècle",
+        "Au 19ème siècle",
+        "Au 17ème siècle"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'À la Coupe d'Or' ?",
+      "options": [
+        "Rue de la Coupe",
+        "Rue de la Paix",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "A Saint-Antoine": [
+    {
+      "question": "Quel motif est représenté sur le bas-relief à Saint-Antoine ?",
+      "options": [
+        "Saint Pierre et son poisson",
+        "Saint Jacques et sa coquille",
+        "Saint Antoine et son cochon"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Quelle est la date approximative de création de la chapelle dédiée à Saint-Antoine ?",
+      "options": [
+        "XVIIe siècle",
+        "XVIe siècle",
+        "XVIIIe siècle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se situe le point de visite A Saint-Antoine ?",
+      "options": [
+        "Rue des Fripiers",
+        "Rue de la Coupe",
+        "Rue de la Résistance"
+      ],
+      "answer": 1
+    }
+  ],
+  "Au Paon et au Cygne": [
+    {
+      "question": "Quels animaux sont représentés dans les frontons de l'enseigne 'Au Paon et au Cygne' ?",
+      "options": [
+        "Paon et cygne",
+        "Aigle et héron",
+        "Chien et chat"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel est le numéro de la rue où se situe l'enseigne 'Au Paon et au Cygne' ?",
+      "options": [
+        "15",
+        "22",
+        "30"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue historique de Mons se trouve l'enseigne 'Au Paon et au Cygne' ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Clercs",
+        "Rue des Fripiers"
+      ],
+      "answer": 2
+    }
+  ],
+  "Cartouche et blason Grande Triperie": [
+    {
+      "question": "Quel motif est représenté sur le cartouche de la Grande Triperie ?",
+      "options": [
+        "Écu",
+        "Mascaron",
+        "Chien-lion"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "À quelle époque pourrait-on estimer que le blason a été réalisé ?",
+      "options": [
+        "XVIe siècle",
+        "XIXe siècle",
+        "XVIIIe siècle"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quelle rue se trouve la Grande Triperie à Mons ?",
+      "options": [
+        "Rue de la Grande Triperie",
+        "Rue de la Petite Triperie",
+        "Rue des Bouchers"
+      ],
+      "answer": 0
+    }
+  ],
+  "Le Gant": [
+    {
+      "question": "Quel motif est représenté sur le bas-relief de l'enseigne Le Gant ?",
+      "options": [
+        "Une chaussure",
+        "Un chapeau",
+        "Un gant"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "En quelle année l'enseigne Le Gant a-t-elle été sculptée ?",
+      "options": [
+        "1718",
+        "1720",
+        "1705"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne Le Gant à Mons ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Grand'Rue",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "BF IHS IL": [
+    {
+      "question": "Quel motif est présent sur le Christogramme BF IHS IL ?",
+      "options": [
+        "Cœur et trois clous",
+        "Croix et couronne",
+        "Ange et étoile"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "À quelle époque le Christogramme BF IHS IL a-t-il probablement été réalisé ?",
+      "options": [
+        "XVIe siècle",
+        "XVIIIe siècle",
+        "XXe siècle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve le Christogramme BF IHS IL à Mons ?",
+      "options": [
+        "Rue des Fripiers",
+        "Rue de la Chaussée",
+        "Grand'Rue"
+      ],
+      "answer": 2
+    }
+  ],
+  "A la Couronne Grand Rue": [
+    {
+      "question": "Quel motif est représenté en bas-relief sur l'enseigne de 'À la Couronne' ?",
+      "options": [
+        "Un lion",
+        "Une couronne comtale",
+        "Une fleur de lys"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "À quelle époque la couronne comtale a-t-elle été sculptée ?",
+      "options": [
+        "Au 18ème siècle",
+        "Au 17ème siècle",
+        "Au 19ème siècle"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quelle rue se situe l'enseigne 'À la Couronne' ?",
+      "options": [
+        "Grand'Rue",
+        "Rue de la Chaussée",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Ville d'Avesnes": [
+    {
+      "question": "Quel motif est représenté en bas-relief sur l'enseigne 'À la Ville d'Avesnes' ?",
+      "options": [
+        "Un paysage montois",
+        "Une scène de marché",
+        "Une représentation d'Avesnes"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "En quelle année l'enseigne 'À la Ville d'Avesnes' a-t-elle été créée ?",
+      "options": [
+        "1724",
+        "1710",
+        "1735"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'À la Ville d'Avesnes' ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Grand'Rue",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Cantoria Roland de Lassus": [
+    {
+      "question": "Quel matériau est utilisé pour les trois chantres du monument à Roland de Lassus ?",
+      "options": [
+        "Bronze",
+        "Marbre",
+        "Pierre"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année le monument à Roland de Lassus a-t-il été inauguré ?",
+      "options": [
+        "1965",
+        "1970",
+        "1980"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve le monument à Roland de Lassus à Mons ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Fripiers",
+        "Rue du Chapitre"
+      ],
+      "answer": 2
+    }
+  ],
+  "Loge maconnique Rue Chisaire": [
+    {
+      "question": "Quels symboles sont visibles sur la façade de la Loge maçonnique ?",
+      "options": [
+        "Symboles religieux",
+        "Symboles maçonniques",
+        "Symboles militaires"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "En quelle année la Loge maçonnique a-t-elle été fondée ?",
+      "options": [
+        "1804",
+        "1850",
+        "1776"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quelle rue se situe la Loge maçonnique à Mons ?",
+      "options": [
+        "Rue Chisaire",
+        "Rue de la Chaussée",
+        "Rue de Nimy"
+      ],
+      "answer": 0
+    }
+  ],
+  "St Franciscus Kring": [
+    {
+      "question": "Quel est le nom de l'ancienne maison située au 31 rue Masquelier ?",
+      "options": [
+        "Maison des Wallons",
+        "Maison des Belges",
+        "Maison des Flamands"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Quel type de bâtiment est le St Franciscus Kring ?",
+      "options": [
+        "Une maison",
+        "Une église",
+        "Un musée"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve le St Franciscus Kring à Mons ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue Masquelier",
+        "Rue de Nimy"
+      ],
+      "answer": 1
+    }
+  ]
+}

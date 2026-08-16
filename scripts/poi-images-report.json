@@ -1,0 +1,911 @@
+{
+  "downloadedCount": 42,
+  "notFound": [
+    {
+      "name": "Hell'O Folks",
+      "circuits": [
+        "art_est"
+      ],
+      "address": "Passage de l'Îlot, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Kobra Torre de Saber",
+      "circuits": [
+        "art_est"
+      ],
+      "address": "Rue du Mont du Parc, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Andrea Ravo Mattoni Charles Quint",
+      "circuits": [
+        "art_est"
+      ],
+      "address": "Boulevard Charles Quint 18, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Olivier Sonck Ivre d'histoires",
+      "circuits": [
+        "art_est"
+      ],
+      "address": "Rue des Barbelés, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Andrea Ravo Mattoni Rue de Nimy 126",
+      "circuits": [
+        "art_est"
+      ],
+      "address": "Rue de Nimy 126, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Pierre Liebaert Je crois aux nuits",
+      "circuits": [
+        "art_est"
+      ],
+      "address": "Rue de Nimy 106, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Stelios Pupet Harmonizing Mons",
+      "circuits": [
+        "art_est"
+      ],
+      "address": "Rue Antoine Clesse, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Jana et JS Le couple de la rue Verte",
+      "circuits": [
+        "art_est"
+      ],
+      "address": "Rue de Nimy 42, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Lola Goies Rue du Miroir",
+      "circuits": [
+        "art_est"
+      ],
+      "address": "Rue du Miroir 18, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Eva Badalamenti Passage de l'ilot",
+      "circuits": [
+        "art_est"
+      ],
+      "address": "Jardin Gustave Jacobs, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Blancbec Le monstrueux",
+      "circuits": [
+        "art_sud"
+      ],
+      "address": "Rue d'Havré 95, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Oli-B L'escapade",
+      "circuits": [
+        "art_sud"
+      ],
+      "address": "Grand'Rue 8, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Hell'O Rue de la Halle",
+      "circuits": [
+        "art_sud"
+      ],
+      "address": "Rue de la Halle 5, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Ilan Walbrecq Georges Cuvelier",
+      "circuits": [
+        "art_sud"
+      ],
+      "address": "Rue de la Halle 42, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Andrea Buglisi La Gayole",
+      "circuits": [
+        "art_sud"
+      ],
+      "address": "Rue des Arquebusiers 3, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Eva Badalamenti Louis Buisseret",
+      "circuits": [
+        "art_sud"
+      ],
+      "address": "Rue des Sœurs Noires 19, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Taquen Bouquet of memory and hope",
+      "circuits": [
+        "art_sud"
+      ],
+      "address": "Rue des Chartriers 2, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Paul Segard Ma ville s'endort",
+      "circuits": [
+        "art_ouest"
+      ],
+      "address": "Rue de l'Athénée 3, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Dulk The battle",
+      "circuits": [
+        "art_ouest"
+      ],
+      "address": "Rue de l'Athénée 3, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Celeste Gangolphe Mille et une feuille",
+      "circuits": [
+        "art_ouest"
+      ],
+      "address": "Rue des Capucins 40, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Nean Cybele et Poliade",
+      "circuits": [
+        "art_ouest"
+      ],
+      "address": "Rue des Capucins 37, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Arkane Lalie",
+      "circuits": [
+        "art_ouest"
+      ],
+      "address": "Rue de Bertaimont 55, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Nadege Dauvergne Place du Beguinage",
+      "circuits": [
+        "art_ouest"
+      ],
+      "address": "Place du Béguinage 13, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Robert Montgomery Invisible graffiti of love",
+      "circuits": [
+        "art_ouest"
+      ],
+      "address": "Place Léopold, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Projeto Ruido Le temps",
+      "circuits": [
+        "art_ouest"
+      ],
+      "address": "Rue Claude de Bettignies 19, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Margaux Del Vecchio Anto Carte",
+      "circuits": [
+        "art_ouest"
+      ],
+      "address": "Square Roosevelt 5, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Ana Langeheldt Alegoria de santa Valdetrudis",
+      "circuits": [
+        "art_ouest"
+      ],
+      "address": "Rampe Sainte-Waudru 4, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A la Poire d'Or",
+      "circuits": [
+        "curiosites_nord"
+      ],
+      "address": "Rue d'Havré 15, 7000 Mons, Belgium"
+    },
+    {
+      "name": "The Bootle Arms",
+      "circuits": [
+        "curiosites_nord"
+      ],
+      "address": "Rue de Nimy 14, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Au Paradis",
+      "circuits": [
+        "curiosites_nord"
+      ],
+      "address": "Rue de Nimy 25, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A le Trois Brouet",
+      "circuits": [
+        "curiosites_nord"
+      ],
+      "address": "Rue de Nimy 72, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Saint-Pierre Rue de Nimy",
+      "circuits": [
+        "curiosites_nord"
+      ],
+      "address": "Rue de Nimy 80, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Aux Trois Herrents",
+      "circuits": [
+        "curiosites_nord"
+      ],
+      "address": "Rue de Nimy 83, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Armes de Mons Petit Marche",
+      "circuits": [
+        "curiosites_nord"
+      ],
+      "address": "Rue de Nimy 83, 7000 Mons, Belgium"
+    },
+    {
+      "name": "IHS dans un soleil",
+      "circuits": [
+        "curiosites_nord"
+      ],
+      "address": "Rue de Nimy 89, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Aux Trois Verts Chapeaux",
+      "circuits": [
+        "curiosites_nord"
+      ],
+      "address": "Rue de Nimy 102, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A la Tette d'Or",
+      "circuits": [
+        "curiosites_est"
+      ],
+      "address": "Rue de la Poterie 2, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Le Lecteur Colas",
+      "circuits": [
+        "curiosites_est"
+      ],
+      "address": "Rue d'Havré 35, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Au Lion d'Or",
+      "circuits": [
+        "curiosites_est"
+      ],
+      "address": "Rue d'Havré 42, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Millesime MDCCXII",
+      "circuits": [
+        "curiosites_est"
+      ],
+      "address": "Rue d'Havré 44, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A la Clef d'Or",
+      "circuits": [
+        "curiosites_est"
+      ],
+      "address": "Rue d'Havré 44, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A la Tasche d'Argent",
+      "circuits": [
+        "curiosites_est"
+      ],
+      "address": "Rue d'Havré 48, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A la Lunette d'Or",
+      "circuits": [
+        "curiosites_est"
+      ],
+      "address": "Rue d'Havré 50, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Au Renard",
+      "circuits": [
+        "curiosites_est"
+      ],
+      "address": "Rue d'Havré 51, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A la Balance d'Or",
+      "circuits": [
+        "curiosites_est"
+      ],
+      "address": "Rue d'Havré 53, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A la Paile d'Or",
+      "circuits": [
+        "curiosites_est"
+      ],
+      "address": "Rue d'Havré 72, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Au Corbeau",
+      "circuits": [
+        "curiosites_est"
+      ],
+      "address": "Rue d'Havré 106, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Pelles a enfourner 1573",
+      "circuits": [
+        "curiosites_est"
+      ],
+      "address": "Rue d'Havré 114, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A la Faux d'Or",
+      "circuits": [
+        "curiosites_est"
+      ],
+      "address": "Rue d'Havré 115, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A la Licorne",
+      "circuits": [
+        "curiosites_est"
+      ],
+      "address": "Rue d'Havré 116, 7000 Mons, Belgium"
+    },
+    {
+      "name": "La Croix d'Or Havre",
+      "circuits": [
+        "curiosites_est"
+      ],
+      "address": "Rue d'Havré 117, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Au Mousqueton d'Or",
+      "circuits": [
+        "curiosites_est"
+      ],
+      "address": "Rue d'Havré 122, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A la Grande Rose",
+      "circuits": [
+        "curiosites_sud"
+      ],
+      "address": "Grand'Rue 70, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Au Pistolet d'Or",
+      "circuits": [
+        "curiosites_est"
+      ],
+      "address": "Grand'Rue 70, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A l'Ecaille d'Or",
+      "circuits": [
+        "curiosites_est"
+      ],
+      "address": "Rue du Hautbois 22, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Fontaine Rue de Bertaimont",
+      "circuits": [
+        "curiosites_sud"
+      ],
+      "address": "Rue de Bertaimont 31, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A la Coupe d'Or",
+      "circuits": [
+        "curiosites_ouest"
+      ],
+      "address": "Rue de la Coupe 17, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Mortier et Pilon",
+      "circuits": [
+        "curiosites_sud"
+      ],
+      "address": "Rue de Houdain 10, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Colombe du Saint-Esprit",
+      "circuits": [
+        "curiosites_sud"
+      ],
+      "address": "Rue de Houdain 13, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Au Paon et au Cygne",
+      "circuits": [
+        "curiosites_ouest"
+      ],
+      "address": "Rue des Fripiers 22, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Chateau de le Marcote",
+      "circuits": [
+        "curiosites_sud"
+      ],
+      "address": "Rue des Marcottes 33, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Cheval Dore",
+      "circuits": [
+        "curiosites_ouest"
+      ],
+      "address": "Rue du Parc 19, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A la Bonne Femme",
+      "circuits": [
+        "curiosites_sud"
+      ],
+      "address": "Rue Spira 6, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Armes de Mons Rue de la Clef",
+      "circuits": [
+        "curiosites_sud"
+      ],
+      "address": "Rue de la Clef 4, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Au Grand Laboureur",
+      "circuits": [
+        "curiosites_sud"
+      ],
+      "address": "Rue de la Clef 30, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Au Gros Visage",
+      "circuits": [
+        "curiosites_nord"
+      ],
+      "address": "Rue du Miroir 10, 7000 Mons, Belgium"
+    },
+    {
+      "name": "St Franciscus Kring",
+      "circuits": [
+        "curiosites_ouest"
+      ],
+      "address": "Rue Masquelier 31, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Cartouche et blason Grande Triperie",
+      "circuits": [
+        "curiosites_ouest"
+      ],
+      "address": "Rue de la Grande Triperie 13, 7000 Mons, Belgium"
+    },
+    {
+      "name": "16 IHS 93",
+      "circuits": [
+        "curiosites_sud"
+      ],
+      "address": "Rue des Groseilliers 38, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Croix plume et pinceau",
+      "circuits": [
+        "curiosites_sud"
+      ],
+      "address": "Rue Terre-du-Prince 3, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Loge maconnique Rue Chisaire",
+      "circuits": [
+        "curiosites_ouest"
+      ],
+      "address": "Rue Chisaire 2, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A la Croix d'Or Croix-Place",
+      "circuits": [
+        "curiosites_sud"
+      ],
+      "address": "Croix-Place 3, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Le Gant",
+      "circuits": [
+        "curiosites_ouest"
+      ],
+      "address": "Grand'Rue 95, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A la Couronne Grand Rue",
+      "circuits": [
+        "curiosites_ouest"
+      ],
+      "address": "Grand'Rue 102, 7000 Mons, Belgium"
+    },
+    {
+      "name": "BF IHS IL",
+      "circuits": [
+        "curiosites_ouest"
+      ],
+      "address": "Grand'Rue 104, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Portes du Theatre Royal",
+      "circuits": [
+        "curiosites_nord"
+      ],
+      "address": ""
+    },
+    {
+      "name": "La Belle Plebeienne",
+      "circuits": [
+        "curiosites_est"
+      ],
+      "address": "Parc du Waux-Hall, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Buste de la reine Astrid",
+      "circuits": [
+        "curiosites_est"
+      ],
+      "address": "Parc du Waux-Hall, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Cantoria Roland de Lassus",
+      "circuits": [
+        "curiosites_ouest"
+      ],
+      "address": "Rue du Chapitre, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Rue de Nimy extremite",
+      "circuits": [
+        "commerces"
+      ],
+      "address": ""
+    },
+    {
+      "name": "Rue du Miroir",
+      "circuits": [
+        "commerces"
+      ],
+      "address": ""
+    },
+    {
+      "name": "Rue d'Havre extremite",
+      "circuits": [
+        "commerces"
+      ],
+      "address": ""
+    },
+    {
+      "name": "Rue du Hautbois",
+      "circuits": [
+        "commerces"
+      ],
+      "address": ""
+    },
+    {
+      "name": "Rue de la Clef",
+      "circuits": [
+        "commerces"
+      ],
+      "address": ""
+    },
+    {
+      "name": "Rue de Houdain",
+      "circuits": [
+        "commerces"
+      ],
+      "address": ""
+    },
+    {
+      "name": "Rue des Capucins",
+      "circuits": [
+        "commerces"
+      ],
+      "address": ""
+    },
+    {
+      "name": "Rue Leopold II",
+      "circuits": [
+        "commerces"
+      ],
+      "address": ""
+    }
+  ],
+  "downloadFailed": [],
+  "downloaded": [
+    {
+      "name": "Grand'Rue",
+      "file": "GrandRue.jpg",
+      "source": "File:0 Mons - Passage Victor Hugo (1).JPG",
+      "reason": "street-general",
+      "bytes": 836945
+    },
+    {
+      "name": "Laurence Vray Instant suspendu",
+      "file": "Laurence_Vray_Instant_suspendu.jpg",
+      "source": "File:0 Mons - Rue d'Enghien, 19 (1).JPG",
+      "reason": "street+number",
+      "bytes": 666190
+    },
+    {
+      "name": "Atelier Pica Pica Panorama",
+      "file": "Atelier_Pica_Pica_Panorama.jpg",
+      "source": "File:0 'Panorama' PICA PICA - Passage Victor Hugo MONS (1).JPG",
+      "reason": "street-art-title",
+      "bytes": 636363
+    },
+    {
+      "name": "Zesar Bahamonte Le Dragon",
+      "file": "Zesar_Bahamonte_Le_Dragon.jpg",
+      "source": "File:0 'Dragon' Zesar Bahamonte - Rue Rossignol 14 à Mons.JPG",
+      "reason": "street-art-title",
+      "bytes": 677607
+    },
+    {
+      "name": "Zesar Bahamonte Saint Georges",
+      "file": "Zesar_Bahamonte_Saint_Georges.jpg",
+      "source": "File:0 'St Georges' Zesar Bahamonte - Rue du Grand jour 29 à Mons (1).jpg",
+      "reason": "street-art-title",
+      "bytes": 860586
+    },
+    {
+      "name": "Arts2 Tunnel de la Paix",
+      "file": "Arts2_Tunnel_de_la_Paix.jpg",
+      "source": "File:0 Mons - Rue de la Croix Rouge (2).JPG",
+      "reason": "street-general",
+      "bytes": 675370
+    },
+    {
+      "name": "Noir Artist Don't sleep on your dream",
+      "file": "Noir_Artist_Dont_sleep_on_your_dream.jpg",
+      "source": "File:0 'Don't sleep on your deam' - Noir Artist - Mons (1).JPG",
+      "reason": "street-art-title",
+      "bytes": 467322
+    },
+    {
+      "name": "Godmess Third Rua Storytelling",
+      "file": "Godmess_Third_Rua_Storytelling.jpg",
+      "source": "File:0 'Godmess et Thirdrua' - Cour du Petit Marché à Mons (1).JPG",
+      "reason": "street-art-title",
+      "bytes": 702078
+    },
+    {
+      "name": "Leonidas Giannakopoulos Global City",
+      "file": "Leonidas_Giannakopoulos_Global_City.jpg",
+      "source": "File:0 'Global City' - L. Giannakopulos - Rue de Nimy (1).jpg",
+      "reason": "street-art-title",
+      "bytes": 1027296
+    },
+    {
+      "name": "Ufocinque Passeggiando nella Storia",
+      "file": "Ufocinque_Passeggiando_nella_Storia.jpg",
+      "source": "File:0 Mons - Rue des Arbalestriers (1).JPG",
+      "reason": "street-general",
+      "bytes": 914590
+    },
+    {
+      "name": "Levalet L'homme des cavernes",
+      "file": "Levalet_Lhomme_des_cavernes.jpg",
+      "source": "File:0 'L'Homme des Cavernes' Charles Leval - Rue de la Halle - Mons (1).JPG",
+      "reason": "street-art-title",
+      "bytes": 496697
+    },
+    {
+      "name": "Farm Prod Rue de la Halle",
+      "file": "Farm_Prod_Rue_de_la_Halle.jpg",
+      "source": "File:0 'Adam Ève baromètre horloge boussole cartes de tarot' - Farm Prod - Mons (1).JPG",
+      "reason": "street-art-title",
+      "bytes": 1299852
+    },
+    {
+      "name": "Cedric Le Borgne La riviere",
+      "file": "Cedric_Le_Borgne_La_riviere.jpg",
+      "source": "File:0 Mons - Marché aux Poissons (1).JPG",
+      "reason": "street-general",
+      "bytes": 528689
+    },
+    {
+      "name": "Thomas Istasse La lune de Malapert",
+      "file": "Thomas_Istasse_La_lune_de_Malapert.jpg",
+      "source": "File:0 'L'Oiseau sous le Lune' - Rue des Fripiers - Mons.JPG",
+      "reason": "street-art-title",
+      "bytes": 1028598
+    },
+    {
+      "name": "Dussart Myncke True story Marche aux herbes",
+      "file": "Dussart_Myncke_True_story_Marche_aux_herbes.jpg",
+      "source": "File:0 'True Story' Calvin Dussart Charles Minck - Mons (1).JPG",
+      "reason": "street-art-title",
+      "bytes": 1503626
+    },
+    {
+      "name": "Dussart Myncke True story Croix Place",
+      "file": "Dussart_Myncke_True_story_Croix_Place.jpg",
+      "source": "File:0 'True Story' Calvin Dussart Charles Minck - Mons (2).JPG",
+      "reason": "street-art-title",
+      "bytes": 1093860
+    },
+    {
+      "name": "Duek Eldorado",
+      "file": "Duek_Eldorado.jpg",
+      "source": "File:0 'Eldorado' - Duek - Rue des Fripiers - Mons (1).JPG",
+      "reason": "street-art-title",
+      "bytes": 565822
+    },
+    {
+      "name": "Poni Grand Rue",
+      "file": "Poni_Grand_Rue.jpg",
+      "source": "File:Grand' Rue 8 - Oeuvre de Hilda Palafox 'Poni' - Mexique (1).jpg",
+      "reason": "street-art-title",
+      "bytes": 391490
+    },
+    {
+      "name": "Momo Rue Cantimpret",
+      "file": "Momo_Rue_Cantimpret.jpg",
+      "source": "File:0 'Fresque de MOMO' Mons (1).JPG",
+      "reason": "street-art-title",
+      "bytes": 1373315
+    },
+    {
+      "name": "Zmogk The elements",
+      "file": "Zmogk_The_elements.jpg",
+      "source": "File:0 'The Element' - Zmogk - Mons (1).JPG",
+      "reason": "street-art-title",
+      "bytes": 453190
+    },
+    {
+      "name": "Tris Horizon",
+      "file": "Tris_Horizon.jpg",
+      "source": "File:0 'Horizon' TRIS - Mons (1).JPG",
+      "reason": "street-art-title",
+      "bytes": 544439
+    },
+    {
+      "name": "Dourone Boulevard Sainctelette",
+      "file": "Dourone_Boulevard_Sainctelette.jpg",
+      "source": "File:0 'Acteurs du Doudou ' Dourone - Mons.JPG",
+      "reason": "street-art-title",
+      "bytes": 686646
+    },
+    {
+      "name": "Daniel Eime Resistance",
+      "file": "Daniel_Eime_Resistance.jpg",
+      "source": "File:0 'Résistance' - Daniel Eime - Mons (1).JPG",
+      "reason": "street-art-title",
+      "bytes": 567793
+    },
+    {
+      "name": "10eme ARTE L'envol des ballons",
+      "file": "10eme_ARTE_Lenvol_des_ballons.jpg",
+      "source": "File:0 'L'Envol des ballons'. - 10ème Arte - Mons.JPG",
+      "reason": "street-art-title",
+      "bytes": 1234092
+    },
+    {
+      "name": "Arts2 Roland de Lassus",
+      "file": "Arts2_Roland_de_Lassus.jpg",
+      "source": "File:0 'Hommage à Roland de Lassus' - ÉCOLE Arts² - Mons.JPG",
+      "reason": "street-art-title",
+      "bytes": 655964
+    },
+    {
+      "name": "Rachelle Celiane Santerre Jacques Du Broeucq",
+      "file": "Rachelle_Celiane_Santerre_Jacques_Du_Broeucq.jpg",
+      "source": "File:0 'La fraise de Roland de Lassus' - Louise Delattre - Mons.JPG",
+      "reason": "street-art-title",
+      "bytes": 1441265
+    },
+    {
+      "name": "Andrea Ravo Mattoni Sainte Waudru et ses filles",
+      "file": "Andrea_Ravo_Mattoni_Sainte_Waudru_et_ses_filles.jpg",
+      "source": "File:0 'Ste Waudru et ses filles' Antoine Ysendijk - Mons (1).JPG",
+      "reason": "street-art-title",
+      "bytes": 1383614
+    },
+    {
+      "name": "Filip Gilissen Spread your wings",
+      "file": "Filip_Gilissen_Spread_your_wings.jpg",
+      "source": "File:0 Mons - Square Saint-Germain (2b).JPG",
+      "reason": "street-general",
+      "bytes": 1083376
+    },
+    {
+      "name": "Nevercrew Dissipation",
+      "file": "Nevercrew_Dissipation.jpg",
+      "source": "File:0 Mons - Rue à Dégrès (4).JPG",
+      "reason": "street-art-title",
+      "bytes": 1126399
+    },
+    {
+      "name": "Le Gros Maillet",
+      "file": "Le_Gros_Maillet.jpg",
+      "source": "File:0 Mons - Rue de Nimy, 9.JPG",
+      "reason": "street+number",
+      "bytes": 1133041
+    },
+    {
+      "name": "IHS Rue de Nimy 71",
+      "file": "IHS_Rue_de_Nimy_71.jpg",
+      "source": "File:0 Mons - Rue de Nimy, 71.JPG",
+      "reason": "street+number",
+      "bytes": 775531
+    },
+    {
+      "name": "A la Clee Rouge",
+      "file": "A_la_Clee_Rouge.jpg",
+      "source": "File:0 Mons - Rue de Nimy, 96 (1).JPG",
+      "reason": "street+number",
+      "bytes": 976833
+    },
+    {
+      "name": "A Saint-Antoine",
+      "file": "A_Saint-Antoine.jpg",
+      "source": "File:0 Mons - Rue de la Coupe 37.jpg",
+      "reason": "street+number",
+      "bytes": 1345187
+    },
+    {
+      "name": "Blasons muets",
+      "file": "Blasons_muets.jpg",
+      "source": "File:0 Mons - Rue du Miroir, 8.JPG",
+      "reason": "street+number",
+      "bytes": 1043084
+    },
+    {
+      "name": "A la Ville d'Avesnes",
+      "file": "A_la_Ville_dAvesnes.jpg",
+      "source": "File:0 Mons - Grand'Place (1).JPG",
+      "reason": "street-general",
+      "bytes": 748302
+    },
+    {
+      "name": "Bas-relief litterature montoise",
+      "file": "Bas-relief_litterature_montoise.jpg",
+      "source": "File:0 Mons - Jardin du Mayeur (1).JPG",
+      "reason": "street-general",
+      "bytes": 1206576
+    },
+    {
+      "name": "Rue de Nimy",
+      "file": "Rue_de_Nimy.jpg",
+      "source": "File:0 Mons - Rue de Nimy (85).JPG",
+      "reason": "street-general",
+      "bytes": 926974
+    },
+    {
+      "name": "Rue d'Havre debut",
+      "file": "Rue_dHavre_debut.jpg",
+      "source": "File:0 Mons - Rue d'Havré (1).JPG",
+      "reason": "street-general",
+      "bytes": 953915
+    },
+    {
+      "name": "Rue de la Chaussee",
+      "file": "Rue_de_la_Chaussee.jpg",
+      "source": "File:0 Mons - Rue de la Chaussée (1a).JPG",
+      "reason": "street-general",
+      "bytes": 790424
+    },
+    {
+      "name": "Rue de la Petite Guirlande",
+      "file": "Rue_de_la_Petite_Guirlande.jpg",
+      "source": "File:0 Mons - Rue de la Petite Guirlande (1).JPG",
+      "reason": "street-general",
+      "bytes": 733921
+    },
+    {
+      "name": "Rue Rogier",
+      "file": "Rue_Rogier.jpg",
+      "source": "File:0 Mons - Rue Rogier (1).JPG",
+      "reason": "street-general",
+      "bytes": 711575
+    },
+    {
+      "name": "A la Tete Saint-Jean",
+      "file": "A_la_Tete_Saint-Jean.jpg",
+      "source": "File:Mons - A la tête saint Jean - enseigne - 2020-06-29 - 01.jpg",
+      "reason": "commons-search",
+      "bytes": 699399
+    }
+  ]
+}

@@ -1,4 +1,61 @@
-<!DOCTYPE html><html lang="fr"><head><meta charset="utf-8"><meta content="width=device-width,initial-scale=1" name="viewport"><title>Personnalités Montoises</title><link href="style.css" rel="stylesheet"><script src="js/access-control.js"></script><script src="translations/translationManager.js"></script><script src="translations/languageSelector.js"></script><script src="js/access-guard.js" defer="defer"></script><style>body{font-family:sans-serif;padding:20px;line-height:1.6}h1{text-align:center}.content{max-width:720px;margin:auto;white-space:pre-wrap}#return-btn{display:block;margin:40px auto;padding:10px 20px;font-size:1rem}#personnalites-container{max-width:720px;margin:auto}</style></head><body><header class="main-header"><div class="header-content"><img src="images/icone titre0.png" alt="Icone 0" class="header-img left"><h1 id="mainTitle">CityLoop Quest Mons - La Chevauchée de Saint Georges</h1><img src="images/icone titre1.png" alt="Icone 1" class="header-img right"></div></header><h1 id="pageTitle">👤 Personnalités Montoises</h1><div id="personnalites-container"></div><button class="back-button" id="back-button">BACK</button><script>// Charger les traductions
+<!DOCTYPE html>
+
+<html lang="fr">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Personnalités Montoises</title>
+<link href="style.css" rel="stylesheet"/>
+<script src="js/access-control.js"></script>
+<script src="translations/translationManager.js"></script>
+<script src="translations/languageSelector.js"></script>
+
+<!-- Garde d'accès : bloque l'accès si aucun code d'activation valide (clq_short_code) -->
+<script src="js/access-guard.js" defer></script>
+
+
+<style>
+    body {
+      font-family: sans-serif;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    h1 {
+      text-align: center;
+    }
+    .content {
+      max-width: 720px;
+      margin: auto;
+      white-space: pre-wrap;
+    }
+    #return-btn {
+      display: block;
+      margin: 40px auto;
+      padding: 10px 20px;
+      font-size: 1rem;
+    }
+    #personnalites-container {
+        max-width: 720px;
+        margin: auto;
+    }
+  </style>
+</head>
+<body>
+<header class="main-header">
+    <div class="header-content">
+        <img src="images/icone titre0.png" alt="Icone 0" class="header-img left">
+        <h1 id="mainTitle">CityLoop Quest Mons - La Chevauchée de Saint Georges</h1>
+        <img src="images/icone titre1.png" alt="Icone 1" class="header-img right">
+    </div>
+</header>
+<h1 id="pageTitle">👤 Personnalités Montoises</h1>
+<div id="personnalites-container">
+    <!-- Le contenu sera généré dynamiquement par JavaScript -->
+</div>
+
+<button class="back-button" id="back-button">BACK</button>
+<script>
+// Charger les traductions
 let translations = {};
 
 async function loadTranslations() {
@@ -129,4 +186,7 @@ document.addEventListener("DOMContentLoaded", () => {
       window.location.href = "personnalites.html";
     });
   }
-});</script></body></html>
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,5773 @@
+{
+  "Grand-place": [
+    {
+      "question": "Which 15th-century Gothic building dominates the Grand-Place of Mons?",
+      "options": [
+        "The Baroque belfry",
+        "The Town Hall",
+        "Sainte-Waudru Collegiate Church"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which annual tradition takes place on the Grand-Place during the Ducasse?",
+      "options": [
+        "The combat of Saint George against the Dragon, known as the Lumeçon",
+        "The procession of the Car d'Or to Casteau",
+        "The throwing of the banner from the belfry"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What was set into the paving, at the very spot of the Lumeçon combat?",
+      "options": [
+        "A Renaissance campanile",
+        "A 12-metre ring of blue stone, engraved with the names of the 19 municipalities",
+        "A replica of the Car d'Or"
+      ],
+      "answer": 1
+    }
+  ],
+  "Fontaine du Rouge Puits": [
+    {
+      "question": "Why is this fountain called the Rouge-Puits?",
+      "options": [
+        "Because it was painted entirely red for a time",
+        "Because the water was stained by the washing of meat",
+        "Because it marked the firefighters' entrance"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who is its architect, winner of the Prix de Rome for architecture in 1828?",
+      "options": [
+        "Charles Sury",
+        "Albert J.B. Jamot",
+        "Emmanuel-Henri Fonson"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What stands at the top of the column, on the stepped entablature?",
+      "options": [
+        "A campanile",
+        "Four stone spheres",
+        "A stone vase"
+      ],
+      "answer": 2
+    }
+  ],
+  "Immeuble Blanc Lévrier": [
+    {
+      "question": "Where does the name “Au Blanc Lévrier” come from?",
+      "options": [
+        "From a kennel established on the ground floor",
+        "From sculptures of two greyhounds and the inscription “AV BLAN LEVRIE”",
+        "From a coat of arms depicting a hunting dog"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which sovereign is evoked by a coat of arms on the façade?",
+      "options": [
+        "Charles V, with the double-headed eagle and the collar of the Order of the Golden Fleece",
+        "Louis XIV",
+        "Napoleon I"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which year was this town house in the civil Gothic style erected?",
+      "options": [
+        "1458",
+        "1709",
+        "1530"
+      ],
+      "answer": 2
+    }
+  ],
+  "Immeuble Grand Place 31 34": [
+    {
+      "question": "How many houses make up this homogeneous block around 1709?",
+      "options": [
+        "Three houses in blue stone",
+        "Four houses in rendered brick and blue stone",
+        "Six Neoclassical houses"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How many bays do the façades present on the Grand-Place?",
+      "options": [
+        "Twelve bays over three storeys",
+        "Seven bays of Tournai type",
+        "Four bays over two storeys"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What element gives these façades their horizontal rhythm?",
+      "options": [
+        "Tuscan columns",
+        "Stepped gables",
+        "Continuous bands joining sills and lintels"
+      ],
+      "answer": 2
+    }
+  ],
+  "Office du Tourisme": [
+    {
+      "question": "From which century does the Classical building that houses the Tourist Office date?",
+      "options": [
+        "15th century",
+        "18th century",
+        "19th century"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "When was the building fully renovated to accommodate the Tourist Office?",
+      "options": [
+        "Between 2013 and 2014",
+        "In 1981",
+        "In 1948"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What aspect was retained during this renovation?",
+      "options": [
+        "The aldermen's rood screen",
+        "The original stables",
+        "The historic appearance of the façade"
+      ],
+      "answer": 2
+    }
+  ],
+  "Hotel de la Couronne": [
+    {
+      "question": "Which Mons architect designed the Hôtel de la Couronne between 1766 and 1772?",
+      "options": [
+        "Mathieu de Layens",
+        "Emmanuel-Henri-Chrétien Fonson",
+        "Louis Ledoux"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which older building did this hôtel replace?",
+      "options": [
+        "The “Grise Ostriche”, attested as early as 1550",
+        "The hôtel of the Sovereign Council of Hainaut",
+        "The town refuge of Cambron Abbey"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What function did the building mainly serve until the end of the 19th century?",
+      "options": [
+        "Courthouse",
+        "Staging post for the Paris–Brussels stagecoach",
+        "Aldermen's oratory"
+      ],
+      "answer": 1
+    }
+  ],
+  "Chapelle Saint Georges": [
+    {
+      "question": "In which year was this Renaissance chapel built?",
+      "options": [
+        "1458",
+        "1601",
+        "1797"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "For whom was it originally intended?",
+      "options": [
+        "The canonesses of Sainte-Waudru",
+        "The beguines of Cantimpret",
+        "The aldermen, as the magistrate's oratory"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What did the rood screen, demolished around 1880, make possible?",
+      "options": [
+        "Members of the magistrate could attend services from the salon des États",
+        "It linked the chapel to the belfry",
+        "It displayed the treasury of Sainte-Waudru"
+      ],
+      "answer": 0
+    }
+  ],
+  "Immeuble Grand Place 28 30": [
+    {
+      "question": "Of which style and century is this ensemble representative?",
+      "options": [
+        "Brabantine Gothic of the 15th century",
+        "Mons Classical of the 18th century",
+        "Art Nouveau of the 20th century"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Of how many houses in blue stone is the ensemble composed?",
+      "options": [
+        "Two houses",
+        "Four houses",
+        "Three houses"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What feature distinguishes number 29?",
+      "options": [
+        "A wrought-iron balcony and stone balusters",
+        "An original mansard roof",
+        "Seven bays of Tournai type"
+      ],
+      "answer": 0
+    }
+  ],
+  "Immeuble Grand Place 14": [
+    {
+      "question": "To which period does this corner building on rue du Miroir belong?",
+      "options": [
+        "The last third of the 18th century",
+        "1530",
+        "The 14th century"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How does the main façade facing the Grand-Place present itself?",
+      "options": [
+        "Twelve bays over two storeys",
+        "Three bays over three storeys, in blue stone",
+        "A Baroque façade with columns"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is generally found on the ground floor of buildings on the Grand-Place?",
+      "options": [
+        "Oratories",
+        "Municipal archives",
+        "Shops"
+      ],
+      "answer": 2
+    }
+  ],
+  "Theatre Royal": [
+    {
+      "question": "When was the Théâtre Royal inaugurated?",
+      "options": [
+        "18 October 1843",
+        "In 1661",
+        "In 1937"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which Mons architect drew up the plans?",
+      "options": [
+        "Vincent Anthony",
+        "Charles Sury",
+        "Paul Saintenoy"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What event partly ravaged the building in 1869?",
+      "options": [
+        "A bombardment",
+        "A siege",
+        "A fire"
+      ],
+      "answer": 2
+    }
+  ],
+  "Singe du Grand Garde": [
+    {
+      "question": "Where is the Singe du Grand'Garde affixed?",
+      "options": [
+        "At the foot of the Town Hall staircase",
+        "On the façade of the Town Hall",
+        "On the Ropieur fountain"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What gesture do visitors make for good luck?",
+      "options": [
+        "They stroke its polished skull",
+        "They place a coin in its hand",
+        "They walk three times around the statue"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How is the monkey depicted?",
+      "options": [
+        "Standing, brandishing a shield",
+        "Crouching, scratching its cheek with the left hand",
+        "Winged, like a dragon"
+      ],
+      "answer": 1
+    }
+  ],
+  "Statue du Dragon": [
+    {
+      "question": "Who sculpted the bronzes of Saint George and the dragon near the entrance of the Town Hall?",
+      "options": [
+        "Léon Gobert",
+        "Xavier Veilhan",
+        "Gérard Garouste"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which year were these sculptures inaugurated?",
+      "options": [
+        "1937",
+        "2006",
+        "2024"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which Mons tradition do these contemporary works recall?",
+      "options": [
+        "The combat of Saint George against the dragon, celebrated at the Ducasse",
+        "The founding of the Mundaneum",
+        "The construction of the Baroque belfry"
+      ],
+      "answer": 0
+    }
+  ],
+  "Hotel de Ville": [
+    {
+      "question": "In which year did construction of the Town Hall begin?",
+      "options": [
+        "1458",
+        "1661",
+        "1843"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which architect, also known for the Town Hall of Leuven, directed its construction?",
+      "options": [
+        "Louis Ledoux",
+        "Mathieu de Layens",
+        "Jean-Baptiste Huriau"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which bell, dating from 1390, is housed in the Renaissance campanile?",
+      "options": [
+        "El Grosse Cloche du Catiau",
+        "The Bancloque",
+        "Zandrine"
+      ],
+      "answer": 1
+    }
+  ],
+  "Ropieur": [
+    {
+      "question": "Who sculpted the Ropieur fountain, inaugurated on 26 September 1937?",
+      "options": [
+        "Gérard Garouste",
+        "Léon Gobert",
+        "David Mesguich"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who proposed this fountain as early as 1931, then director of the Academy of Fine Arts of Mons?",
+      "options": [
+        "Paul Heupgen",
+        "Marcel Gillis",
+        "Paul Otlet"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How does Heupgen define the Ropieur, beyond the appearance of the street urchin?",
+      "options": [
+        "A warrior saint",
+        "A military symbol",
+        "Intelligent, mischievous but good-hearted"
+      ],
+      "answer": 2
+    }
+  ],
+  "Gillis": [
+    {
+      "question": "What were the activities of Marcel Gillis (1897–1972)?",
+      "options": [
+        "Solely a military architect",
+        "Painter, draughtsman, restorer, caricaturist, poet and popular singer",
+        "Solely an archives curator"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Of which museum was he curator from 1928 to 1965?",
+      "options": [
+        "The Mundaneum",
+        "The Musée du Doudou",
+        "The Museum of Fine Arts of Mons"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "To which movement does his figurative work belong?",
+      "options": [
+        "Walloon Realism, close to the Nervia circle",
+        "Brussels Art Nouveau",
+        "Hainaut Baroque"
+      ],
+      "answer": 0
+    }
+  ],
+  "Mayeur": [
+    {
+      "question": "Where is the Jardin du Mayeur?",
+      "options": [
+        "In front of Calatrava station",
+        "Behind the Town Hall",
+        "In Waux-Hall Park"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "When was this garden laid out?",
+      "options": [
+        "Between 1930 and 1936",
+        "In 1458",
+        "Between 1862 and 1864"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which sculpture of 1937 can be seen there in particular?",
+      "options": [
+        "The Singe du Grand'Garde",
+        "The statue by Xavier Veilhan",
+        "The Ropieur, by Léon Gobert"
+      ],
+      "answer": 2
+    }
+  ],
+  "Musee du Doudou": [
+    {
+      "question": "What does the Musée du Doudou mainly celebrate?",
+      "options": [
+        "The Ducasse de Mons, UNESCO Intangible Cultural Heritage since 2005",
+        "The history of the counts of Hainaut",
+        "The contemporary art collections of the BAM"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which historic building is the museum housed?",
+      "options": [
+        "The former convent of the Filles de Notre-Dame",
+        "The former Mont-de-Piété, in the Jardin du Mayeur",
+        "The Caserne Guillaume"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which legendary combat is explained there in particular?",
+      "options": [
+        "The Battle of Jemappes",
+        "The siege of 1691",
+        "The Lumeçon, combat of Saint George and the Dragon"
+      ],
+      "answer": 2
+    }
+  ],
+  "Conservatoire Royal": [
+    {
+      "question": "In which former complex has the Conservatoire been housed since 1873?",
+      "options": [
+        "The convent of the Filles de Notre-Dame, rue de Nimy",
+        "The Caserne Major Sabbe",
+        "The Hôtel de Bavière"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When was the Conservatoire founded by the Société des concerts et redoutes?",
+      "options": [
+        "1450",
+        "1820",
+        "1937"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Into which higher school of the arts is it integrated today?",
+      "options": [
+        "ESAPV only",
+        "The Royal Academy of Brussels",
+        "ARTS²"
+      ],
+      "answer": 2
+    }
+  ],
+  "Eglise Sainte Elisabeth": [
+    {
+      "question": "To which saint was the original chapel, founded thanks to Isabeau d'Antoing, dedicated?",
+      "options": [
+        "Sainte Waudru",
+        "Elisabeth of Hungary",
+        "Notre-Dame de Messines"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "When was the Gothic church consecrated?",
+      "options": [
+        "16 October 1588",
+        "In 1345",
+        "25 March 1714"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which Mons architect directed the restoration after the fire of 1714?",
+      "options": [
+        "Vincent Anthony",
+        "Nicolas de Brissy",
+        "Claude-Joseph de Bettignies"
+      ],
+      "answer": 2
+    }
+  ],
+  "Palais de Justice": [
+    {
+      "question": "Who built the Palais de Justice of Mons between 1844 and 1848?",
+      "options": [
+        "Jean-Baptiste Huriau",
+        "Charles-Damas Vincent",
+        "Joseph Hubert"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Of which style is the façade in Soignies stone?",
+      "options": [
+        "Brabantine Gothic",
+        "Neoclassical",
+        "Baroque"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which court of appeal has sat there since 1975?",
+      "options": [
+        "The Court of Cassation",
+        "The Council of State",
+        "The Court of Appeal of Mons"
+      ],
+      "answer": 2
+    }
+  ],
+  "Maison Losseau": [
+    {
+      "question": "Which Mons lawyer and patron transformed this residence from 1899?",
+      "options": [
+        "Henri La Fontaine",
+        "Léon Losseau",
+        "Paul Heupgen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which Belgian Art Nouveau architect first directed the works?",
+      "options": [
+        "Paul Saintenoy",
+        "Charles Sury",
+        "Rémi de Puydt"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What modern amenities was the house the first in Mons to have?",
+      "options": [
+        "The public telephone",
+        "Electricity and coal-fired central heating",
+        "The hydraulic lift"
+      ],
+      "answer": 1
+    }
+  ],
+  "Maison Rue de Nimy 53": [
+    {
+      "question": "Of which architectural style is this listed house?",
+      "options": [
+        "Art Nouveau",
+        "Scheldt Gothic",
+        "Tournai style"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which institution has its headquarters there today?",
+      "options": [
+        "IDEA, territorial development agency of the Cœur du Hainaut",
+        "The State Archives",
+        "The Mundaneum"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Since when has the building been listed as a monument?",
+      "options": [
+        "1952",
+        "30 May 1989",
+        "2006"
+      ],
+      "answer": 1
+    }
+  ],
+  "Mundaneum": [
+    {
+      "question": "Who founded the Mundaneum at the end of the 19th century?",
+      "options": [
+        "Paul Otlet and Henri La Fontaine",
+        "Léon Losseau and Paul Saintenoy",
+        "Marcel Gillis and the Nervia circle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Why is it sometimes nicknamed the “paper Google”?",
+      "options": [
+        "Because it uses only yellow index cards",
+        "Because it aimed to gather and classify the whole of human knowledge",
+        "Because it invented the Internet"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which award did Henri La Fontaine receive in 1913?",
+      "options": [
+        "The Nobel Prize in Literature",
+        "The Europa Nostra Award",
+        "The Nobel Peace Prize"
+      ],
+      "answer": 2
+    }
+  ],
+  "Place du Parc": [
+    {
+      "question": "Under what name was this square formerly known?",
+      "options": [
+        "Place Saint-Jean",
+        "Marché de Coppenage",
+        "Place des Congrès"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What distinctive shape gives it its urban character?",
+      "options": [
+        "A perfect circle",
+        "A lozenge",
+        "A triangle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which elements were destroyed during the First World War?",
+      "options": [
+        "The belfry and the Bancloque",
+        "The University of Mons",
+        "A bandstand and a statue of Roland de Lassus"
+      ],
+      "answer": 2
+    }
+  ],
+  "Chapelle des Visitandines": [
+    {
+      "question": "Who initiated the establishment of the Visitandines in Mons in 1650?",
+      "options": [
+        "Countess Bucquoy, wife of the Grand Bailiff of Hainaut",
+        "Margaret of Constantinople",
+        "Louise de Bouzanton"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which Mons architect erected the Baroque chapel in 1717?",
+      "options": [
+        "Nicolas de Brissy",
+        "Claude-Joseph de Bettignies",
+        "Albert Jamot"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which institution occupied the premises from 1872 to 2006?",
+      "options": [
+        "The Tourist Office",
+        "The Royal Conservatoire",
+        "The State Archives"
+      ],
+      "answer": 2
+    }
+  ],
+  "Ancienne Caserne de Gendarmerie": [
+    {
+      "question": "In which year was this barracks on rue du Rossignol built?",
+      "options": [
+        "1824",
+        "1870",
+        "1933"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which provincial architect drew up the plans?",
+      "options": [
+        "Charles-Damas Vincent",
+        "Charles Sury",
+        "Jules Hubert"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Of which style is the façade in red brick and white stone?",
+      "options": [
+        "Military Neoclassical",
+        "Hainaut Gothic",
+        "Flemish Neo-Renaissance"
+      ],
+      "answer": 2
+    }
+  ],
+  "Prison de Mons": [
+    {
+      "question": "Which architectural model, in a star plan, does the prison built between 1863 and 1867 follow?",
+      "options": [
+        "The “Ducpétiaux” model",
+        "The basilical plan",
+        "The U-plan of convents"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which French poet was incarcerated there from 1873 to 1875?",
+      "options": [
+        "Arthur Rimbaud",
+        "Paul Verlaine",
+        "Victor Hugo"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why was Verlaine imprisoned there?",
+      "options": [
+        "For desertion",
+        "For gambling debts",
+        "For shooting Arthur Rimbaud"
+      ],
+      "answer": 2
+    }
+  ],
+  "Tour Valenciennoise": [
+    {
+      "question": "When was this tower of the second ramparts erected?",
+      "options": [
+        "Between 1358 and 1359",
+        "Between 1661 and 1672",
+        "In 1825"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is its approximate diameter, with walls that can reach 4 metres in thickness?",
+      "options": [
+        "12 metres",
+        "87 metres",
+        "23 metres"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Why is it particularly precious today?",
+      "options": [
+        "It is the only survivor of the medieval enceinte after the demolition of the ramparts in 1818",
+        "It houses the 49-bell carillon",
+        "It is the oldest religious building in Mons"
+      ],
+      "answer": 0
+    }
+  ],
+  "Pavillons Caserne Cavalerie": [
+    {
+      "question": "Under what name was this barracks, built between 1838 and 1841, known?",
+      "options": [
+        "Caserne Guillaume",
+        "Caserne Léopold",
+        "Caserne Major Sabbe"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How many men and horses could it accommodate?",
+      "options": [
+        "Up to 1,000 men and 600 horses",
+        "Up to 2,000 soldiers only",
+        "600 men and 1,000 horses"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which regiment notably moved in from 1889?",
+      "options": [
+        "The 11th Artillery only",
+        "The foot chasseurs of 1824",
+        "The 2nd Regiment of Chasseurs à cheval"
+      ],
+      "answer": 2
+    }
+  ],
+  "Tank Sherman": [
+    {
+      "question": "Which commemorative tank stands in front of the Mons Memorial Museum?",
+      "options": [
+        "A German Tiger",
+        "The M4A1 Sherman “In the Mood”",
+        "A Renault light tank"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which event does its installation in August 2019 commemorate?",
+      "options": [
+        "The 75th anniversary of the liberation of Mons in September 1944",
+        "The Battle of Waterloo",
+        "The Armistice of 1918"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who commanded the original Sherman “In the Mood”?",
+      "options": [
+        "General Patton",
+        "Staff Sergeant Lafayette G. Pool",
+        "A Belgian officer of 1940"
+      ],
+      "answer": 1
+    }
+  ],
+  "Machine a Eau": [
+    {
+      "question": "Why did Mons decide to create a hydraulic pumping works in the 19th century?",
+      "options": [
+        "To supply only the fountains of the Grand-Place",
+        "To drive a carillon",
+        "To provide drinking water after the cholera epidemics"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which engineer and architect designed the Machine à Eau (1869–1871)?",
+      "options": [
+        "Jules Drion and Joseph Hubert",
+        "Louis Fuchs and Jules Hubert",
+        "Van De Polder and Charles Sury"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "From where was the water pumped, using the force of the Trouille?",
+      "options": [
+        "From the wells of the Marché aux Herbes",
+        "From the springs of Spiennes",
+        "From the Nimy-Blaton canal"
+      ],
+      "answer": 1
+    }
+  ],
+  "Parc du Waux Hall": [
+    {
+      "question": "Who laid out this 5-hectare park between 1862 and 1864?",
+      "options": [
+        "Joseph Hubert",
+        "Louis Fuchs",
+        "Rémi de Puydt"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "When did the City of Mons acquire it to make it a public space?",
+      "options": [
+        "In 1892",
+        "In 1821",
+        "In 1936"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which building stands at the centre of the park?",
+      "options": [
+        "A Baroque belfry",
+        "The former Mont-de-Piété",
+        "An eclectic-style pavilion designed by Jules Hubert"
+      ],
+      "answer": 2
+    }
+  ],
+  "Eglise Saint Nicolas": [
+    {
+      "question": "When was the parish of Saint-Nicolas, the first extra muros, established?",
+      "options": [
+        "In 1224",
+        "In 1664",
+        "In 1588"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which fire destroyed the Gothic church, leaving only the bell-tower?",
+      "options": [
+        "That of 1714 at Sainte-Élisabeth",
+        "That of 1664",
+        "That of 1548"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which architect directed the Baroque reconstruction between 1664 and 1702?",
+      "options": [
+        "Mathieu de Layens",
+        "Claude-Joseph de Bettignies",
+        "Vincent Anthony"
+      ],
+      "answer": 2
+    }
+  ],
+  "Chapelle du Belian": [
+    {
+      "question": "Which architect built this chapel in 1775?",
+      "options": [
+        "Emmanuel-Henri Fonson",
+        "Nicolas de Brissy",
+        "Ouvertus"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "For which community did it serve as an urban refuge?",
+      "options": [
+        "The Sœurs Noires",
+        "The canonesses of Bélian Abbey, at Mesvin",
+        "The Visitandines"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which institution uses it today for exhibitions?",
+      "options": [
+        "The BAM",
+        "The State Archives",
+        "The University of Mons"
+      ],
+      "answer": 2
+    }
+  ],
+  "Marche aux Herbes": [
+    {
+      "question": "What is the Marché aux Herbes square often called?",
+      "options": [
+        "The Petit Marché",
+        "The Grand-Marché",
+        "Place Saint-Jean"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When was a food market distinct from the Grand-Marché created?",
+      "options": [
+        "In 1833",
+        "In 1409",
+        "In 1955"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which fountain stood there until 1955 before being moved?",
+      "options": [
+        "The Fontaine-Pilori",
+        "The Ropieur",
+        "The Fontaine du Rouge-Puits"
+      ],
+      "answer": 2
+    }
+  ],
+  "Maison Rue de la Couronne 20 22": [
+    {
+      "question": "Of which century does this listed house bear witness?",
+      "options": [
+        "The 18th century",
+        "The 16th century",
+        "The 19th century"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How many bays and storeys does its façade present?",
+      "options": [
+        "Three bays over two storeys",
+        "Four bays over three storeys",
+        "Seven Tournai-type bays"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does rue de la Couronne historically connect?",
+      "options": [
+        "The station to Waux-Hall",
+        "The belfry to the Trouille",
+        "The Grand-Place to rue de Nimy"
+      ],
+      "answer": 2
+    }
+  ],
+  "Couvent des Soeurs Noires": [
+    {
+      "question": "Why are these nuns called Sœurs Noires?",
+      "options": [
+        "They wore a black scapular",
+        "Their convent was built in blue stone",
+        "They served only at funerals"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which year did they settle on the edge of the city after leaving the beguinage?",
+      "options": [
+        "1248",
+        "1485",
+        "1498"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What charitable work did they notably carry out?",
+      "options": [
+        "Military teaching",
+        "Care of the sick, including during plague epidemics",
+        "Management of the Mundaneum"
+      ],
+      "answer": 1
+    }
+  ],
+  "Carre des Arts": [
+    {
+      "question": "What was the original function of the building, constructed between 1824 and 1827?",
+      "options": [
+        "A barracks for foot chasseurs, known as the Caserne Guillaume",
+        "A music conservatoire",
+        "A courthouse"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which architect designed its military Neoclassical architecture?",
+      "options": [
+        "Charles Sury",
+        "Rémi de Puydt",
+        "Jean-Baptiste Huriau"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which higher school of the arts has been housed there since 1993?",
+      "options": [
+        "The Royal Conservatoire only",
+        "The Academy of Tournai",
+        "ESAPV, now integrated into ARTS²"
+      ],
+      "answer": 2
+    }
+  ],
+  "Anciens Abattoirs": [
+    {
+      "question": "Which architect built the complex between 1854 and 1855?",
+      "options": [
+        "Charles Sury",
+        "Louis Fuchs",
+        "Joseph Hubert"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When did the abattoirs close for good?",
+      "options": [
+        "In 1948",
+        "On 1 January 1984",
+        "In 2006"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What vocation has the listed site had since opening to the public in 2006?",
+      "options": [
+        "A police station",
+        "A herb market",
+        "A cultural centre dedicated to contemporary art"
+      ],
+      "answer": 2
+    }
+  ],
+  "Eglise Notre Dame de Messines": [
+    {
+      "question": "Under what name was the church originally known?",
+      "options": [
+        "Saint-Nicolas en Bertaimont",
+        "Sainte-Élisabeth",
+        "Saint-Germain"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which event at the beginning of the 17th century turned the site into a place of pilgrimage?",
+      "options": [
+        "The construction of the belfry",
+        "The discovery of a painting of the Virgin Mary in the cemetery",
+        "The arrival of the Récollets only"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where does the present church stand?",
+      "options": [
+        "Place du Parc",
+        "Rue de Nimy",
+        "Rue de Bertaimont"
+      ],
+      "answer": 2
+    }
+  ],
+  "Maison Rue de Bertaimont 17": [
+    {
+      "question": "Since when has this house been listed on the Walloon heritage register?",
+      "options": [
+        "12 August 1988",
+        "10 November 1955",
+        "In 1709"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Of which century is its Mons architecture in blue stone characteristic?",
+      "options": [
+        "15th century",
+        "18th century",
+        "20th century"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which district, known for its ducasse of the giants since 1620, does it stand?",
+      "options": [
+        "Havré",
+        "Nimy",
+        "Messines"
+      ],
+      "answer": 2
+    }
+  ],
+  "Maison Rue de Bertaimont 33": [
+    {
+      "question": "How many storeys and bays does this 18th-century house have?",
+      "options": [
+        "Three storeys and three bays",
+        "Four bays over two storeys",
+        "Twelve bays"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What particular feature does the right-hand bay present?",
+      "options": [
+        "It is blind",
+        "It is slightly set back, wider, with a door and a balcony window",
+        "It bears a campanile"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which historic siege did the district notably experience?",
+      "options": [
+        "The siege of 1815",
+        "The Dutch siege of 1830",
+        "The siege of Mons in 1691"
+      ],
+      "answer": 2
+    }
+  ],
+  "Casemates": [
+    {
+      "question": "Under which regime were the Casemates built between 1817 and 1822?",
+      "options": [
+        "The Kingdom of the Netherlands",
+        "The French Empire",
+        "The independent Belgian State"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How many monumental vaults make up the ensemble?",
+      "options": [
+        "Seven",
+        "Forty-nine",
+        "Twelve"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "For what purpose were they intended, without ever serving as such?",
+      "options": [
+        "To house up to 2,000 soldiers in the event of a siege",
+        "To serve as an abattoir",
+        "To house the Mundaneum"
+      ],
+      "answer": 0
+    }
+  ],
+  "Bonne Maison de Bouzanton": [
+    {
+      "question": "Who founded this orphanage in 1562 in the Hôtel de Bavière?",
+      "options": [
+        "Anne de Crécy",
+        "Louise de Bouzanton",
+        "Isabeau d'Antoing"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "For whom was the establishment intended?",
+      "options": [
+        "The poor children of Mons",
+        "The canonesses of Sainte-Waudru",
+        "Wounded soldiers"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which niece continued the work by founding a wing for boys in 1662?",
+      "options": [
+        "Margaret of Constantinople",
+        "Jeanne de Chantal",
+        "Anne de Crécy"
+      ],
+      "answer": 2
+    }
+  ],
+  "Chapelle du Beguinage": [
+    {
+      "question": "Who founded this chapel in 1248?",
+      "options": [
+        "Margaret of Constantinople",
+        "Sainte Waudru",
+        "François de Sales"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Of which beguinage on the left bank of the Trouille was it part?",
+      "options": [
+        "The beguinage of Nimy",
+        "The beguinage of Cantimpret",
+        "The convent of the Sœurs Noires"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which style was it rebuilt between 1549 and 1551?",
+      "options": [
+        "Baroque",
+        "Neoclassical",
+        "Hainaut Gothic"
+      ],
+      "answer": 2
+    }
+  ],
+  "Tour du Val des Ecoliers": [
+    {
+      "question": "When was this tower of the abbey church erected?",
+      "options": [
+        "Between 1739 and 1743",
+        "In 1252",
+        "In 1892"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which architect designed it?",
+      "options": [
+        "Vincent Anthony",
+        "Nicolas de Brissy",
+        "Louis Ledoux"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What remains of the abbey founded in 1252 and suppressed in 1796?",
+      "options": [
+        "The entire abbey church",
+        "The complete cloister",
+        "This tower, the last vestige after the demolitions of 1876"
+      ],
+      "answer": 2
+    }
+  ],
+  "Gare de Mons": [
+    {
+      "question": "Who designed the present station-bridge?",
+      "options": [
+        "Santiago Calatrava",
+        "René Panis",
+        "Joseph Hubert"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which year was the first station of Mons put into service?",
+      "options": [
+        "1874",
+        "1841",
+        "1952"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which architect designed the modern station inaugurated in 1952 and demolished in 2013?",
+      "options": [
+        "Santiago Calatrava",
+        "Charles Sury",
+        "René Panis"
+      ],
+      "answer": 2
+    }
+  ],
+  "Statue Saint Georges": [
+    {
+      "question": "Which French artist created this bronze statue inaugurated in 2024?",
+      "options": [
+        "Gérard Garouste",
+        "Xavier Veilhan",
+        "David Mesguich"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where does it stand?",
+      "options": [
+        "Place des Congrès, behind Calatrava station",
+        "At the foot of the Town Hall",
+        "In the Jardin du Mayeur"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which public art project is it inscribed?",
+      "options": [
+        "Mons 2015 only",
+        "Europa Nostra",
+        "“L'Art habite la Ville”"
+      ],
+      "answer": 2
+    }
+  ],
+  "Lucie et les Papillons": [
+    {
+      "question": "Who created this monumental sculpture installed in 2019?",
+      "options": [
+        "David Mesguich",
+        "Xavier Veilhan",
+        "Léon Gobert"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What do the butterflies and the broken scissors notably symbolise?",
+      "options": [
+        "Military victory",
+        "Nascent love and the fragility of feelings",
+        "Mons commerce"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the approximate height of the work, in stainless steel?",
+      "options": [
+        "3 metres",
+        "87 metres",
+        "More than 7 metres"
+      ],
+      "answer": 2
+    }
+  ],
+  "Collegiale Sainte Waudru": [
+    {
+      "question": "Of which style is this collegiate church, begun in 1450?",
+      "options": [
+        "Brabantine Gothic",
+        "Baroque",
+        "Rhenish Romanesque"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What length does the building reach?",
+      "options": [
+        "87 metres",
+        "32 metres",
+        "115 metres"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Why did the planned 190-metre tower remain unfinished?",
+      "options": [
+        "It was interrupted in 1691, at roof height",
+        "A fire destroyed it in 1664",
+        "UNESCO forbade it"
+      ],
+      "answer": 0
+    }
+  ],
+  "Tresors de Sainte Waudru": [
+    {
+      "question": "Which personal object of Sainte Waudru, dated to the 7th century, is notably preserved there?",
+      "options": [
+        "The Bancloque",
+        "A ring and the clasp known as “Benoîte Affique”",
+        "The collar of the Order of the Golden Fleece"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do the shrouds presented in the Treasury also cover?",
+      "options": [
+        "The plans of the belfry",
+        "The archives of the Mundaneum",
+        "The bones of the saint, foundress of the city"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which event of 1793 led to losses for the Treasury?",
+      "options": [
+        "The first French occupation",
+        "A fire in the collegiate church",
+        "The siege of 1691"
+      ],
+      "answer": 0
+    }
+  ],
+  "Le Car d Or": [
+    {
+      "question": "At which festival, inscribed by UNESCO in 2005, is the Car d'Or central?",
+      "options": [
+        "The ducasse of Messines",
+        "The Ducasse de Mons, or Doudou",
+        "The kermesse of Havré"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which epidemic of 1349 gave rise to the procession of the relics of Sainte Waudru?",
+      "options": [
+        "Cholera",
+        "The Spanish flu",
+        "The plague"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which style was the present chariot, made between 1779 and 1782, designed?",
+      "options": [
+        "Louis XVI",
+        "Flamboyant Gothic",
+        "Art Nouveau"
+      ],
+      "answer": 0
+    }
+  ],
+  "Porte Rue Courte": [
+    {
+      "question": "Where does this reused Gothic doorway at no. 2 come from?",
+      "options": [
+        "The Town Hall",
+        "The former Val des Écoliers Abbey",
+        "Saint-Germain Collegiate Church"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "From which century does it date, before its integration into an 18th-century Tournai-style house?",
+      "options": [
+        "11th century",
+        "19th century",
+        "16th century"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What typical Flamboyant Gothic ornament adorns its lintel?",
+      "options": [
+        "An ogee arch decorated with finials and crockets",
+        "A triangular pediment",
+        "An oeil-de-bœuf"
+      ],
+      "answer": 0
+    }
+  ],
+  "Maison Espagnole": [
+    {
+      "question": "After which fire of 1548 was this house on rue des Clercs rebuilt?",
+      "options": [
+        "The fire of Sainte-Élisabeth in 1714",
+        "The great fire of Mons",
+        "The fire of the Théâtre Royal in 1869"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is this Gothic architecture of the former Low Countries often called?",
+      "options": [
+        "Scheldt architecture",
+        "Brabantine Gothic only",
+        "Louis XV style"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which roof feature notably distinguishes it?",
+      "options": [
+        "A Baroque dome",
+        "A slate mansard roof",
+        "Stepped gables, or pas de moineau"
+      ],
+      "answer": 2
+    }
+  ],
+  "Chapelle Saint Calixte": [
+    {
+      "question": "Who had this chapel built in 1051 for the relics of Pope Callixtus I?",
+      "options": [
+        "Baldwin IV",
+        "Countess Richilde",
+        "Jean d'Avesnes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why is it particularly important in the heritage of Mons?",
+      "options": [
+        "It is the oldest surviving religious building in the city",
+        "It houses the carillon",
+        "It is Belgium's only Baroque belfry"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Of which stone is the building, linked to the comital castle, constructed?",
+      "options": [
+        "Soignies stone only",
+        "Carrara marble",
+        "Bray sandstone"
+      ],
+      "answer": 2
+    }
+  ],
+  "Ancien Chateau Comtal": [
+    {
+      "question": "Which count, known as the Builder, had a fortress erected on this hill in the 11th century?",
+      "options": [
+        "Jean d'Avesnes",
+        "Baldwin IV",
+        "Charles V"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which remains of the castle are still visible?",
+      "options": [
+        "The castle enclosure, Tour César and the Chapelle Saint-Calixte",
+        "The entire palace of the counts",
+        "An 87-metre keep"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What did the castle serve as for the County of Hainaut?",
+      "options": [
+        "A market only",
+        "A water station",
+        "Residence of the counts and administrative centre"
+      ],
+      "answer": 2
+    }
+  ],
+  "Tour Cesar": [
+    {
+      "question": "Of which medieval ensemble is Tour César one of the rare remains?",
+      "options": [
+        "The Dutch Casemates",
+        "The former comital castle of Mons",
+        "The Caserne Léopold"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which period was it probably erected?",
+      "options": [
+        "In the 13th or 14th century, under Jean d'Avesnes",
+        "In 1661",
+        "In 1841"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What can still be seen today in the park of the Château?",
+      "options": [
+        "The complete tower up to the belfry",
+        "A Renaissance campanile",
+        "The base of the tower, integrated into the park laid out in the 19th century"
+      ],
+      "answer": 2
+    }
+  ],
+  "Beffroi": [
+    {
+      "question": "Why is the belfry of Mons unique in Belgium?",
+      "options": [
+        "It is the country's only Baroque-style belfry",
+        "It is the oldest religious building",
+        "It has never had bells"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is its height, and what nickname do the people of Mons give it?",
+      "options": [
+        "115 metres; the Lumeçon",
+        "87 metres; El Catiau",
+        "23 metres; the Bancloque"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How many bells does its carillon comprise?",
+      "options": [
+        "Twelve",
+        "Four",
+        "49"
+      ],
+      "answer": 2
+    }
+  ],
+  "Square": [
+    {
+      "question": "On the remains of which building was Square Saint-Germain laid out?",
+      "options": [
+        "The former Saint-Germain Collegiate Church, destroyed at the French Revolution",
+        "The comital castle",
+        "The Caserne Guillaume"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which architects created this public garden in 1887?",
+      "options": [
+        "Louis Ledoux and Vincent Anthony",
+        "Paul Saintenoy and Henri Sauvage",
+        "Joseph Hubert and Louis Fuchs"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "To whom is the commemorative fountain dedicated?",
+      "options": [
+        "The Mons volunteers of 1830",
+        "Sainte Waudru",
+        "Paul Verlaine"
+      ],
+      "answer": 0
+    }
+  ],
+  "Pilori": [
+    {
+      "question": "In which year was the Fontaine-Pilori erected, replacing a 16th-century well?",
+      "options": [
+        "1450",
+        "1779",
+        "1937"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Of which style and stone is it?",
+      "options": [
+        "Louis XVI, in Écaussinnes blue stone",
+        "Gothic, in Bray sandstone",
+        "Baroque, in brick"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What was its function at the time, beyond decoration?",
+      "options": [
+        "To serve solely as a judicial pillory",
+        "To carry the carillon",
+        "To serve as a water point, fed by an aqueduct"
+      ],
+      "answer": 2
+    }
+  ],
+  "Lola Goies Rue du Miroir": [
+    {
+      "question": "What main motif wanders through the city at night on this mural?",
+      "options": [
+        "A Saint George on horseback",
+        "A dragon crossing Mons",
+        "The giants of Messines"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which school trained Lola Goies, the author of this mural?",
+      "options": [
+        "ARTS², the higher school of arts in Mons",
+        "La Cambre in Brussels",
+        "The Royal Academy of Fine Arts in Liège"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "With which local theme does the dragon motif engage here, beyond the name of the street?",
+      "options": [
+        "The Mundaneum and the Decimal Classification",
+        "The Sunday market of the Beguinage",
+        "The Ducasse of Mons and the theme of the mirror"
+      ],
+      "answer": 2
+    }
+  ],
+  "Eva Badalamenti Passage de l'ilot": [
+    {
+      "question": "What does this mural transform in the Passage de l'Îlot?",
+      "options": [
+        "An old well into a monumental fountain",
+        "A railway tunnel into an underground gallery",
+        "A simple crossing point into a visual stopping point"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In what context did Eva Badalamenti create this work?",
+      "options": [
+        "As a guest artist of the Farm Prod collective",
+        "As a student of ARTS²",
+        "During a residency at the Mundaneum"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where is this mural precisely located?",
+      "options": [
+        "In the Passage de l'Îlot",
+        "Rue du Mont du Parc",
+        "At the Marché-aux-Poissons"
+      ],
+      "answer": 0
+    }
+  ],
+  "Laurence Vray Instant suspendu": [
+    {
+      "question": "What motifs primarily traverse 'Instant suspendu'?",
+      "options": [
+        "The intimate, water, and lightness",
+        "The battle of Lumeçon",
+        "The tarot cards"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What medium does Laurence Vray use here as a pause in the journey?",
+      "options": [
+        "Silkscreen on canvas",
+        "Photographic stencil",
+        "Photography"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Where has this artist from Mons installed the work?",
+      "options": [
+        "Rue des Barbelés, on the prison walls",
+        "19 Rue d'Enghien",
+        "Place Léopold"
+      ],
+      "answer": 1
+    }
+  ],
+  "Atelier Pica Pica Panorama": [
+    {
+      "question": "What is Atelier Pica Pica seeking in this panorama?",
+      "options": [
+        "An imperial portrait of Charles V",
+        "The shapes and shadows that belong to the city",
+        "A bestiary of koi carp"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who makes up the trio Atelier Pica Pica?",
+      "options": [
+        "Boris Magotteaux, Manuel Falcata, and Jérome Degive",
+        "Jérôme Meynen and Antoine Detaille",
+        "Draw and Contra"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How is the passage designed in this work?",
+      "options": [
+        "As an archive room of the Mundaneum",
+        "As an open birdcage",
+        "As a small mural theater stage"
+      ],
+      "answer": 2
+    }
+  ],
+  "Hell'O Folks": [
+    {
+      "question": "What visual mix characterizes this mural by Hell'O?",
+      "options": [
+        "Only classic graffiti lettering",
+        "An academic portrait in the style of Van Ysendick",
+        "Mystical-esoteric symbols combined with cartoon and comic figures"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does the duo, coming from graffiti, set aside for this work?",
+      "options": [
+        "Paint and ink",
+        "Lettering, in favor of paper, paint, and ink drawing",
+        "Any reference to folklore"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "On which Mons theme does the work also rely?",
+      "options": [
+        "The Doudou",
+        "The baroque belfry",
+        "The universal decimal classification"
+      ],
+      "answer": 0
+    }
+  ],
+  "Kobra Torre de Saber": [
+    {
+      "question": "What presence does the title 'Torre de Saber' give to the image?",
+      "options": [
+        "That of a tower of knowledge, almost symbolic",
+        "That of a dragon from Lumeçon",
+        "That of a still life from the 17th century"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What type of composition does Kobra favor here?",
+      "options": [
+        "A small format photographic stencil",
+        "An installation of luminous words",
+        "A monumental format, with bold colors and dynamic lines"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "On which street was this mural painted?",
+      "options": [
+        "Rue du Rossignol",
+        "Rue du Mont du Parc",
+        "Rue des Chartriers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Olivier Sonck Ivre d'histoires": [
+    {
+      "question": "What does 'Ivre d'histoires' blend on the walls of the prison?",
+      "options": [
+        "Only imperial portraits",
+        "Image, text, and memory",
+        "Illuminated koi carp"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where do the stories that feed the mural come from?",
+      "options": [
+        "From workshops on childhood memories, conducted with inmates and then residents",
+        "From a manuscript by Roland de Lassus",
+        "From the archives of the Mundaneum"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Where was this mural created?",
+      "options": [
+        "126 Nimy Street",
+        "Saint-Germain Square",
+        "On the walls of the prison, Barbed Wire Street"
+      ],
+      "answer": 2
+    }
+  ],
+  "Arts2 Tunnel de la Paix": [
+    {
+      "question": "What theme did the students choose for this tunnel?",
+      "options": [
+        "Tarot",
+        "Torchlight procession",
+        "Peace"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who accompanied this group of about twenty ARTS² students?",
+      "options": [
+        "Andrea Ravo Mattoni",
+        "Piet Rodriguez, known for his monumental murals",
+        "Robert Montgomery"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the tunnel on Croix-Rouge Street become thanks to this mural?",
+      "options": [
+        "A passage transformed into a space for reflection",
+        "A replica of the collegiate church of Sainte-Waudru",
+        "A covered market"
+      ],
+      "answer": 0
+    }
+  ],
+  "Zesar Bahamonte Saint Georges": [
+    {
+      "question": "Which figure does Zësar Bahamonte introduce into the urban landscape?",
+      "options": [
+        "Saint George",
+        "Saint Waudru and her daughters",
+        "Paul Otlet"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Where does this mural artist come from?",
+      "options": [
+        "From Portugal",
+        "From Russia",
+        "From Spain"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Where is this mural located?",
+      "options": [
+        "Rossignol Street",
+        "29 Grand Jour Street",
+        "Charles Quint Boulevard"
+      ],
+      "answer": 1
+    }
+  ],
+  "Andrea Ravo Mattoni Rue de Nimy 126": [
+    {
+      "question": "What light organizes the scene, sometimes referred to as 'The candles'?",
+      "options": [
+        "A neon sign",
+        "The chiaroscuro light of the torchlight procession",
+        "The light of the koi carp"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How does Andrea Ravo Mattoni intervene on the wall?",
+      "options": [
+        "Without a preparatory drawing, directly with spray paint",
+        "Only with photographic stencils",
+        "By collaging cut papers"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which masters inspire this unique composition?",
+      "options": [
+        "Anto Carte, Louis Buisseret, and Antoine Clesse",
+        "Rubens, Memling, and Van Eyck",
+        "Velázquez, Caravaggio, and John William Waterhouse"
+      ],
+      "answer": 2
+    }
+  ],
+  "Pierre Liebaert Je crois aux nuits": [
+    {
+      "question": "What does 'Je crois aux nuits' invite one to observe?",
+      "options": [
+        "The tarot cards at the top of the facade",
+        "A Quetzal and Mexican flowers",
+        "What persists in the shadows: ancient gestures, processions, carnival figures"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is Pierre Liebaert's main practice?",
+      "options": [
+        "Graffiti lettering",
+        "Photography",
+        "Monumental sculpture"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What subjects does Liebaert often focus on?",
+      "options": [
+        "Subjects experienced from the inside, over the long term",
+        "Only advertising commissions",
+        "Maps of the Mundaneum"
+      ],
+      "answer": 0
+    }
+  ],
+  "Godmess Third Rua Storytelling": [
+    {
+      "question": "What starting point did Godmess and Third Rua choose?",
+      "options": [
+        "Drawings by children from Mons",
+        "A portrait of Charles Quint",
+        "Traditional Gayoles"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Where do these two artists come from?",
+      "options": [
+        "From Switzerland",
+        "From the United States",
+        "From Portugal"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Where was the mural painted?",
+      "options": [
+        "Capucins Street",
+        "At the Courtyard of the Petit Marché, Nimy Street",
+        "Béguinage Square"
+      ],
+      "answer": 1
+    }
+  ],
+  "Noir Artist Don't sleep on your dream": [
+    {
+      "question": "Which universes intersect in this mural?",
+      "options": [
+        "Only the folklore of Lumeçon",
+        "Advertising, pop art, baroque art, and calligraphy",
+        "17th-century still lifes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is Noir Artist's real name?",
+      "options": [
+        "Lucien Gilson",
+        "Matteo Capobianco",
+        "Fabio Lopez"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "On which street in Mons is this mural located?",
+      "options": [
+        "Rue d'Enghien",
+        "Rue des Barbelés",
+        "Rue de Nimy"
+      ],
+      "answer": 2
+    }
+  ],
+  "Andrea Ravo Mattoni Charles Quint": [
+    {
+      "question": "Which image does Andrea Ravo Mattoni reinterpret here?",
+      "options": [
+        "A dragon from Lumeçon",
+        "A Sunday market",
+        "An imperial portrait of Charles Quint"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does the artist seek by transposing a classical work onto the wall?",
+      "options": [
+        "To replace the collegiate church with a private gallery",
+        "To unite the past and present, and to open the museum to the street",
+        "To erase any historical reference"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where is this mural located?",
+      "options": [
+        "Boulevard Charles Quint 18",
+        "Rue du Chapitre",
+        "Square Roosevelt"
+      ],
+      "answer": 0
+    }
+  ],
+  "Zesar Bahamonte Le Dragon": [
+    {
+      "question": "Which central figure of the Mons imagination does Zësar revisit?",
+      "options": [
+        "The dragon from Lumeçon",
+        "The baroque belfry",
+        "The Monkey of Grand'Garde"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What geographical journey led the artist to Mons?",
+      "options": [
+        "New York then London",
+        "Lisbon then Porto",
+        "Seville, Barcelona, then Montevideo"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "On which street was the dragon painted?",
+      "options": [
+        "Rue du Grand Jour",
+        "Rue du Rossignol",
+        "Rue du Miroir"
+      ],
+      "answer": 1
+    }
+  ],
+  "Leonidas Giannakopoulos Global City": [
+    {
+      "question": "Which Mons institution inspires this composition?",
+      "options": [
+        "The collegiate church of Sainte-Waudru",
+        "The Mundaneum and the ideas of its founders",
+        "The Gothic Town Hall"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the title 'Global City' summarize?",
+      "options": [
+        "The ambition to connect Mons with an imagination open to the world",
+        "An inventory of the signs in the Grand-Place",
+        "A tribute to the sole battle of Saint George"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which vision of Paul Otlet does the artist adopt?",
+      "options": [
+        "That of a medieval herb market",
+        "That of a model prison",
+        "That of a global city that disseminates knowledge and cooperation"
+      ],
+      "answer": 2
+    }
+  ],
+  "Stelios Pupet Harmonizing Mons": [
+    {
+      "question": "How does Stelios Pupet construct his composition?",
+      "options": [
+        "Only through striped flat colors",
+        "Through luminous words",
+        "By blending figuration and geometry"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does the title 'Harmonizing Mons' convey?",
+      "options": [
+        "An inventory of the ramparts",
+        "An agreement between forms, rhythm, and local memory",
+        "A battle between saint and dragon"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which Mons composer does the work pay tribute to?",
+      "options": [
+        "Antoine Clesse",
+        "Roland de Lassus",
+        "Jacques Brel"
+      ],
+      "answer": 0
+    }
+  ],
+  "Jana et JS Le couple de la rue Verte": [
+    {
+      "question": "What architectural motif organizes the scene?",
+      "options": [
+        "The window, an opening between inside and outside",
+        "A tower of knowledge",
+        "A closed birdcage"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What technique have Jana & JS been using since 2006?",
+      "options": [
+        "Spray without preparatory drawing",
+        "Enlarged photography without stencil",
+        "Stenciling from their own photographs"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which spirit of the city does this mural resonate with?",
+      "options": [
+        "The imperial classicism of Charles Quint",
+        "The surrealist spirit of Mons",
+        "The urbanism of the ramparts alone"
+      ],
+      "answer": 1
+    }
+  ],
+  "Ufocinque Passeggiando nella Storia": [
+    {
+      "question": "What urban layout does Ufocinque rely on?",
+      "options": [
+        "The Grand Place of Lumeçon",
+        "The old layout of the ramparts, near the Valenciennoise Tower",
+        "The Gustave Jacobs garden"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is Ufocinque's real name, and what does he primarily work on?",
+      "options": [
+        "Matteo Capobianco; the layering of multiple levels of interpretation",
+        "Lucien Gilson; advertising calligraphy",
+        "Christian Rebecchi; floor painting"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does the title 'Passeggiando nella Storia' mean?",
+      "options": [
+        "An allegory of tarot",
+        "An inventory of the Gayoles",
+        "An invitation to walk through history"
+      ],
+      "answer": 2
+    }
+  ],
+  "Dussart Myncke True story Marche aux herbes": [
+    {
+      "question": "What can be seen in the bricked-up windows of this facade?",
+      "options": [
+        "Portraits of Montois leaders",
+        "Comics and Hollywood movie posters from the 1950s",
+        "Illuminated koi carp"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What urban detail do the two students transform into a fictional terrain?",
+      "options": [
+        "The numerous bricked-up windows of Mons",
+        "The steps of the belfry",
+        "The cobblestones of Lumeçon"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How does the title 'True story' ask us to look at the wall?",
+      "options": [
+        "Like a cadastral plan",
+        "Like a still life",
+        "Like a facade that tells a story, between reality and popular imagination"
+      ],
+      "answer": 2
+    }
+  ],
+  "Levalet L'homme des cavernes": [
+    {
+      "question": "How do Levalet's characters interact with the building?",
+      "options": [
+        "They are painted in striped flat colors, unrelated to the openings",
+        "They are glued to the ground, like a carpet",
+        "They are drawn in Chinese ink and fit in window by window"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What contrast does the scene create before your eyes?",
+      "options": [
+        "The contemporary man crossing his own origins, between realism and surrealism",
+        "A battle of Saint George against the dragon",
+        "An 18th-century herb market"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does the facade on rue de Houdain become?",
+      "options": [
+        "A map of the Mundaneum",
+        "A narrative decor to be read like a story",
+        "A closed birdcage"
+      ],
+      "answer": 1
+    }
+  ],
+  "Farm Prod Rue de la Halle": [
+    {
+      "question": "What figures dominate the top of the facade?",
+      "options": [
+        "Saint Waudru and her daughters",
+        "Adam and Eve",
+        "Cybele and Poliade"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which tarot cards can be recognized lower down, among other signs?",
+      "options": [
+        "The Emperor, Death, The World, and Temperance",
+        "The Bancloque, the Golden Car, and the Ropieur",
+        "Judgment, The Hermit, and The Wheel of Fortune only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What visual journey does the composition propose once the wall is read from top to bottom?",
+      "options": [
+        "An inventory of the trades of the Grand-Place",
+        "The Decimal Classification of Otlet",
+        "The tarot, self-knowledge, and the passage of time"
+      ],
+      "answer": 2
+    }
+  ],
+  "Hell'O Rue de la Halle": [
+    {
+      "question": "How many panels is the wall divided into?",
+      "options": [
+        "Four",
+        "Nine",
+        "Sixteen"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What motif recurs at the center of this surreal universe?",
+      "options": [
+        "The eye",
+        "The belfry",
+        "The Quetzal"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What should be observed in the drawing, beyond the graffiti lettering?",
+      "options": [
+        "Only imperial portraits",
+        "Imaginary beings, pastels, and an assembly without a single imposed reading sense",
+        "Bibliographic cards"
+      ],
+      "answer": 1
+    }
+  ],
+  "Ilan Walbrecq Georges Cuvelier": [
+    {
+      "question": "Which famous Montois does the portrait highlight?",
+      "options": [
+        "Georges Cuvelier, Michelin-starred chef",
+        "Louis Buisseret, painter",
+        "Charles Malapert, astronomer"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "To which open-air gallery does this image belong?",
+      "options": [
+        "To the bricked-up windows of the Marché aux Herbes",
+        "To the series 'Famous Montois' from the Arts² drawing workshop",
+        "To the Gayoles of the Rue des Arquebusiers"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How can you distinguish this portrait from that of Louis Buisseret, further along the route?",
+      "options": [
+        "Here it is a cook; Buisseret is a painter",
+        "Here it is a dragon; Buisseret is a poppy",
+        "Both show the same face, reversed"
+      ],
+      "answer": 0
+    }
+  ],
+  "Cedric Le Borgne La riviere": [
+    {
+      "question": "What do we see suspended at the Marché-aux-Poissons?",
+      "options": [
+        "A dragon from the Lumeçon",
+        "Two giant koi carp that seem to swim in the air",
+        "A couple at a window"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where does the light of these sculptures come from?",
+      "options": [
+        "From inside the carp",
+        "Only from the low sun, without internal source",
+        "From projectors placed on the belfry"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What scale effect does the installation produce when one stops in front of it?",
+      "options": [
+        "It miniaturizes the collegiate church",
+        "It recreates a living room aquarium",
+        "It brings the passerby back to their own measure against an enlarged nature"
+      ],
+      "answer": 2
+    }
+  ],
+  "Taquen Bouquet of memory and hope": [
+    {
+      "question": "Which flower occupies the wall on Rue des Chartriers?",
+      "options": [
+        "The lily of Sainte-Waudru",
+        "The poppy",
+        "The rose of the Grand-Place"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What should be read in this bouquet, beyond the floral motif?",
+      "options": [
+        "A heavy memory and, at the same time, a promise of hope",
+        "A tribute to the Farm Prod tarot",
+        "A coat of arms of the culinary trades"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What past of the place does the poppy make visible?",
+      "options": [
+        "The annual Lumeçon battle",
+        "The classification of Otlet's files",
+        "Bombs fell here; poppies grow here today"
+      ],
+      "answer": 2
+    }
+  ],
+  "Dussart Myncke True story Croix Place": [
+    {
+      "question": "What does the title 'True story' ask once faced with the facade?",
+      "options": [
+        "To read the wall as a narrative, without being given the ending",
+        "To count the Gothic bays",
+        "To find Adam and Eve at the top of the tarot"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How does this 'True story' differ from that of the Marché aux Herbes?",
+      "options": [
+        "It is signed by Zësar Bahamonte",
+        "It does not inventory the windows bricked up by fifties posters: it charges the entire street with a scene to interpret",
+        "It represents two koi carp"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What gap does the painting maintain before your eyes?",
+      "options": [
+        "Between catalog and archive",
+        "Between city plan and cadastre",
+        "Between the reality of the street and the artist's gaze"
+      ],
+      "answer": 2
+    }
+  ],
+  "Eva Badalamenti Louis Buisseret": [
+    {
+      "question": "What face does the wall show?",
+      "options": [
+        "Georges Cuvelier, star chef",
+        "Louis Buisseret, Montois painter",
+        "Roland de Lassus, composer"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "To which series does this portrait visually belong?",
+      "options": [
+        "« Montois célèbres », a gallery of local figures painted by the students of Arts²",
+        "The comic windows of True story",
+        "The sixteen panels of Hell'O"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What should be compared if coming from rue de la Halle?",
+      "options": [
+        "A cook over there, a painter here: two professions, one same open-air gallery",
+        "Two identical dragons",
+        "Two closed birdcages"
+      ],
+      "answer": 0
+    }
+  ],
+  "Thomas Istasse La lune de Malapert": [
+    {
+      "question": "Where does the composition direct the gaze?",
+      "options": [
+        "Towards the cellars of the Grand-Place",
+        "Upwards, in a light-drenched image",
+        "Towards the cobblestones of Lumeçon"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the name « Malapert » overlay once the wall is observed?",
+      "options": [
+        "A street in Mons and a lunar crater, a tribute to the scholar who observed the sky",
+        "A neighborhood in Seville and a Gayole",
+        "A railway tunnel and the Mundaneum"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What link does the work establish between the city and space?",
+      "options": [
+        "It reconstructs the ramparts",
+        "It classifies the knowledge of Otlet",
+        "It connects the Montois land to the sky, without leaving local memory"
+      ],
+      "answer": 2
+    }
+  ],
+  "Andrea Buglisi La Gayole": [
+    {
+      "question": "How is the building transformed before your eyes?",
+      "options": [
+        "Into an open birdcage, where the birds remain free",
+        "Into a tower of knowledge",
+        "Into a koi fish aquarium"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What visual trap does Buglisi first set for the passerby?",
+      "options": [
+        "The graffiti lettering alone",
+        "Seductive colors, then a more unsettling message, tinged with irony",
+        "A chiaroscuro of a torchlight retreat"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What popular memory does the title 'La Gayole' awaken in the image?",
+      "options": [
+        "The birdcages of the Mons tradition",
+        "The Decimal Classification",
+        "The battle of Saint George"
+      ],
+      "answer": 0
+    }
+  ],
+  "Oli-B L'escapade": [
+    {
+      "question": "What can be seen blending on the wall?",
+      "options": [
+        "An imperial portrait in grisaille",
+        "Abstract and figurative shapes, bright colors, a sense of movement",
+        "Windows filled with fifties posters"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How do the shapes behave in relation to the garden?",
+      "options": [
+        "They seem to almost breathe with the vegetation",
+        "They ignore the garden and mimic the belfry",
+        "They reproduce the layout of the ramparts"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What tone does the image give to the public space?",
+      "options": [
+        "A military archive",
+        "A Caravaggio-like chiaroscuro",
+        "A dreamlike and luminous vision, softer than the city's mineral"
+      ],
+      "answer": 2
+    }
+  ],
+  "Blancbec Le monstrueux": [
+    {
+      "question": "What populates the wall on rue d'Havré?",
+      "options": [
+        "Index cards from the Mundaneum",
+        "Imaginary animals and plants",
+        "Portraits of composers"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where do the geometric shapes and the very bright color palette come from?",
+      "options": [
+        "From 19th-century history painting",
+        "From documentary photography alone",
+        "From graffiti and work on posters and characters"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which figure first gave rise to this style, before the other creatures?",
+      "options": [
+        "The bird",
+        "The dragon of Lumeçon",
+        "The Monkey of Grand'Garde"
+      ],
+      "answer": 0
+    }
+  ],
+  "Nevercrew Dissipation": [
+    {
+      "question": "What subject does 'Dissipation' address?",
+      "options": [
+        "Climate change",
+        "The Ducasse and the Lumeçon",
+        "The Béguinage market"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What technical feature marks this project?",
+      "options": [
+        "The exclusive use of stencils",
+        "The absence of preparatory drawing in the style of Ravo",
+        "For the first time, Nevercrew worked directly on the street floor at an angle"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who makes up this Swiss duo?",
+      "options": [
+        "Jérôme Meynen and Antoine Detaille",
+        "Christian Rebecchi and Pablo Togni",
+        "Fabio Lopez and Elodie Arshak"
+      ],
+      "answer": 1
+    }
+  ],
+  "Duek Eldorado": [
+    {
+      "question": "What emblematic bird appears in 'Eldorado'?",
+      "options": [
+        "The dragon of the Lumeçon",
+        "The Quetzal",
+        "The Monkey of Grand'Garde"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which cultures does Duek, an artist from Spain, draw inspiration from here?",
+      "options": [
+        "From Mexico, its nature, and mysticism",
+        "From the Mundaneum and Paul Otlet",
+        "Only from the Montoise Gayoles"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Where is the mural located?",
+      "options": [
+        "Grand'Rue 8",
+        "Rue des Capucins",
+        "Rue des Fripiers 19"
+      ],
+      "answer": 2
+    }
+  ],
+  "Poni Grand Rue": [
+    {
+      "question": "What does Poni represent on this wall?",
+      "options": [
+        "Two koi carp",
+        "A couple at a window",
+        "A female figure, with the hill of Mons in the background"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Why does she often draw women without pupils?",
+      "options": [
+        "To reference Caravaggio",
+        "To invite to travel",
+        "To imitate the giants of Messina"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is unique about this presence in Mons?",
+      "options": [
+        "It is the first time that Hilda Palafox, a Mexican artist, intervenes in Belgium",
+        "She has been teaching at ARTS² for ten years",
+        "She signs here a tribute to Roland de Lassus"
+      ],
+      "answer": 0
+    }
+  ],
+  "Paul Segard Ma ville s'endort": [
+    {
+      "question": "What simple scene does Paul Segard paint?",
+      "options": [
+        "A sleeping figure watching over the city",
+        "A battle of Saint George",
+        "A market of abundance"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What chromatic atmosphere does he choose?",
+      "options": [
+        "Chiaroscuro contrasts in the style of Caravaggio",
+        "Zebra-like flat colors in the style of MOMO",
+        "Calm and poetic pastel colors"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Where is 'My City is Falling Asleep' located?",
+      "options": [
+        "Rue de l'Athénée",
+        "In the Passage du Centre, Grand'Rue",
+        "Boulevard Sainctelette"
+      ],
+      "answer": 1
+    }
+  ],
+  "Celeste Gangolphe Mille et une feuille": [
+    {
+      "question": "What does the ivy conceal on this wall?",
+      "options": [
+        "A portrait of Charles V",
+        "The Men and the Children of Leaves, figures inspired by Doudou",
+        "The files of the Mundaneum"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which mediums does Céleste Gangolphe like to mix?",
+      "options": [
+        "Drawing, painting, collage, and patterns",
+        "Only spray without drawing",
+        "The installation of luminous words"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does this mural do in a mineral city?",
+      "options": [
+        "It reconstructs the ramparts",
+        "It classifies knowledge",
+        "It brings a breath of nature to the heart of the Mons folklore"
+      ],
+      "answer": 2
+    }
+  ],
+  "Dulk The battle": [
+    {
+      "question": "In which world does 'The battle' invite you to enter?",
+      "options": [
+        "A bibliographic archive",
+        "An imperial portrait",
+        "A dream world populated by animals and natural landscapes"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Where does Dulk come from?",
+      "options": [
+        "From Russia",
+        "From Spain",
+        "From the United Kingdom"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does this mural discreetly defend on Rue des Capucins?",
+      "options": [
+        "Ecosystems and the most vulnerable species",
+        "The classification of Otlet's knowledge",
+        "The reconstruction of the Valenciennes Tower"
+      ],
+      "answer": 0
+    }
+  ],
+  "Nean Cybele et Poliade": [
+    {
+      "question": "Which figures does NEAN pay tribute to?",
+      "options": [
+        "Cybele and Poliade, present in the arena of Lumeçon",
+        "Adam and Eve from the tarot",
+        "The Gayoles of the neighborhood"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What reflection runs through the work of the Belgian artist?",
+      "options": [
+        "Advertising and pop art",
+        "Abstract urban cartography",
+        "Time, memories, and how they transform"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Why is the wall particularly suitable for this subject?",
+      "options": [
+        "Because it adjoins the Mundaneum",
+        "Because its marks and layers make history visible",
+        "Because it serves as a platform for the Sunday market"
+      ],
+      "answer": 1
+    }
+  ],
+  "10eme ARTE L'envol des ballons": [
+    {
+      "question": "What do we see rising above the gathered faces?",
+      "options": [
+        "Gayoles",
+        "Balloons",
+        "Bibliographic files"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who is 10ème ARTE?",
+      "options": [
+        "A duo from Spain and Italy working in Brussels",
+        "A Russian collective",
+        "The drawing workshop of ARTS²"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What fervor from Mons does the work draw inspiration from?",
+      "options": [
+        "The Béguinage market",
+        "The foundation of the Mundaneum",
+        "Folklore and the combat known as Lumeçon, on the Grand Place"
+      ],
+      "answer": 2
+    }
+  ],
+  "Arts2 Roland de Lassus": [
+    {
+      "question": "Which Mons resident do the students of ARTS² celebrate?",
+      "options": [
+        "Antoine Clesse",
+        "Jacques Du Broeucq",
+        "Roland de Lassus"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What type of creation is it?",
+      "options": [
+        "A word installation",
+        "A collective creation by students",
+        "A photographic stencil by Jana & JS"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which street is the portrait located?",
+      "options": [
+        "Rue des 5 visages",
+        "Rue Antoine Clesse",
+        "Rue du Chapitre"
+      ],
+      "answer": 0
+    }
+  ],
+  "Andrea Ravo Mattoni Sainte Waudru et ses filles": [
+    {
+      "question": "What scene does Andrea Ravo Mattoni transpose onto the wall?",
+      "options": [
+        "Saint Waudru and her daughters visiting the prisoners",
+        "The battle of Saint George",
+        "The ascent of the Car d'Or alone"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which painter is this image associated with, before its urban transposition?",
+      "options": [
+        "Anto Carte",
+        "Louis Buisseret",
+        "Antoine Van Ysendick"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Why does the location, Rue du Chapitre, matter?",
+      "options": [
+        "Because it runs alongside the contemporary prison",
+        "Because it is directly linked to the nearby collegiate church",
+        "Because it follows the former path of the Sainctelette ramparts"
+      ],
+      "answer": 1
+    }
+  ],
+  "Filip Gilissen Spread your wings": [
+    {
+      "question": "What does the installation evoke?",
+      "options": [
+        "A dragon",
+        "Wings and a thrust upwards",
+        "A market of abundance"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What type of work is it, rather than a flat fresco?",
+      "options": [
+        "An installation",
+        "A stencil on a window",
+        "A framed photograph"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which monument does the Saint-Germain square echo?",
+      "options": [
+        "The Mundaneum",
+        "The belfry alone",
+        "The collegiate church of Sainte-Waudru, visible in the landscape"
+      ],
+      "answer": 2
+    }
+  ],
+  "Ana Langeheldt Alegoria de santa Valdetrudis": [
+    {
+      "question": "Which tradition does Ana Langeheldt reinterpret?",
+      "options": [
+        "The Fires of Saint John",
+        "The Gayoles",
+        "The ascent of the Golden Car"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "By what other name is the Spanish artist also known?",
+      "options": [
+        "Third Rua",
+        "Lahe178",
+        "Poni"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where was the allegory of Saint Waudru painted?",
+      "options": [
+        "On the Sainte-Waudru ramp",
+        "Rue de Nimy",
+        "Place Léopold"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rachelle Celiane Santerre Jacques Du Broeucq": [
+    {
+      "question": "Whom do the Santerre sisters pay tribute to?",
+      "options": [
+        "Jacques Du Broeucq, architect and sculptor",
+        "Anto Carte, painter",
+        "Georges Cuvelier, chef"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In what context of ARTS² was the work conceived?",
+      "options": [
+        "The engraving workshop only",
+        "A residency at the Mundaneum",
+        "The drawing workshop, series 'Famous Montois'"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "On which street, near the collegiate church, is the portrait located?",
+      "options": [
+        "Rue des 5 visages",
+        "Rue du Chapitre",
+        "Rue des Sœurs Noires"
+      ],
+      "answer": 1
+    }
+  ],
+  "Margaux Del Vecchio Anto Carte": [
+    {
+      "question": "Which Montois painter does Margaux Del Vecchio represent?",
+      "options": [
+        "Louis Buisseret",
+        "Anto Carte",
+        "Antoine Van Ysendick"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "To which series does this work belong?",
+      "options": [
+        "'Famous Montois'",
+        "'True story'",
+        "'Torre de Saber'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Where was the portrait painted?",
+      "options": [
+        "Rue du Chapitre",
+        "Rue Malapert",
+        "Square Roosevelt"
+      ],
+      "answer": 2
+    }
+  ],
+  "Projeto Ruido Le temps": [
+    {
+      "question": "What graphic languages are encountered in 'Le temps'?",
+      "options": [
+        "Only academic chiaroscuro",
+        "Only lettering",
+        "Graffiti, figuration, abstraction, and color"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who composes Projeto Ruído?",
+      "options": [
+        "Godmess and Third Rua",
+        "Draw (Frederico Soares Campos) and Contra (Rodrigo Guinea Gonçalves)",
+        "Fabio Lopez and Elodie Arshak"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which museum does this street accompany the walker to?",
+      "options": [
+        "The Duesberg Museum",
+        "The Mundaneum only",
+        "The Doudou Museum"
+      ],
+      "answer": 0
+    }
+  ],
+  "Robert Montgomery Invisible graffiti of love": [
+    {
+      "question": "What material does Robert Montgomery work with here?",
+      "options": [
+        "Words",
+        "The painted tarot",
+        "Koi carp"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does the title 'Invisible graffiti of love' ask?",
+      "options": [
+        "To reconstruct the ramparts",
+        "To classify files",
+        "To look up and slow down, to read"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Where is this intimate voice inscribed?",
+      "options": [
+        "Rue Cantimpré",
+        "Place Léopold",
+        "Rue des Canonniers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Momo Rue Cantimpret": [
+    {
+      "question": "What is the composition of MOMO like?",
+      "options": [
+        "In chiaroscuro of candles",
+        "In striped color blocks",
+        "In characters with Chinese ink"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What type of interventions is the American artist known for?",
+      "options": [
+        "Urban cartographies, from small gestures to monumental frescoes",
+        "Installations of luminous carp",
+        "Portraits of famous residents of Mons"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "On which street does this fresco rhythm the journey?",
+      "options": [
+        "Rue des Canonniers",
+        "Rue de Bertaimont",
+        "Rue Cantimpré"
+      ],
+      "answer": 2
+    }
+  ],
+  "Zmogk The elements": [
+    {
+      "question": "What element does Zmogk bring to life in the street?",
+      "options": [
+        "The water of koi carp",
+        "The air of balloons",
+        "The fire"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Where does Zmogk come from, and what style has he developed?",
+      "options": [
+        "From the United States; striped color blocks",
+        "From Russia; dynamic and colorful compositions",
+        "From Portugal; realistic stencils"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which rite near Place Nervienne does the work engage with?",
+      "options": [
+        "The Fires of Saint John",
+        "The ascent of the Car d'Or",
+        "The Sunday market"
+      ],
+      "answer": 0
+    }
+  ],
+  "Arkane Lalie": [
+    {
+      "question": "What inspires Arkane for 'Lalie'?",
+      "options": [
+        "The Giants of Messines, imagined as real people",
+        "The dragon of Lumeçon only",
+        "The tarot blades"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What creates the very carnal atmosphere of the image?",
+      "options": [
+        "The lettering alone",
+        "The striped color blocks",
+        "The light and framing"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which neighborhood does this fresco engage with folklore?",
+      "options": [
+        "The Mundaneum neighborhood",
+        "The Messines neighborhood, Rue de Bertaimont",
+        "The Fish Market"
+      ],
+      "answer": 1
+    }
+  ],
+  "Tris Horizon": [
+    {
+      "question": "What theme does Tris take up on this building with blind windows?",
+      "options": [
+        "The Gayoles",
+        "The doors",
+        "The poppies"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Between which registers does his universe lie?",
+      "options": [
+        "Comics and realism, with a cinematic atmosphere",
+        "Only academic chiaroscuro",
+        "Still life of the 17th century"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does Boulevard Sainctelette follow?",
+      "options": [
+        "The path of the Car d'Or procession",
+        "The axis of the Mundaneum",
+        "The former layout of the city walls and entry gates"
+      ],
+      "answer": 2
+    }
+  ],
+  "Dourone Boulevard Sainctelette": [
+    {
+      "question": "What does Doudou represent for Dourone?",
+      "options": [
+        "A decorative motif with no local connection",
+        "A reference to the Mundaneum",
+        "The solidarity of Mons, intergenerational and shared"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who makes up Dourone?",
+      "options": [
+        "Christian Rebecchi and Pablo Togni",
+        "Fabio Lopez and Elodie Arshak, coming from Spain",
+        "Jérôme Meynen and Antoine Detaille"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What international recognition do they recall for the Ducasse?",
+      "options": [
+        "Its inscription by UNESCO in the intangible cultural heritage of humanity",
+        "Its classification as a military monument",
+        "Its link with the Decimal Classification"
+      ],
+      "answer": 0
+    }
+  ],
+  "Nadege Dauvergne Place du Beguinage": [
+    {
+      "question": "What inspires Nadège Dauvergne in this square?",
+      "options": [
+        "The Sunday market and the idea of abundance",
+        "The battle of Lumeçon",
+        "The Giants of Messines"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "With which paintings does she engage, changing scale?",
+      "options": [
+        "The imperial portraits of Titian",
+        "The landscapes of Turner",
+        "The still lifes of the 17th century, notably those of Joris Van Son"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Where was this monumental fresco painted?",
+      "options": [
+        "Rue Cantimpré",
+        "Place du Béguinage",
+        "Boulevard Sainctelette"
+      ],
+      "answer": 1
+    }
+  ],
+  "Daniel Eime Resistance": [
+    {
+      "question": "Whom does Daniel Eime pay tribute to in \"Resistance\"?",
+      "options": [
+        "Paul Otlet",
+        "Marguerite Bervoets",
+        "Saint Waudru"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What technique runs through all his creations?",
+      "options": [
+        "Stenciling, mixed with pop, realism, and geometric patterns",
+        "Spray painting without preparatory drawing",
+        "Installation of luminous words"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Where is the artist from, and since when has he been practicing street art?",
+      "options": [
+        "From France, only since 2022",
+        "From Switzerland, in a duo",
+        "From Portugal; he started very young with graffiti"
+      ],
+      "answer": 2
+    }
+  ],
+  "Portes du Theatre Royal": [
+    {
+      "question": "Which medallions are present on the cast iron doors of the Royal Theatre?",
+      "options": [
+        "Molière, Racine, Grétry, Roland de Lassus",
+        "Hugo, Balzac, Verlaine, Rimbaud",
+        "Dumas, Zola, Flaubert, Camus"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What material was used to make the doors of the Royal Theatre?",
+      "options": [
+        "Wood",
+        "Cast iron",
+        "Stone"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the coat of arms represented on the doors of the Royal Theatre?",
+      "options": [
+        "Coat of arms of Brussels",
+        "Coat of arms of Liège",
+        "Coat of arms of Mons"
+      ],
+      "answer": 2
+    }
+  ],
+  "Blasons muets": [
+    {
+      "question": "What is the main material of the mute shields visible at 8 rue du Miroir?",
+      "options": [
+        "Wood",
+        "Stone",
+        "Metal"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In what year were the mute shields created?",
+      "options": [
+        "1600",
+        "1500",
+        "1545"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the name of the street where the mute shields are located in Mons?",
+      "options": [
+        "Rue du Miroir",
+        "Rue de la Chaussée",
+        "Rue de la Résistance"
+      ],
+      "answer": 0
+    }
+  ],
+  "Au Gros Visage": [
+    {
+      "question": "What motif is represented on the bas-relief of the sign 'Au Gros Visage'?",
+      "options": [
+        "A lion",
+        "A flower",
+        "A chubby face"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In what year was the sign 'Au Gros Visage' created?",
+      "options": [
+        "1789",
+        "1801",
+        "1750"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which street is the sign 'Au Gros Visage' located in Mons?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue du Miroir",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "A la Poire d'Or": [
+    {
+      "question": "What motif is represented on the sign of 'A la Poire d'Or'?",
+      "options": [
+        "A pear hanging from a ribbon",
+        "A rampant lion",
+        "A fleur-de-lis"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In what year was the sign 'A la Poire d'Or' dated?",
+      "options": [
+        "1750",
+        "1789",
+        "1801"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which street is the sign 'A la Poire d'Or' located?",
+      "options": [
+        "Rue de la Clef",
+        "Rue des Fripiers",
+        "Rue de Nimy"
+      ],
+      "answer": 2
+    }
+  ],
+  "Le Gros Maillet": [
+    {
+      "question": "What is the main motif of the sign at 9 rue de Nimy?",
+      "options": [
+        "A wooden axe",
+        "A sculpted mallet",
+        "An iron hammer"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which era was this trade sign created?",
+      "options": [
+        "In the 17th century",
+        "In the 15th century",
+        "In the 19th century"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which street is the sign Le Gros Maillet located in Mons?",
+      "options": [
+        "Rue de Nimy",
+        "Rue de la Chaussée",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "The Bootle Arms": [
+    {
+      "question": "What coat of arms is represented on the sign of The Bootle Arms?",
+      "options": [
+        "A coat of arms of the city of Mons",
+        "A coat of arms of the province of Hainaut",
+        "A coat of arms symbolizing the twinning with Bootle"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In what year was the twinning between Mons and Bootle established?",
+      "options": [
+        "1964",
+        "1980",
+        "1990"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which street is The Bootle Arms located in Mons?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue de Nimy",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Au Paradis": [
+    {
+      "question": "What is the main motif of the sign Au Paradis?",
+      "options": [
+        "An angel",
+        "A demon",
+        "A tree"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which year was the sign Au Paradis created?",
+      "options": [
+        "16th century",
+        "18th century",
+        "19th century"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which street is the sign Au Paradis located in Mons?",
+      "options": [
+        "Rue des Fripiers",
+        "Rue de la Chaussée",
+        "Rue de Nimy"
+      ],
+      "answer": 2
+    }
+  ],
+  "IHS Rue de Nimy 71": [
+    {
+      "question": "What motif is represented on the bas-relief at 71 Rue de Nimy?",
+      "options": [
+        "A Latin cross",
+        "A Christogram IHS",
+        "A symbol of the city of Mons"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What symbolic element is associated with the Christogram IHS on this sign?",
+      "options": [
+        "A crown of thorns",
+        "A chalice",
+        "Three nails"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which street is the IHS sign located in Mons?",
+      "options": [
+        "Rue de Nimy",
+        "Rue des Clercs",
+        "Rue de la Chaussée"
+      ],
+      "answer": 0
+    }
+  ],
+  "A le Trois Brouet": [
+    {
+      "question": "What motif is represented on the bas-relief of the sign À le Trois Brouet?",
+      "options": [
+        "A crown",
+        "A hammer",
+        "Three wheelbarrows"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In what year was the sign À le Trois Brouet created?",
+      "options": [
+        "1714",
+        "1800",
+        "1650"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "On which street is the sign À le Trois Brouet located in Mons?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue de Nimy",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Saint-Pierre Rue de Nimy": [
+    {
+      "question": "Which saint is represented on the sculpted sign at 80 Rue de Nimy?",
+      "options": [
+        "Saint Peter",
+        "Saint Paul",
+        "Saint James"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which era was this sign likely sculpted?",
+      "options": [
+        "19th century",
+        "18th century",
+        "20th century"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the street where the Saint Peter sign is located in Mons?",
+      "options": [
+        "Rue des Clercs",
+        "Rue de la Chaussée",
+        "Rue de Nimy"
+      ],
+      "answer": 2
+    }
+  ],
+  "Aux Trois Herrents": [
+    {
+      "question": "What motif is represented in bas-relief on the sign 'Aux Trois Herrents'?",
+      "options": [
+        "Three trout",
+        "Three herring",
+        "Three salmon"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In what year was the sign 'Aux Trois Herrents' created?",
+      "options": [
+        "1715",
+        "1730",
+        "1723"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which street is the sign 'Aux Trois Herrents' located in Mons?",
+      "options": [
+        "Rue de Nimy",
+        "Rue des Fripiers",
+        "Rue de la Chaussée"
+      ],
+      "answer": 0
+    }
+  ],
+  "Armes de Mons Petit Marche": [
+    {
+      "question": "What motif is represented on the arch key of the coat of arms of Mons?",
+      "options": [
+        "A star",
+        "An eagle",
+        "A lion"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which era was the coat of arms of Mons sculpted?",
+      "options": [
+        "18th century",
+        "16th century",
+        "19th century"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which courtyard is the coat of arms of Mons located?",
+      "options": [
+        "Gare Courtyard",
+        "Petit Marché Courtyard",
+        "Bourse Courtyard"
+      ],
+      "answer": 1
+    }
+  ],
+  "IHS dans un soleil": [
+    {
+      "question": "What motif is represented on the bas-relief at 89 rue de Nimy?",
+      "options": [
+        "An IHS Christogram",
+        "A lion",
+        "A cross"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "From which era does the observed religious motif date?",
+      "options": [
+        "16th century",
+        "18th century",
+        "19th century"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the street where the IHS bas-relief in a sun is located?",
+      "options": [
+        "Rue des Clercs",
+        "Rue de la Chaussée",
+        "Rue de Nimy"
+      ],
+      "answer": 2
+    }
+  ],
+  "Aux Trois Verts Chapeaux": [
+    {
+      "question": "What motif is represented on the sign 'Aux Trois Verts Chapeaux'?",
+      "options": [
+        "Three flowers",
+        "Three stars",
+        "Three hats"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In what year was the sign 'Aux Trois Verts Chapeaux' created?",
+      "options": [
+        "1712",
+        "1705",
+        "1720"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which street is the sign 'Aux Trois Verts Chapeaux' located in Mons?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue de Nimy",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "A la Tette d'Or": [
+    {
+      "question": "What motif is visible on the bas-relief of the sign 'À la Tette d'Or'?",
+      "options": [
+        "A carved head",
+        "A sculpted animal",
+        "An engraved landscape"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the main material used for the bas-relief of the sign?",
+      "options": [
+        "Wood",
+        "Stone",
+        "Metal"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which street is the sign 'À la Tette d'Or' located?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Fripiers",
+        "Rue d'Havré"
+      ],
+      "answer": 2
+    }
+  ],
+  "Le Lecteur Colas": [
+    {
+      "question": "What is the main material used for the modern sculpture 'Le Lecteur'?",
+      "options": [
+        "Bronze",
+        "Stone",
+        "Wood"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which year was the sculpture 'Le Lecteur' installed?",
+      "options": [
+        "1985",
+        "1995",
+        "1990"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "On which street is the sculpture 'Le Lecteur' located in Mons?",
+      "options": [
+        "Rue d'Havré",
+        "Rue de Nimy",
+        "Rue de la Chaussée"
+      ],
+      "answer": 0
+    }
+  ],
+  "Au Lion d'Or": [
+    {
+      "question": "Which element of the bas-relief has disappeared over time?",
+      "options": [
+        "The cartouche",
+        "The street",
+        "The lion"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which year was the bas-relief 'Au Lion d'Or' created?",
+      "options": [
+        "1712",
+        "1800",
+        "1650"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which street is the sign 'Au Lion d'Or' located?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue des Clercs"
+      ],
+      "answer": 1
+    }
+  ],
+  "Millesime MDCCXII": [
+    {
+      "question": "What is the visible pattern on the dated stone?",
+      "options": [
+        "MDCCXII",
+        "A coat of arms",
+        "A flower"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the year engraved on the dated stone?",
+      "options": [
+        "1800",
+        "1712",
+        "1600"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which street is the dated stone MDCCXII located?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Fripiers",
+        "Rue d'Havré"
+      ],
+      "answer": 2
+    }
+  ],
+  "A la Clef d'Or": [
+    {
+      "question": "What motif is represented on the sign of 'À la Clef d'Or'?",
+      "options": [
+        "An ancient book",
+        "An ornate key",
+        "A stylized flower"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which era was the sign 'À la Clef d'Or' likely created?",
+      "options": [
+        "In the 17th century",
+        "In the 20th century",
+        "In the 19th century"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which street is the sign 'À la Clef d'Or' located?",
+      "options": [
+        "Rue d'Havré",
+        "Rue de la Chaussée",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Tasche d'Argent": [
+    {
+      "question": "What material is used for the sign of the Tasche d'Argent?",
+      "options": [
+        "Metal",
+        "Wood",
+        "Stone"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In what year was the sign of the Tasche d'Argent restored?",
+      "options": [
+        "1934",
+        "1920",
+        "1945"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which street is the sign of the Tasche d'Argent located?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "A la Balance d'Or": [
+    {
+      "question": "What motif is carved on the sign of the Balance d'Or?",
+      "options": [
+        "A scale",
+        "A book",
+        "A key"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In what year was the Balance d'Or created?",
+      "options": [
+        "1800",
+        "1768",
+        "1873"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which street is the sign of the Balance d'Or located in Mons?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Fripiers",
+        "Rue d'Havré"
+      ],
+      "answer": 2
+    }
+  ],
+  "Au Renard": [
+    {
+      "question": "What motif is represented on the bas-relief of the sign 'Au Renard'?",
+      "options": [
+        "A majestic lion",
+        "A running fox",
+        "A perched owl"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which year was the sign 'Au Renard' created?",
+      "options": [
+        "1710",
+        "1735",
+        "1724"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which street is the sign 'Au Renard' located in Mons?",
+      "options": [
+        "Rue d'Havré",
+        "Rue de la Chaussée",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Lunette d'Or": [
+    {
+      "question": "What motif is sculpted on the facade of the sign À la Lunette d'Or?",
+      "options": [
+        "A watch",
+        "A book",
+        "A pair of binoculars"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which era was the sculpted binoculars of the sign À la Lunette d'Or made?",
+      "options": [
+        "In the 19th century",
+        "In the 18th century",
+        "In the 20th century"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which street is the sign À la Lunette d'Or located?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Au Pistolet d'Or": [
+    {
+      "question": "What motif is represented in bas-relief on the sign 'Au Pistolet d'Or'?",
+      "options": [
+        "A pistol",
+        "A sword",
+        "A shield"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which year was the sign 'Au Pistolet d'Or' created?",
+      "options": [
+        "1705",
+        "1711",
+        "1720"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which street is the sign 'Au Pistolet d'Or' located?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Fripiers",
+        "Rue du Hautbois"
+      ],
+      "answer": 2
+    }
+  ],
+  "A l'Ecaille d'Or": [
+    {
+      "question": "What motif is represented on the sign of the Écaille d'Or?",
+      "options": [
+        "A fish",
+        "A shell",
+        "A star"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In what year was the sign of the Écaille d'Or created?",
+      "options": [
+        "1800",
+        "1725",
+        "1750"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which street is the sign of the Écaille d'Or located in Mons?",
+      "options": [
+        "Rue du Hautbois",
+        "Rue de la Chaussée",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Paile d'Or": [
+    {
+      "question": "What motif is represented on the sign of 'À la Paile d'Or'?",
+      "options": [
+        "A windmill",
+        "A fork",
+        "A baker's shovel"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What type of profession is associated with the sign 'À la Paile d'Or'?",
+      "options": [
+        "Baker",
+        "Butcher",
+        "Cook"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which street is the sign 'À la Paile d'Or' located?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Au Corbeau": [
+    {
+      "question": "Which bird is sculpted on the door of the sign 'Au Corbeau'?",
+      "options": [
+        "A raven",
+        "A pigeon",
+        "A swallow"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the address of the sign 'Au Corbeau'?",
+      "options": [
+        "45 Rue de la Chaussée",
+        "106 Rue d'Havré",
+        "12 Rue des Fripiers"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What type of motif is used for the sign 'Au Corbeau'?",
+      "options": [
+        "Wood sculpture",
+        "Mural painting",
+        "Stone sculpture"
+      ],
+      "answer": 2
+    }
+  ],
+  "Pelles a enfourner 1573": [
+    {
+      "question": "What motif is represented on the baker's shovels?",
+      "options": [
+        "Four baguettes",
+        "Three loaves of bread",
+        "A loaf of bread"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In what year was the stone of the shovels made?",
+      "options": [
+        "1565",
+        "1580",
+        "1573"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Where was the stone of the baker's shovels found?",
+      "options": [
+        "Havré Street",
+        "Chaussée Street",
+        "Park Square"
+      ],
+      "answer": 0
+    }
+  ],
+  "Au Mousqueton d'Or": [
+    {
+      "question": "What motif is represented in bas-relief on the sign 'Au Mousqueton d'Or'?",
+      "options": [
+        "A sword",
+        "A shield",
+        "A carabiner"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which year was the sign 'Au Mousqueton d'Or' created?",
+      "options": [
+        "1726",
+        "1710",
+        "1735"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which street is the sign 'Au Mousqueton d'Or' located in Mons?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "A la Faux d'Or": [
+    {
+      "question": "What motif is represented on the bas-relief of the sign 'À la Faux d'Or'?",
+      "options": [
+        "A scythe",
+        "A coat of arms",
+        "A crown"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In what year was the sign 'À la Faux d'Or' sculpted?",
+      "options": [
+        "1715",
+        "1723",
+        "1730"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which street is the sign 'À la Faux d'Or' located in Mons?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue de Nimy",
+        "Rue d'Havré"
+      ],
+      "answer": 2
+    }
+  ],
+  "La Croix d'Or Havre": [
+    {
+      "question": "What motif characterizes the cross of La Croix d'Or?",
+      "options": [
+        "Spiral pattern",
+        "Fleur-de-lis tips",
+        "Pattée cross"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In what year was La Croix d'Or created?",
+      "options": [
+        "1750",
+        "1789",
+        "1766"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which street is La Croix d'Or located in Mons?",
+      "options": [
+        "Rue d'Havré",
+        "Rue de la Chaussée",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Licorne": [
+    {
+      "question": "What motif is represented on the bas-relief of the sign 'À la Licorne'?",
+      "options": [
+        "A dragon",
+        "A mermaid",
+        "A horse and a helmet"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the date associated with the Franeau de Gommegnies, linked to the sign 'À la Licorne'?",
+      "options": [
+        "16th century",
+        "17th century",
+        "19th century"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which street is the sign 'À la Licorne' located in Mons?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "La Belle Plebeienne": [
+    {
+      "question": "What material is used for the sculpture 'La Belle Plébéienne'?",
+      "options": [
+        "Bronze",
+        "Marble",
+        "Stone"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In what year was 'La Belle Plébéienne' created?",
+      "options": [
+        "1980",
+        "1974",
+        "1965"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which park in Mons is 'La Belle Plébéienne' located?",
+      "options": [
+        "Dodaine Park",
+        "Serna Park",
+        "Waux-Hall Park"
+      ],
+      "answer": 2
+    }
+  ],
+  "Buste de la reine Astrid": [
+    {
+      "question": "What material was used to create the bust of Queen Astrid?",
+      "options": [
+        "Marble",
+        "Bronze",
+        "Stone"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In what year was the original bust of Queen Astrid stolen?",
+      "options": [
+        "2005",
+        "2012",
+        "2009"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which park in Mons is the bust of Queen Astrid located?",
+      "options": [
+        "Waux-Hall Park",
+        "Dodaine Park",
+        "Serna Park"
+      ],
+      "answer": 0
+    }
+  ],
+  "Armes de Mons Rue de la Clef": [
+    {
+      "question": "What is the main motif of the Armes de Mons?",
+      "options": [
+        "A hunting scene",
+        "A rural landscape",
+        "A coat of arms"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the historical context of the Armes de Mons?",
+      "options": [
+        "Remnant of the old Great Butchery",
+        "Former sign of the Rue des Bouchers",
+        "War memorial"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which street are the Armes de Mons located?",
+      "options": [
+        "Rue des Fripiers",
+        "Rue de la Clef",
+        "Rue de la Boucherie"
+      ],
+      "answer": 1
+    }
+  ],
+  "A la Tete Saint-Jean": [
+    {
+      "question": "What motif is represented on the relief of the sign?",
+      "options": [
+        "Head of Saint John the Baptist",
+        "Head of Saint Peter",
+        "Head of Saint Paul"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which era could we estimate that this sign was made?",
+      "options": [
+        "16th century",
+        "17th century",
+        "18th century"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which street is the sign 'À la Tête Saint-Jean' located?",
+      "options": [
+        "Rue de la Fontaine",
+        "Rue des Fripiers",
+        "Rue de la Clef"
+      ],
+      "answer": 2
+    }
+  ],
+  "Au Grand Laboureur": [
+    {
+      "question": "What is the main material used for the sign 'Au Grand Laboureur'?",
+      "options": [
+        "Wood",
+        "Stone",
+        "Metal"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "From which era does the sign 'Au Grand Laboureur' date?",
+      "options": [
+        "19th century",
+        "20th century",
+        "18th century"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which street is the sign 'Au Grand Laboureur' located in Mons?",
+      "options": [
+        "Rue de la Clef",
+        "Rue de la Fontaine",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "Colombe du Saint-Esprit": [
+    {
+      "question": "What material is used for the dove located on the balcony?",
+      "options": [
+        "Sculpted stone",
+        "Painted wood",
+        "Golden cast iron"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the address of the dove of the Holy Spirit?",
+      "options": [
+        "13 Houdain Street",
+        "5 Chaussée Street",
+        "10 Park Square"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the symbol represented by the dove on the balcony?",
+      "options": [
+        "War",
+        "Peace",
+        "Prosperity"
+      ],
+      "answer": 1
+    }
+  ],
+  "Mortier et Pilon": [
+    {
+      "question": "What is the main material used for the Mortier et Pilon sign?",
+      "options": [
+        "Metal",
+        "Wood",
+        "Glass"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In what year was the Mortier et Pilon sign installed?",
+      "options": [
+        "1985",
+        "1995",
+        "2005"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which street is the Mortier et Pilon sign located in Mons?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Fripiers",
+        "Rue de Houdain"
+      ],
+      "answer": 2
+    }
+  ],
+  "A la Bonne Femme": [
+    {
+      "question": "What is the main material used for the sign 'À la Bonne Femme'?",
+      "options": [
+        "Metal",
+        "Wood",
+        "Stone"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In what year was the sign 'À la Bonne Femme' created?",
+      "options": [
+        "1710",
+        "1735",
+        "1723"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "On which street was the sign 'À la Bonne Femme' originally located before being moved?",
+      "options": [
+        "Rue Bertaimont",
+        "Rue de la Chaussée",
+        "Rue de Nimy"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Croix d'Or Croix-Place": [
+    {
+      "question": "What motif is represented on the bas-relief of the sign 'À la Croix d'Or'?",
+      "options": [
+        "A lion",
+        "A flower",
+        "A cross"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In what year was the sign 'À la Croix d'Or' created?",
+      "options": [
+        "1936",
+        "1920",
+        "1945"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the historical significance of the location of the sign 'À la Croix d'Or'?",
+      "options": [
+        "It marks the end of the street des Clercs",
+        "It was the jurisdiction point of Havré",
+        "It is the oldest sign in Mons"
+      ],
+      "answer": 1
+    }
+  ],
+  "Fontaine Rue de Bertaimont": [
+    {
+      "question": "What type of relief characterizes the fountain located at 31 Rue de Bertaimont?",
+      "options": [
+        "Half-relief",
+        "Bas-relief",
+        "Full relief"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which era could we estimate that this fountain was created?",
+      "options": [
+        "19th century",
+        "18th century",
+        "20th century"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which street is the half-relief basin fountain located in Mons?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Clercs",
+        "Rue de Bertaimont"
+      ],
+      "answer": 2
+    }
+  ],
+  "Croix plume et pinceau": [
+    {
+      "question": "What motif is represented in the ironwork of the Croix plume et pinceau?",
+      "options": [
+        "Star and moon",
+        "Cross, feather and brush",
+        "Lily flower"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which canon is associated with this beautiful ironwork?",
+      "options": [
+        "Canon Dupont",
+        "Canon Martin",
+        "Canon Powerful"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which street is the Croix plume et pinceau located?",
+      "options": [
+        "Prince's Earth Street",
+        "Resistance Street",
+        "Combatants Street"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Grande Rose": [
+    {
+      "question": "What motif is represented on the bas-relief of the sign 'À la Grande Rose'?",
+      "options": [
+        "A lion",
+        "A crown",
+        "A sculpted rose"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "From which era does the reuse of the sculpted rose date?",
+      "options": [
+        "16th century",
+        "18th century",
+        "15th century"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which street is the sign 'À la Grande Rose' located?",
+      "options": [
+        "Rue des Fripiers",
+        "Rue de la Poterie",
+        "Rue de la Résistance"
+      ],
+      "answer": 1
+    }
+  ],
+  "Chateau de le Marcote": [
+    {
+      "question": "What animal motif is carved on the sign of Chateau de le Marcote?",
+      "options": [
+        "Three weasels",
+        "Two foxes",
+        "Four rabbits"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In what year was the sign of Chateau de le Marcote carved?",
+      "options": [
+        "1702",
+        "1689",
+        "1650"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is special about the house at 33 rue des Marcottes in Mons?",
+      "options": [
+        "It is an old town hall",
+        "It is an old chapel",
+        "It is the narrowest house"
+      ],
+      "answer": 2
+    }
+  ],
+  "16 IHS 93": [
+    {
+      "question": "What is the main motif visible on the bas-relief at 38 rue des Groseilliers?",
+      "options": [
+        "A Latin cross",
+        "A Christogram",
+        "A coat of arms"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the dating year of the Christogram?",
+      "options": [
+        "1685",
+        "1701",
+        "1693"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which street is the Christogram dated 1693 located in Mons?",
+      "options": [
+        "Rue des Groseilliers",
+        "Rue de la Chaussée",
+        "Rue de la Résistance"
+      ],
+      "answer": 0
+    }
+  ],
+  "Cheval Dore": [
+    {
+      "question": "What motif is carved on the entrance key of the Cheval Dore?",
+      "options": [
+        "A lion",
+        "A flower",
+        "A horse"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which century was the Cheval Dore sculpted?",
+      "options": [
+        "In the 19th century",
+        "In the 18th century",
+        "In the 20th century"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which street is the Cheval Dore located in Mons?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue du Parc",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Bas-relief litterature montoise": [
+    {
+      "question": "What material is used for the plaque dedicated to the creators of Montoise literature?",
+      "options": [
+        "Bronze",
+        "Marble",
+        "Stone"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who is the author of the bronze plaque honoring Montoise writers?",
+      "options": [
+        "Henri Delmotte",
+        "Gustave Jacobs",
+        "Charles Letellier"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which street is the plaque dedicated to Montoise literature located?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Clercs",
+        "Jardin du Mayeur"
+      ],
+      "answer": 2
+    }
+  ],
+  "A la Coupe d'Or": [
+    {
+      "question": "What type of object is represented in high relief on the sign 'À la Coupe d'Or'?",
+      "options": [
+        "A cup",
+        "A ciborium",
+        "A candlestick"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which era was the sculpted ciborium of 'À la Coupe d'Or' created?",
+      "options": [
+        "In the 18th century",
+        "In the 19th century",
+        "In the 17th century"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which street is the sign 'À la Coupe d'Or' located?",
+      "options": [
+        "Rue de la Coupe",
+        "Rue de la Paix",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "A Saint-Antoine": [
+    {
+      "question": "What motif is represented on the bas-relief at Saint-Antoine?",
+      "options": [
+        "Saint Peter and his fish",
+        "Saint James and his shell",
+        "Saint Antoine and his pig"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the approximate date of creation of the chapel dedicated to Saint-Antoine?",
+      "options": [
+        "17th century",
+        "16th century",
+        "18th century"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which street is the visit point A Saint-Antoine located?",
+      "options": [
+        "Rue des Fripiers",
+        "Rue de la Coupe",
+        "Rue de la Résistance"
+      ],
+      "answer": 1
+    }
+  ],
+  "Au Paon et au Cygne": [
+    {
+      "question": "Which animals are represented in the pediments of the sign 'Au Paon et au Cygne'?",
+      "options": [
+        "Peacock and swan",
+        "Eagle and heron",
+        "Dog and cat"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the street number where the sign 'Au Paon et au Cygne' is located?",
+      "options": [
+        "15",
+        "22",
+        "30"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which historic street of Mons is the sign 'Au Paon et au Cygne' located?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Clercs",
+        "Rue des Fripiers"
+      ],
+      "answer": 2
+    }
+  ],
+  "Cartouche et blason Grande Triperie": [
+    {
+      "question": "What motif is represented on the cartouche of the Grande Triperie?",
+      "options": [
+        "Shield",
+        "Mascaron",
+        "Dog-lion"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which era could we estimate that the coat of arms was created?",
+      "options": [
+        "16th century",
+        "19th century",
+        "18th century"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which street is the Grande Triperie located in Mons?",
+      "options": [
+        "Rue de la Grande Triperie",
+        "Rue de la Petite Triperie",
+        "Rue des Bouchers"
+      ],
+      "answer": 0
+    }
+  ],
+  "Le Gant": [
+    {
+      "question": "What motif is represented on the bas-relief of the sign Le Gant?",
+      "options": [
+        "A shoe",
+        "A hat",
+        "A glove"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In what year was the sign Le Gant sculpted?",
+      "options": [
+        "1718",
+        "1720",
+        "1705"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which street is the sign Le Gant located in Mons?",
+      "options": [
+        "Rue de la Chaussée",
+        "Grand'Rue",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "BF IHS IL": [
+    {
+      "question": "What motif is present on the Christogram BF IHS IL?",
+      "options": [
+        "Heart and three nails",
+        "Cross and crown",
+        "Angel and star"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which era was the Christogram BF IHS IL likely created?",
+      "options": [
+        "16th century",
+        "18th century",
+        "20th century"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which street is the Christogram BF IHS IL located in Mons?",
+      "options": [
+        "Rue des Fripiers",
+        "Rue de la Chaussée",
+        "Grand'Rue"
+      ],
+      "answer": 2
+    }
+  ],
+  "A la Couronne Grand Rue": [
+    {
+      "question": "What motif is represented in bas-relief on the sign of 'À la Couronne'?",
+      "options": [
+        "A lion",
+        "A count's crown",
+        "A fleur-de-lis"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which century was the count's crown sculpted?",
+      "options": [
+        "In the 18th century",
+        "In the 17th century",
+        "In the 19th century"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which street is the sign 'À la Couronne' located?",
+      "options": [
+        "Grand'Rue",
+        "Chaussée Street",
+        "Fripiers Street"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Ville d'Avesnes": [
+    {
+      "question": "What motif is represented in bas-relief on the sign 'À la Ville d'Avesnes'?",
+      "options": [
+        "A landscape of Mons",
+        "A market scene",
+        "A representation of Avesnes"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In what year was the sign 'À la Ville d'Avesnes' created?",
+      "options": [
+        "1724",
+        "1710",
+        "1735"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which street is the sign 'À la Ville d'Avesnes' located?",
+      "options": [
+        "Rue de la Chaussée",
+        "Grand'Rue",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Cantoria Roland de Lassus": [
+    {
+      "question": "What material is used for the three choristers of the monument to Roland de Lassus?",
+      "options": [
+        "Bronze",
+        "Marble",
+        "Stone"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which year was the monument to Roland de Lassus inaugurated?",
+      "options": [
+        "1965",
+        "1970",
+        "1980"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which street is the monument to Roland de Lassus located in Mons?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Fripiers",
+        "Rue du Chapitre"
+      ],
+      "answer": 2
+    }
+  ],
+  "Loge maconnique Rue Chisaire": [
+    {
+      "question": "What symbols are visible on the facade of the Masonic Lodge?",
+      "options": [
+        "Religious symbols",
+        "Masonic symbols",
+        "Military symbols"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In what year was the Masonic Lodge founded?",
+      "options": [
+        "1804",
+        "1850",
+        "1776"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "On which street is the Masonic Lodge located in Mons?",
+      "options": [
+        "Rue Chisaire",
+        "Rue de la Chaussée",
+        "Rue de Nimy"
+      ],
+      "answer": 0
+    }
+  ],
+  "St Franciscus Kring": [
+    {
+      "question": "What is the name of the former house located at 31 Masquelier Street?",
+      "options": [
+        "House of the Walloons",
+        "House of the Belgians",
+        "House of the Flemish"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What type of building is the St Franciscus Kring?",
+      "options": [
+        "A house",
+        "A church",
+        "A museum"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which street is the St Franciscus Kring located in Mons?",
+      "options": [
+        "Chaussée Street",
+        "Masquelier Street",
+        "Nimy Street"
+      ],
+      "answer": 1
+    }
+  ],
+  "Rue Cronque": [
+    {
+      "question": "What is the meaning of the word 'cronque' in the Montois dialect?",
+      "options": [
+        "Sinuous",
+        "Wide",
+        "Straight"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What notable feature can be found in the paving of Rue Cronque?",
+      "options": [
+        "An ancient well",
+        "A mysterious cross",
+        "A fountain"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which place does Rue Cronque lead to?",
+      "options": [
+        "The Grand Place",
+        "Saint Vincent Collegiate Church",
+        "The Castle Park"
+      ],
+      "answer": 2
+    }
+  ],
+  "Chasse du Bon Dieu": [
+    {
+      "question": "What type of street is the Chasse du Bon Dieu in Mons?",
+      "options": [
+        "A large avenue",
+        "A narrow alley",
+        "A public square"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the name of the Christ that inspired the name of this chase?",
+      "options": [
+        "Christ of Mercy",
+        "Christ of Miracles",
+        "Good God of Pity"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What aspect of old Mons is represented by the Chasse du Bon Dieu?",
+      "options": [
+        "The old urban fabric",
+        "The modern boulevards",
+        "The large squares"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rampe Borgnagache": [
+    {
+      "question": "Which bird is associated with the name 'Borgnagache' in the Mons dialect?",
+      "options": [
+        "The blackbird",
+        "The pigeon",
+        "The magpie"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who are the founders of the hospital linked to the name 'Borgnagache'?",
+      "options": [
+        "Jean and Jacques Borgnagache",
+        "Pierre and Paul Dupont",
+        "Marie and Louis Martin"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which neighborhood of Mons is the Borgnagache ramp located?",
+      "options": [
+        "The Grand-Place neighborhood",
+        "The collegiate neighborhood",
+        "The train station neighborhood"
+      ],
+      "answer": 1
+    }
+  ],
+  "Rue de la Grosse Pomme": [
+    {
+      "question": "What traditional event passed through Rue de la Grosse Pomme?",
+      "options": [
+        "The Golden Car procession",
+        "The carnival of Mons",
+        "The Saint Vincent fair"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the link between Rue de la Grosse Pomme and the old medieval wall?",
+      "options": [
+        "It was a trade route",
+        "It preserves the memory of a defensive wall",
+        "It was the site of a castle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which monument is located near Rue de la Grosse Pomme?",
+      "options": [
+        "The belfry of Mons",
+        "The Grand Place of Mons",
+        "The collegiate church of Saint-Waudru"
+      ],
+      "answer": 2
+    }
+  ],
+  "Rue des Cinq Visages": [
+    {
+      "question": "What is the name of the street that evokes a mystery related to five faces?",
+      "options": [
+        "Rue de la Collégiale",
+        "Rue des Cinq Visages",
+        "Rue du Beffroi"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Rue des Cinq Visages roughly follows the path of which ancient structure?",
+      "options": [
+        "A Roman aqueduct",
+        "An industrial canal",
+        "A medieval enclosure"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which district of Mons is the Rue des Cinq Visages located?",
+      "options": [
+        "District of the Sainte-Waudru collegiate",
+        "District of the Grand-Place",
+        "District of the Arts"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rampe Sainte Waudru": [
+    {
+      "question": "What event takes place every Sunday of Trinity on the Sainte-Waudru ramp?",
+      "options": [
+        "A craft fair is organized",
+        "Classical music concerts are held",
+        "The Car d'Or must climb the ramp without stopping"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the consequence if the Car d'Or stops on the ramp?",
+      "options": [
+        "A misfortune will strike the city within the year",
+        "The procession will be canceled",
+        "The float can no longer be used"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Sainte-Waudru ramp leads to which iconic monument of Mons?",
+      "options": [
+        "The belfry of Mons",
+        "The collegiate church of Sainte-Waudru",
+        "The Grand Place of Mons"
+      ],
+      "answer": 1
+    }
+  ],
+  "Rue de la Voussure": [
+    {
+      "question": "Which architectural element is designated by the term 'voussure'?",
+      "options": [
+        "Arch",
+        "Window",
+        "Column"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Under which building did the vaulted passage of Rue de la Voussure pass?",
+      "options": [
+        "Saint-Waudru Collegiate",
+        "Saint-Germain Church",
+        "Belfry of Mons"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the approximate length of Rue de la Voussure?",
+      "options": [
+        "100 meters",
+        "25 meters",
+        "50 meters"
+      ],
+      "answer": 2
+    }
+  ],
+  "Rue à Degrés": [
+    {
+      "question": "What type of street is the Rue à Degrés?",
+      "options": [
+        "A pedestrian street",
+        "A staircase",
+        "A shopping street"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What artwork is located in the Rue à Degrés?",
+      "options": [
+        "A portrait of the city",
+        "A bronze sculpture",
+        "A mural by Nevercrew"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which neighborhood of Mons is the Rue à Degrés located?",
+      "options": [
+        "Rachot neighborhood",
+        "Grand-Place neighborhood",
+        "Belfry neighborhood"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rue de la Peine Perdue": [
+    {
+      "question": "What type of architecture characterizes the Saint Elizabeth Church, located near Rue de la Peine Perdue?",
+      "options": [
+        "Renaissance",
+        "Modern",
+        "Baroque and Gothic"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the meaning of the expression 'peine perdue' that inspired the name of this street?",
+      "options": [
+        "A vain effort",
+        "A guaranteed success",
+        "A deserved reward"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which district of Mons is Rue de la Peine Perdue located?",
+      "options": [
+        "Grand Place District",
+        "Old Mons District",
+        "Collegiate District"
+      ],
+      "answer": 1
+    }
+  ],
+  "Cour du Noir Lévrier": [
+    {
+      "question": "Which animal is associated with the Cour du Noir Lévrier?",
+      "options": [
+        "A black greyhound",
+        "A cat",
+        "A horse"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which other place in Mons shares a reference to a greyhound in its name?",
+      "options": [
+        "The Street of Artisans",
+        "The White Greyhound",
+        "The Market Square"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What type of space is the Cour du Noir Lévrier?",
+      "options": [
+        "A large avenue",
+        "A public park",
+        "A paved dead-end"
+      ],
+      "answer": 2
+    }
+  ],
+  "Cour de l'Âne Barré": [
+    {
+      "question": "What is the meaning of the term 'barré' in reference to the donkey in the name of this courtyard?",
+      "options": [
+        "A chained donkey",
+        "Marked with a dark stripe on the back",
+        "A small-sized donkey"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why were signs like that of the Barré Donkey important for illiterates?",
+      "options": [
+        "They indicated the quality of establishments",
+        "They were symbols of power",
+        "They served as landmarks for orientation"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Near which famous square is the Cour de l'Âne Barré located?",
+      "options": [
+        "The Grand Place",
+        "The Park Square",
+        "The Market Square"
+      ],
+      "answer": 0
+    }
+  ],
+  "Ruelle aux Quinettes": [
+    {
+      "question": "What is the likely historical name of Ruelle aux Quinettes?",
+      "options": [
+        "Rachot",
+        "Cronque",
+        "Hocquinette"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which neighborhood is Ruelle aux Quinettes located?",
+      "options": [
+        "Rachot Neighborhood",
+        "Grand Place",
+        "Arts District"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What aspect characterizes Ruelle aux Quinettes?",
+      "options": [
+        "It is very wide",
+        "It is very intimate and narrow",
+        "It is lined with historical monuments"
+      ],
+      "answer": 1
+    }
+  ],
+  "Rue des Clercs": [
+    {
+      "question": "Which iconic building can be seen from Rue des Clercs?",
+      "options": [
+        "The belfry",
+        "Saint-Waudru Collegiate Church",
+        "The fine arts museum"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the historical link of the clerks with Rue des Clercs?",
+      "options": [
+        "They were leather craftsmen",
+        "They were people of writing and the Church",
+        "They were wine merchants"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which house, located on Rue des Clercs, became a UNESCO Heritage House?",
+      "options": [
+        "The House of Trades",
+        "The House of Arts",
+        "The Spanish House"
+      ],
+      "answer": 2
+    }
+  ],
+  "Rampe du Château": [
+    {
+      "question": "What type of surface is used on the Rampe du Château?",
+      "options": [
+        "Asphalt",
+        "Paving",
+        "Gravel"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What historical monument was located at the site of the Rampe du Château before the baroque belfry?",
+      "options": [
+        "The collegiate church of Sainte-Waudru",
+        "The Palace of the Prince-Bishops",
+        "The castle of the counts of Hainaut"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which sector of Mons is the Rampe du Château located?",
+      "options": [
+        "The belfry district",
+        "The Grand Place district",
+        "The Arts district"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rue des Gades": [
+    {
+      "question": "What does the term 'Gades' mean in the Montois dialect?",
+      "options": [
+        "Fields",
+        "Rivers",
+        "Goats"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What type of paving characterizes Rue des Gades?",
+      "options": [
+        "Cobblestones",
+        "Gravel",
+        "Asphalt"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Rue des Gades is located near which iconic monument in Mons?",
+      "options": [
+        "The collegiate church",
+        "The belfry",
+        "The Grand Place"
+      ],
+      "answer": 1
+    }
+  ],
+  "Cour du Bailly": [
+    {
+      "question": "What type of space does the Cour du Bailly represent in the medieval context of Mons?",
+      "options": [
+        "A service and passage space",
+        "A place of worship",
+        "A public market"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What was the role of the bailiff in the historical context of Mons?",
+      "options": [
+        "Military leader",
+        "Representative of the prince",
+        "Local craftsman"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Cour du Bailly is located behind an old castle. What is the name of this castle?",
+      "options": [
+        "Duchess's Castle",
+        "Grand Place Castle",
+        "Count's Castle"
+      ],
+      "answer": 2
+    }
+  ],
+  "Ruelle du Cerf Blanc": [
+    {
+      "question": "What type of houses can be found in the Ruelle du Cerf Blanc?",
+      "options": [
+        "Modern houses",
+        "17th-century houses",
+        "Wooden houses"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the white deer symbolize in ancient imagery?",
+      "options": [
+        "A pet",
+        "A symbol of war",
+        "A rare and magical creature"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which district of Mons is the Ruelle du Cerf Blanc located?",
+      "options": [
+        "Park District",
+        "Grand Place District",
+        "Collegiate District"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rue de l'Âtre": [
+    {
+      "question": "What is the meaning of the word 'âtre' in the context of Rue de l'Âtre?",
+      "options": [
+        "A type of monument",
+        "A historic district",
+        "The hearth of the house"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In what year was the Saint-Nicolas-en-Havré church founded?",
+      "options": [
+        "1224",
+        "1300",
+        "1450"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What religious element is documented against the side facade of the Saint-Nicolas-en-Havré church?",
+      "options": [
+        "A statue of Saint Nicholas",
+        "A suffering Christ",
+        "A stained glass window depicting the Virgin"
+      ],
+      "answer": 1
+    }
+  ],
+  "Rue des Trois Boudins": [
+    {
+      "question": "Which building is located near Rue des Trois Boudins?",
+      "options": [
+        "Le Mundaneum",
+        "La Collégiale Sainte-Waudru",
+        "Le Beffroi de Mons"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Where does the name 'Rue des Trois Boudins' likely come from?",
+      "options": [
+        "A neighborhood joke",
+        "A tripe shop sign",
+        "A historical event"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What architectural style is visible on the facade of the Mundaneum?",
+      "options": [
+        "Gothic",
+        "Baroque",
+        "Amsterdam School Expressionism"
+      ],
+      "answer": 2
+    }
+  ],
+  "Rue des Quatre Fils Aymon": [
+    {
+      "question": "What is the name of the legendary horse associated with the Four Sons of Aymon?",
+      "options": [
+        "Braveheart",
+        "Bayard",
+        "Tornado"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What type of building is located at No. 14 Rue des Quatre Fils Aymon?",
+      "options": [
+        "A church",
+        "A museum",
+        "An old mansion"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the main theme of the legend of the Four Sons of Aymon?",
+      "options": [
+        "The flight of Charlemagne",
+        "The conquest of Mons",
+        "The foundation of the Grand Place"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rue des Fillettes": [
+    {
+      "question": "What is the historical link of Rue des Fillettes to prostitution?",
+      "options": [
+        "It was a meeting place for artists",
+        "It was a flower market",
+        "It was linked to medieval prostitution"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which year is Rue des Fillettes mentioned in a municipal document?",
+      "options": [
+        "1543",
+        "1602",
+        "1450"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which neighborhood in Mons is near Rue des Fillettes?",
+      "options": [
+        "The arts district",
+        "The pleasure district",
+        "The historic district"
+      ],
+      "answer": 1
+    }
+  ],
+  "Rue de la Terre du Prince": [
+    {
+      "question": "What type of remains can be observed in Rue de la Terre du Prince?",
+      "options": [
+        "Remains of the old city wall of Mons",
+        "Ruins of an old castle",
+        "Foundations of a church"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What was the estate associated with the name 'Terre du Prince'?",
+      "options": [
+        "The estate of the Dukes of Brabant",
+        "The estate of the Counts of Hainaut",
+        "The estate of the Kings of France"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Rue de la Terre du Prince is located near which type of historical structure?",
+      "options": [
+        "A collegiate church",
+        "A train station",
+        "A belfry"
+      ],
+      "answer": 2
+    }
+  ],
+  "Rue des Sœurs Grises": [
+    {
+      "question": "What color characterized the habit of the grey sisters?",
+      "options": [
+        "Black",
+        "Ash grey",
+        "White"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What type of religious community were the grey sisters?",
+      "options": [
+        "Benedictines",
+        "Cistercians",
+        "Franciscan tertiaries"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which other point in Mons shares a similar history with Rue des Sœurs Grises?",
+      "options": [
+        "Rue des Sœurs Noires",
+        "Place du Chapitre",
+        "Avenue des Chanoinesses"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rue de la Petite Guirlande": [
+    {
+      "question": "What traditional event passes through Rue de la Petite Guirlande?",
+      "options": [
+        "The Ducasse of Mons",
+        "The Carnival of Binche",
+        "The Procession of the Golden Car"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the meaning of the name 'Petite Guirlande' in the context of this street?",
+      "options": [
+        "A festive decoration",
+        "An old profession",
+        "A type of building"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the general direction of Rue de la Petite Guirlande in relation to the train station?",
+      "options": [
+        "Towards the east",
+        "Towards the west",
+        "Towards the south"
+      ],
+      "answer": 1
+    }
+  ],
+  "La clé rouge": [
+    {
+      "question": "What motif is carved on the sign of 'La clé rouge'?",
+      "options": [
+        "A lion",
+        "A large key",
+        "A flower"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which era could one estimate that the sign was made, based on the style of engraving?",
+      "options": [
+        "18th century",
+        "20th century",
+        "19th century"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which street is the sign 'La clé rouge' located?",
+      "options": [
+        "Rue de Nimy",
+        "Rue de la Clé d'Or",
+        "Rue de la Paix"
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,4 +1,212 @@
-<!DOCTYPE html><html lang="fr"><head><meta charset="utf-8"><title>CityLoop Quest Mons - La Chevauchée de Saint Georges</title><meta content="width=device-width,initial-scale=1" name="viewport"><link href="style.css" rel="stylesheet"><script src="translations/translationManager.js"></script><script src="translations/languageSelector.js"></script><script src="js/access-guard.js" defer="defer"></script><style>body{font-family:sans-serif;padding:20px;line-height:1.6}h1,h2{text-align:center}.museum-category{margin-top:40px}.museum{display:flex;align-items:center;margin-bottom:20px}.museum img{max-width:150px;margin-right:20px}.museum-info{flex:1}button{margin-top:10px}button:disabled{background-color:#ccc;color:#666;cursor:not-allowed;opacity:.7}#return-btn{display:block;margin:40px auto;padding:10px 20px;font-size:1rem}</style></head><body><header class="main-header"><div class="header-content"><img src="images/icone titre0.png" alt="Icone 0" class="header-img left"><h1 id="mainTitle" data-translate="title_chevauchee">CityLoop Quest Mons - La Chevauchée de Saint Georges</h1><img src="images/icone titre1.png" alt="Icone 1" class="header-img right"></div></header><h1 data-translate="museums.title">🏛️ Musées à visiter à Mons</h1><div class="museum-category"><h2 data-translate="museums.artHeritage">Musées d'art et patrimoine</h2><div class="museum"><img alt="Musée des Beaux-Arts" src="images/beauxarts.jpg"><div class="museum-info"><strong data-translate="museums.bam.name">Musée des Beaux-Arts (BAM)</strong><br><span data-translate="museums.bam.address">Adresse : Rue Neuve 8, 7000 Mons</span><br><span data-translate="museums.bam.description">Le BAM (Beaux-Arts Mons) est un musée d'art moderne et contemporain proposant des expositions temporaires prestigieuses dans un cadre architectural contemporain.</span><br><button onclick="goToMuseum('BAM', 50.45561164910952, 3.9525083177023212, '', 'images/beauxarts.jpg')" data-translate="museums.bam.button">Y aller ?</button></div></div><div class="museum"><img alt="Musée des Collections (CAP)" src="images/collections.jpg"><div class="museum-info"><strong data-translate="museums.cap.name">Musée des Collections (CAP)</strong><br><span data-translate="museums.cap.address">Adresse : Rue Neuve 8, 7000 Mons</span><br><span data-translate="museums.cap.description">Le Musée des Collections (CAP) de Mons présente les riches collections permanentes de la ville, mêlant arts anciens, modernes et contemporains dans un parcours thématique.</span><br><button onclick="goToMuseum('Musée des Collections (CAP)', 50.45561164910952, 3.9525083177023212, '', 'images/collections.jpg')" data-translate="museums.cap.button">Y aller ?</button></div></div><div class="museum"><img alt="Maison Losseau" src="images/maison_losseau.jpg"><div class="museum-info"><strong data-translate="museums.maisonLosseau.name">Maison Losseau</strong><br><span data-translate="museums.maisonLosseau.address">Adresse : Rue de Nimy 37, 7000 Mons</span><br><span data-translate="museums.maisonLosseau.description">La Maison Losseau à Mons est un joyau de l'Art nouveau, abritant un centre littéraire et une maison-musée dédiée à l'œuvre du bibliophile Léon Losseau.</span><br><button onclick="goToMuseum('Maison Losseau', 50.456350393400506, 3.954181616253802, '', 'images/Maison_Losseau.jpg')" data-translate="museums.maisonLosseau.button">Y aller ?</button></div></div><div class="museum"><img alt="Musée du Doudou" src="images/du_doudou.jpg"><div class="museum-info"><strong data-translate="museums.museeDoudou.name">Musée du Doudou</strong><br><span data-translate="museums.museeDoudou.address">Adresse : Jardin du Mayeur, 7000 Mons</span><br><span data-translate="museums.museeDoudou.description">Le Musée du Doudou à Mons est consacré à la Ducasse rituelle, mettant en valeur son histoire, ses traditions et son inscription au patrimoine immatériel de l'UNESCO.</span><br><button onclick="goToMuseum('Musée du Doudou', 50.45588967867004, 3.9512415876339406, '', 'images/du_doudou.jpg')" data-translate="museums.museeDoudou.button">Y aller ?</button></div></div><div class="museum"><img alt="Anciens abattoirs" src="images/abattoirs.jpg"><div class="museum-info"><strong data-translate="museums.anciensAbattoirs.name">Anciens abattoirs</strong><br><span data-translate="museums.anciensAbattoirs.address">Adresse : Rue de la Trouille 17, 7000 Mons</span><br><span data-translate="museums.anciensAbattoirs.description">Le musée des Anciens Abattoirs de Mons est un espace d'art contemporain installé dans un remarquable site industriel du XIXe siècle rénové.</span><br><button onclick="goToMuseum('Anciens Abattoirs', 50.44854636716852, 3.9517990966136898, '', 'images/abattoirs.jpg')" data-translate="museums.anciensAbattoirs.button">Y aller ?</button></div></div><div class="museum"><img alt="Artothèque" src="images/artotheque.jpg"><div class="museum-info"><strong data-translate="museums.artotheque.name">Artothèque</strong><br><span data-translate="museums.artotheque.address">Adresse : Rue Claude de Bettignies 1, 7000 Mons</span><br><span data-translate="museums.artotheque.description">L'Artothèque de Mons est un centre de conservation et de recherche dédié aux collections muséales de la ville, situé dans une ancienne chapelle rénovée.</span><br><button onclick="goToMuseum('Artothèque', 50.45438138412336, 3.9453124389427847, '', 'images/artotheque.jpg')" data-translate="museums.artotheque.button">Y aller ?</button></div></div></div><div class="museum-category"><h2 data-translate="museums.historyMemory">Musées d'histoire et mémoire</h2><div class="museum"><img alt="Mons Memorial Museum (MMM)" src="images/memorial.jpg"><div class="museum-info"><strong data-translate="museums.mmm.name">Mons Memorial Museum (MMM)</strong><br><span data-translate="museums.mmm.address">Adresse : Boulevard Dolez 51, 7000 Mons</span><br><span data-translate="museums.mmm.description">Le Mons Memorial Museum retrace l'histoire militaire de Mons à travers les conflits du XXe siècle, en mettant l'accent sur les expériences humaines des civils et des soldats.</span><br><button onclick="goToMuseum('Mons Memorial Museum', 50.45008169324088, 3.9568755389425245, '', 'images/memorial.jpg')" data-translate="museums.mmm.button">Y aller ?</button></div></div><div class="museum"><img alt="Maison Van Gogh" src="images/maisonVanGogh.jpg"><div class="museum-info"><strong data-translate="museums.maisonVanGogh.name">Maison Van Gogh</strong><br><span data-translate="museums.maisonVanGogh.address">Adresse : Rue du Pavillon 3, 7033 Cuesmes (Voiture nécessaire)</span><br><span data-translate="museums.maisonVanGogh.description">La Maison Van Gogh à Mons évoque le séjour du peintre à Cuesmes et présente son évolution artistique à travers une scénographie immersive.</span><br><button onclick="goToMuseum('Maison Van Gogh', 50.44151402395947, 3.925145996613246, '', 'images/maisonVanGogh.jpg')" data-translate="museums.maisonVanGogh.button">Y aller ?</button></div></div><div class="museum"><img alt="Mundaneum" src="images/mundaneum.jpg"><div class="museum-info"><strong data-translate="museums.mundaneum.name">Mundaneum</strong><br><span data-translate="museums.mundaneum.address">Adresse : Rue de Nimy 76, 7000 Mons</span><br><span data-translate="museums.mundaneum.description">Archives de la connaissance mondiale, musée et centre d'exposition autour des utopies documentaires.</span><br><button onclick="goToMuseum('Mundaneum', 50.45782364219858, 3.955460083121218, '', 'images/mundaneum.jpg')" data-translate="museums.mundaneum.button">Y aller ?</button></div></div><div class="museum"><img alt="Lescart" src="images/maisonLescart.jpg"><div class="museum-info"><strong data-translate="museums.maisonLescart.name">Maison Jean Lescart</strong><br><span data-translate="museums.maisonLescart.address">Adresse : Rue Neuve 8, 7000 Mons</span><br><span data-translate="museums.maisonLescart.description">La Maison Jean Lescarts à Mons est un musée du folklore local retraçant la vie montoise à travers objets, traditions et scènes reconstituées. Hélas fermé définitivement.</span><br><button disabled="disabled" onclick="goToMuseum('Maison Jean Lescarts', 50.45571014891227, 3.9525041966141377, '', 'images/maisonLescart.jpg')" data-translate="museums.maisonLescart.button">Y aller ?</button></div></div></div><div class="museum-category"><h2 data-translate="museums.scienceTech">Musées sciences et techniques</h2><div class="museum"><img alt="MUMONS" src="images/mumons.jpg"><div class="museum-info"><strong data-translate="museums.mumons.name">MUMONS</strong><br><span data-translate="museums.mumons.address">Adresse : Place du Parc 24, 7000 Mons</span><br><span data-translate="museums.mumons.description">Le Musée MUMONS est le musée universitaire de l'UMONS, explorant les liens entre science, art et société à travers des expositions originales.</span><br><button onclick="goToMuseum('MUMONS', 50.45839467956602, 3.953279467778681, '', 'images/mumons.jpg')" data-translate="museums.mumons.button">Y aller ?</button></div></div><div class="museum"><img alt="SciTechLab " src="images/scitechlab.jpg"><div class="museum-info"><strong data-translate="museums.scitechlab.name">SciTechLab</strong><br><span data-translate="museums.scitechlab.address">Adresse : Rue de Houdain 9, 7000 Mons</span><br><span data-translate="museums.scitechlab.description">Le SciTechLab est un espace muséal interactif de l'UMONS dédié à la découverte des sciences et des technologies de manière ludique et immersive.</span><br><button onclick="goToMuseum('SciTechLab', 50.45320364280444, 3.9534699244062814, '', 'images/scitechlab.jpg')" data-translate="museums.scitechlab.button">Y aller ?</button></div></div><div class="museum"><img alt="Sciences naturelles " src="images/naturelles.jpg"><div class="museum-info"><strong data-translate="museums.sciencesNaturelles.name">Muséum régional des Sciences naturelles de Mons</strong><br><span data-translate="museums.sciencesNaturelles.address">Adresse : Rue des Gailliers 7, 7000 Mons</span><br><span data-translate="museums.sciencesNaturelles.description">Le Musée régional des Sciences naturelles de Mons présente une riche collection de spécimens zoologiques, botaniques et géologiques pour explorer la biodiversité.</span><br><button onclick="goToMuseum('Muséum régional des Sciences naturelles', 50.45728904389688, 3.948240467778629, '', 'images/naturelles.jpg')" data-translate="museums.sciencesNaturelles.button">Y aller ?</button></div></div></div><div class="museum-category"><h2 data-translate="museums.industrialHeritage">Musées patrimoine industriel et technique</h2><div class="museum"><img alt="Route" src="images/route.jpg"><div class="museum-info"><strong data-translate="museums.museeRoute.name">Musée de la Route de Mons</strong><br><span data-translate="museums.museeRoute.address">Adresse : Rue des Canonniers (Place Nervienne), Casemates 3, 4 et 5, 7000 Mons</span><br><span data-translate="museums.museeRoute.description">Le Musée de la Route de Mons retrace l'histoire des infrastructures routières et des métiers liés à la voirie en Wallonie. Hélas fermé définitevement.</span><br><button disabled="disabled" onclick="goToMuseum('Musée de la Route de Mons', 50.44793289287343, 3.9468870542849452, '', 'images/route.jpg')" data-translate="museums.museeRoute.button">Y aller ?</button></div></div></div><script>// Charger les traductions depuis le fichier dédié
+<!DOCTYPE html>
+
+<html lang="fr">
+<head>
+<meta charset="utf-8"/>
+<title>CityLoop Quest Mons - La Chevauchée de Saint Georges</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="style.css" rel="stylesheet"/>
+<script src="translations/translationManager.js"></script>
+<script src="translations/languageSelector.js"></script>
+
+<!-- Garde d'accès : bloque l'accès si aucun code d'activation valide (clq_short_code) -->
+<script src="js/access-guard.js" defer></script>
+
+
+<style>
+        body {
+            font-family: sans-serif;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            text-align: center;
+        }
+        .museum-category {
+            margin-top: 40px;
+        }
+        .museum {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        .museum img {
+            max-width: 150px;
+            margin-right: 20px;
+        }
+        .museum-info {
+            flex: 1;
+        }
+        button {
+            margin-top: 10px;
+        }
+        button:disabled {
+            background-color: #cccccc;
+            color: #666666;
+            cursor: not-allowed;
+            opacity: 0.7;
+        }
+        #return-btn {
+            display: block;
+            margin: 40px auto;
+            padding: 10px 20px;
+            font-size: 1rem;
+        }
+    </style>
+</head>
+<body>
+
+<header class="main-header">
+    <div class="header-content">
+        <img src="images/icone titre0.png" alt="Icone 0" class="header-img left">
+        <h1 id="mainTitle" data-translate="title_chevauchee">CityLoop Quest Mons - La Chevauchée de Saint Georges</h1>
+        <img src="images/icone titre1.png" alt="Icone 1" class="header-img right">
+    </div>
+</header>
+
+<h1 data-translate="museums.title">🏛️ Musées à visiter à Mons</h1>
+<div class="museum-category">
+<h2 data-translate="museums.artHeritage">Musées d'art et patrimoine</h2>
+<div class="museum">
+<img alt="Musée des Beaux-Arts" src="images/beauxarts.jpg"/>
+<div class="museum-info">
+<strong data-translate="museums.bam.name">Musée des Beaux-Arts (BAM)</strong><br/>
+<span data-translate="museums.bam.address">Adresse : Rue Neuve 8, 7000 Mons</span><br/>
+<span data-translate="museums.bam.description">Le BAM (Beaux-Arts Mons) est un musée d'art moderne et contemporain proposant des expositions temporaires prestigieuses dans un cadre architectural contemporain.</span>
+<br/><button onclick="goToMuseum('BAM', 50.45561164910952, 3.9525083177023212, '', 'images/beauxarts.jpg')" data-translate="museums.bam.button">Y aller ?</button>
+</div>
+</div>
+<div class="museum">
+<img alt="Musée des Collections (CAP)" src="images/collections.jpg"/>
+<div class="museum-info">
+<strong data-translate="museums.cap.name">Musée des Collections (CAP)</strong><br/>
+<span data-translate="museums.cap.address">Adresse : Rue Neuve 8, 7000 Mons</span><br/>
+<span data-translate="museums.cap.description">Le Musée des Collections (CAP) de Mons présente les riches collections permanentes de la ville, mêlant arts anciens, modernes et contemporains dans un parcours thématique.</span>
+<br/><button onclick="goToMuseum('Musée des Collections (CAP)', 50.45561164910952, 3.9525083177023212, '', 'images/collections.jpg')" data-translate="museums.cap.button">Y aller ?</button>
+</div>
+</div>
+<div class="museum">
+<img alt="Maison Losseau" src="images/maison_losseau.jpg"/>
+<div class="museum-info">
+<strong data-translate="museums.maisonLosseau.name">Maison Losseau</strong><br/>
+<span data-translate="museums.maisonLosseau.address">Adresse : Rue de Nimy 37, 7000 Mons</span><br/>
+<span data-translate="museums.maisonLosseau.description">La Maison Losseau à Mons est un joyau de l'Art nouveau, abritant un centre littéraire et une maison-musée dédiée à l'œuvre du bibliophile Léon Losseau.</span>
+<br/><button onclick="goToMuseum('Maison Losseau', 50.456350393400506, 3.954181616253802, '', 'images/Maison_Losseau.jpg')" data-translate="museums.maisonLosseau.button">Y aller ?</button>
+</div>
+</div>
+<div class="museum">
+<img alt="Musée du Doudou" src="images/du_doudou.jpg"/>
+<div class="museum-info">
+<strong data-translate="museums.museeDoudou.name">Musée du Doudou</strong><br/>
+<span data-translate="museums.museeDoudou.address">Adresse : Jardin du Mayeur, 7000 Mons</span><br/>
+<span data-translate="museums.museeDoudou.description">Le Musée du Doudou à Mons est consacré à la Ducasse rituelle, mettant en valeur son histoire, ses traditions et son inscription au patrimoine immatériel de l'UNESCO.</span>
+<br/><button onclick="goToMuseum('Musée du Doudou', 50.45588967867004, 3.9512415876339406, '', 'images/du_doudou.jpg')" data-translate="museums.museeDoudou.button">Y aller ?</button>
+</div>
+</div>
+<div class="museum">
+<img alt="Anciens abattoirs" src="images/abattoirs.jpg"/>
+<div class="museum-info">
+<strong data-translate="museums.anciensAbattoirs.name">Anciens abattoirs</strong><br/>
+<span data-translate="museums.anciensAbattoirs.address">Adresse : Rue de la Trouille 17, 7000 Mons</span><br/>
+<span data-translate="museums.anciensAbattoirs.description">Le musée des Anciens Abattoirs de Mons est un espace d'art contemporain installé dans un remarquable site industriel du XIXe siècle rénové.</span>
+<br/><button onclick="goToMuseum('Anciens Abattoirs', 50.44854636716852, 3.9517990966136898, '', 'images/abattoirs.jpg')" data-translate="museums.anciensAbattoirs.button">Y aller ?</button>
+</div>
+</div>
+<div class="museum">
+<img alt="Artothèque" src="images/artotheque.jpg"/>
+<div class="museum-info">
+<strong data-translate="museums.artotheque.name">Artothèque</strong><br/>
+<span data-translate="museums.artotheque.address">Adresse :  Rue Claude de Bettignies 1, 7000 Mons</span><br/>
+<span data-translate="museums.artotheque.description">L'Artothèque de Mons est un centre de conservation et de recherche dédié aux collections muséales de la ville, situé dans une ancienne chapelle rénovée.</span>
+<br/><button onclick="goToMuseum('Artothèque', 50.45438138412336, 3.9453124389427847, '', 'images/artotheque.jpg')" data-translate="museums.artotheque.button">Y aller ?</button>
+</div>
+</div>
+</div>
+<div class="museum-category">
+<h2 data-translate="museums.historyMemory">Musées d'histoire et mémoire</h2>
+<div class="museum">
+<img alt="Mons Memorial Museum (MMM)" src="images/memorial.jpg"/>
+<div class="museum-info">
+<strong data-translate="museums.mmm.name">Mons Memorial Museum (MMM)</strong><br/>
+<span data-translate="museums.mmm.address">Adresse :  Boulevard Dolez 51, 7000 Mons</span><br/>
+<span data-translate="museums.mmm.description">Le Mons Memorial Museum retrace l'histoire militaire de Mons à travers les conflits du XXe siècle, en mettant l'accent sur les expériences humaines des civils et des soldats.</span>
+<br/><button onclick="goToMuseum('Mons Memorial Museum', 50.45008169324088, 3.9568755389425245, '', 'images/memorial.jpg')" data-translate="museums.mmm.button">Y aller ?</button>
+</div>
+</div>
+<div class="museum">
+<img alt="Maison Van Gogh" src="images/maisonVanGogh.jpg"/>
+<div class="museum-info">
+<strong data-translate="museums.maisonVanGogh.name">Maison Van Gogh</strong><br/>
+<span data-translate="museums.maisonVanGogh.address">Adresse :  Rue du Pavillon 3, 7033 Cuesmes (Voiture nécessaire)</span><br/>
+<span data-translate="museums.maisonVanGogh.description">La Maison Van Gogh à Mons évoque le séjour du peintre à Cuesmes et présente son évolution artistique à travers une scénographie immersive.</span>
+<br/><button onclick="goToMuseum('Maison Van Gogh', 50.44151402395947, 3.925145996613246, '', 'images/maisonVanGogh.jpg')" data-translate="museums.maisonVanGogh.button">Y aller ?</button>
+</div>
+</div>
+<div class="museum">
+<img alt="Mundaneum" src="images/mundaneum.jpg"/>
+<div class="museum-info">
+<strong data-translate="museums.mundaneum.name">Mundaneum</strong><br/>
+<span data-translate="museums.mundaneum.address">Adresse : Rue de Nimy 76, 7000 Mons</span><br/>
+<span data-translate="museums.mundaneum.description">Archives de la connaissance mondiale, musée et centre d'exposition autour des utopies documentaires.</span>
+<br/><button onclick="goToMuseum('Mundaneum', 50.45782364219858, 3.955460083121218, '', 'images/mundaneum.jpg')" data-translate="museums.mundaneum.button">Y aller ?</button>
+</div>
+</div>
+<div class="museum">
+<img alt="Lescart" src="images/maisonLescart.jpg"/>
+<div class="museum-info">
+<strong data-translate="museums.maisonLescart.name">Maison Jean Lescart</strong><br/>
+<span data-translate="museums.maisonLescart.address">Adresse : Rue Neuve 8, 7000 Mons</span><br/>
+<span data-translate="museums.maisonLescart.description">La Maison Jean Lescarts à Mons est un musée du folklore local retraçant la vie montoise à travers objets, traditions et scènes reconstituées. Hélas fermé définitivement.</span>
+<br/><button disabled onclick="goToMuseum('Maison Jean Lescarts', 50.45571014891227, 3.9525041966141377, '', 'images/maisonLescart.jpg')" data-translate="museums.maisonLescart.button">Y aller ?</button>
+</div>
+</div>
+</div>
+<div class="museum-category">
+<h2 data-translate="museums.scienceTech">Musées sciences et techniques</h2>
+<div class="museum">
+<img alt="MUMONS" src="images/mumons.jpg"/>
+<div class="museum-info">
+<strong data-translate="museums.mumons.name">MUMONS</strong><br/>
+<span data-translate="museums.mumons.address">Adresse : Place du Parc 24, 7000 Mons</span><br/>
+<span data-translate="museums.mumons.description">Le Musée MUMONS est le musée universitaire de l'UMONS, explorant les liens entre science, art et société à travers des expositions originales.</span>
+<br/><button onclick="goToMuseum('MUMONS', 50.45839467956602, 3.953279467778681, '', 'images/mumons.jpg')" data-translate="museums.mumons.button">Y aller ?</button>
+</div>
+</div>
+<div class="museum">
+<img alt="SciTechLab " src="images/scitechlab.jpg"/>
+<div class="museum-info">
+<strong data-translate="museums.scitechlab.name">SciTechLab </strong><br/>
+<span data-translate="museums.scitechlab.address">Adresse : Rue de Houdain 9, 7000 Mons</span><br/>
+<span data-translate="museums.scitechlab.description">Le SciTechLab est un espace muséal interactif de l'UMONS dédié à la découverte des sciences et des technologies de manière ludique et immersive.</span>
+<br/><button onclick="goToMuseum('SciTechLab', 50.45320364280444, 3.9534699244062814, '', 'images/scitechlab.jpg')" data-translate="museums.scitechlab.button">Y aller ?</button>
+</div>
+</div>
+<div class="museum">
+<img alt="Sciences naturelles " src="images/naturelles.jpg"/>
+<div class="museum-info">
+<strong data-translate="museums.sciencesNaturelles.name">Muséum régional des Sciences naturelles de Mons </strong><br/>
+<span data-translate="museums.sciencesNaturelles.address">Adresse : Rue des Gailliers 7, 7000 Mons</span><br/>
+<span data-translate="museums.sciencesNaturelles.description">Le Musée régional des Sciences naturelles de Mons présente une riche collection de spécimens zoologiques, botaniques et géologiques pour explorer la biodiversité.</span>
+<br/><button onclick="goToMuseum('Muséum régional des Sciences naturelles', 50.45728904389688, 3.948240467778629, '', 'images/naturelles.jpg')" data-translate="museums.sciencesNaturelles.button">Y aller ?</button>
+</div>
+</div>
+</div>
+<div class="museum-category">
+<h2 data-translate="museums.industrialHeritage">Musées patrimoine industriel et technique</h2>
+<div class="museum">
+<img alt="Route" src="images/route.jpg"/>
+<div class="museum-info">
+<strong data-translate="museums.museeRoute.name">Musée de la Route de Mons </strong><br/>
+<span data-translate="museums.museeRoute.address">Adresse : Rue des Canonniers (Place Nervienne), Casemates 3, 4 et 5, 7000 Mons</span><br/>
+<span data-translate="museums.museeRoute.description">Le Musée de la Route de Mons retrace l'histoire des infrastructures routières et des métiers liés à la voirie en Wallonie. Hélas fermé définitevement.</span>
+<br/><button disabled onclick="goToMuseum('Musée de la Route de Mons', 50.44793289287343, 3.9468870542849452, '', 'images/route.jpg')" data-translate="museums.museeRoute.button">Y aller ?</button>
+</div>
+</div>
+</div>
+</div>
+
+<script>
+// Charger les traductions depuis le fichier dédié
 let translations = {};
 
 async function loadTranslations() {
@@ -383,4 +591,8 @@ document.addEventListener('DOMContentLoaded', function() {
 document.addEventListener('languageChanged', function(event) {
     // Recharger les traductions et les appliquer
     loadTranslations();
-});</script><button class="back-button" id="back-button" data-translate="museums.backButton">RETOUR</button></body></html>
+});
+</script>
+<button class="back-button" id="back-button" data-translate="museums.backButton">RETOUR</button>
+</body>
+</html>

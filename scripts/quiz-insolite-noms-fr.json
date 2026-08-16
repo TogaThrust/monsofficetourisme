@@ -1,0 +1,234 @@
+{
+  "Rue de l'Âtre": [
+    {
+      "question": "Quel est le sens du mot 'âtre' dans le contexte de la Rue de l'Âtre ?",
+      "options": [
+        "Le foyer de la maison",
+        "Un type de monument",
+        "Un quartier historique"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année l'église Saint-Nicolas-en-Havré a-t-elle été fondée ?",
+      "options": [
+        "1224",
+        "1300",
+        "1450"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel élément religieux est documenté contre la façade latérale de l'église Saint-Nicolas-en-Havré ?",
+      "options": [
+        "Un Christ douloureux",
+        "Une statue de Saint Nicolas",
+        "Un vitrail représentant la Vierge"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rue des Trois Boudins": [
+    {
+      "question": "Quel bâtiment se trouve à proximité de la Rue des Trois Boudins ?",
+      "options": [
+        "Le Mundaneum",
+        "La Collégiale Sainte-Waudru",
+        "Le Beffroi de Mons"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "D'où provient probablement le nom 'Rue des Trois Boudins' ?",
+      "options": [
+        "D'une blague de quartier",
+        "D'une enseigne de triperie",
+        "D'un événement historique"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel style architectural est visible sur la façade du Mundaneum ?",
+      "options": [
+        "Gothique",
+        "Expressionnisme de l'École d'Amsterdam",
+        "Baroque"
+      ],
+      "answer": 1
+    }
+  ],
+  "Rue des Quatre Fils Aymon": [
+    {
+      "question": "Quel est le nom du cheval légendaire associé aux Quatre Fils Aymon ?",
+      "options": [
+        "Bayard",
+        "Braveheart",
+        "Tornado"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel type de bâtiment se trouve au n°14 de la Rue des Quatre Fils Aymon ?",
+      "options": [
+        "Un ancien hôtel de maître",
+        "Une église",
+        "Un musée"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel est le thème principal de la légende des Quatre Fils Aymon ?",
+      "options": [
+        "La fuite de Charlemagne",
+        "La conquête de Mons",
+        "La fondation de la Grand-Place"
+      ],
+      "answer": 0
+    }
+  ],
+  "Chateau de le Marcote": [
+    {
+      "question": "Quel motif animal est sculpté sur l'enseigne du Château de le Marcote ?",
+      "options": [
+        "Trois belettes",
+        "Deux renards",
+        "Quatre lapins"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année l'enseigne du Château de le Marcote a-t-elle été sculptée ?",
+      "options": [
+        "1702",
+        "1689",
+        "1650"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quelle est la particularité de la maison au 33 rue des Marcottes à Mons ?",
+      "options": [
+        "C'est un ancien hôtel de ville",
+        "C'est une ancienne chapelle",
+        "C'est la maison la plus étroite"
+      ],
+      "answer": 2
+    }
+  ],
+  "Rue des Fillettes": [
+    {
+      "question": "Quel est le lien historique de la Rue des Fillettes avec la prostitution ?",
+      "options": [
+        "Elle était un lieu de rencontre pour les artistes",
+        "Elle était liée à la prostitution médiévale",
+        "Elle était un marché aux fleurs"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "En quelle année la Rue des Fillettes est-elle mentionnée dans un document communal ?",
+      "options": [
+        "1543",
+        "1602",
+        "1450"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel quartier de Mons est à proximité de la Rue des Fillettes ?",
+      "options": [
+        "Le quartier des arts",
+        "Le quartier des plaisirs",
+        "Le quartier historique"
+      ],
+      "answer": 1
+    }
+  ],
+  "Rue de la Terre du Prince": [
+    {
+      "question": "Quel type de vestiges peut-on observer dans la Rue de la Terre du Prince ?",
+      "options": [
+        "Des vestiges de l'ancienne enceinte de Mons",
+        "Des ruines d'un ancien château",
+        "Des fondations d'une église"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel était le domaine associé au nom 'Terre du Prince' ?",
+      "options": [
+        "Le domaine des comtes de Hainaut",
+        "Le domaine des ducs de Brabant",
+        "Le domaine des rois de France"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "La Rue de la Terre du Prince se situe à proximité de quel type de structure historique ?",
+      "options": [
+        "Un beffroi",
+        "Une collégiale",
+        "Une gare"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rue des Sœurs Grises": [
+    {
+      "question": "Quelle couleur caractérisait l'habit des sœurs grises ?",
+      "options": [
+        "Noir",
+        "Gris cendré",
+        "Blanc"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel type de communauté religieuse étaient les sœurs grises ?",
+      "options": [
+        "Bénédictines",
+        "Tertiaires franciscaines",
+        "Cisterciennes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel autre point de Mons partage une histoire similaire avec la rue des Sœurs Grises ?",
+      "options": [
+        "Rue des Sœurs Noires",
+        "Place du Chapitre",
+        "Avenue des Chanoinesses"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rue de la Petite Guirlande": [
+    {
+      "question": "Quel événement traditionnel passe par la Rue de la Petite Guirlande ?",
+      "options": [
+        "La Procession du Car d’Or",
+        "La Ducasse de Mons",
+        "Le Carnaval de Binche"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel est le sens du nom 'Petite Guirlande' dans le contexte de cette rue ?",
+      "options": [
+        "Une décoration festive",
+        "Un ancien métier",
+        "Un type de bâtiment"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quelle est la direction générale de la Rue de la Petite Guirlande par rapport à la gare ?",
+      "options": [
+        "Vers l'est",
+        "Vers le sud",
+        "Vers l'ouest"
+      ],
+      "answer": 2
+    }
+  ]
+}

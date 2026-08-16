@@ -1,4 +1,59 @@
-<!DOCTYPE html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Espace Culturel Montois</title><link rel="stylesheet" href="style.css"><script src="translations/translationManager.js"></script><script src="translations/languageSelector.js"></script><script src="api-base.js"></script><script src="js/access-control.js"></script><script src="js/access-guard.js" defer="defer"></script></head><body><header class="main-header"><div class="header-content"><img src="images/icone titre0.png" alt="Icone 0" class="header-img left"><h1 data-translate="title_chevauchee">CityLoop Quest Mons - La Chevauchée de Saint Georges</h1><img src="images/icone titre1.png" alt="Icone 1" class="header-img right"></div></header><main style="text-align:center;padding:20px"><h2 data-translate="culture_subtitle">Explorez le patrimoine culturel de Mons</h2><div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;max-width:600px;margin:auto"><button data-culture-target="chansons.html" data-requires-full="0" data-translate="culture_btn_1">🎵 Chansons</button> <button data-culture-target="musees.html" data-requires-full="0" data-translate="culture_btn_3">🏛️ Musées</button> <button data-culture-target="personnalites.html" data-requires-full="1" data-translate="culture_btn_4">👤 Personnalités</button> <button data-culture-target="histoire-ville.html" data-requires-full="1" data-translate="culture_btn_2">📜 Histoire de la Ville</button> <button data-culture-target="folklore.html" data-requires-full="1" data-translate="culture_btn_5">🎭 Folklore</button> <button data-culture-target="evenements.html" data-requires-full="1" data-translate="culture_btn_6">🎉 Évènements/Photos/Vidéos</button> <button id="btn-histoire-doudou" data-translate="culture_btn_histoire_doudou">Histoire du doudou</button> <button id="btn-parler-montois" data-translate="culture_btn_parler_montois">Parler montois</button> <button id="btn-infos-contacts" data-translate="culture_btn_infos_contacts">Infos / Contacts</button></div><div style="margin-top:40px"></div></main><button class="back-button" id="back-button" data-translate="back">BACK</button><script>// ----------------- INIT PAGE / LANGUE -----------------
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Espace Culturel Montois</title>
+  <link rel="stylesheet" href="style.css"/>
+
+  <!-- Librairies de traduction -->
+  <script src="translations/translationManager.js"></script>
+  <script src="translations/languageSelector.js"></script>
+
+  <!-- UNIQUE: le vrai access-control -->
+  <script src="api-base.js"></script>
+  <script src="js/access-control.js"></script>
+
+  <!-- Garde d'accès : bloque l'accès si aucun code d'activation valide (clq_short_code) -->
+ <script src="js/access-guard.js" defer></script>
+ 
+</head>
+<body>
+<header class="main-header">
+  <div class="header-content">
+    <img src="images/icone titre0.png" alt="Icone 0" class="header-img left">
+    <h1 data-translate="title_chevauchee">CityLoop Quest Mons - La Chevauchée de Saint Georges</h1>
+    <img src="images/icone titre1.png" alt="Icone 1" class="header-img right">
+  </div>
+</header>
+
+<main style="text-align:center; padding:20px;">
+  <h2 data-translate="culture_subtitle">Explorez le patrimoine culturel de Mons</h2>
+
+  <div style="display:grid; grid-template-columns:1fr 1fr; gap:20px; max-width:600px; margin:auto;">
+    <!-- ACCESSIBLES (LITE + FULL) -->
+    <button data-culture-target="chansons.html" data-requires-full="0" data-translate="culture_btn_1">🎵 Chansons</button>
+    <button data-culture-target="musees.html"   data-requires-full="0" data-translate="culture_btn_3">🏛️ Musées</button>
+
+    <!-- RÉSERVÉS FULL -->
+    <button data-culture-target="personnalites.html" data-requires-full="1" data-translate="culture_btn_4">👤 Personnalités</button>
+    <button data-culture-target="histoire-ville.html" data-requires-full="1" data-translate="culture_btn_2">📜 Histoire de la Ville</button>
+    <button data-culture-target="folklore.html" data-requires-full="1" data-translate="culture_btn_5">🎭 Folklore</button>
+    <button data-culture-target="evenements.html" data-requires-full="1" data-translate="culture_btn_6">🎉 Évènements/Photos/Vidéos</button>
+
+    <!-- Popups internes -->
+    <button id="btn-histoire-doudou" data-translate="culture_btn_histoire_doudou">Histoire du doudou</button>
+    <button id="btn-parler-montois"  data-translate="culture_btn_parler_montois">Parler montois</button>
+    <button id="btn-infos-contacts"  data-translate="culture_btn_infos_contacts">Infos / Contacts</button>
+  </div>
+
+  <div style="margin-top:40px;"></div>
+</main>
+
+<button class="back-button" id="back-button" data-translate="back">BACK</button>
+
+<script>
+// ----------------- INIT PAGE / LANGUE -----------------
 function initCulturePage() {
   if (window.translationManager?.isLoaded) {
     window.languageSelector?.createSelector?.();
@@ -260,4 +315,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   document.getElementById('btn-parler-montois')?.addEventListener('click', showParlerMontoisPopup);
   document.getElementById('btn-infos-contacts')?.addEventListener('click', showInfosContactsPopup);
-});</script></body></html>
+});
+</script>
+</body>
+</html>

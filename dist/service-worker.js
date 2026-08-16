@@ -1,1 +1,108 @@
-const PRECACHE="precache-v9-ot",RUNTIME="runtime-v9-ot",PRECACHE_URLS=["./","./index.html","./language-selection.html","./style.css","./manifest.json"];function isHtmlJsonOrCode(t){const e=t.pathname.toLowerCase();return e.endsWith(".html")||e.endsWith(".json")||e.endsWith(".js")||e.endsWith(".css")||e.endsWith("/")||""===e}function isStaticAsset(t){return/\.(png|jpe?g|gif|svg|webp|ico|mp3|wav|ogg|woff2?|ttf|mp4)$/i.test(t.pathname)}async function networkFirst(t){try{const e=await fetch(t,{cache:"no-store"});return e&&e.ok&&"basic"===e.type&&(await caches.open(RUNTIME)).put(t,e.clone()),e}catch(e){const a=await caches.match(t);if(a)return a;throw e}}async function cacheFirst(t){const e=await caches.match(t);if(e&&e.ok)return e;const a=await fetch(t);return a&&a.ok&&"basic"===a.type&&(await caches.open(RUNTIME)).put(t,a.clone()),a}self.addEventListener("install",t=>{self.skipWaiting(),t.waitUntil((async()=>{const t=await caches.open(PRECACHE);(await Promise.allSettled(PRECACHE_URLS.map(e=>t.add(new Request(e,{cache:"reload"}))))).forEach((t,e)=>{"rejected"===t.status&&console.warn("[SW] precache fail:",PRECACHE_URLS[e])})})())}),self.addEventListener("activate",t=>{t.waitUntil((async()=>{const t=await caches.keys();await Promise.all(t.filter(t=>t!==PRECACHE&&t!==RUNTIME).map(t=>caches.delete(t))),await self.clients.claim()})())}),self.addEventListener("fetch",t=>{const e=t.request,a=new URL(e.url);"GET"===e.method&&a.origin===self.location.origin&&(a.pathname.endsWith("/service-worker.js")||a.pathname.startsWith("/.netlify/")||"http://localhost:8080"!==a.origin&&(a.pathname.includes("language-selection.html")?t.respondWith(fetch(e,{cache:"no-store"}).catch(()=>new Response("Page non disponible",{status:503}))):"navigate"===e.mode||"reload"===e.cache||isHtmlJsonOrCode(a)?t.respondWith(networkFirst(e)):isStaticAsset(a)?t.respondWith(cacheFirst(e)):t.respondWith(networkFirst(e))))});
+const PRECACHE = 'precache-v121-ot';
+const RUNTIME = 'runtime-v121-ot';
+
+const PRECACHE_URLS = [
+  './',
+  './index.html',
+  './language-selection.html',
+  './style.css',
+  './manifest.json',
+];
+
+function isHtmlJsonOrCode(url) {
+  const p = url.pathname.toLowerCase();
+  return (
+    p.endsWith('.html') ||
+    p.endsWith('.json') ||
+    p.endsWith('.js') ||
+    p.endsWith('.css') ||
+    p.endsWith('/') ||
+    p === ''
+  );
+}
+
+function isStaticAsset(url) {
+  return /\.(png|jpe?g|gif|svg|webp|ico|mp3|wav|ogg|woff2?|ttf|mp4)$/i.test(url.pathname);
+}
+
+async function networkFirst(req) {
+  try {
+    const res = await fetch(req, { cache: 'no-store' });
+    if (res && res.ok && res.type === 'basic') {
+      const runtime = await caches.open(RUNTIME);
+      runtime.put(req, res.clone());
+    }
+    return res;
+  } catch (e) {
+    const cached = await caches.match(req);
+    if (cached) return cached;
+    throw e;
+  }
+}
+
+async function cacheFirst(req) {
+  const cached = await caches.match(req);
+  if (cached && cached.ok) return cached;
+  const res = await fetch(req);
+  if (res && res.ok && res.type === 'basic') {
+    const runtime = await caches.open(RUNTIME);
+    runtime.put(req, res.clone());
+  }
+  return res;
+}
+
+self.addEventListener('install', (event) => {
+  self.skipWaiting();
+  event.waitUntil((async () => {
+    const cache = await caches.open(PRECACHE);
+    const results = await Promise.allSettled(
+      PRECACHE_URLS.map((url) => cache.add(new Request(url, { cache: 'reload' })))
+    );
+    results.forEach((r, i) => {
+      if (r.status === 'rejected') console.warn('[SW] precache fail:', PRECACHE_URLS[i]);
+    });
+  })());
+});
+
+self.addEventListener('activate', (event) => {
+  event.waitUntil((async () => {
+    const keys = await caches.keys();
+    await Promise.all(keys.filter((k) => k !== PRECACHE && k !== RUNTIME).map((k) => caches.delete(k)));
+    await self.clients.claim();
+  })());
+});
+
+self.addEventListener('fetch', (event) => {
+  const req = event.request;
+  const url = new URL(req.url);
+
+  if (req.method !== 'GET') return;
+  if (url.origin !== self.location.origin) return;
+  if (url.pathname.endsWith('/service-worker.js')) return;
+  if (url.pathname.startsWith('/.netlify/')) return;
+  if (url.origin === 'http://localhost:8080') return;
+
+  if (url.pathname.includes('language-selection.html')) {
+    event.respondWith(fetch(req, { cache: 'no-store' }).catch(() => {
+      return new Response('Page non disponible', { status: 503 });
+    }));
+    return;
+  }
+
+  const mustBeFresh =
+    req.mode === 'navigate' ||
+    req.cache === 'reload' ||
+    isHtmlJsonOrCode(url);
+
+  if (mustBeFresh) {
+    event.respondWith(networkFirst(req));
+    return;
+  }
+
+  if (isStaticAsset(url)) {
+    event.respondWith(cacheFirst(req));
+    return;
+  }
+
+  event.respondWith(networkFirst(req));
+});

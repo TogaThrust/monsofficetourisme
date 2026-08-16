@@ -1,4 +1,56 @@
-<!DOCTYPE html><html lang="fr"><head><meta charset="utf-8"><title>CityLoop Quest Mons - La Chevauchée de Saint Georges</title><link href="style.css" rel="stylesheet"><script src="js/access-control.js"></script><script src="translations/translationManager.js"></script><script src="translations/languageSelector.js"></script><script src="js/access-guard.js" defer="defer"></script></head><body><header class="main-header"><div class="header-content"><img src="images/icone titre0.png" alt="Icone 0" class="header-img left"><h1 id="mainTitle">CityLoop Quest Mons - La Chevauchée de Saint Georges</h1><img src="images/icone titre1.png" alt="Icone 1" class="header-img right"></div></header><h1 id="pageTitle" style="text-align:center;margin:20px 0">🎨 Artistes célèbres Montois</h1><main style="text-align:center;padding:20px;padding-bottom:100px"><div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;max-width:600px;margin:auto"><button onclick="location.href='jacques_du_broeucq.html'">Jacques du Broeucq</button> <button onclick="location.href='roland_de_lassus.html'">Roland de Lassus</button> <button onclick="location.href='victor_hugo.html'">Victor Hugo</button> <button onclick="location.href='paul_verlaine.html'">Paul Verlaine</button> <button onclick="location.href='vincent_van_gogh.html'">Vincent Van Gogh</button> <button onclick="location.href='anto_carte.html'">Anto Carte</button> <button onclick="location.href='charles_plisnier.html'">Charles Plisnier</button> <button onclick="location.href='fernand_dumont.html'">Fernand Dumont</button> <button onclick="location.href='marcel_lefrancq.html'">Marcel Lefrancq</button> <button onclick="location.href='albert_langue.html'">Albert Langue</button> <button onclick="location.href='pierre_coran.html'">Pierre Coran</button> <button onclick="location.href='salvatore_adamo.html'">Salvatore Adamo</button> <button onclick="location.href='saule.html'">Saule</button> <button onclick="location.href='jeanmotte.html'">David Jeanmotte</button> <button onclick="location.href='suarez.html'">Suarez</button> <button onclick="location.href='straw.html'">Lemon Straw</button> <button onclick="location.href='teddy_bear.html'">Teddy Bear</button></div><div style="margin-top:40px"></div></main><button class="back-button" id="back-button">BACK</button><script>// Charger les traductions
+<!DOCTYPE html>
+
+<html lang="fr">
+<head>
+<meta charset="utf-8"/>
+<title>CityLoop Quest Mons - La Chevauchée de Saint Georges</title>
+<link href="style.css" rel="stylesheet"/>
+<script src="js/access-control.js"></script>
+<script src="translations/translationManager.js"></script>
+<script src="translations/languageSelector.js"></script>
+
+<!-- Garde d'accès : bloque l'accès si aucun code d'activation valide (clq_short_code) -->
+<script src="js/access-guard.js" defer></script>
+
+</head>
+<body>
+
+<header class="main-header">
+    <div class="header-content">
+        <img src="images/icone titre0.png" alt="Icone 0" class="header-img left">
+        <h1 id="mainTitle">CityLoop Quest Mons - La Chevauchée de Saint Georges</h1>
+        <img src="images/icone titre1.png" alt="Icone 1" class="header-img right">
+    </div>
+</header>
+<h1 id="pageTitle" style="text-align: center; margin: 20px 0;">🎨 Artistes célèbres Montois</h1>
+<main style="text-align: center; padding: 20px; padding-bottom: 100px;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; max-width: 600px; margin: auto;">
+<button onclick="location.href='jacques_du_broeucq.html'">Jacques du Broeucq</button>
+<button onclick="location.href='roland_de_lassus.html'">Roland de Lassus</button>
+<button onclick="location.href='victor_hugo.html'">Victor Hugo</button>
+<button onclick="location.href='paul_verlaine.html'">Paul Verlaine</button>
+<button onclick="location.href='vincent_van_gogh.html'">Vincent Van Gogh</button>
+<button onclick="location.href='anto_carte.html'">Anto Carte</button>
+<button onclick="location.href='charles_plisnier.html'">Charles Plisnier</button>
+<button onclick="location.href='fernand_dumont.html'">Fernand Dumont</button>
+<button onclick="location.href='marcel_lefrancq.html'">Marcel Lefrancq</button>
+<button onclick="location.href='albert_langue.html'">Albert Langue</button>
+<button onclick="location.href='pierre_coran.html'">Pierre Coran</button>
+<button onclick="location.href='salvatore_adamo.html'">Salvatore Adamo</button>
+<button onclick="location.href='saule.html'">Saule</button>
+<button onclick="location.href='jeanmotte.html'">David Jeanmotte</button>
+<button onclick="location.href='suarez.html'">Suarez</button>
+<button onclick="location.href='straw.html'">Lemon Straw</button>
+<button onclick="location.href='teddy_bear.html'">Teddy Bear</button>
+</div>
+<div style="margin-top: 40px;">
+</div>
+</main>
+
+<button class="back-button" id="back-button">BACK</button>
+
+<script>
+// Charger les traductions
 let translations = {};
 
 async function loadTranslations() {
@@ -100,4 +152,7 @@ document.addEventListener("DOMContentLoaded", () => {
       window.location.href = "personnalites.html";
     });
   }
-});</script></body></html>
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,223 @@
+{
+  "newPois": [
+    {
+      "name": "Rue à Degrés",
+      "lat": 50.4531045,
+      "lng": 3.9507623,
+      "audio": ""
+    },
+    {
+      "name": "Ruelle du Cerf Blanc",
+      "lat": 50.457981,
+      "lng": 3.9513633,
+      "audio": ""
+    },
+    {
+      "name": "Cour du Noir Lévrier",
+      "lat": 50.4549266,
+      "lng": 3.9536999,
+      "audio": ""
+    },
+    {
+      "name": "Rue des Fillettes",
+      "lat": 50.4577309,
+      "lng": 3.9510342,
+      "audio": ""
+    },
+    {
+      "name": "Rue de la Voussure",
+      "lat": 50.4530673,
+      "lng": 3.9499889,
+      "audio": ""
+    },
+    {
+      "name": "Cour de l'Âne Barré",
+      "lat": 50.4542707,
+      "lng": 3.9528392,
+      "audio": ""
+    },
+    {
+      "name": "Chasse du Bon Dieu",
+      "lat": 50.4557733,
+      "lng": 3.9470597,
+      "audio": ""
+    },
+    {
+      "name": "Cour du Bailly",
+      "lat": 50.4557764,
+      "lng": 3.948576,
+      "audio": ""
+    },
+    {
+      "name": "Rampe du Château",
+      "lat": 50.4537212,
+      "lng": 3.9495878,
+      "audio": ""
+    },
+    {
+      "name": "Rue des Gades",
+      "lat": 50.4541196,
+      "lng": 3.9503485,
+      "audio": ""
+    },
+    {
+      "name": "Rue des Cinq Visages",
+      "lat": 50.4520558,
+      "lng": 3.9463094,
+      "audio": ""
+    },
+    {
+      "name": "Rue de la Peine Perdue",
+      "lat": 50.4542446,
+      "lng": 3.9544775,
+      "audio": ""
+    },
+    {
+      "name": "Rue des Trois Boudins",
+      "lat": 50.458644,
+      "lng": 3.9565678,
+      "audio": ""
+    },
+    {
+      "name": "Rampe Borgnagache",
+      "lat": 50.4563958,
+      "lng": 3.9462225,
+      "audio": ""
+    },
+    {
+      "name": "Ruelle aux Quinettes",
+      "lat": 50.4532214,
+      "lng": 3.9523095,
+      "audio": ""
+    },
+    {
+      "name": "Rue de l'Âtre",
+      "lat": 50.4552278,
+      "lng": 3.957255,
+      "audio": ""
+    },
+    {
+      "name": "Rue de la Terre du Prince",
+      "lat": 50.4520228,
+      "lng": 3.9485396,
+      "audio": ""
+    },
+    {
+      "name": "Rue des Quatre Fils Aymon",
+      "lat": 50.4567728,
+      "lng": 3.9538769,
+      "audio": ""
+    },
+    {
+      "name": "Rue des Clercs",
+      "lat": 50.4533601,
+      "lng": 3.9493458,
+      "audio": ""
+    },
+    {
+      "name": "Rue des Sœurs Grises",
+      "lat": 50.4514975,
+      "lng": 3.9464917,
+      "audio": ""
+    }
+  ],
+  "tours": {
+    "insolite_mystere": {
+      "names": [
+        "Grand-place",
+        "Rue Cronque",
+        "Chasse du Bon Dieu",
+        "Rampe Borgnagache",
+        "Rue de la Grosse Pomme",
+        "Rue des Cinq Visages",
+        "Rampe Sainte Waudru",
+        "Rue de la Voussure",
+        "Rue à Degrés",
+        "Rue de la Peine Perdue",
+        "Grand-place"
+      ],
+      "meters": 2029,
+      "kmLabel": "2,0 km",
+      "timeLabel": "1h05",
+      "poiCount": 11,
+      "totalMinutes": 66
+    },
+    "insolite_secret": {
+      "names": [
+        "Grand-place",
+        "Cour du Noir Lévrier",
+        "Cour de l'Âne Barré",
+        "Ruelle aux Quinettes",
+        "Rue des Clercs",
+        "Rampe du Château",
+        "Rue des Gades",
+        "Cour du Bailly",
+        "Ruelle du Cerf Blanc",
+        "Grand-place"
+      ],
+      "meters": 1485,
+      "kmLabel": "1,5 km",
+      "timeLabel": "55 min",
+      "poiCount": 10,
+      "totalMinutes": 55
+    },
+    "insolite_noms": {
+      "names": [
+        "Grand-place",
+        "Rue de l'Âtre",
+        "Rue des Trois Boudins",
+        "Rue des Quatre Fils Aymon",
+        "Chateau de le Marcote",
+        "Rue des Fillettes",
+        "Rue de la Terre du Prince",
+        "Rue des Sœurs Grises",
+        "Rue de la Petite Guirlande",
+        "Grand-place"
+      ],
+      "meters": 1646,
+      "kmLabel": "1,6 km",
+      "timeLabel": "55 min",
+      "poiCount": 10,
+      "totalMinutes": 57
+    }
+  },
+  "indices": {
+    "insolite_mystere": [
+      1,
+      63,
+      208,
+      215,
+      65,
+      212,
+      64,
+      206,
+      202,
+      213,
+      1
+    ],
+    "insolite_secret": [
+      1,
+      204,
+      207,
+      216,
+      220,
+      210,
+      211,
+      209,
+      203,
+      1
+    ],
+    "insolite_noms": [
+      1,
+      217,
+      214,
+      219,
+      165,
+      205,
+      218,
+      221,
+      199,
+      1
+    ]
+  }
+}

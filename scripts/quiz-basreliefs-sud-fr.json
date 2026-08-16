@@ -1,0 +1,350 @@
+{
+  "Armes de Mons Rue de la Clef": [
+    {
+      "question": "Quel est le motif principal des Armes de Mons ?",
+      "options": [
+        "Une scène de chasse",
+        "Un paysage rural",
+        "Un blason"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Quel est le contexte historique des Armes de Mons ?",
+      "options": [
+        "Vestige de l'ancienne Grande Boucherie",
+        "Ancienne enseigne de la Rue des Bouchers",
+        "Monument commémoratif de la guerre"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouvent les Armes de Mons ?",
+      "options": [
+        "Rue des Fripiers",
+        "Rue de la Clef",
+        "Rue de la Boucherie"
+      ],
+      "answer": 1
+    }
+  ],
+  "A la Tete Saint-Jean": [
+    {
+      "question": "Quel motif est représenté sur le bas-relief de l'enseigne ?",
+      "options": [
+        "Tête de saint Jean-Baptiste",
+        "Tête de saint Pierre",
+        "Tête de saint Paul"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "À quelle époque pourrait-on estimer que cette enseigne a été réalisée ?",
+      "options": [
+        "XVIe siècle",
+        "XVIIe siècle",
+        "XVIIIe siècle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'À la Tête Saint-Jean' ?",
+      "options": [
+        "Rue de la Fontaine",
+        "Rue des Fripiers",
+        "Rue de la Clef"
+      ],
+      "answer": 2
+    }
+  ],
+  "Au Grand Laboureur": [
+    {
+      "question": "Quel est le matériau principal utilisé pour l'inscription de l'enseigne 'Au Grand Laboureur' ?",
+      "options": [
+        "Bois",
+        "Pierre",
+        "Métal"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "À quelle époque remonte l'inscription de l'enseigne 'Au Grand Laboureur' ?",
+      "options": [
+        "XIXe siècle",
+        "XXe siècle",
+        "XVIIIe siècle"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'Au Grand Laboureur' à Mons ?",
+      "options": [
+        "Rue de la Clef",
+        "Rue de la Fontaine",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "Colombe du Saint-Esprit": [
+    {
+      "question": "Quel matériau est utilisé pour la colombe située sur le balcon ?",
+      "options": [
+        "Pierre sculptée",
+        "Bois peint",
+        "Fonte dorée"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "À quelle adresse se trouve la colombe du Saint-Esprit ?",
+      "options": [
+        "Rue de Houdain 13",
+        "Rue de la Chaussée 5",
+        "Place du Parc 10"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel est le symbole représenté par la colombe sur le balcon ?",
+      "options": [
+        "La guerre",
+        "La paix",
+        "La prospérité"
+      ],
+      "answer": 1
+    }
+  ],
+  "Mortier et Pilon": [
+    {
+      "question": "Quel est le matériau principal utilisé pour l'enseigne Mortier et Pilon ?",
+      "options": [
+        "Métal",
+        "Bois",
+        "Verre"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année l'enseigne Mortier et Pilon a-t-elle été posée ?",
+      "options": [
+        "1985",
+        "1995",
+        "2005"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne Mortier et Pilon à Mons ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Fripiers",
+        "Rue de Houdain"
+      ],
+      "answer": 2
+    }
+  ],
+  "A la Bonne Femme": [
+    {
+      "question": "Quel est le matériau principal utilisé pour l'enseigne 'À la Bonne Femme' ?",
+      "options": [
+        "Métal",
+        "Bois",
+        "Pierre"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "En quelle année l'enseigne 'À la Bonne Femme' a-t-elle été créée ?",
+      "options": [
+        "1710",
+        "1735",
+        "1723"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quelle rue se trouvait initialement l'enseigne 'À la Bonne Femme' avant d'être déplacée ?",
+      "options": [
+        "Rue Bertaimont",
+        "Rue de la Chaussée",
+        "Rue de Nimy"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Croix d'Or Croix-Place": [
+    {
+      "question": "Quel motif est représenté sur le bas-relief de l'enseigne 'À la Croix d'Or' ?",
+      "options": [
+        "Un lion",
+        "Une fleur",
+        "Une croix"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "En quelle année l'enseigne 'À la Croix d'Or' a-t-elle été créée ?",
+      "options": [
+        "1936",
+        "1920",
+        "1945"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quelle est la particularité historique de l'emplacement de l'enseigne 'À la Croix d'Or' ?",
+      "options": [
+        "Elle marque la fin de la rue des Clercs",
+        "Elle était le point de juridiction d'Havré",
+        "Elle est la plus ancienne enseigne de Mons"
+      ],
+      "answer": 1
+    }
+  ],
+  "Fontaine Rue de Bertaimont": [
+    {
+      "question": "Quel type de relief caractérise la fontaine située au 31 rue de Bertaimont ?",
+      "options": [
+        "Demi-relief",
+        "Bas-relief",
+        "Relief en plein"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "À quelle époque pourrait-on estimer que cette fontaine a été réalisée ?",
+      "options": [
+        "19ème siècle",
+        "18ème siècle",
+        "20ème siècle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve la fontaine à vasques en demi-relief à Mons ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Clercs",
+        "Rue de Bertaimont"
+      ],
+      "answer": 2
+    }
+  ],
+  "Croix plume et pinceau": [
+    {
+      "question": "Quel motif est représenté dans la ferronnerie de la Croix plume et pinceau ?",
+      "options": [
+        "Étoile et lune",
+        "Croix, plume et pinceau",
+        "Fleur de lys"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "À quel chanoine est liée cette belle ferronnerie ?",
+      "options": [
+        "Chanoine Dupont",
+        "Chanoine Martin",
+        "Chanoine Puissant"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quelle rue se trouve la Croix plume et pinceau ?",
+      "options": [
+        "Rue Terre du Prince",
+        "Rue de la Résistance",
+        "Rue des Combattants"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Grande Rose": [
+    {
+      "question": "Quel motif est représenté sur le bas-relief de l'enseigne 'À la Grande Rose' ?",
+      "options": [
+        "Un lion",
+        "Une couronne",
+        "Une rose sculptée"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "De quelle époque date le remploi de la rose sculptée ?",
+      "options": [
+        "XVIe siècle",
+        "XVIIIe siècle",
+        "XVe siècle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'À la Grande Rose' ?",
+      "options": [
+        "Rue des Fripiers",
+        "Rue de la Poterie",
+        "Rue de la Résistance"
+      ],
+      "answer": 1
+    }
+  ],
+  "Chateau de le Marcote": [
+    {
+      "question": "Quel motif animal est sculpté sur l'enseigne du Château de le Marcote ?",
+      "options": [
+        "Trois belettes",
+        "Deux renards",
+        "Quatre lapins"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année l'enseigne du Château de le Marcote a-t-elle été sculptée ?",
+      "options": [
+        "1702",
+        "1689",
+        "1650"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quelle est la particularité de la maison au 33 rue des Marcottes à Mons ?",
+      "options": [
+        "C'est un ancien hôtel de ville",
+        "C'est une ancienne chapelle",
+        "C'est la maison la plus étroite"
+      ],
+      "answer": 2
+    }
+  ],
+  "16 IHS 93": [
+    {
+      "question": "Quel est le motif principal visible sur le bas-relief au 38 rue des Groseilliers ?",
+      "options": [
+        "Une croix latine",
+        "Un Christogramme",
+        "Un blason"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quelle est l'année de datation du Christogramme ?",
+      "options": [
+        "1685",
+        "1701",
+        "1693"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quelle rue se trouve le Christogramme daté de 1693 à Mons ?",
+      "options": [
+        "Rue des Groseilliers",
+        "Rue de la Chaussée",
+        "Rue de la Résistance"
+      ],
+      "answer": 0
+    }
+  ]
+}

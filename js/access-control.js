@@ -41,7 +41,7 @@ class AccessControl {
   getRestrictedPages() {
     return {
       // Circuits restreints : en LITE → "moyen" et "grand" interdits
-      'parcours.html': { type: 'circuit', restricted: ['moyen', 'grand'] },
+      'parcours.html': { type: 'circuit', restricted: ['moyen', 'grand', 'art_est', 'art_sud', 'art_ouest', 'patrimoine', 'curiosites_nord', 'curiosites_est', 'curiosites_sud', 'curiosites_ouest', 'commerces', 'insolite_mystere', 'insolite_secret', 'insolite_noms'] },
 
       // Pages / contenus culturels restreints en LITE
       // "chansons.html" est volontairement NON restreinte

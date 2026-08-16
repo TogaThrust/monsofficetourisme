@@ -1,4 +1,80 @@
-<!DOCTYPE html><html lang="fr"><head><meta charset="UTF-8"><title>Choisissez votre Circuit</title><script>(function(){var u=navigator.userAgent||'';document.write('<link rel="manifest" href="'+(/android/i.test(u)?'manifest-android.json':'manifest.json')+'">');})();</script><meta name="theme-color" content="#ffffff"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="default"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"><link rel="stylesheet" href="carte.css"><link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"><style>.popup-confirm{position:fixed;bottom:120px;left:50%;transform:translateX(-50%);background:#fff;padding:15px 20px;box-shadow:0 4px 10px rgba(0,0,0,.25);border-radius:10px;text-align:center;z-index:2000;display:none;font-size:18px;width:320px;max-width:90%}.popup-confirm button{margin:10px;padding:10px 20px;font-size:16px;border:none;border-radius:8px;cursor:pointer}.popup-confirm .yes{background-color:#4caf50;color:#fff}.popup-confirm .no{background-color:#f44336;color:#fff}</style></head><body><div id="map"></div><div class="buttons"><button class="circuit grand" onclick="confirmChoice('grand')">Grand Circuit</button> <button class="circuit moyen" onclick="confirmChoice('moyen')">Circuit Moyen</button> <button class="circuit petit" onclick="confirmChoice('petit')">Petit Circuit</button></div><div id="popup" class="popup-confirm"><div id="popup-text"></div><button class="yes" onclick="confirmYes()">Oui</button> <button class="no" onclick="confirmNo()">Non</button></div><script src="/api-base.js"></script><script src="https://unpkg.com/leaflet/dist/leaflet.js"></script><script src="circuit-data.js"></script><script src="app.js?v=5"></script><script src="circuit.js"></script><script>let selectedCircuit = '';
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Choisissez votre Circuit</title>
+<script>(function(){var u=navigator.userAgent||'';document.write('<link rel="manifest" href="'+(/android/i.test(u)?'manifest-android.json':'manifest.json')+'">');})();</script>
+<meta name="theme-color" content="#ffffff">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+  <link rel="stylesheet" href="carte.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <style>
+    /* Popup style */
+    .popup-confirm {
+  position: fixed;
+  bottom: 120px; /* Ajusté au-dessus des boutons */
+  left: 50%;
+  transform: translateX(-50%);
+  background: white;
+  padding: 15px 20px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  text-align: center;
+  z-index: 2000;
+  display: none;
+  font-size: 18px;
+  width: 320px; /* un peu plus large pour s'ajuster aux boutons */
+  max-width: 90%; /* pour responsivité mobile */
+}
+
+.popup-confirm button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+    .popup-confirm .yes {
+      background-color: #4CAF50;
+      color: white;
+    }
+    .popup-confirm .no {
+      background-color: #f44336;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="map"></div>
+
+  <div class="buttons">
+    <button class="circuit grand" onclick="confirmChoice('grand')">Grand Circuit</button>
+    <button class="circuit moyen" onclick="confirmChoice('moyen')">Circuit Moyen</button>
+    <button class="circuit petit" onclick="confirmChoice('petit')">Petit Circuit</button>
+  </div>
+
+  <div id="popup" class="popup-confirm">
+    <div id="popup-text"></div>
+    <button class="yes" onclick="confirmYes()">Oui</button>
+    <button class="no" onclick="confirmNo()">Non</button>
+  </div>
+
+  <script src="/api-base.js"></script>
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script src="circuit-data.js"></script>
+<script src="app.js?v=5"></script>
+<script src="circuit.js"></script>
+<script>
+
+  let selectedCircuit = '';
 
   const map = L.map('map');
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -78,4 +154,8 @@
     document.querySelectorAll('.circuit').forEach(btn => btn.disabled = false);
 
     document.getElementById('popup').style.display = 'none';
-  }</script></body></html>
+  }
+
+</script>
+</body>
+</html>

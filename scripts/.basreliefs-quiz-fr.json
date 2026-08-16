@@ -1,0 +1,1742 @@
+{
+  "Portes du Theatre Royal": [
+    {
+      "question": "Quels médaillons sont présents sur les portes en fonte du Théâtre Royal ?",
+      "options": [
+        "Molière, Racine, Grétry, Roland de Lassus",
+        "Hugo, Balzac, Verlaine, Rimbaud",
+        "Dumas, Zola, Flaubert, Camus"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel matériau a été utilisé pour la fabrication des portes du Théâtre Royal ?",
+      "options": [
+        "Fonte",
+        "Bois",
+        "Pierre"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel est le blason représenté sur les portes du Théâtre Royal ?",
+      "options": [
+        "Blason de Mons",
+        "Blason de Bruxelles",
+        "Blason de Liège"
+      ],
+      "answer": 0
+    }
+  ],
+  "Blasons muets": [
+    {
+      "question": "Quel est le matériau principal des blasons muets visibles au 8 rue du Miroir ?",
+      "options": [
+        "Pierre",
+        "Bois",
+        "Métal"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année les blasons muets ont-ils été réalisés ?",
+      "options": [
+        "1545",
+        "1600",
+        "1500"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel est le nom de la rue où se trouvent les blasons muets à Mons ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue du Miroir",
+        "Rue de la Résistance"
+      ],
+      "answer": 1
+    }
+  ],
+  "Au Gros Visage": [
+    {
+      "question": "Quel motif est représenté sur le bas-relief de l'enseigne 'Au Gros Visage' ?",
+      "options": [
+        "Un visage joufflu",
+        "Un lion",
+        "Une fleur"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année l'enseigne 'Au Gros Visage' a-t-elle été créée ?",
+      "options": [
+        "1789",
+        "1801",
+        "1750"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'Au Gros Visage' à Mons ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue du Miroir",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "A la Poire d'Or": [
+    {
+      "question": "Quel motif est représenté sur l'enseigne de 'A la Poire d'Or' ?",
+      "options": [
+        "Une poire suspendue à un ruban",
+        "Un lion rampant",
+        "Une fleur de lys"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année l'enseigne 'A la Poire d'Or' a-t-elle été datée ?",
+      "options": [
+        "1789",
+        "1750",
+        "1801"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'A la Poire d'Or' ?",
+      "options": [
+        "Rue de Nimy",
+        "Rue de la Clef",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "Le Gros Maillet": [
+    {
+      "question": "Quel est le motif principal de l'enseigne au 9 rue de Nimy ?",
+      "options": [
+        "Un maillet sculpté",
+        "Une hache en bois",
+        "Un marteau en fer"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "À quelle époque cette enseigne de métier a-t-elle été réalisée ?",
+      "options": [
+        "Au 19ème siècle",
+        "Au 17ème siècle",
+        "Au 15ème siècle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne Le Gros Maillet à Mons ?",
+      "options": [
+        "Rue de Nimy",
+        "Rue de la Chaussée",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "The Bootle Arms": [
+    {
+      "question": "Quel blason est représenté sur l'enseigne de The Bootle Arms ?",
+      "options": [
+        "Un blason symbolisant le jumelage avec Bootle",
+        "Un blason de la ville de Mons",
+        "Un blason de la province de Hainaut"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année a été établi le jumelage entre Mons et Bootle ?",
+      "options": [
+        "1975",
+        "1980",
+        "1990"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve The Bootle Arms à Mons ?",
+      "options": [
+        "Rue de Nimy",
+        "Rue de la Chaussée",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "Au Paradis": [
+    {
+      "question": "Quel est le motif principal de l'enseigne Au Paradis ?",
+      "options": [
+        "Un ange",
+        "Un démon",
+        "Un arbre"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année l'enseigne Au Paradis a-t-elle été créée ?",
+      "options": [
+        "XVIe siècle",
+        "XVIIIe siècle",
+        "XIXe siècle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne Au Paradis à Mons ?",
+      "options": [
+        "Rue de Nimy",
+        "Rue des Fripiers",
+        "Rue de la Chaussée"
+      ],
+      "answer": 0
+    }
+  ],
+  "IHS Rue de Nimy 71": [
+    {
+      "question": "Quel motif est représenté sur le bas-relief au 71 rue de Nimy ?",
+      "options": [
+        "Un Christogramme IHS",
+        "Une croix latine",
+        "Un symbole de la ville de Mons"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel élément symbolique est associé au Christogramme IHS sur cette enseigne ?",
+      "options": [
+        "Trois clous",
+        "Une couronne d'épines",
+        "Un calice"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne IHS à Mons ?",
+      "options": [
+        "Rue de Nimy",
+        "Rue des Clercs",
+        "Rue de la Chaussée"
+      ],
+      "answer": 0
+    }
+  ],
+  "A le Trois Brouet": [
+    {
+      "question": "Quel motif est représenté sur le bas-relief de l'enseigne À le Trois Brouet ?",
+      "options": [
+        "Trois brouettes",
+        "Une couronne",
+        "Un marteau"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année l'enseigne À le Trois Brouet a-t-elle été créée ?",
+      "options": [
+        "1714",
+        "1800",
+        "1650"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne À le Trois Brouet à Mons ?",
+      "options": [
+        "Rue de Nimy",
+        "Rue de la Chaussée",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "Saint-Pierre Rue de Nimy": [
+    {
+      "question": "Quel saint est représenté sur l'enseigne sculptée au 80 rue de Nimy ?",
+      "options": [
+        "Saint Pierre",
+        "Saint Paul",
+        "Saint Jacques"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "À quelle époque cette enseigne a-t-elle probablement été sculptée ?",
+      "options": [
+        "XIXe siècle",
+        "XVIIIe siècle",
+        "XXe siècle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quelle est la rue où se trouve l'enseigne de Saint Pierre à Mons ?",
+      "options": [
+        "Rue de Nimy",
+        "Rue des Clercs",
+        "Rue de la Chaussée"
+      ],
+      "answer": 0
+    }
+  ],
+  "Aux Trois Herrents": [
+    {
+      "question": "Quel motif est représenté en bas-relief sur l'enseigne 'Aux Trois Herrents' ?",
+      "options": [
+        "Trois harengs",
+        "Trois truites",
+        "Trois saumons"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année l'enseigne 'Aux Trois Herrents' a-t-elle été créée ?",
+      "options": [
+        "1715",
+        "1723",
+        "1730"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'Aux Trois Herrents' à Mons ?",
+      "options": [
+        "Rue de Nimy",
+        "Rue des Fripiers",
+        "Rue de la Chaussée"
+      ],
+      "answer": 0
+    }
+  ],
+  "Armes de Mons Petit Marche": [
+    {
+      "question": "Quel motif est représenté sur la clé d'arc du blason de Mons ?",
+      "options": [
+        "Un lion",
+        "Une étoile",
+        "Un aigle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "À quelle époque le blason de Mons a-t-il été sculpté ?",
+      "options": [
+        "XVIe siècle",
+        "XVIIIe siècle",
+        "XIXe siècle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle cour se trouve le blason de Mons ?",
+      "options": [
+        "Cour de la Gare",
+        "Cour du Petit Marché",
+        "Cour de la Bourse"
+      ],
+      "answer": 1
+    }
+  ],
+  "IHS dans un soleil": [
+    {
+      "question": "Quel motif est représenté sur le bas-relief au 89 rue de Nimy ?",
+      "options": [
+        "Un Christogramme IHS",
+        "Un lion",
+        "Une croix"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "À quelle époque remonte le motif religieux observé ?",
+      "options": [
+        "XVIe siècle",
+        "XVIIIe siècle",
+        "XIXe siècle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quelle est la rue où se trouve le bas-relief IHS dans un soleil ?",
+      "options": [
+        "Rue de Nimy",
+        "Rue des Clercs",
+        "Rue de la Chaussée"
+      ],
+      "answer": 0
+    }
+  ],
+  "Aux Trois Verts Chapeaux": [
+    {
+      "question": "Quel motif est représenté sur l'enseigne 'Aux Trois Verts Chapeaux' ?",
+      "options": [
+        "Trois chapeaux",
+        "Trois fleurs",
+        "Trois étoiles"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année l'enseigne 'Aux Trois Verts Chapeaux' a-t-elle été créée ?",
+      "options": [
+        "1705",
+        "1712",
+        "1720"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'Aux Trois Verts Chapeaux' à Mons ?",
+      "options": [
+        "Rue de Nimy",
+        "Rue de la Chaussée",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Tette d'Or": [
+    {
+      "question": "Quel motif est visible sur le bas-relief de l'enseigne 'À la Tette d'Or' ?",
+      "options": [
+        "Une tête burinée",
+        "Un animal sculpté",
+        "Un paysage gravé"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel est le matériau principal utilisé pour le bas-relief de l'enseigne ?",
+      "options": [
+        "Pierre",
+        "Bois",
+        "Métal"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'À la Tette d'Or' ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Le Lecteur Colas": [
+    {
+      "question": "Quel est le matériau principal utilisé pour la sculpture moderne 'Le Lecteur' ?",
+      "options": [
+        "Bronze",
+        "Pierre",
+        "Bois"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "En quelle année la sculpture 'Le Lecteur' a-t-elle été installée ?",
+      "options": [
+        "1985",
+        "1990",
+        "1995"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve la sculpture 'Le Lecteur' à Mons ?",
+      "options": [
+        "Rue de Nimy",
+        "Rue d'Havré",
+        "Rue de la Chaussée"
+      ],
+      "answer": 1
+    }
+  ],
+  "Au Lion d'Or": [
+    {
+      "question": "Quel élément du bas-relief a disparu au fil du temps ?",
+      "options": [
+        "Le lion",
+        "Le cartouche",
+        "La rue"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année le bas-relief 'Au Lion d'Or' a-t-il été créé ?",
+      "options": [
+        "1712",
+        "1800",
+        "1650"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'Au Lion d'Or' ?",
+      "options": [
+        "Rue d'Havré",
+        "Rue de la Chaussée",
+        "Rue des Clercs"
+      ],
+      "answer": 0
+    }
+  ],
+  "Millesime MDCCXII": [
+    {
+      "question": "Quel est le motif visible sur la pierre millésimée ?",
+      "options": [
+        "MDCCXII",
+        "Un blason",
+        "Une fleur"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quelle est l'année gravée sur la pierre millésimée ?",
+      "options": [
+        "1712",
+        "1800",
+        "1600"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve la pierre millésimée MDCCXII ?",
+      "options": [
+        "Rue d'Havré",
+        "Rue de la Chaussée",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Clef d'Or": [
+    {
+      "question": "Quel motif est représenté sur l'enseigne de 'À la Clef d'Or' ?",
+      "options": [
+        "Une clé ouvragée",
+        "Un livre ancien",
+        "Une fleur stylisée"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "À quelle époque l'enseigne 'À la Clef d'Or' a-t-elle probablement été réalisée ?",
+      "options": [
+        "Au 19ème siècle",
+        "Au 17ème siècle",
+        "Au 20ème siècle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'À la Clef d'Or' ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "A la Tasche d'Argent": [
+    {
+      "question": "Quel matériau est utilisé pour l'enseigne de la Tasche d'Argent ?",
+      "options": [
+        "Pierre",
+        "Métal",
+        "Bois"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année l'enseigne de la Tasche d'Argent a-t-elle été restaurée ?",
+      "options": [
+        "1934",
+        "1920",
+        "1945"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne de la Tasche d'Argent ?",
+      "options": [
+        "Rue d'Havré",
+        "Rue de la Chaussée",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Balance d'Or": [
+    {
+      "question": "Quel motif est sculpté sur l'enseigne de la Balance d'Or ?",
+      "options": [
+        "Une balance",
+        "Un livre",
+        "Une clé"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année la Balance d'Or a-t-elle été créée ?",
+      "options": [
+        "1768",
+        "1800",
+        "1873"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne de la Balance d'Or à Mons ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Au Renard": [
+    {
+      "question": "Quel motif est représenté sur le bas-relief de l'enseigne 'Au Renard' ?",
+      "options": [
+        "Un renard courant",
+        "Un lion majestueux",
+        "Une chouette perchée"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année l'enseigne 'Au Renard' a-t-elle été créée ?",
+      "options": [
+        "1710",
+        "1724",
+        "1735"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'Au Renard' à Mons ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "A la Lunette d'Or": [
+    {
+      "question": "Quel motif est sculpté sur la façade de l'enseigne À la Lunette d'Or ?",
+      "options": [
+        "Un binocle",
+        "Une montre",
+        "Un livre"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "À quelle époque le binocle sculpté de l'enseigne À la Lunette d'Or a-t-il été réalisé ?",
+      "options": [
+        "Au 19ème siècle",
+        "Au 18ème siècle",
+        "Au 20ème siècle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne À la Lunette d'Or ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Au Pistolet d'Or": [
+    {
+      "question": "Quel motif est représenté en demi-relief sur l'enseigne 'Au Pistolet d'Or' ?",
+      "options": [
+        "Un pistolet",
+        "Une épée",
+        "Un bouclier"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année l'enseigne 'Au Pistolet d'Or' a-t-elle été créée ?",
+      "options": [
+        "1705",
+        "1711",
+        "1720"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'Au Pistolet d'Or' ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue du Hautbois",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "A l'Ecaille d'Or": [
+    {
+      "question": "Quel motif est représenté sur l'enseigne de l'Écaille d'Or ?",
+      "options": [
+        "Une coquille",
+        "Un poisson",
+        "Une étoile"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année l'enseigne de l'Écaille d'Or a-t-elle été créée ?",
+      "options": [
+        "1750",
+        "1800",
+        "1725"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne de l'Écaille d'Or à Mons ?",
+      "options": [
+        "Rue du Hautbois",
+        "Rue de la Chaussée",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Paile d'Or": [
+    {
+      "question": "Quel motif est représenté sur l'enseigne de 'À la Paile d'Or' ?",
+      "options": [
+        "Une pelle de boulanger",
+        "Un moulin à vent",
+        "Une fourchette"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel type de métier est associé à l'enseigne 'À la Paile d'Or' ?",
+      "options": [
+        "Boulanger",
+        "Boucher",
+        "Cuisinier"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'À la Paile d'Or' ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Au Corbeau": [
+    {
+      "question": "Quel oiseau est sculpté sur la porte cochère de l'enseigne 'Au Corbeau' ?",
+      "options": [
+        "Un corbeau",
+        "Un pigeon",
+        "Une hirondelle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "À quelle adresse se trouve l'enseigne 'Au Corbeau' ?",
+      "options": [
+        "Rue de la Chaussée 45",
+        "Rue d'Havré 106",
+        "Rue des Fripiers 12"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel type de motif est utilisé pour l'enseigne 'Au Corbeau' ?",
+      "options": [
+        "Sculpture en bois",
+        "Sculpture en pierre",
+        "Peinture murale"
+      ],
+      "answer": 1
+    }
+  ],
+  "Pelles a enfourner 1573": [
+    {
+      "question": "Quel motif est représenté sur les pelles de boulanger ?",
+      "options": [
+        "Trois pains",
+        "Quatre baguettes",
+        "Une miche de pain"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année la pierre des pelles a été réalisée ?",
+      "options": [
+        "1565",
+        "1573",
+        "1580"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Où a été retrouvée la pierre des pelles de boulanger ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Place du Parc"
+      ],
+      "answer": 1
+    }
+  ],
+  "Au Mousqueton d'Or": [
+    {
+      "question": "Quel motif est représenté en demi-relief sur l'enseigne 'Au Mousqueton d'Or' ?",
+      "options": [
+        "Un mousqueton",
+        "Une épée",
+        "Un bouclier"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année l'enseigne 'Au Mousqueton d'Or' a-t-elle été créée ?",
+      "options": [
+        "1710",
+        "1726",
+        "1735"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'Au Mousqueton d'Or' à Mons ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "A la Faux d'Or": [
+    {
+      "question": "Quel motif est représenté sur le bas-relief de l'enseigne 'À la Faux d'Or' ?",
+      "options": [
+        "Une faux",
+        "Un blason",
+        "Une couronne"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année l'enseigne 'À la Faux d'Or' a-t-elle été sculptée ?",
+      "options": [
+        "1715",
+        "1723",
+        "1730"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se situe l'enseigne 'À la Faux d'Or' à Mons ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue de Nimy"
+      ],
+      "answer": 1
+    }
+  ],
+  "La Croix d'Or Havre": [
+    {
+      "question": "Quel motif caractérise la croix de La Croix d'Or ?",
+      "options": [
+        "Extrémités fleurdelisées",
+        "Motif en spirale",
+        "Croix pattée"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année La Croix d'Or a-t-elle été créée ?",
+      "options": [
+        "1750",
+        "1766",
+        "1789"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve La Croix d'Or à Mons ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "A la Licorne": [
+    {
+      "question": "Quel motif est représenté sur le bas-relief de l'enseigne 'À la Licorne' ?",
+      "options": [
+        "Un cheval et un heaume",
+        "Un dragon",
+        "Une sirène"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quelle est la date associée aux Franeau de Gommegnies, liés à l'enseigne 'À la Licorne' ?",
+      "options": [
+        "XVIe siècle",
+        "XVIIe siècle",
+        "XIXe siècle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'À la Licorne' à Mons ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "La Belle Plebeienne": [
+    {
+      "question": "Quel matériau est utilisé pour la sculpture 'La Belle Plébéienne' ?",
+      "options": [
+        "Bronze",
+        "Marbre",
+        "Pierre"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année 'La Belle Plébéienne' a-t-elle été réalisée ?",
+      "options": [
+        "1974",
+        "1980",
+        "1965"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quel parc de Mons se trouve 'La Belle Plébéienne' ?",
+      "options": [
+        "Parc du Waux-Hall",
+        "Parc de la Dodaine",
+        "Parc de la Serna"
+      ],
+      "answer": 0
+    }
+  ],
+  "Buste de la reine Astrid": [
+    {
+      "question": "Quel matériau a été utilisé pour réaliser le buste de la reine Astrid ?",
+      "options": [
+        "Bronze",
+        "Marbre",
+        "Pierre"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année l'original du buste de la reine Astrid a-t-il été volé ?",
+      "options": [
+        "2005",
+        "2009",
+        "2012"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quel parc de Mons se trouve le buste de la reine Astrid ?",
+      "options": [
+        "Parc du Waux-Hall",
+        "Parc de la Dodaine",
+        "Parc de la Serna"
+      ],
+      "answer": 0
+    }
+  ],
+  "Armes de Mons Rue de la Clef": [
+    {
+      "question": "Quel est le motif principal des Armes de Mons ?",
+      "options": [
+        "Un blason",
+        "Une scène de chasse",
+        "Un paysage rural"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel est le contexte historique des Armes de Mons ?",
+      "options": [
+        "Vestige de l'ancienne Grande Boucherie",
+        "Ancienne enseigne de la Rue des Bouchers",
+        "Monument commémoratif de la guerre"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouvent les Armes de Mons ?",
+      "options": [
+        "Rue de la Clef",
+        "Rue des Fripiers",
+        "Rue de la Boucherie"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Tete Saint-Jean": [
+    {
+      "question": "Quel motif est représenté sur le bas-relief de l'enseigne ?",
+      "options": [
+        "Tête de saint Jean-Baptiste",
+        "Tête de saint Pierre",
+        "Tête de saint Paul"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "À quelle époque pourrait-on estimer que cette enseigne a été réalisée ?",
+      "options": [
+        "XVIe siècle",
+        "XVIIe siècle",
+        "XVIIIe siècle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'À la Tête Saint-Jean' ?",
+      "options": [
+        "Rue de la Clef",
+        "Rue de la Fontaine",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "Au Grand Laboureur": [
+    {
+      "question": "Quel est le matériau principal utilisé pour l'inscription de l'enseigne 'Au Grand Laboureur' ?",
+      "options": [
+        "Pierre",
+        "Bois",
+        "Métal"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "À quelle époque remonte l'inscription de l'enseigne 'Au Grand Laboureur' ?",
+      "options": [
+        "XIXe siècle",
+        "XVIIIe siècle",
+        "XXe siècle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'Au Grand Laboureur' à Mons ?",
+      "options": [
+        "Rue de la Clef",
+        "Rue de la Fontaine",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "Colombe du Saint-Esprit": [
+    {
+      "question": "Quel matériau est utilisé pour la colombe située sur le balcon ?",
+      "options": [
+        "Fonte dorée",
+        "Pierre sculptée",
+        "Bois peint"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "À quelle adresse se trouve la colombe du Saint-Esprit ?",
+      "options": [
+        "Rue de Houdain 13",
+        "Rue de la Chaussée 5",
+        "Place du Parc 10"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel est le symbole représenté par la colombe sur le balcon ?",
+      "options": [
+        "La paix",
+        "La guerre",
+        "La prospérité"
+      ],
+      "answer": 0
+    }
+  ],
+  "Mortier et Pilon": [
+    {
+      "question": "Quel est le matériau principal utilisé pour l'enseigne Mortier et Pilon ?",
+      "options": [
+        "Métal",
+        "Bois",
+        "Verre"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année l'enseigne Mortier et Pilon a-t-elle été posée ?",
+      "options": [
+        "1985",
+        "1995",
+        "2005"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne Mortier et Pilon à Mons ?",
+      "options": [
+        "Rue de Houdain",
+        "Rue de la Chaussée",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Bonne Femme": [
+    {
+      "question": "Quel est le matériau principal utilisé pour l'enseigne 'À la Bonne Femme' ?",
+      "options": [
+        "Bois",
+        "Métal",
+        "Pierre"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année l'enseigne 'À la Bonne Femme' a-t-elle été créée ?",
+      "options": [
+        "1710",
+        "1723",
+        "1735"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouvait initialement l'enseigne 'À la Bonne Femme' avant d'être déplacée ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue Bertaimont",
+        "Rue de Nimy"
+      ],
+      "answer": 1
+    }
+  ],
+  "A la Croix d'Or Croix-Place": [
+    {
+      "question": "Quel motif est représenté sur le bas-relief de l'enseigne 'À la Croix d'Or' ?",
+      "options": [
+        "Une croix",
+        "Un lion",
+        "Une fleur"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année l'enseigne 'À la Croix d'Or' a-t-elle été créée ?",
+      "options": [
+        "1920",
+        "1936",
+        "1945"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quelle est la particularité historique de l'emplacement de l'enseigne 'À la Croix d'Or' ?",
+      "options": [
+        "Elle marque la fin de la rue des Clercs",
+        "Elle était le point de juridiction d'Havré",
+        "Elle est la plus ancienne enseigne de Mons"
+      ],
+      "answer": 1
+    }
+  ],
+  "Fontaine Rue de Bertaimont": [
+    {
+      "question": "Quel type de relief caractérise la fontaine située au 31 rue de Bertaimont ?",
+      "options": [
+        "Demi-relief",
+        "Bas-relief",
+        "Relief en plein"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "À quelle époque pourrait-on estimer que cette fontaine a été réalisée ?",
+      "options": [
+        "19ème siècle",
+        "18ème siècle",
+        "20ème siècle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve la fontaine à vasques en demi-relief à Mons ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue de Bertaimont",
+        "Rue des Clercs"
+      ],
+      "answer": 1
+    }
+  ],
+  "Croix plume et pinceau": [
+    {
+      "question": "Quel motif est représenté dans la ferronnerie de la Croix plume et pinceau ?",
+      "options": [
+        "Croix, plume et pinceau",
+        "Étoile et lune",
+        "Fleur de lys"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "À quel chanoine est liée cette belle ferronnerie ?",
+      "options": [
+        "Chanoine Puissant",
+        "Chanoine Dupont",
+        "Chanoine Martin"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve la Croix plume et pinceau ?",
+      "options": [
+        "Rue de la Résistance",
+        "Rue Terre du Prince",
+        "Rue des Combattants"
+      ],
+      "answer": 1
+    }
+  ],
+  "A la Grande Rose": [
+    {
+      "question": "Quel motif est représenté sur le bas-relief de l'enseigne 'À la Grande Rose' ?",
+      "options": [
+        "Une rose sculptée",
+        "Un lion",
+        "Une couronne"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "De quelle époque date le remploi de la rose sculptée ?",
+      "options": [
+        "XVIe siècle",
+        "XVIIIe siècle",
+        "XVe siècle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'À la Grande Rose' ?",
+      "options": [
+        "Rue de la Poterie",
+        "Rue des Fripiers",
+        "Rue de la Résistance"
+      ],
+      "answer": 0
+    }
+  ],
+  "Chateau de le Marcote": [
+    {
+      "question": "Quel motif animal est sculpté sur l'enseigne du Château de le Marcote ?",
+      "options": [
+        "Trois belettes",
+        "Deux renards",
+        "Quatre lapins"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année l'enseigne du Château de le Marcote a-t-elle été sculptée ?",
+      "options": [
+        "1689",
+        "1702",
+        "1650"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quelle est la particularité de la maison au 33 rue des Marcottes à Mons ?",
+      "options": [
+        "C'est la maison la plus étroite",
+        "C'est un ancien hôtel de ville",
+        "C'est une ancienne chapelle"
+      ],
+      "answer": 0
+    }
+  ],
+  "16 IHS 93": [
+    {
+      "question": "Quel est le motif principal visible sur le bas-relief au 38 rue des Groseilliers ?",
+      "options": [
+        "Un Christogramme",
+        "Une croix latine",
+        "Un blason"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quelle est l'année de datation du Christogramme ?",
+      "options": [
+        "1693",
+        "1685",
+        "1701"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve le Christogramme daté de 1693 à Mons ?",
+      "options": [
+        "Rue des Groseilliers",
+        "Rue de la Chaussée",
+        "Rue de la Résistance"
+      ],
+      "answer": 0
+    }
+  ],
+  "Cheval Dore": [
+    {
+      "question": "Quel motif est sculpté sur la clé de l'entrée du Cheval Dore ?",
+      "options": [
+        "Un cheval",
+        "Un lion",
+        "Une fleur"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "À quelle époque le Cheval Dore a-t-il été sculpté ?",
+      "options": [
+        "Au 18ème siècle",
+        "Au 19ème siècle",
+        "Au 20ème siècle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve le Cheval Dore à Mons ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue du Parc",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Bas-relief litterature montoise": [
+    {
+      "question": "Quel matériau est utilisé pour la plaque dédiée aux créateurs de la littérature montoise ?",
+      "options": [
+        "Bronze",
+        "Marbre",
+        "Pierre"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qui est l'auteur de la plaque de bronze honorant les écrivains montois ?",
+      "options": [
+        "Gustave Jacobs",
+        "Henri Delmotte",
+        "Charles Letellier"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve la plaque dédiée à la littérature montoise ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Jardin du Mayeur",
+        "Rue des Clercs"
+      ],
+      "answer": 1
+    }
+  ],
+  "A la Coupe d'Or": [
+    {
+      "question": "Quel type d'objet est représenté en haut-relief à l'enseigne 'À la Coupe d'Or' ?",
+      "options": [
+        "Un ciboire",
+        "Une coupe",
+        "Un chandelier"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "À quelle époque le ciboire sculpté de 'À la Coupe d'Or' a-t-il été réalisé ?",
+      "options": [
+        "Au 17ème siècle",
+        "Au 18ème siècle",
+        "Au 19ème siècle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'À la Coupe d'Or' ?",
+      "options": [
+        "Rue de la Coupe",
+        "Rue de la Paix",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "A Saint-Antoine": [
+    {
+      "question": "Quel motif est représenté sur le bas-relief à Saint-Antoine ?",
+      "options": [
+        "Saint Antoine et son cochon",
+        "Saint Pierre et son poisson",
+        "Saint Jacques et sa coquille"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quelle est la date approximative de création de la chapelle dédiée à Saint-Antoine ?",
+      "options": [
+        "XVIe siècle",
+        "XVIIe siècle",
+        "XVIIIe siècle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se situe le point de visite A Saint-Antoine ?",
+      "options": [
+        "Rue de la Coupe",
+        "Rue des Fripiers",
+        "Rue de la Résistance"
+      ],
+      "answer": 0
+    }
+  ],
+  "Au Paon et au Cygne": [
+    {
+      "question": "Quels animaux sont représentés dans les frontons de l'enseigne 'Au Paon et au Cygne' ?",
+      "options": [
+        "Paon et cygne",
+        "Aigle et héron",
+        "Chien et chat"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel est le numéro de la rue où se situe l'enseigne 'Au Paon et au Cygne' ?",
+      "options": [
+        "22",
+        "15",
+        "30"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue historique de Mons se trouve l'enseigne 'Au Paon et au Cygne' ?",
+      "options": [
+        "Rue des Fripiers",
+        "Rue de la Chaussée",
+        "Rue des Clercs"
+      ],
+      "answer": 0
+    }
+  ],
+  "Cartouche et blason Grande Triperie": [
+    {
+      "question": "Quel motif est représenté sur le cartouche de la Grande Triperie ?",
+      "options": [
+        "Mascaron",
+        "Écu",
+        "Chien-lion"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "À quelle époque pourrait-on estimer que le blason a été réalisé ?",
+      "options": [
+        "XVIe siècle",
+        "XVIIIe siècle",
+        "XIXe siècle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve la Grande Triperie à Mons ?",
+      "options": [
+        "Rue de la Grande Triperie",
+        "Rue de la Petite Triperie",
+        "Rue des Bouchers"
+      ],
+      "answer": 0
+    }
+  ],
+  "Le Gant": [
+    {
+      "question": "Quel motif est représenté sur le bas-relief de l'enseigne Le Gant ?",
+      "options": [
+        "Un gant",
+        "Une chaussure",
+        "Un chapeau"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année l'enseigne Le Gant a-t-elle été sculptée ?",
+      "options": [
+        "1718",
+        "1720",
+        "1705"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne Le Gant à Mons ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Grand'Rue",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "BF IHS IL": [
+    {
+      "question": "Quel motif est présent sur le Christogramme BF IHS IL ?",
+      "options": [
+        "Cœur et trois clous",
+        "Croix et couronne",
+        "Ange et étoile"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "À quelle époque le Christogramme BF IHS IL a-t-il probablement été réalisé ?",
+      "options": [
+        "XVIe siècle",
+        "XVIIIe siècle",
+        "XXe siècle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve le Christogramme BF IHS IL à Mons ?",
+      "options": [
+        "Rue des Fripiers",
+        "Grand'Rue",
+        "Rue de la Chaussée"
+      ],
+      "answer": 1
+    }
+  ],
+  "A la Couronne Grand Rue": [
+    {
+      "question": "Quel motif est représenté en bas-relief sur l'enseigne de 'À la Couronne' ?",
+      "options": [
+        "Une couronne comtale",
+        "Un lion",
+        "Une fleur de lys"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "À quelle époque la couronne comtale a-t-elle été sculptée ?",
+      "options": [
+        "Au 18ème siècle",
+        "Au 19ème siècle",
+        "Au 17ème siècle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se situe l'enseigne 'À la Couronne' ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Grand'Rue",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "A la Ville d'Avesnes": [
+    {
+      "question": "Quel motif est représenté en bas-relief sur l'enseigne 'À la Ville d'Avesnes' ?",
+      "options": [
+        "Une représentation d'Avesnes",
+        "Un paysage montois",
+        "Une scène de marché"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année l'enseigne 'À la Ville d'Avesnes' a-t-elle été créée ?",
+      "options": [
+        "1710",
+        "1724",
+        "1735"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'À la Ville d'Avesnes' ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Grand'Rue",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Cantoria Roland de Lassus": [
+    {
+      "question": "Quel matériau est utilisé pour les trois chantres du monument à Roland de Lassus ?",
+      "options": [
+        "Bronze",
+        "Marbre",
+        "Pierre"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année le monument à Roland de Lassus a-t-il été inauguré ?",
+      "options": [
+        "1965",
+        "1970",
+        "1980"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve le monument à Roland de Lassus à Mons ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue du Chapitre",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Loge maconnique Rue Chisaire": [
+    {
+      "question": "Quels symboles sont visibles sur la façade de la Loge maçonnique ?",
+      "options": [
+        "Symboles maçonniques",
+        "Symboles religieux",
+        "Symboles militaires"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année la Loge maçonnique a-t-elle été fondée ?",
+      "options": [
+        "1776",
+        "1804",
+        "1850"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se situe la Loge maçonnique à Mons ?",
+      "options": [
+        "Rue Chisaire",
+        "Rue de la Chaussée",
+        "Rue de Nimy"
+      ],
+      "answer": 0
+    }
+  ],
+  "St Franciscus Kring": [
+    {
+      "question": "Quel est le nom de l'ancienne maison située au 31 rue Masquelier ?",
+      "options": [
+        "Maison des Flamands",
+        "Maison des Wallons",
+        "Maison des Belges"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel type de bâtiment est le St Franciscus Kring ?",
+      "options": [
+        "Une église",
+        "Une maison",
+        "Un musée"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve le St Franciscus Kring à Mons ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue Masquelier",
+        "Rue de Nimy"
+      ],
+      "answer": 1
+    }
+  ],
+  "La clé rouge": [
+    {
+      "question": "Quel motif est sculpté sur l'enseigne de 'La clé rouge' ?",
+      "options": [
+        "Une grande clé",
+        "Un lion",
+        "Une fleur"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "À quelle époque pourrait-on estimer que l'enseigne a été réalisée, en se basant sur le style de burinage ?",
+      "options": [
+        "XIXe siècle",
+        "XVIIIe siècle",
+        "XXe siècle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'La clé rouge' ?",
+      "options": [
+        "Rue de Nimy",
+        "Rue de la Clé d'Or",
+        "Rue de la Paix"
+      ],
+      "answer": 0
+    }
+  ]
+}

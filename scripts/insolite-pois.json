@@ -1,0 +1,87 @@
+{
+  "reuse": [
+    "Grand-place",
+    "Rue Cronque",
+    "Rampe Sainte Waudru",
+    "Rue de la Grosse Pomme",
+    "Chateau de le Marcote",
+    "Rue de la Petite Guirlande"
+  ],
+  "pois": [
+    { "name": "Rue à Degrés", "address": "Rue à Degrés, 7000 Mons, Belgium", "commons": "File:Mons - Rue à Degrés 2.JPG" },
+    { "name": "Ruelle du Cerf Blanc", "address": "Rue du Cerf Blanc, 7000 Mons, Belgium", "commons": "File:0 Mons - Ruelle du Cerf Blanc (1).JPG" },
+    { "name": "Cour du Noir Lévrier", "address": "Cour du Noir Lévrier, 7000 Mons, Belgium", "commons": "File:0 Mons - Cour du Noir Lévrier (0).JPG" },
+    { "name": "Rue des Fillettes", "address": "Rue des Fillettes, 7000 Mons, Belgium", "commons": "File:0 Mons - Rue des Fillettes (1).JPG" },
+    { "name": "Rue de la Voussure", "address": "Rue de la Voussure, 7000 Mons, Belgium", "commons": "File:Mons - Rue de la Voussure - 061101 (1).jpg" },
+    { "name": "Cour de l'Âne Barré", "address": "Cour de l'Âne Barré, 7000 Mons, Belgium", "commons": "File:0 Mons - Cour de l'Âne Barré, 10.JPG" },
+    { "name": "Chasse du Bon Dieu", "address": "Chasse du Bon Dieu, 7000 Mons, Belgium", "commons": "File:0 Mons - Chasse du Bon Dieu (1).JPG" },
+    { "name": "Cour du Bailly", "address": "Cour du Bailly, 7000 Mons, Belgium", "commons": "File:0 Mons - Cour du Bailly (1).JPG" },
+    { "name": "Rampe du Château", "address": "Rampe du Château, 7000 Mons, Belgium", "commons": null, "search": "Rampe du Château Mons" },
+    { "name": "Rue des Gades", "address": "Rue des Gades, 7000 Mons, Belgium", "commons": "File:0 Mons - Rue des Gades (1).JPG" },
+    { "name": "Rue des Cinq Visages", "address": "Rue des Cinq Visages, 7000 Mons, Belgium", "commons": "File:0 Mons - Rue des Cinq Visages (1).JPG" },
+    { "name": "Rue de la Peine Perdue", "address": "Rue de la Peine Perdue, 7000 Mons, Belgium", "commons": "File:0 Mons - Rue de la Peine Perdue (1).JPG" },
+    { "name": "Rue des Trois Boudins", "address": "Rue des Trois Boudins, 7000 Mons, Belgium", "commons": "File:0 Mons - Rue des Trois Boudins (1).JPG" },
+    { "name": "Rampe Borgnagache", "address": "Rampe Borgnagache, 7000 Mons, Belgium", "commons": "File:0 Mons - Rampe Borgnagache (1).JPG" },
+    { "name": "Ruelle aux Quinettes", "address": "Ruelle aux Quinettes, 7000 Mons, Belgium", "commons": "File:0 Mons - Ruelle aux Quinettes (1).JPG" },
+    { "name": "Rue de l'Âtre", "address": "Ruelle de l'Âtre, 7000 Mons, Belgium", "commons": null, "search": "Ruelle de l'Âtre Mons" },
+    { "name": "Rue de la Terre du Prince", "address": "Rue de la Terre du Prince, 7000 Mons, Belgium", "commons": "File:0 Mons - Rue de la Terre du Prince - Mur de Baudouin (1).JPG" },
+    { "name": "Rue des Quatre Fils Aymon", "address": "Rue des Quatre Fils Aymon, 7000 Mons, Belgium", "commons": "File:0 Mons - Rue des 4 Fils Aymon, n° 14-16 (1).JPG" },
+    { "name": "Rue des Clercs", "address": "Rue des Clercs, 7000 Mons, Belgium", "commons": "File:Mons - Rue des Clercs - 2024-12-31.jpg" },
+    { "name": "Rue des Sœurs Grises", "address": "Rue des Sœurs Grises, 7000 Mons, Belgium", "commons": "File:0 Mons - Rue des Sœurs Grises (1).JPG" }
+  ],
+  "commonsReuse": {
+    "Rue Cronque": "File:0 Mons - Rue Cronque n°3 - (1).JPG",
+    "Rampe Sainte Waudru": "File:0 Rampe Sainte-Waudru - Mons.JPG",
+    "Rue de la Grosse Pomme": "File:0 Mons - Rue de la Grosse Pomme (1).JPG",
+    "Chateau de le Marcote": "File:0 Mons - Rue des Marcottes (1).jpg",
+    "Rue de la Petite Guirlande": "File:0 Mons - Rue de la Petite Guirlande (1).JPG"
+  },
+  "tours": {
+    "insolite_mystere": {
+      "label": "Mons mystérieux",
+      "color": "#4a1942",
+      "names": [
+        "Grand-place",
+        "Rue Cronque",
+        "Rue à Degrés",
+        "Rue de la Voussure",
+        "Chasse du Bon Dieu",
+        "Rue des Cinq Visages",
+        "Rue de la Grosse Pomme",
+        "Rampe Sainte Waudru",
+        "Rue de la Peine Perdue",
+        "Rampe Borgnagache"
+      ]
+    },
+    "insolite_secret": {
+      "label": "Cours et passages secrets",
+      "color": "#5c2a50",
+      "names": [
+        "Grand-place",
+        "Cour de l'Âne Barré",
+        "Cour du Noir Lévrier",
+        "Cour du Bailly",
+        "Ruelle du Cerf Blanc",
+        "Ruelle aux Quinettes",
+        "Rue des Clercs",
+        "Rampe du Château",
+        "Rue des Gades"
+      ]
+    },
+    "insolite_noms": {
+      "label": "Noms impossibles",
+      "color": "#6e3b5e",
+      "names": [
+        "Grand-place",
+        "Rue des Fillettes",
+        "Chateau de le Marcote",
+        "Rue des Trois Boudins",
+        "Rue des Quatre Fils Aymon",
+        "Rue de la Terre du Prince",
+        "Rue de la Petite Guirlande",
+        "Rue de l'Âtre",
+        "Rue des Sœurs Grises"
+      ]
+    }
+  }
+}

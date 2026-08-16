@@ -1,0 +1,5773 @@
+{
+  "Grand-place": [
+    {
+      "question": "モンスのグランプラスを見下ろす、15世紀のゴシック建築はどれですか？",
+      "options": [
+        "バロック様式の鐘楼",
+        "市庁舎（Hôtel de Ville）",
+        "Sainte-Waudru参事会聖堂"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "ドゥカース（Ducasse）の際、グランプラスで毎年行われる伝統は何ですか？",
+      "options": [
+        "聖ジョルジュとドラゴンの戦い、通称 Lumeçon",
+        "黄金の馬車（Car d'Or）の行列（Casteauまで）",
+        "鐘楼からの旗投げ"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Lumeçonの戦いの場所そのもの、舗装に埋め込まれた要素は何ですか？",
+      "options": [
+        "ルネサンスの小鐘楼",
+        "直径12メートルのブルーストーンの環で、19コミューンの名が刻まれている",
+        "Car d'Orの複製"
+      ],
+      "answer": 1
+    }
+  ],
+  "Fontaine du Rouge Puits": [
+    {
+      "question": "この噴水が Rouge-Puits と呼ばれる理由は何ですか？",
+      "options": [
+        "一時期、全体が赤く塗られていたため",
+        "食肉の洗浄で水が色づいていたため",
+        "消防隊の入口を示していたため"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "1828年に建築のローマ賞を受賞した、その建築家は誰ですか？",
+      "options": [
+        "Charles Sury",
+        "Albert J.B. Jamot",
+        "Emmanuel-Henri Fonson"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "柱の頂部、階段状のエンタブラチュアの上には何がありますか？",
+      "options": [
+        "小鐘楼",
+        "四つの石球",
+        "石の壺"
+      ],
+      "answer": 2
+    }
+  ],
+  "Immeuble Blanc Lévrier": [
+    {
+      "question": "「Au Blanc Lévrier」という名はどこから来ていますか？",
+      "options": [
+        "一階に設けられた犬舎から",
+        "二頭のグレイハウンドの彫刻と銘文「AV BLAN LEVRIE」から",
+        "猟犬を描いた紋章から"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "ファサードの紋章が想起させる君主は誰ですか？",
+      "options": [
+        "Charles Quint。双頭の鷲と金羊毛勲章（Toison d'Or）の首輪を伴う",
+        "Louis XIV",
+        "Napoléon Ier"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "この市民ゴシック様式の館は何年に建てられましたか？",
+      "options": [
+        "1458",
+        "1709",
+        "1530"
+      ],
+      "answer": 2
+    }
+  ],
+  "Immeuble Grand Place 31 34": [
+    {
+      "question": "1709年頃、この均質な街区は何軒の家で構成されていますか？",
+      "options": [
+        "ブルーストーンの家三軒",
+        "漆喰仕上げの煉瓦とブルーストーンの家四軒",
+        "新古典主義の家六軒"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "グランプラスに面したファサードは何ベイ展開していますか？",
+      "options": [
+        "三層に十二ベイ",
+        "トゥルネ式の七ベイ",
+        "二層に四ベイ"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "これらのファサードを水平にリズムづける要素は何ですか？",
+      "options": [
+        "トスカナ式円柱",
+        "階段状の破風",
+        "敷居とリンテルをつなぐ連続帯状装飾"
+      ],
+      "answer": 2
+    }
+  ],
+  "Office du Tourisme": [
+    {
+      "question": "観光局が入る古典主義建築は何世紀のものですか？",
+      "options": [
+        "15世紀",
+        "18世紀",
+        "19世紀"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "観光局を受け入れるため、建物が全面改修されたのはいつですか？",
+      "options": [
+        "2013年から2014年にかけて",
+        "1981年",
+        "1948年"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "この改修で保存されたのはどの側面ですか？",
+      "options": [
+        "参事用のジュベ",
+        "当初の厩舎",
+        "ファサードの歴史的な外観"
+      ],
+      "answer": 2
+    }
+  ],
+  "Hotel de la Couronne": [
+    {
+      "question": "1766年から1772年にかけて Hôtel de la Couronne を設計したモンスの建築家は誰ですか？",
+      "options": [
+        "Mathieu de Layens",
+        "Emmanuel-Henri-Chrétien Fonson",
+        "Louis Ledoux"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "この館が取って代わった、より古い建物はどれですか？",
+      "options": [
+        "1550年から記録のある「Grise Ostriche」",
+        "エノー最高評議会の館",
+        "Cambron修道院の避難所"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "19世紀末まで、この建物が主に果たした機能は何ですか？",
+      "options": [
+        "裁判所",
+        "パリ—ブリュッセル間の乗合馬車の中継所",
+        "参事の祈祷堂"
+      ],
+      "answer": 1
+    }
+  ],
+  "Chapelle Saint Georges": [
+    {
+      "question": "このルネサンスの礼拝堂は何年に建てられましたか？",
+      "options": [
+        "1458",
+        "1601",
+        "1797"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "当初、誰のために設けられましたか？",
+      "options": [
+        "Sainte-Waudruの女子参事会員",
+        "Cantimpretのベギン会士",
+        "参事たち、市政当局の祈祷堂として"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "1880年頃に取り壊されたジュベは、何を可能にしていましたか？",
+      "options": [
+        "市政当局の成員が三部会の広間から典礼に与ること",
+        "礼拝堂を鐘楼とつなぐこと",
+        "Sainte-Waudruの宝物を展示すること"
+      ],
+      "answer": 0
+    }
+  ],
+  "Immeuble Grand Place 28 30": [
+    {
+      "question": "この一群はどの様式、何世紀を代表していますか？",
+      "options": [
+        "15世紀のブラバント・ゴシック",
+        "18世紀のモンス古典主義",
+        "20世紀のアール・ヌーヴォー"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "全体はブルーストーンの家何軒で構成されていますか？",
+      "options": [
+        "二軒",
+        "四軒",
+        "三軒"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "29番地を特徴づける点は何ですか？",
+      "options": [
+        "鉄細工のバルコニーと石の欄干",
+        "当初のマンサード屋根",
+        "トゥルネ式の七ベイ"
+      ],
+      "answer": 0
+    }
+  ],
+  "Immeuble Grand Place 14": [
+    {
+      "question": "Rue du Miroir のこの角地の建物はどの時期に遡りますか？",
+      "options": [
+        "18世紀の最後の三分の一",
+        "1530年",
+        "14世紀"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "グランプラスに向かう主ファサードはどのように見えますか？",
+      "options": [
+        "二層に十二ベイ",
+        "三層に三ベイ、ブルーストーン",
+        "円柱のあるバロックファサード"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "グランプラスの建物の一階には一般に何がありますか？",
+      "options": [
+        "祈祷堂",
+        "市の文書庫",
+        "店舗"
+      ],
+      "answer": 2
+    }
+  ],
+  "Theatre Royal": [
+    {
+      "question": "王立劇場（Théâtre Royal）が落成したのはいつですか？",
+      "options": [
+        "1843年10月18日",
+        "1661年",
+        "1937年"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "平面を描いたモンスの建築家は誰ですか？",
+      "options": [
+        "Vincent Anthony",
+        "Charles Sury",
+        "Paul Saintenoy"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "1869年、建物を部分的に破壊した出来事は何ですか？",
+      "options": [
+        "爆撃",
+        "包囲",
+        "火災"
+      ],
+      "answer": 2
+    }
+  ],
+  "Singe du Grand Garde": [
+    {
+      "question": "Grand'Garde の猿はどこに固定されていますか？",
+      "options": [
+        "市庁舎の階段の足元",
+        "市庁舎のファサード",
+        "Ropieur の噴水の上"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "来訪者は幸運を願ってどのような仕草をしますか？",
+      "options": [
+        "磨かれた頭蓋を撫でる",
+        "手にコインを置く",
+        "像の周りを三周する"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "猿はどのように表されていますか？",
+      "options": [
+        "立ち、盾を掲げる",
+        "しゃがみ、左手で頬を掻く",
+        "翼があり、ドラゴンのよう"
+      ],
+      "answer": 1
+    }
+  ],
+  "Statue du Dragon": [
+    {
+      "question": "市庁舎入口近くの聖ジョルジュとドラゴンのブロンズを彫ったのは誰ですか？",
+      "options": [
+        "Léon Gobert",
+        "Xavier Veilhan",
+        "Gérard Garouste"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "これらの彫刻が除幕されたのは何年ですか？",
+      "options": [
+        "1937",
+        "2006",
+        "2024"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "これらの現代作品が想起させるモンスの伝統は何ですか？",
+      "options": [
+        "ドゥカースで祝われる、聖ジョルジュとドラゴンの戦い",
+        "Mundaneum の創設",
+        "バロック鐘楼の建設"
+      ],
+      "answer": 0
+    }
+  ],
+  "Hotel de Ville": [
+    {
+      "question": "市庁舎の建設が始まったのは何年ですか？",
+      "options": [
+        "1458",
+        "1661",
+        "1843"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "ルーヴァン市庁舎でも知られる、建設を指揮した建築家は誰ですか？",
+      "options": [
+        "Louis Ledoux",
+        "Mathieu de Layens",
+        "Jean-Baptiste Huriau"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "1390年鋳造で、ルネサンスの小鐘楼に収められている鐘はどれですか？",
+      "options": [
+        "El Grosse Cloche du Catiau",
+        "La Bancloque",
+        "Zandrine"
+      ],
+      "answer": 1
+    }
+  ],
+  "Ropieur": [
+    {
+      "question": "1937年9月26日に除幕された Ropieur の噴水を彫ったのは誰ですか？",
+      "options": [
+        "Gérard Garouste",
+        "Léon Gobert",
+        "David Mesguich"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "当時モンス美術アカデミー院長だった人物で、1931年からこの噴水を提案したのは誰ですか？",
+      "options": [
+        "Paul Heupgen",
+        "Marcel Gillis",
+        "Paul Otlet"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "子供らしい外見を超えて、Heupgen は Ropieur をどう定義していますか？",
+      "options": [
+        "戦士の聖人",
+        "軍事的象徴",
+        "聡明でいたずら好きだが善良"
+      ],
+      "answer": 2
+    }
+  ],
+  "Gillis": [
+    {
+      "question": "Marcel Gillis（1897-1972）の活動は何でしたか？",
+      "options": [
+        "軍事建築家のみ",
+        "画家、素描家、修復家、風刺画家、詩人、民衆歌手",
+        "文書保管官のみ"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "1928年から1965年まで、彼はどの博物館の館長でしたか？",
+      "options": [
+        "Mundaneum",
+        "Doudou 博物館",
+        "モンス美術博物館"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "その具象作品はどの潮流に属しますか？",
+      "options": [
+        "ワロン写実主義、Nervia サークルに近い",
+        "ブリュッセルのアール・ヌーヴォー",
+        "エノーのバロック"
+      ],
+      "answer": 0
+    }
+  ],
+  "Mayeur": [
+    {
+      "question": "Jardin du Mayeur はどこにありますか？",
+      "options": [
+        "カラトラヴァ駅の前",
+        "市庁舎の裏",
+        "Waux-Hall 公園の中"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "この庭園が整備されたのはいつですか？",
+      "options": [
+        "1930年から1936年にかけて",
+        "1458年",
+        "1862年から1864年にかけて"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "そこでは特に1937年のどの彫刻が見られますか？",
+      "options": [
+        "Grand'Garde の猿",
+        "Xavier Veilhan の像",
+        "Léon Gobert による Ropieur"
+      ],
+      "answer": 2
+    }
+  ],
+  "Musee du Doudou": [
+    {
+      "question": "Doudou 博物館が主に祝うものは何ですか？",
+      "options": [
+        "モンスの Ducasse。2005年から UNESCO 無形文化遺産",
+        "エノー伯の歴史",
+        "BAM の現代美術コレクション"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "博物館はどの歴史的建物に入っていますか？",
+      "options": [
+        "Filles de Notre-Dame 旧修道院",
+        "旧公益質屋（Mont-de-Piété）、Jardin du Mayeur 内",
+        "Guillaume 兵営"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "そこで特に解説される伝説の戦いは何ですか？",
+      "options": [
+        "Jemappes の戦い",
+        "1691年の包囲",
+        "Lumeçon、聖ジョルジュとドラゴンの戦い"
+      ],
+      "answer": 2
+    }
+  ],
+  "Conservatoire Royal": [
+    {
+      "question": "1873年以来、音楽院はどの旧建築群に入っていますか？",
+      "options": [
+        "Filles de Notre-Dame 修道院、Rue de Nimy",
+        "Major Sabbe 兵営",
+        "Hôtel de Bavière"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "演奏会と舞踏会の協会によって音楽院が創設されたのはいつですか？",
+      "options": [
+        "1450",
+        "1820",
+        "1937"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "今日、どの高等芸術学校に統合されていますか？",
+      "options": [
+        "ESAPV のみ",
+        "ブリュッセル王立アカデミー",
+        "ARTS²"
+      ],
+      "answer": 2
+    }
+  ],
+  "Eglise Sainte Elisabeth": [
+    {
+      "question": "Isabeau d'Antoing の尽力で建てられた当初の礼拝堂は、どの聖女に捧げられていましたか？",
+      "options": [
+        "Sainte Waudru",
+        "Élisabeth de Hongrie",
+        "Notre-Dame de Messines"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "ゴシック教会が奉献されたのはいつですか？",
+      "options": [
+        "1588年10月16日",
+        "1345年",
+        "1714年3月25日"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "1714年の火災後、修復を指揮したモンスの建築家は誰ですか？",
+      "options": [
+        "Vincent Anthony",
+        "Nicolas de Brissy",
+        "Claude-Joseph de Bettignies"
+      ],
+      "answer": 2
+    }
+  ],
+  "Palais de Justice": [
+    {
+      "question": "1844年から1848年にかけてモンスの裁判所を建てたのは誰ですか？",
+      "options": [
+        "Jean-Baptiste Huriau",
+        "Charles-Damas Vincent",
+        "Joseph Hubert"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Soignies 石のファサードはどの様式ですか？",
+      "options": [
+        "ブラバント・ゴシック",
+        "新古典主義",
+        "バロック"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "1975年以来、どの控訴裁判所がここで開廷していますか？",
+      "options": [
+        "破毀院",
+        "国務院",
+        "モンス控訴院"
+      ],
+      "answer": 2
+    }
+  ],
+  "Maison Losseau": [
+    {
+      "question": "1899年からこの邸宅を改装したモンスの弁護士で後援者は誰ですか？",
+      "options": [
+        "Henri La Fontaine",
+        "Léon Losseau",
+        "Paul Heupgen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "アール・ヌーヴォーのベルギー人建築家で、まず工事を指揮したのは誰ですか？",
+      "options": [
+        "Paul Saintenoy",
+        "Charles Sury",
+        "Rémi de Puydt"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "この家がモンスで初めて取り入れた近代設備は何ですか？",
+      "options": [
+        "公衆電話",
+        "電気と石炭による集中暖房",
+        "水力エレベーター"
+      ],
+      "answer": 1
+    }
+  ],
+  "Maison Rue de Nimy 53": [
+    {
+      "question": "この指定建造物の建築様式は何ですか？",
+      "options": [
+        "アール・ヌーヴォー",
+        "スヘルデ・ゴシック",
+        "トゥルネ式"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "今日、どの機関が本部を置いていますか？",
+      "options": [
+        "IDEA、エノーの心臓部の地域開発公社",
+        "国立文書館",
+        "Mundaneum"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "建物が記念建造物に指定されたのはいつからですか？",
+      "options": [
+        "1952",
+        "1989年5月30日",
+        "2006"
+      ],
+      "answer": 1
+    }
+  ],
+  "Mundaneum": [
+    {
+      "question": "19世紀末に Mundaneum を創設したのは誰ですか？",
+      "options": [
+        "Paul Otlet と Henri La Fontaine",
+        "Léon Losseau と Paul Saintenoy",
+        "Marcel Gillis と Nervia サークル"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "なぜ時に「紙の Google」と呼ばれるのですか？",
+      "options": [
+        "黄色いカードしか使わないから",
+        "人類の知識全体を集め、分類することを目指したから",
+        "インターネットを発明したから"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Henri La Fontaine が1913年に受けた賞は何ですか？",
+      "options": [
+        "ノーベル文学賞",
+        "Europa Nostra 賞",
+        "ノーベル平和賞"
+      ],
+      "answer": 2
+    }
+  ],
+  "Place du Parc": [
+    {
+      "question": "この広場はかつて何と呼ばれていましたか？",
+      "options": [
+        "Place Saint-Jean",
+        "Marché de Coppenage",
+        "Place des Congrès"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "都市空間としての独自性を与える特別な形は何ですか？",
+      "options": [
+        "真円",
+        "菱形",
+        "三角形"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "第一次世界大戦で破壊された要素は何ですか？",
+      "options": [
+        "鐘楼と Bancloque",
+        "モンス大学",
+        "音楽亭と Roland de Lassus の像"
+      ],
+      "answer": 2
+    }
+  ],
+  "Chapelle des Visitandines": [
+    {
+      "question": "1650年にモンスへの訪問会修道女（Visitandines）の定着を発議したのは誰ですか？",
+      "options": [
+        "Bucquoy 伯爵夫人、エノー大執行官の妻",
+        "Marguerite de Constantinople",
+        "Louise de Bouzanton"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "1717年にバロック礼拝堂を建てたモンスの建築家は誰ですか？",
+      "options": [
+        "Nicolas de Brissy",
+        "Claude-Joseph de Bettignies",
+        "Albert Jamot"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "1872年から2006年まで、どの機関がこの場所を使用していましたか？",
+      "options": [
+        "観光局",
+        "王立音楽院",
+        "国立文書館"
+      ],
+      "answer": 2
+    }
+  ],
+  "Ancienne Caserne de Gendarmerie": [
+    {
+      "question": "Rue du Rossignol のこの兵営が建てられたのは何年ですか？",
+      "options": [
+        "1824",
+        "1870",
+        "1933"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "平面を描いた州の建築家は誰ですか？",
+      "options": [
+        "Charles-Damas Vincent",
+        "Charles Sury",
+        "Jules Hubert"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "赤煉瓦と白石のファサードはどの様式ですか？",
+      "options": [
+        "軍事新古典主義",
+        "エノー・ゴシック",
+        "フランドル新ルネサンス"
+      ],
+      "answer": 2
+    }
+  ],
+  "Prison de Mons": [
+    {
+      "question": "1863年から1867年に建てられた監獄が採用した、星形の建築モデルは何ですか？",
+      "options": [
+        "「Ducpétiaux」モデル",
+        "バシリカ平面",
+        "修道院の U 字形平面"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "1873年から1875年までここに収容されたフランスの詩人は誰ですか？",
+      "options": [
+        "Arthur Rimbaud",
+        "Paul Verlaine",
+        "Victor Hugo"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Verlaine がここに投獄された理由は何ですか？",
+      "options": [
+        "脱走のため",
+        "賭博の借金のため",
+        "Arthur Rimbaud を撃ったため"
+      ],
+      "answer": 2
+    }
+  ],
+  "Tour Valenciennoise": [
+    {
+      "question": "第二城壁のこの塔が建てられたのはいつですか？",
+      "options": [
+        "1358年から1359年にかけて",
+        "1661年から1672年にかけて",
+        "1825年"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "壁厚が4メートルに達しうるこの塔の直径はおよそどれほどですか？",
+      "options": [
+        "12メートル",
+        "87メートル",
+        "23メートル"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "今日、なぜ特に貴重なのですか？",
+      "options": [
+        "1818年の城壁解体後、中世囲壁の唯一の生き残りだから",
+        "49鐘のカリヨンを収めるから",
+        "モンス最古の宗教建築だから"
+      ],
+      "answer": 0
+    }
+  ],
+  "Pavillons Caserne Cavalerie": [
+    {
+      "question": "1838年から1841年に建てられたこの兵営は何と呼ばれていましたか？",
+      "options": [
+        "Guillaume 兵営",
+        "Léopold 兵営",
+        "Major Sabbe 兵営"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "何人の兵と何頭の馬を収容できましたか？",
+      "options": [
+        "最大1000人の兵と600頭の馬",
+        "兵士2000人のみ",
+        "600人の兵と1000頭の馬"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "1889年から特にどの連隊が駐屯しましたか？",
+      "options": [
+        "第11砲兵連隊のみ",
+        "1824年の徒歩猟兵",
+        "第2騎馬猟兵連隊"
+      ],
+      "answer": 2
+    }
+  ],
+  "Tank Sherman": [
+    {
+      "question": "Mons Memorial Museum の前にある記念戦車はどれですか？",
+      "options": [
+        "ドイツのティーガー戦車",
+        "M4A1 Sherman「In the Mood」",
+        "ルノー軽戦車"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "2019年8月の設置はどの出来事を記念していますか？",
+      "options": [
+        "1944年9月のモンス解放75周年",
+        "ワーテルローの戦い",
+        "1918年の休戦"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "オリジナルの Sherman「In the Mood」を指揮したのは誰ですか？",
+      "options": [
+        "Patton 将軍",
+        "先任曹長 Lafayette G. Pool",
+        "1940年のベルギー将校"
+      ],
+      "answer": 1
+    }
+  ],
+  "Machine a Eau": [
+    {
+      "question": "19世紀、モンスが水力工場の建設を決めた理由は何ですか？",
+      "options": [
+        "グランプラスの噴水だけに水を送るため",
+        "カリヨンを動かすため",
+        "コレラ流行の後、飲料水を供給するため"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "水の機械（1869-1871）を設計した技師と建築家は誰ですか？",
+      "options": [
+        "Jules Drion と Joseph Hubert",
+        "Louis Fuchs と Jules Hubert",
+        "Van De Polder と Charles Sury"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Trouille 川の力で、水はどこから汲み上げられていましたか？",
+      "options": [
+        "Marché aux Herbes の井戸",
+        "Spiennes の泉",
+        "Nimy-Blaton 運河"
+      ],
+      "answer": 1
+    }
+  ],
+  "Parc du Waux Hall": [
+    {
+      "question": "1862年から1864年にかけて、この5ヘクタールの公園を整備したのは誰ですか？",
+      "options": [
+        "Joseph Hubert",
+        "Louis Fuchs",
+        "Rémi de Puydt"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "モンス市が公共空間とするために取得したのはいつですか？",
+      "options": [
+        "1892年",
+        "1821年",
+        "1936年"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "公園の中央に立つ建物はどれですか？",
+      "options": [
+        "バロックの鐘楼",
+        "旧公益質屋（Mont-de-Piété）",
+        "Jules Hubert が設計した折衷様式のパヴィリオン"
+      ],
+      "answer": 2
+    }
+  ],
+  "Eglise Saint Nicolas": [
+    {
+      "question": "城壁外初の教区 Saint-Nicolas が設立されたのはいつですか？",
+      "options": [
+        "1224年",
+        "1664年",
+        "1588年"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "どの火災がゴシック教会を破壊し、鐘楼だけを残しましたか？",
+      "options": [
+        "1714年の Sainte-Élisabeth の火災",
+        "1664年の火災",
+        "1548年の火災"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "1664年から1702年のバロック再建を指揮した建築家は誰ですか？",
+      "options": [
+        "Mathieu de Layens",
+        "Claude-Joseph de Bettignies",
+        "Vincent Anthony"
+      ],
+      "answer": 2
+    }
+  ],
+  "Chapelle du Belian": [
+    {
+      "question": "1775年にこの礼拝堂を建てた建築家は誰ですか？",
+      "options": [
+        "Emmanuel-Henri Fonson",
+        "Nicolas de Brissy",
+        "Ouvertus"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "どの共同体の都市内避難所として用いられましたか？",
+      "options": [
+        "黒衣の修道女（Sœurs Noires）",
+        "Mesvin の Bélian 修道院の女子参事会員",
+        "訪問会修道女（Visitandines）"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "今日、展覧会に用いている機関はどれですか？",
+      "options": [
+        "BAM",
+        "国立文書館",
+        "モンス大学"
+      ],
+      "answer": 2
+    }
+  ],
+  "Marche aux Herbes": [
+    {
+      "question": "Marché aux Herbes 広場はしばしば何と呼ばれますか？",
+      "options": [
+        "小さな市場（Petit Marché）",
+        "大市場（Grand-Marché）",
+        "Place Saint-Jean"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "大市場とは別の食品市場がつくられたのはいつですか？",
+      "options": [
+        "1833年",
+        "1409年",
+        "1955年"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "1955年に移されるまで、そこにあった噴水はどれですか？",
+      "options": [
+        "Fontaine-Pilori",
+        "Ropieur",
+        "Rouge-Puits の噴水"
+      ],
+      "answer": 2
+    }
+  ],
+  "Maison Rue de la Couronne 20 22": [
+    {
+      "question": "この指定建造物は何世紀を物語っていますか？",
+      "options": [
+        "18世紀",
+        "16世紀",
+        "19世紀"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "ファサードは何ベイ、何層ですか？",
+      "options": [
+        "二層に三ベイ",
+        "三層に四ベイ",
+        "トゥルネ式の七ベイ"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Rue de la Couronne は歴史的に何をつないでいますか？",
+      "options": [
+        "駅と Waux-Hall",
+        "鐘楼と Trouille 川",
+        "グランプラスと Rue de Nimy"
+      ],
+      "answer": 2
+    }
+  ],
+  "Couvent des Soeurs Noires": [
+    {
+      "question": "これらの修道女が黒衣の修道女（Sœurs Noires）と呼ばれる理由は何ですか？",
+      "options": [
+        "黒いスカプラリオを着けていたから",
+        "修道院がブルーストーンで建てられていたから",
+        "葬儀だけを司っていたから"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "ベギン会院を去った後、町外れに定住したのは何年ですか？",
+      "options": [
+        "1248",
+        "1485",
+        "1498"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "彼女たちが特に行った慈善は何ですか？",
+      "options": [
+        "軍事教育",
+        "病人の看護。ペスト流行時も含む",
+        "Mundaneum の運営"
+      ],
+      "answer": 1
+    }
+  ],
+  "Carre des Arts": [
+    {
+      "question": "1824年から1827年に建てられた建物の当初の機能は何でしたか？",
+      "options": [
+        "徒歩猟兵の兵営、Guillaume 兵営と呼ばれる",
+        "音楽院",
+        "裁判所"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "軍事新古典主義建築を設計した建築家は誰ですか？",
+      "options": [
+        "Charles Sury",
+        "Rémi de Puydt",
+        "Jean-Baptiste Huriau"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "1993年以来、どの高等芸術学校が入っていますか？",
+      "options": [
+        "王立音楽院のみ",
+        "トゥルネのアカデミー",
+        "ESAPV。今日は ARTS² に統合"
+      ],
+      "answer": 2
+    }
+  ],
+  "Anciens Abattoirs": [
+    {
+      "question": "1854年から1855年にかけて複合施設を建てた建築家は誰ですか？",
+      "options": [
+        "Charles Sury",
+        "Louis Fuchs",
+        "Joseph Hubert"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "屠畜場が最終的に閉鎖されたのはいつですか？",
+      "options": [
+        "1948年",
+        "1984年1月1日",
+        "2006年"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "2006年の一般公開以来、指定地の用途は何ですか？",
+      "options": [
+        "警察署",
+        "青果市場",
+        "現代美術に充てられた文化センター"
+      ],
+      "answer": 2
+    }
+  ],
+  "Eglise Notre Dame de Messines": [
+    {
+      "question": "教会は当初何という名で知られていましたか？",
+      "options": [
+        "Saint-Nicolas en Bertaimont",
+        "Sainte-Élisabeth",
+        "Saint-Germain"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "17世紀初頭のどの出来事が、この地を巡礼地に変えましたか？",
+      "options": [
+        "鐘楼の建設",
+        "墓地で聖母マリアの絵が発見されたこと",
+        "レコレ会の到来のみ"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "現在の教会はどこにありますか？",
+      "options": [
+        "Place du Parc",
+        "Rue de Nimy",
+        "Rue de Bertaimont"
+      ],
+      "answer": 2
+    }
+  ],
+  "Maison Rue de Bertaimont 17": [
+    {
+      "question": "この家がワロン遺産に指定されたのはいつからですか？",
+      "options": [
+        "1988年8月12日",
+        "1955年11月10日",
+        "1709年"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "ブルーストーンによるモンス建築は何世紀の特徴ですか？",
+      "options": [
+        "15世紀",
+        "18世紀",
+        "20世紀"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "1620年から巨人のドゥカースで知られる、どの地区にありますか？",
+      "options": [
+        "Havré",
+        "Nimy",
+        "Messines"
+      ],
+      "answer": 2
+    }
+  ],
+  "Maison Rue de Bertaimont 33": [
+    {
+      "question": "この18世紀の家は何層、何ベイですか？",
+      "options": [
+        "三層三ベイ",
+        "二層に四ベイ",
+        "十二ベイ"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "右側のベイの特徴は何ですか？",
+      "options": [
+        "窓のない壁",
+        "やや後退し、より広く、扉とバルコニー付き開口がある",
+        "小鐘楼を載せる"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "この地区が特に経験した歴史的包囲はどれですか？",
+      "options": [
+        "1815年の包囲",
+        "1830年のオランダによる包囲",
+        "1691年のモンス包囲"
+      ],
+      "answer": 2
+    }
+  ],
+  "Casemates": [
+    {
+      "question": "1817年から1822年にかけて、ケーズマットはどの体制下で建設されましたか？",
+      "options": [
+        "ネーデルラント王国",
+        "フランス帝国",
+        "独立したベルギー国家"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "全体はいくつの壮大なヴォールトで構成されていますか？",
+      "options": [
+        "七",
+        "四十九",
+        "十二"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "本来どのような用途で、実際にはそう使われませんでしたか？",
+      "options": [
+        "包囲時に最大2000人の兵士を収容する",
+        "屠畜場とする",
+        "Mundaneum を受け入れる"
+      ],
+      "answer": 0
+    }
+  ],
+  "Bonne Maison de Bouzanton": [
+    {
+      "question": "1562年、Hôtel de Bavière にこの孤児院を創設したのは誰ですか？",
+      "options": [
+        "Anne de Crécy",
+        "Louise de Bouzanton",
+        "Isabeau d'Antoing"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "施設は誰のために設けられましたか？",
+      "options": [
+        "モンスの貧しい子どもたち",
+        "Sainte-Waudru の女子参事会員",
+        "負傷兵"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "1662年に男子棟を設けて事業を継いだ姪は誰ですか？",
+      "options": [
+        "Marguerite de Constantinople",
+        "Jeanne de Chantal",
+        "Anne de Crécy"
+      ],
+      "answer": 2
+    }
+  ],
+  "Chapelle du Beguinage": [
+    {
+      "question": "1248年にこの礼拝堂を創設したのは誰ですか？",
+      "options": [
+        "Marguerite de Constantinople",
+        "Sainte Waudru",
+        "François de Sales"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Trouille 川左岸の、どのベギン会院の一部でしたか？",
+      "options": [
+        "Nimy のベギン会院",
+        "Cantimpret のベギン会院",
+        "黒衣の修道女の修道院"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "1549年から1551年にかけて、どの様式で再建されましたか？",
+      "options": [
+        "バロック",
+        "新古典主義",
+        "エノー・ゴシック"
+      ],
+      "answer": 2
+    }
+  ],
+  "Tour du Val des Ecoliers": [
+    {
+      "question": "修道院教会のこの塔が建てられたのはいつですか？",
+      "options": [
+        "1739年から1743年にかけて",
+        "1252年",
+        "1892年"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "その建築家は誰ですか？",
+      "options": [
+        "Vincent Anthony",
+        "Nicolas de Brissy",
+        "Louis Ledoux"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "1252年創設、1796年廃止の修道院に残るものは何ですか？",
+      "options": [
+        "修道院教会全体",
+        "回廊の全体",
+        "この塔。1876年の解体後の最後の遺構"
+      ],
+      "answer": 2
+    }
+  ],
+  "Gare de Mons": [
+    {
+      "question": "現在の橋型駅を設計したのは誰ですか？",
+      "options": [
+        "Santiago Calatrava",
+        "René Panis",
+        "Joseph Hubert"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "モンス最初の駅が開業したのは何年ですか？",
+      "options": [
+        "1874",
+        "1841",
+        "1952"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "1952年落成、2013年解体の近代駅を設計した建築家は誰ですか？",
+      "options": [
+        "Santiago Calatrava",
+        "Charles Sury",
+        "René Panis"
+      ],
+      "answer": 2
+    }
+  ],
+  "Statue Saint Georges": [
+    {
+      "question": "2024年に除幕されたこのブロンズ像を制作したフランスの芸術家は誰ですか？",
+      "options": [
+        "Gérard Garouste",
+        "Xavier Veilhan",
+        "David Mesguich"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "どこにありますか？",
+      "options": [
+        "Place des Congrès、カラトラヴァ駅の裏",
+        "市庁舎の足元",
+        "Jardin du Mayeur の中"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "どのパブリックアート計画に位置づけられていますか？",
+      "options": [
+        "Mons 2015 のみ",
+        "Europa Nostra",
+        "「L'Art habite la Ville」"
+      ],
+      "answer": 2
+    }
+  ],
+  "Lucie et les Papillons": [
+    {
+      "question": "2019年に設置されたこの記念彫刻を制作したのは誰ですか？",
+      "options": [
+        "David Mesguich",
+        "Xavier Veilhan",
+        "Léon Gobert"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "蝶と折れた鋏は特に何を象徴していますか？",
+      "options": [
+        "軍事的勝利",
+        "芽生える愛と感情の脆さ",
+        "モンスの商業"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "ステンレス鋼の作品の高さはおよそどれほどですか？",
+      "options": [
+        "3メートル",
+        "87メートル",
+        "7メートル超"
+      ],
+      "answer": 2
+    }
+  ],
+  "Collegiale Sainte Waudru": [
+    {
+      "question": "1450年に着工したこの参事会聖堂はどの様式ですか？",
+      "options": [
+        "ブラバント・ゴシック",
+        "バロック",
+        "ライン地方のロマネスク"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "建物の長さはどれほどですか？",
+      "options": [
+        "87メートル",
+        "32メートル",
+        "115メートル"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "予定高190メートルの塔が未完に終わった理由は何ですか？",
+      "options": [
+        "1691年、屋根の高さで中断された",
+        "1664年の火災で破壊された",
+        "UNESCO が禁じた"
+      ],
+      "answer": 0
+    }
+  ],
+  "Tresors de Sainte Waudru": [
+    {
+      "question": "7世紀に遡る、聖女 Waudru の私物として特に収蔵されているものは何ですか？",
+      "options": [
+        "La Bancloque",
+        "指輪と「Benoîte Affique」と呼ばれる留め金",
+        "金羊毛勲章の首輪（Toison d'Or）"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "宝物館に展示される経帷子は、ほかに何を覆っていますか？",
+      "options": [
+        "鐘楼の図面",
+        "Mundaneum の文書",
+        "都市の創設者である聖女の遺骨"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "1793年のどの出来事が宝物に損失をもたらしましたか？",
+      "options": [
+        "第一次フランス占領",
+        "参事会聖堂の火災",
+        "1691年の包囲"
+      ],
+      "answer": 0
+    }
+  ],
+  "Le Car d Or": [
+    {
+      "question": "2005年に UNESCO 登録された、Car d'Or が中心となる祝祭はどれですか？",
+      "options": [
+        "Messines の ducasse",
+        "モンスの Ducasse、通称 Doudou",
+        "Havré の縁日"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "1349年のどの疫病が、聖女 Waudru の聖遺物行列の起源ですか？",
+      "options": [
+        "コレラ",
+        "スペインかぜ",
+        "ペスト"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "1779年から1782年に制作された現行の車は、どの様式で設計されましたか？",
+      "options": [
+        "Louis XVI",
+        "火炎ゴシック",
+        "アール・ヌーヴォー"
+      ],
+      "answer": 0
+    }
+  ],
+  "Porte Rue Courte": [
+    {
+      "question": "2番地に再利用されたこのゴシックの門はどこから来ていますか？",
+      "options": [
+        "市庁舎",
+        "Val des Écoliers 旧修道院",
+        "Saint-Germain 参事会聖堂"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "18世紀のトゥルネ式の家に組み込まれる前、何世紀のものですか？",
+      "options": [
+        "11世紀",
+        "19世紀",
+        "16世紀"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "リンテルを飾る、火炎ゴシックに典型的な装飾は何ですか？",
+      "options": [
+        "花飾りと鉤飾りを伴うアコレードアーチ",
+        "三角形のペディメント",
+        "牛の目窓（œil-de-bœuf）"
+      ],
+      "answer": 0
+    }
+  ],
+  "Maison Espagnole": [
+    {
+      "question": "1548年のどの火災の後、Rue des Clercs のこの家は再建されましたか？",
+      "options": [
+        "1714年の Sainte-Élisabeth の火災",
+        "モンスの大火",
+        "1869年の王立劇場の火災"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "旧ネーデルラントのこのゴシック建築はしばしば何と呼ばれますか？",
+      "options": [
+        "スヘルデ建築",
+        "ブラバント・ゴシックのみ",
+        "Louis XV 様式"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "屋根を特に特徴づける要素は何ですか？",
+      "options": [
+        "バロックのドーム",
+        "スレートのマンサード屋根",
+        "階段状の破風、いわゆる雀の段（pas de moineau）"
+      ],
+      "answer": 2
+    }
+  ],
+  "Chapelle Saint Calixte": [
+    {
+      "question": "教皇 Calixte Ier の聖遺物のため、1051年にこの礼拝堂を建てさせたのは誰ですか？",
+      "options": [
+        "Baudouin IV",
+        "Richilde 伯爵夫人",
+        "Jean d'Avesnes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "モンスの遺産において、なぜ特に重要なのですか？",
+      "options": [
+        "市内に残る最古の宗教建築だから",
+        "カリヨンを収めるから",
+        "ベルギー唯一のバロック鐘楼だから"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "伯の城に連なるこの建物は、どの石で造られていますか？",
+      "options": [
+        "Soignies 石のみ",
+        "カララ大理石",
+        "Bray の砂岩"
+      ],
+      "answer": 2
+    }
+  ],
+  "Ancien Chateau Comtal": [
+    {
+      "question": "「建設者」と呼ばれるどの伯が、11世紀にこの丘に要塞を築かせましたか？",
+      "options": [
+        "Jean d'Avesnes",
+        "Baudouin IV",
+        "Charles Quint"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "城のどの遺構が今も見えますか？",
+      "options": [
+        "城郭囲壁、César 塔、Saint-Calixte 礼拝堂",
+        "伯の宮殿全体",
+        "高さ87メートルの天守"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "エノー伯領にとって、城は何の役割を果たしましたか？",
+      "options": [
+        "市場のみ",
+        "水運駅",
+        "伯の居所かつ行政の中心"
+      ],
+      "answer": 2
+    }
+  ],
+  "Tour Cesar": [
+    {
+      "question": "César 塔は、どの中世建築群の数少ない遺構の一つですか？",
+      "options": [
+        "オランダのケーズマット",
+        "モンス旧伯城",
+        "Léopold 兵営"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "おそらくいつ建てられましたか？",
+      "options": [
+        "13世紀または14世紀、Jean d'Avesnes の治世",
+        "1661年",
+        "1841年"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "今日、城の公園でなお見えるものは何ですか？",
+      "options": [
+        "鐘楼までの完全な塔",
+        "ルネサンスの小鐘楼",
+        "19世紀に整備された公園に組み込まれた塔の基部"
+      ],
+      "answer": 2
+    }
+  ],
+  "Beffroi": [
+    {
+      "question": "モンスの鐘楼がベルギーで唯一無二なのはなぜですか？",
+      "options": [
+        "国内唯一のバロック様式の鐘楼だから",
+        "最古の宗教建築だから",
+        "鐘を一度も持たなかったから"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "高さはどれほどで、モンスの人々は何と呼んでいますか？",
+      "options": [
+        "115メートル；Lumeçon",
+        "87メートル；El Catiau",
+        "23メートル；Bancloque"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "カリヨンは何口の鐘を数えますか？",
+      "options": [
+        "十二",
+        "四",
+        "49"
+      ],
+      "answer": 2
+    }
+  ],
+  "Square": [
+    {
+      "question": "Square Saint-Germain は、どの建物の遺構の上に整備されましたか？",
+      "options": [
+        "フランス革命で破壊された旧 Saint-Germain 参事会聖堂",
+        "伯の城",
+        "Guillaume 兵営"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "1887年にこの公共庭園をつくった建築家は誰ですか？",
+      "options": [
+        "Louis Ledoux と Vincent Anthony",
+        "Paul Saintenoy と Henri Sauvage",
+        "Joseph Hubert と Louis Fuchs"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "記念噴水は誰に捧げられていますか？",
+      "options": [
+        "1830年のモンス義勇兵",
+        "聖女 Waudru",
+        "Paul Verlaine"
+      ],
+      "answer": 0
+    }
+  ],
+  "Pilori": [
+    {
+      "question": "16世紀の井戸に代わって Fontaine-Pilori が建てられたのは何年ですか？",
+      "options": [
+        "1450",
+        "1779",
+        "1937"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "どの様式、どの石ですか？",
+      "options": [
+        "Louis XVI、Écaussinnes のブルーストーン",
+        "ゴシック、Bray の砂岩",
+        "バロック、煉瓦"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "装飾を超えて、当時の機能は何でしたか？",
+      "options": [
+        "司法のさらし台としてのみ用いる",
+        "カリヨンを載せる",
+        "水路で水を送る給水点として用いる"
+      ],
+      "answer": 2
+    }
+  ],
+  "Lola Goies Rue du Miroir": [
+    {
+      "question": "このフレスコ画で、夜に街を歩く主なモチーフは何ですか？",
+      "options": [
+        "馬に乗った聖ゲオルギウス",
+        "モンスを横切るドラゴン",
+        "メッシーヌの巨人たち"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "このフレスコ画の作者ロラ・ゴイエはどの学校で学びましたか？",
+      "options": [
+        "モンスの美術大学ARTS²",
+        "ブリュッセルのラ・カンブレ",
+        "リエージュの王立美術アカデミー"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "ドラゴンのモチーフは、通りの名前を超えて、どの地域のテーマと対話していますか？",
+      "options": [
+        "ムンダネウムと十進分類法",
+        "ベギナージュの週末市場",
+        "モンスのデュカスと鏡のテーマ"
+      ],
+      "answer": 2
+    }
+  ],
+  "Eva Badalamenti Passage de l'ilot": [
+    {
+      "question": "このフレスコ画は、Îlotの通路で何を変えていますか？",
+      "options": [
+        "古い井戸を記念碑的な噴水に",
+        "鉄道トンネルを地下ギャラリーに",
+        "単なる通過地点を視覚的な停留所に"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "エヴァ・バダラメンティはこの作品をどのような状況で制作しましたか？",
+      "options": [
+        "ファーム・プロダクションの招待アーティストとして",
+        "ARTS²の学生として",
+        "ムンダネウムのレジデンス中に"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "このフレスコ画は正確にどこにありますか？",
+      "options": [
+        "Îlotの通路に",
+        "モン・デュ・パルク通り",
+        "魚市場で"
+      ],
+      "answer": 0
+    }
+  ],
+  "Laurence Vray Instant suspendu": [
+    {
+      "question": "「インスタント・サスペンド」では、どのようなモチーフが主に描かれていますか？",
+      "options": [
+        "親密さ、水、軽やかさ",
+        "ルメソンの戦い",
+        "タロットのカード"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "ローレンス・ヴレイはここでどのようなメディウムを使用していますか？",
+      "options": [
+        "キャンバスへのシルクスクリーン印刷",
+        "写真用ステンシル",
+        "写真"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "このモントワーズのアーティストは、作品をどこに設置しましたか？",
+      "options": [
+        "バルベレ通り、刑務所の壁に",
+        "エンゲン通り19番地",
+        "レオポルド広場"
+      ],
+      "answer": 1
+    }
+  ],
+  "Atelier Pica Pica Panorama": [
+    {
+      "question": "アトリエ・ピカ・ピカはこのパノラマで何を探求していますか？",
+      "options": [
+        "カール5世の帝国の肖像",
+        "街に属する形と影",
+        "コイの動物図鑑"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "アトリエ・ピカ・ピカのトリオは誰で構成されていますか？",
+      "options": [
+        "ボリス・マゴテオ、マヌエル・ファルカタ、ジェローム・デギヴ",
+        "ジェローム・メイネンとアントワーヌ・デタイル",
+        "ドローとコントラ"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "この作品では通路はどのように設計されていますか？",
+      "options": [
+        "ムンダネウムのアーカイブ室のように",
+        "開いた鳥かごのように",
+        "小さな壁面劇場のように"
+      ],
+      "answer": 2
+    }
+  ],
+  "Hell'O Folks": [
+    {
+      "question": "このヘル・オーのフレスコ画を特徴づける視覚的な混合は何ですか？",
+      "options": [
+        "クラシックなグラフィティの文字のみ",
+        "ヴァン・イセンダイク風のアカデミックな肖像",
+        "神秘的・エソテリックなシンボルとカートゥーンや漫画のキャラクターの組み合わせ"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "この作品のために、グラフィティ出身のデュオは何を省略していますか？",
+      "options": [
+        "絵画とインク",
+        "文字を省き、紙、絵画、インクでの描画を優先",
+        "フォークロアへの全ての言及"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "この作品はどのモントワーズのテーマにも基づいていますか？",
+      "options": [
+        "ドゥドゥ",
+        "バロック様式の鐘楼",
+        "国際十進分類法"
+      ],
+      "answer": 0
+    }
+  ],
+  "Kobra Torre de Saber": [
+    {
+      "question": "「トーレ・デ・サベール」というタイトルは、画像にどのような存在感を与えていますか？",
+      "options": [
+        "ほぼ象徴的な知識の塔の存在",
+        "ルメソンのドラゴンの存在",
+        "17世紀の静物画の存在"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "コブラはここでどのようなタイプの構成を優先していますか？",
+      "options": [
+        "小型の写真用ステンシル",
+        "光る言葉のインスタレーション",
+        "鮮やかな色とダイナミックなラインのモニュメンタルなフォーマット"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "このフレスコ画はどの通りに描かれましたか？",
+      "options": [
+        "ロシニョール通り",
+        "モン・デュ・パルク通り",
+        "シャルトリエ通り"
+      ],
+      "answer": 1
+    }
+  ],
+  "Olivier Sonck Ivre d'histoires": [
+    {
+      "question": "「Ivre d'histoires」は刑務所の壁に何を混ぜていますか？",
+      "options": [
+        "帝国の肖像のみ",
+        "画像、テキスト、記憶",
+        "照らされた鯉"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "このフレスコ画を育む物語はどこから来たのですか？",
+      "options": [
+        "受刑者とその後地域住民との思い出に関するワークショップから",
+        "ローラン・ド・ラスの原稿から",
+        "ムンダネウムのアーカイブから"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "このフレスコ画はどこで制作されましたか？",
+      "options": [
+        "ニミ通り126番地",
+        "サン・ジェルマン広場",
+        "バルベレ通りの刑務所の壁の上"
+      ],
+      "answer": 2
+    }
+  ],
+  "Arts2 Tunnel de la Paix": [
+    {
+      "question": "学生たちはこのトンネルのテーマとして何を選びましたか？",
+      "options": [
+        "タロット",
+        "松明を持った行進",
+        "平和"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "この20人のARTS²の学生たちを誰が伴いましたか？",
+      "options": [
+        "アンドレア・ラヴォ・マットーニ",
+        "モニュメンタルなフレスコ画で知られるピエト・ロドリゲス",
+        "ロバート・モンゴメリー"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "このフレスコ画のおかげでクロワ・ルージュ通りのトンネルはどうなりますか？",
+      "options": [
+        "通行の場が反省の空間に変わる",
+        "サン・ワードル大聖堂のレプリカ",
+        "屋根付き市場"
+      ],
+      "answer": 0
+    }
+  ],
+  "Zesar Bahamonte Saint Georges": [
+    {
+      "question": "Zësar Bahamonteは都市景観にどのような人物を取り入れていますか？",
+      "options": [
+        "聖ゲオルギウス",
+        "聖ワードルと彼女の娘たち",
+        "ポール・オトレ"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "この壁画アーティストはどこから来ましたか？",
+      "options": [
+        "ポルトガル",
+        "ロシア",
+        "スペイン"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "このフレスコ画はどこにありますか？",
+      "options": [
+        "ロシニョール通り",
+        "グラン・ジュール29番地",
+        "シャルル・カン通り"
+      ],
+      "answer": 1
+    }
+  ],
+  "Andrea Ravo Mattoni Rue de Nimy 126": [
+    {
+      "question": "「キャンドル」と呼ばれることもあるシーンをどのような光が演出していますか？",
+      "options": [
+        "広告用ネオン",
+        "松明を持った行進の明暗の光",
+        "鯉の光"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "アンドレア・ラヴォ・マットーニは壁にどのように介入しますか？",
+      "options": [
+        "下書きなしで、直接スプレーで",
+        "写真のステンシルのみ",
+        "切り取った紙のコラージュ"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "このユニークな構成を育むのはどの巨匠ですか？",
+      "options": [
+        "アント・カルト、ルイ・ビュイセレ、アントワーヌ・クレス",
+        "ルーベンス、メムリンク、ファン・エイク",
+        "ベラスケス、カラヴァッジョ、ジョン・ウィリアム・ウォーターハウス"
+      ],
+      "answer": 2
+    }
+  ],
+  "Pierre Liebaert Je crois aux nuits": [
+    {
+      "question": "「Je crois aux nuits」は何を見つめるように誘いますか？",
+      "options": [
+        "ファサードの上部にあるタロットカード",
+        "ケツァールとメキシコの花々",
+        "影の中に残るもの：古い動作、行列、カーニバルの人物"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "ピエール・リーバールの主な実践は何ですか？",
+      "options": [
+        "グラフィティのレタリング",
+        "写真",
+        "モニュメンタルな彫刻"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "リーバールはどのようなテーマにしばしば取り組みますか？",
+      "options": [
+        "内面的に体験したテーマ、長い時間にわたって",
+        "広告の依頼のみ",
+        "ムンダネウムのカード"
+      ],
+      "answer": 0
+    }
+  ],
+  "Godmess Third Rua Storytelling": [
+    {
+      "question": "GodmessとThird Ruaはどの出発点を選びましたか？",
+      "options": [
+        "モンスの子供たちの絵",
+        "シャルル・カンの肖像",
+        "伝統的なガヨール"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "この二人のアーティストはどこから来ましたか？",
+      "options": [
+        "スイス",
+        "アメリカ合衆国",
+        "ポルトガル"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "このフレスコ画はどこに描かれましたか？",
+      "options": [
+        "カプチン通り",
+        "ニミ通りの小市場の中庭で",
+        "ベギナージュ広場"
+      ],
+      "answer": 1
+    }
+  ],
+  "Noir Artist Don't sleep on your dream": [
+    {
+      "question": "このフレスコ画にはどのような世界が交差していますか？",
+      "options": [
+        "ルムソンの民俗のみ",
+        "広告、ポップアート、バロックアート、カリグラフィー",
+        "17世紀の静物画"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "ノワールアーティストの本名は何ですか？",
+      "options": [
+        "リュシアン・ジルソン",
+        "マッテオ・カポビアンコ",
+        "ファビオ・ロペス"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "このフレスコ画はモンスのどの通りにありますか？",
+      "options": [
+        "アンギエン通り",
+        "バルベレ通り",
+        "ニミ通り"
+      ],
+      "answer": 2
+    }
+  ],
+  "Andrea Ravo Mattoni Charles Quint": [
+    {
+      "question": "アンドレア・ラヴォ・マットーニはここでどの画像を再解釈していますか？",
+      "options": [
+        "ルムソンのドラゴン",
+        "日曜日の市場",
+        "シャルル・ケントの皇帝肖像"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "アーティストは古典的な作品を壁に移すことで何を目指していますか？",
+      "options": [
+        "コレギアルをプライベートギャラリーに置き換えること",
+        "過去と現在を結びつけ、博物館を通りに開くこと",
+        "歴史的な参照をすべて消すこと"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "このフレスコ画はどこにありますか？",
+      "options": [
+        "シャルル・ケント大通り18",
+        "シャピトル通り",
+        "ルーズベルト広場"
+      ],
+      "answer": 0
+    }
+  ],
+  "Zesar Bahamonte Le Dragon": [
+    {
+      "question": "Zësarはモンスの想像力の中心的などの人物を再解釈していますか？",
+      "options": [
+        "ルムソンのドラゴン",
+        "バロックの鐘楼",
+        "グラン・ガルドの猿"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "アーティストはどのような地理的な経路でモンスにたどり着きましたか？",
+      "options": [
+        "ニューヨークからロンドン",
+        "リスボンからポルト",
+        "セビリア、バルセロナ、そしてモンテビデオ"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "ドラゴンはどの通りに描かれましたか？",
+      "options": [
+        "グラン・ジュール通り",
+        "ロッシニョール通り",
+        "ミロワール通り"
+      ],
+      "answer": 1
+    }
+  ],
+  "Leonidas Giannakopoulos Global City": [
+    {
+      "question": "この構成にインスピレーションを与えたモンスの機関は何ですか？",
+      "options": [
+        "サント・ヴォードル大聖堂",
+        "ムンダネウムとその創設者のアイデア",
+        "ゴシック市庁舎"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "「グローバルシティ」というタイトルは何を要約していますか？",
+      "options": [
+        "モンスを世界に開かれた想像力と対話させる野望",
+        "グランプラスの看板の目録",
+        "聖ジョージの唯一の戦いへのオマージュ"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "アーティストはポール・オトレのどのビジョンを再現していますか？",
+      "options": [
+        "中世のハーブ市場のビジョン",
+        "モデル刑務所のビジョン",
+        "知識と協力を広める世界都市のビジョン"
+      ],
+      "answer": 2
+    }
+  ],
+  "Stelios Pupet Harmonizing Mons": [
+    {
+      "question": "ステリオス・ピュペットはどのように構成を作り上げていますか？",
+      "options": [
+        "ストライプの平面のみで",
+        "光る言葉によって",
+        "具象と幾何学を組み合わせて"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "「ハーモナイジング・モンス」というタイトルは何を表していますか？",
+      "options": [
+        "城壁の目録",
+        "形、リズム、地域の記憶の調和",
+        "聖人とドラゴンの戦い"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "この作品はどのモンスの作曲家にオマージュを捧げていますか？",
+      "options": [
+        "アントワネット・クレス",
+        "ローラン・ド・ラッスス",
+        "ジャック・ブレル"
+      ],
+      "answer": 0
+    }
+  ],
+  "Jana et JS Le couple de la rue Verte": [
+    {
+      "question": "シーンを整理する建築的なモチーフは何ですか？",
+      "options": [
+        "内と外の間の開口部である窓",
+        "知識の塔",
+        "閉じられた鳥かご"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "ジャナとJSは2006年からどの技術を使用していますか？",
+      "options": [
+        "下絵なしのスプレー",
+        "型なしの拡大写真",
+        "自分たちの写真からのステンシル"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "このフレスコ画はどの都市の精神に調和していますか？",
+      "options": [
+        "シャルル・ケントの帝国主義的古典主義",
+        "モンスのシュルレアリスムの精神",
+        "城壁だけの都市計画"
+      ],
+      "answer": 1
+    }
+  ],
+  "Ufocinque Passeggiando nella Storia": [
+    {
+      "question": "Ufocinqueはどの都市のトレースに基づいていますか？",
+      "options": [
+        "リュムソンのグランプラス",
+        "バランシエンヌの塔近くの旧城壁のトレース",
+        "ギュスターヴ・ジャコブスの庭"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Ufocinqueの本名は何で、主に何をしていますか？",
+      "options": [
+        "マッテオ・カポビアンコ；複数のレベルの重なり",
+        "リュシアン・ジルソン；広告書道",
+        "クリスチャン・レベッキ；地面の絵画"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "「Passeggiando nella Storia」というタイトルは何を意味しますか？",
+      "options": [
+        "タロットの寓話",
+        "ガヨールの目録",
+        "歴史を歩くための招待"
+      ],
+      "answer": 2
+    }
+  ],
+  "Dussart Myncke True story Marche aux herbes": [
+    {
+      "question": "この壁の塞がれた窓に何が見えますか？",
+      "options": [
+        "モンスの指導者たちの肖像",
+        "1950年代のハリウッド映画のコミックやポスター",
+        "照明のある鯉の池"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "二人の学生はどの都市の詳細をフィクションの舞台に変えていますか？",
+      "options": [
+        "モンスの多くの塞がれた窓",
+        "鐘楼の階段",
+        "リュムソンの石畳"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "「True story」というタイトルは壁を見ることをどのように要求していますか？",
+      "options": [
+        "地籍図のように",
+        "静物画のように",
+        "現実と大衆の想像の間で物語るファサードのように"
+      ],
+      "answer": 2
+    }
+  ],
+  "Levalet L'homme des cavernes": [
+    {
+      "question": "Levaletのキャラクターは建物とどのように対話していますか？",
+      "options": [
+        "彼らは開口部とは無関係に、ストライプ模様で描かれています",
+        "彼らは地面に貼り付けられ、カーペットのようです",
+        "彼らは中国インクで描かれ、窓ごとに挿入されています"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "このシーンはあなたの目の前にどのようなズレを生じさせていますか？",
+      "options": [
+        "現代の人間が自らの起源と出会う、リアリズムとシュルレアリスムの間で",
+        "聖ジョージとドラゴンの戦い",
+        "18世紀のハーブ市場"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "ウダン通りのファサードはどうなりますか？",
+      "options": [
+        "ムンダネウムの地図",
+        "物語として読むべきナラティブの装飾",
+        "閉じられた鳥かご"
+      ],
+      "answer": 1
+    }
+  ],
+  "Farm Prod Rue de la Halle": [
+    {
+      "question": "ファサードの上部にはどのような像が支配していますか？",
+      "options": [
+        "聖ワードルと彼女の娘たち",
+        "アダムとエバ",
+        "キュベレとポリアード"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "他のシンボルの中で、どのタロットカードが下部に認識されますか？",
+      "options": [
+        "皇帝、死、世界、そして節制",
+        "バンクロック、金の車、そしてロピュール",
+        "審判、隠者、そして運命の輪のみ"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "壁を上から下に読むと、どのような視覚的旅が提案されますか？",
+      "options": [
+        "グランプラスの職業のインベントリー",
+        "オトレの十進分類法",
+        "タロット、自己認識、そして時間の経過"
+      ],
+      "answer": 2
+    }
+  ],
+  "Hell'O Rue de la Halle": [
+    {
+      "question": "壁は何枚のパネルに分かれていますか？",
+      "options": [
+        "四つ",
+        "九つ",
+        "十六"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "このシュルレアリスムの宇宙の中心に戻るモチーフは何ですか？",
+      "options": [
+        "目",
+        "鐘楼",
+        "ケツァール"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "グラフィティの文字を超えて、絵の中で何を観察する必要がありますか？",
+      "options": [
+        "帝国の肖像のみ",
+        "想像上の存在、パステル、そして一つの読み方を強制されないアセンブリ",
+        "文献リスト"
+      ],
+      "answer": 1
+    }
+  ],
+  "Ilan Walbrecq Georges Cuvelier": [
+    {
+      "question": "どのモントワ人の肖像が注目されていますか？",
+      "options": [
+        "ジョルジュ・キュヴェリエ、星付きシェフ",
+        "ルイ・ビュイセレ、画家",
+        "シャルル・マラペール、天文学者"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "この画像はどの屋外ギャラリーに属していますか？",
+      "options": [
+        "マーケット・オー・エルブの壁で塞がれた窓",
+        "アート²のデッサンアトリエの「有名なモントワ人」シリーズ",
+        "アルクブジエ通りのゲイオル"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "この肖像を、コースの先にあるルイ・ビュイセレの肖像とどう区別しますか？",
+      "options": [
+        "ここは料理人で、ビュイセレは画家です",
+        "ここはドラゴンで、ビュイセレはポピーです",
+        "二つは同じ顔を逆さまに示しています"
+      ],
+      "answer": 0
+    }
+  ],
+  "Cedric Le Borgne La riviere": [
+    {
+      "question": "マーケット・オー・ポワソンに吊るされているものは何ですか？",
+      "options": [
+        "ルメソンのドラゴン",
+        "空中を泳いでいるように見える二匹の巨大なコイ",
+        "窓の前のカップル"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "これらの彫刻の光はどこから来ていますか？",
+      "options": [
+        "鯉の内部から",
+        "内部の光源なしで、ただの斜めの太陽光から",
+        "鐘楼に置かれたプロジェクターから"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "このインスタレーションは、前に立つとどのようなスケール効果を生み出しますか？",
+      "options": [
+        "それは大聖堂をミニチュア化します",
+        "それはリビングルームの水族館を再現します",
+        "それは通行人を拡大された自然に対して自分の尺度に戻します"
+      ],
+      "answer": 2
+    }
+  ],
+  "Taquen Bouquet of memory and hope": [
+    {
+      "question": "シャルティエ通りの壁にある花は何ですか？",
+      "options": [
+        "サント・ウォードルのユリ",
+        "ポピー",
+        "グランプラスのバラ"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "このブーケには、花の模様を超えて何を読むべきですか？",
+      "options": [
+        "重い思い出と同時に希望の約束",
+        "ファームプロッドのタロットへのオマージュ",
+        "食の職業の紋章"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "ポピーはその場所のどのような過去を可視化しますか？",
+      "options": [
+        "ルメソンの年次戦闘",
+        "オトレのファイルの分類",
+        "爆弾が落ちた場所；今はポピーが育っています"
+      ],
+      "answer": 2
+    }
+  ],
+  "Dussart Myncke True story Croix Place": [
+    {
+      "question": "「True story」というタイトルは、ファサードの前で何を求めていますか？",
+      "options": [
+        "壁を物語として読むこと、結末を与えられずに",
+        "ゴシックアーチの数を数えること",
+        "タロットの上にアダムとエバを見つけること"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "この「True story」は、マルシェ・オー・エルブのものと何が異なりますか？",
+      "options": [
+        "それはゼサール・バハモンテによって署名されています",
+        "それは50年代のポスターで塞がれた窓を列挙するのではなく、通り全体に解釈すべきシーンを与えます",
+        "それは二匹のコイを表しています"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "絵画はあなたの目の前でどのような乖離を保っていますか？",
+      "options": [
+        "カタログとアーカイブの間",
+        "都市計画と地籍の間",
+        "通りの現実とアーティストの視点の間"
+      ],
+      "answer": 2
+    }
+  ],
+  "Eva Badalamenti Louis Buisseret": [
+    {
+      "question": "壁はどのような顔を見せていますか？",
+      "options": [
+        "ジョルジュ・キュヴェリエ、星付きシェフ",
+        "ルイ・ビュイセレ、モンスの画家",
+        "ローラン・ド・ラッス、作曲家"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "この肖像は視覚的にどのシリーズに属していますか？",
+      "options": [
+        "「有名なモンスの人々」、Arts²の生徒たちによって描かれた地元の人物のギャラリー",
+        "True storyのコミックウィンドウ",
+        "Hell'Oの16枚のパネル"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "もしアール・ド・ラ・アレから来た場合、何を比較する必要がありますか？",
+      "options": [
+        "あちらに料理人、こちらに画家：二つの職業、一つのオープンギャラリー",
+        "二つの同じドラゴン",
+        "二つの閉じた鳥かご"
+      ],
+      "answer": 0
+    }
+  ],
+  "Thomas Istasse La lune de Malapert": [
+    {
+      "question": "構図はどこに視線を向けさせますか？",
+      "options": [
+        "グランプラスの地下室へ",
+        "上へ、光に満ちた画像の中で",
+        "リュムソンの石畳へ"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "「マラペール」という名前は、壁を観察した後に何を重ねますか？",
+      "options": [
+        "モンスの通りと月のクレーター、空を観察していた学者へのオマージュ",
+        "セビリアの地区と一つのガヨール",
+        "鉄道トンネルとムンダネウム"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "この作品は都市と空間の間にどのような関係を築いていますか？",
+      "options": [
+        "それは城壁を再構成します",
+        "それはオトレの知識を分類します",
+        "それはモンスの土地を空に結びつけ、地元の記憶を離れません"
+      ],
+      "answer": 2
+    }
+  ],
+  "Andrea Buglisi La Gayole": [
+    {
+      "question": "建物は目の前でどのように変わりますか？",
+      "options": [
+        "鳥が自由に飛び回るオープンな鳥かご",
+        "知識の塔",
+        "鯉の水槽"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Buglisiは最初に通行人にどのような視覚的トリックを仕掛けますか？",
+      "options": [
+        "グラフィティの文字だけ",
+        "魅力的な色合い、そしてより不安を感じさせるメッセージ、皮肉を含んでいる",
+        "松明を持った退却の明暗"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "「La Gayole」というタイトルは、画像の中でどのような民衆の記憶を呼び起こしますか？",
+      "options": [
+        "モンスの伝統的な鳥かご",
+        "十進分類法",
+        "聖ジョージの戦い"
+      ],
+      "answer": 0
+    }
+  ],
+  "Oli-B L'escapade": [
+    {
+      "question": "壁に何が混ざり合っているのが見えますか？",
+      "options": [
+        "グリザイユの皇帝の肖像",
+        "抽象的かつ具象的な形、鮮やかな色、動きの感覚",
+        "50年代のポスターでいっぱいの窓"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "形は庭に対してどのように振る舞いますか？",
+      "options": [
+        "植物と共に呼吸しているように見える",
+        "庭を無視し、鐘楼を模倣している",
+        "城壁の平面を再現している"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "画像は公共空間にどのようなトーンを与えていますか？",
+      "options": [
+        "軍事アーカイブ",
+        "カラヴァッジョ風の明暗",
+        "夢のようで明るいビジョン、都市の鉱物よりも柔らかい"
+      ],
+      "answer": 2
+    }
+  ],
+  "Blancbec Le monstrueux": [
+    {
+      "question": "壁のルー・ダヴレには何が描かれていますか？",
+      "options": [
+        "ムンダネウムのカード",
+        "想像上の動物や植物",
+        "作曲家の肖像"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "幾何学的形状と非常に鮮やかな音階はどこから来たのですか？",
+      "options": [
+        "19世紀の歴史画から",
+        "ドキュメンタリー写真からのみ",
+        "グラフィティやポスター、キャラクターの作業から"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "このスタイルを最初に生み出したのはどの形ですか？他の生き物の前に？",
+      "options": [
+        "鳥",
+        "ルメソンのドラゴン",
+        "グラン・ガルドの猿"
+      ],
+      "answer": 0
+    }
+  ],
+  "Nevercrew Dissipation": [
+    {
+      "question": "「Dissipation」はどのようなテーマを扱っていますか？",
+      "options": [
+        "気候変動",
+        "デュカスとルメソン",
+        "ベギナージュの市場"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "このプロジェクトの技術的特異性は何ですか？",
+      "options": [
+        "ステンシルの独占的使用",
+        "ラヴォ風の下絵がないこと",
+        "Nevercrewが初めて地面で作業したこと"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "このスイスのデュオは誰で構成されていますか？",
+      "options": [
+        "ジェローム・メイネンとアントワーヌ・デタイル",
+        "クリスチャン・レベッキとパブロ・トグニ",
+        "ファビオ・ロペスとエロディ・アルシャク"
+      ],
+      "answer": 1
+    }
+  ],
+  "Duek Eldorado": [
+    {
+      "question": "「Eldorado」にはどの象徴的な鳥が登場しますか？",
+      "options": [
+        "ルメソンのドラゴン",
+        "ケツァール",
+        "グラン・ガルドの猿"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "スペインのアーティストDuekはここでどの文化にインスパイアされていますか？",
+      "options": [
+        "メキシコ、その自然と神秘主義から",
+        "マンデニウムとポール・オトレから",
+        "モントワのガヨレスのみから"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "フレスコ画はどこにありますか？",
+      "options": [
+        "グラン・ルー8",
+        "カプチーノ通り",
+        "フリピエ通り19"
+      ],
+      "answer": 2
+    }
+  ],
+  "Poni Grand Rue": [
+    {
+      "question": "Poniはこの壁に何を描いていますか？",
+      "options": [
+        "二匹のコイ",
+        "窓のあるカップル",
+        "女性の姿、背景にモンスの丘"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "彼女はなぜしばしば瞳のない女性を描くのですか？",
+      "options": [
+        "カラヴァッジョを引用するため",
+        "旅に誘うため",
+        "メッシーナの巨人を模倣するため"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "モンスでのこの存在の特異性は何ですか？",
+      "options": [
+        "メキシコのアーティストHilda Palafoxがベルギーで初めて活動すること",
+        "彼女は10年間ARTS²で教えている",
+        "ここでローラン・ド・ラッスのオマージュを捧げている"
+      ],
+      "answer": 0
+    }
+  ],
+  "Paul Segard Ma ville s'endort": [
+    {
+      "question": "ポール・セガールはどのようなシンプルなシーンを描いていますか？",
+      "options": [
+        "街を見守る眠っている人物",
+        "聖ゲオルギウスの戦い",
+        "豊穣の市場"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "彼はどのような色調を選びましたか？",
+      "options": [
+        "カラヴァッジョ風の明暗のコントラスト",
+        "MOMO風のストライプの平面",
+        "穏やかで詩的なパステルカラー"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "「私の街は眠る」はどこにありますか？",
+      "options": [
+        "アテネ通り",
+        "グラン・ルーのセンター通路で",
+        "サンクテレット大通り"
+      ],
+      "answer": 1
+    }
+  ],
+  "Celeste Gangolphe Mille et une feuille": [
+    {
+      "question": "この壁のアイビーは何を隠していますか？",
+      "options": [
+        "シャルル5世の肖像",
+        "葉の男たちと子供たち、ドゥドゥにインスパイアされた姿",
+        "ムンダネウムのファイル"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "セレステ・ガンゴルフはどのメディウムを混ぜることを好みますか？",
+      "options": [
+        "ドローイング、ペインティング、コラージュ、パターン",
+        "絵のないスプレーのみ",
+        "光る言葉のインスタレーション"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "このフレスコ画は鉱山の街に何をもたらしますか？",
+      "options": [
+        "城壁を再構築する",
+        "知識を分類する",
+        "モントワのフォークロアの中心に自然の息吹をもたらす"
+      ],
+      "answer": 2
+    }
+  ],
+  "Dulk The battle": [
+    {
+      "question": "「The battle」はどの世界に入ることを招いていますか？",
+      "options": [
+        "文献アーカイブ",
+        "皇帝の肖像",
+        "動物と自然の風景に満ちた夢の世界"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "ダルクはどこから来ましたか？",
+      "options": [
+        "ロシアから",
+        "スペインから",
+        "イギリスから"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "このフレスコ画はカピュチーノ通りで何を静かに守っていますか？",
+      "options": [
+        "最も脆弱な生態系と種",
+        "オトレの知識の分類",
+        "バランシエンヌの塔の再建"
+      ],
+      "answer": 0
+    }
+  ],
+  "Nean Cybele et Poliade": [
+    {
+      "question": "NEANはどの人物に敬意を表していますか？",
+      "options": [
+        "ルメソンのアリーナにいるキュベーレとポリアード",
+        "タロットのアダムとエヴァ",
+        "地区のゲイオール"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "ベルギーのアーティストの作品にはどのような反省が込められていますか？",
+      "options": [
+        "広告とポップアート",
+        "抽象的な都市地図",
+        "時間、思い出、そしてそれらがどのように変化するか"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "なぜこの壁はこのテーマに特に適しているのですか？",
+      "options": [
+        "ムンダネウムに隣接しているから",
+        "その痕跡と層が歴史を可視化するから",
+        "日曜日の市場の演壇として機能するから"
+      ],
+      "answer": 1
+    }
+  ],
+  "10eme ARTE L'envol des ballons": [
+    {
+      "question": "集まった顔の上に何が昇っているのが見えますか？",
+      "options": [
+        "ゲイオール",
+        "風船",
+        "文献ファイル"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "10ème ARTEとは何ですか？",
+      "options": [
+        "ブリュッセルで活動するスペインとイタリアのデュオ",
+        "ロシアのコレクティブ",
+        "ARTS²のドローイングスタジオ"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "この作品はどのモントワの熱意にインスパイアされていますか？",
+      "options": [
+        "ベギナージュの市場から",
+        "ムンダネウムの設立から",
+        "グランプラスでのフォークロアとルメソンと呼ばれる戦いから"
+      ],
+      "answer": 2
+    }
+  ],
+  "Arts2 Roland de Lassus": [
+    {
+      "question": "ARTS²の学生たちが称賛するモントワの人物は誰ですか？",
+      "options": [
+        "アントワーヌ・クレス",
+        "ジャック・デュ・ブロイク",
+        "ローラン・ド・ラッス"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "これはどのような種類の創作ですか？",
+      "options": [
+        "言葉のインスタレーション",
+        "学生たちの共同制作",
+        "ジャナ＆JSの写真スタンプ"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "この肖像はどの通りに位置していますか？",
+      "options": [
+        "5つの顔の通り",
+        "アントワーヌ・クレス通り",
+        "シャピトル通り"
+      ],
+      "answer": 0
+    }
+  ],
+  "Andrea Ravo Mattoni Sainte Waudru et ses filles": [
+    {
+      "question": "アンドレア・ラヴォ・マットーニは壁にどのシーンを移していますか？",
+      "options": [
+        "聖ワウドリと彼女の娘たちが囚人を訪れる",
+        "聖ゲオルギウスの戦い",
+        "黄金の車の一人での上昇"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "この画像は、都市に移される前にどの画家に関連していますか？",
+      "options": [
+        "アント・カルト",
+        "ルイ・ビュイセレ",
+        "アントワーヌ・ヴァン・イセンダイク"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "シャピトル通りの場所はなぜ重要ですか？",
+      "options": [
+        "現代の刑務所に隣接しているから",
+        "近くのコレジアルと直接関連しているから",
+        "サンクテレットの古い城壁の跡に沿っているから"
+      ],
+      "answer": 1
+    }
+  ],
+  "Filip Gilissen Spread your wings": [
+    {
+      "question": "このインスタレーションは何を示唆していますか？",
+      "options": [
+        "ドラゴン",
+        "翼と上昇への衝動",
+        "豊かさの市場"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "これは平面のフレスコ画ではなく、どのようなタイプの作品ですか？",
+      "options": [
+        "インスタレーション",
+        "ウィンドウに描かれたステンシル",
+        "額装された写真"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "サン＝ジェルマン広場はどの記念碑に響き合っていますか？",
+      "options": [
+        "ムンダネウム",
+        "単独の鐘楼",
+        "風景に見えるサン＝ヴォードゥル大聖堂"
+      ],
+      "answer": 2
+    }
+  ],
+  "Ana Langeheldt Alegoria de santa Valdetrudis": [
+    {
+      "question": "アナ・ランゲヘルトはどの伝統を再解釈していますか？",
+      "options": [
+        "サン＝ジャンの火祭り",
+        "ゲイオール",
+        "金の車の上昇"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "スペインのアーティストは別名で何と呼ばれていますか？",
+      "options": [
+        "サード・ルア",
+        "ラヘ178",
+        "ポニ"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "聖ヴォードゥルの寓話はどこに描かれましたか？",
+      "options": [
+        "サン＝ヴォードゥルのスロープ",
+        "ニミ通り",
+        "レオポルド広場"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rachelle Celiane Santerre Jacques Du Broeucq": [
+    {
+      "question": "サンテル姉妹は誰に敬意を表していますか？",
+      "options": [
+        "建築家で彫刻家のジャック・デュ・ブロック",
+        "画家のアント・カルト",
+        "シェフのジョルジュ・キュヴリエ"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "ARTS²のどの枠組みでこの作品は制作されましたか？",
+      "options": [
+        "版画のアトリエのみ",
+        "ムンダネウムでのレジデンス",
+        "デッサンのアトリエ、「有名なモンテワ」シリーズ"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "大聖堂の近くのどの通りに肖像がありますか？",
+      "options": [
+        "5つの顔の通り",
+        "シャピトル通り",
+        "黒い修道女の通り"
+      ],
+      "answer": 1
+    }
+  ],
+  "Margaux Del Vecchio Anto Carte": [
+    {
+      "question": "マルゴー・デル・ヴェッキオはどのモンテワの画家を表現していますか？",
+      "options": [
+        "ルイ・ビュイセレ",
+        "アント・カルト",
+        "アントワーヌ・ヴァン・イセンダイク"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "この作品はどのシリーズに属していますか？",
+      "options": [
+        "「有名なモンテワ」",
+        "「真実の物語」",
+        "「トーレ・デ・サベール」"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "肖像はどこに描かれましたか？",
+      "options": [
+        "シャピトル通り",
+        "マラペール通り",
+        "ルーズベルト広場"
+      ],
+      "answer": 2
+    }
+  ],
+  "Projeto Ruido Le temps": [
+    {
+      "question": "「時間」にはどのようなグラフィック言語が含まれていますか？",
+      "options": [
+        "アカデミックな明暗のみ",
+        "文字のみ",
+        "グラフィティ、具象、抽象、色彩"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "プロジェクト・ルイードは誰で構成されていますか？",
+      "options": [
+        "ゴッドメスとサード・ルア",
+        "ドロー（フレデリコ・ソアレス・カンポス）とコントラ（ロドリゴ・ギネア・ゴンカルヴェス）",
+        "ファビオ・ロペスとエロディ・アルシャク"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "この通りはどの博物館に歩行者を導きますか？",
+      "options": [
+        "デュースベルグ博物館",
+        "ムンダネウムのみ",
+        "ドゥドゥ博物館"
+      ],
+      "answer": 0
+    }
+  ],
+  "Robert Montgomery Invisible graffiti of love": [
+    {
+      "question": "ロバート・モンゴメリーはここでどの素材を使用していますか？",
+      "options": [
+        "言葉",
+        "描かれたタロット",
+        "コイ"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "「愛の見えないグラフィティ」というタイトルは何を求めていますか？",
+      "options": [
+        "城壁を再構築すること",
+        "ファイルを分類すること",
+        "目を上げて、読むためにゆっくりすること"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "この親密な声はどこに記されていますか？",
+      "options": [
+        "カンティンプル通り",
+        "レオポルド広場",
+        "キャノニエ通り"
+      ],
+      "answer": 1
+    }
+  ],
+  "Momo Rue Cantimpret": [
+    {
+      "question": "MOMOの構成はどのように表現されていますか？",
+      "options": [
+        "ろうそくの明暗",
+        "ゼブラ模様の平面色",
+        "中国インクのキャラクター"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "アメリカのアーティストはどのような種類の作品で知られていますか？",
+      "options": [
+        "都市の地図、微細な動作から巨大な壁画まで",
+        "光る鯉のインスタレーション",
+        "有名なモントワの肖像"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "この壁画はどの通りでパフォーマンスをリズムにしていますか？",
+      "options": [
+        "カノニエ通り",
+        "ベルタモン通り",
+        "カンティンプル通り"
+      ],
+      "answer": 2
+    }
+  ],
+  "Zmogk The elements": [
+    {
+      "question": "Zmogkは通りでどの要素を生み出しますか？",
+      "options": [
+        "鯉の水",
+        "風船の空気",
+        "火"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Zmogkはどこから来て、どのようなスタイルを発展させましたか？",
+      "options": [
+        "アメリカ；ゼブラ模様の平面",
+        "ロシア；ダイナミックでカラフルな構成",
+        "ポルトガル；リアルなステンシル"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "作品はネールヴィエン広場に近いどの儀式と対話していますか？",
+      "options": [
+        "聖ジャンの火",
+        "金の車の上昇",
+        "日曜市"
+      ],
+      "answer": 0
+    }
+  ],
+  "Arkane Lalie": [
+    {
+      "question": "Arkaneは「Lalie」に何からインスパイアを受けていますか？",
+      "options": [
+        "メッシーヌの巨人、実在の人物として想像された",
+        "ルメソンのドラゴンのみ",
+        "タロットの刃"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "画像の非常に肉感的な雰囲気を作り出しているのは何ですか？",
+      "options": [
+        "文字だけ",
+        "ゼブラ模様の平面",
+        "光とフレーミング"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "この壁画はどの地区でフォークロアと対話していますか？",
+      "options": [
+        "ムンダネウム地区",
+        "メッシーヌ地区、ベルタモン通り",
+        "魚市場"
+      ],
+      "answer": 1
+    }
+  ],
+  "Tris Horizon": [
+    {
+      "question": "Trisはこの盲目の窓を持つ建物でどのテーマを取り上げていますか？",
+      "options": [
+        "ゲイオール",
+        "ドア",
+        "ポピー"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "彼の宇宙はどのようなレジスタに位置していますか？",
+      "options": [
+        "コミックとリアリズム、映画の雰囲気を持つ",
+        "アカデミックな明暗のみ",
+        "17世紀の静物画"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "サンクテレット大通りは何を追っていますか？",
+      "options": [
+        "金の車の行列の軌跡",
+        "ムンダネウムの軸",
+        "城壁と市の入口の古い軌跡"
+      ],
+      "answer": 2
+    }
+  ],
+  "Dourone Boulevard Sainctelette": [
+    {
+      "question": "Douroneにとってドゥドゥは何を表していますか？",
+      "options": [
+        "地域に関連のない装飾的なモチーフ",
+        "ムンダネウムへの言及",
+        "世代を超えたモントワの連帯"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Douroneは誰で構成されていますか？",
+      "options": [
+        "クリスチャン・レベッキとパブロ・トグニ",
+        "スペインから来たファビオ・ロペスとエロディ・アルシャク",
+        "ジェローム・メイネンとアントワーヌ・デタイル"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "彼らはデュカスのためにどの国際的な認識を思い出させますか？",
+      "options": [
+        "UNESCOによる人類の口承および無形文化遺産への登録",
+        "軍事記念物としての分類",
+        "十進分類法との関連"
+      ],
+      "answer": 0
+    }
+  ],
+  "Nadege Dauvergne Place du Beguinage": [
+    {
+      "question": "ナデージュ・ドーヴェルニはこの広場で何からインスパイアを受けていますか？",
+      "options": [
+        "日曜市と豊かさの概念",
+        "ルメソンの戦い",
+        "メッシーヌの巨人"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "彼女はどの絵画と対話し、スケールを変えていますか？",
+      "options": [
+        "ティツィアーノの皇帝の肖像",
+        "ターナーの風景",
+        "特にヨリス・ヴァン・ソンの17世紀の静物画"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "この巨大な壁画はどこに描かれましたか？",
+      "options": [
+        "カンティンプル通り",
+        "ベギナージュ広場",
+        "サンクテレット大通り"
+      ],
+      "answer": 1
+    }
+  ],
+  "Daniel Eime Resistance": [
+    {
+      "question": "ダニエル・エイムは「レジスタンス」で誰に敬意を表していますか？",
+      "options": [
+        "ポール・オトレ",
+        "マルグリット・ベルヴォ",
+        "サン・ウォードル"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "彼のすべての作品に共通する技法は何ですか？",
+      "options": [
+        "ポップ、リアリズム、幾何学模様を混ぜたステンシル",
+        "下書きなしのスプレー",
+        "光る言葉のインスタレーション"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "アーティストはどこ出身で、ストリートアートをいつから始めましたか？",
+      "options": [
+        "フランス出身、2022年からのみ",
+        "スイス出身、デュオで",
+        "ポルトガル出身；彼は非常に若い頃からグラフィティを始めた"
+      ],
+      "answer": 2
+    }
+  ],
+  "Portes du Theatre Royal": [
+    {
+      "question": "ロイヤルシアターの鋳鉄の扉にあるメダリオンは何ですか？",
+      "options": [
+        "モリエール、ラシーヌ、グレトリ、ローラン・ド・ラリュス",
+        "ユーゴー、バルザック、ヴェルレーヌ、ランボー",
+        "デュマ、ゾラ、フローベール、カミュ"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "ロイヤルシアターの扉は何の材料で作られていますか？",
+      "options": [
+        "木材",
+        "鋳鉄",
+        "石"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "ロイヤルシアターの扉に描かれている紋章は何ですか？",
+      "options": [
+        "ブリュッセルの紋章",
+        "リエージュの紋章",
+        "モンスの紋章"
+      ],
+      "answer": 2
+    }
+  ],
+  "Blasons muets": [
+    {
+      "question": "ミロワール通り8番地に見られる無音の盾の主な材料は何ですか？",
+      "options": [
+        "木",
+        "石",
+        "金属"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "無音の盾は何年に作られましたか？",
+      "options": [
+        "1600",
+        "1500",
+        "1545"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "モンスにある無音の盾がある通りの名前は何ですか？",
+      "options": [
+        "ミロワール通り",
+        "シャセ通り",
+        "レジスタンス通り"
+      ],
+      "answer": 0
+    }
+  ],
+  "Au Gros Visage": [
+    {
+      "question": "'Au Gros Visage'の看板の浮彫にはどのようなモチーフが描かれていますか？",
+      "options": [
+        "ライオン",
+        "花",
+        "ふっくらした顔"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "'Au Gros Visage'の看板は何年に作られましたか？",
+      "options": [
+        "1789",
+        "1801",
+        "1750"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "'Au Gros Visage'の看板はモンスのどの通りにありますか？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue du Miroir",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "A la Poire d'Or": [
+    {
+      "question": "'A la Poire d'Or' の看板にはどのようなモチーフが描かれていますか？",
+      "options": [
+        "リボンにぶら下がっている梨",
+        "立ち上がるライオン",
+        "ユリ"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "'A la Poire d'Or' の看板は何年に日付が付けられましたか？",
+      "options": [
+        "1750",
+        "1789",
+        "1801"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "'A la Poire d'Or' の看板はどの通りにありますか？",
+      "options": [
+        "Rue de la Clef",
+        "Rue des Fripiers",
+        "Rue de Nimy"
+      ],
+      "answer": 2
+    }
+  ],
+  "Le Gros Maillet": [
+    {
+      "question": "9 rue de Nimy の看板の主なモチーフは何ですか？",
+      "options": [
+        "木製の斧",
+        "彫刻されたハンマー",
+        "鉄のハンマー"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "この職人の看板はどの時代に作られましたか？",
+      "options": [
+        "17世紀に",
+        "15世紀に",
+        "19世紀に"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "モンスにある Le Gros Maillet の看板はどの通りにありますか？",
+      "options": [
+        "Rue de Nimy",
+        "Rue de la Chaussée",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "The Bootle Arms": [
+    {
+      "question": "The Bootle Arms の看板に描かれている紋章は何ですか？",
+      "options": [
+        "Mons 市の紋章",
+        "Hainaut 県の紋章",
+        "Bootle との姉妹都市を象徴する紋章"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Mons と Bootle の姉妹都市提携は何年に設立されましたか？",
+      "options": [
+        "1964",
+        "1980",
+        "1990"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mons にある The Bootle Arms はどの通りにありますか？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue de Nimy",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Au Paradis": [
+    {
+      "question": "Au Paradis の看板の主なモチーフは何ですか？",
+      "options": [
+        "天使",
+        "悪魔",
+        "木"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Au Paradis の看板は何年に設立されましたか？",
+      "options": [
+        "16世紀",
+        "18世紀",
+        "19世紀"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Au Paradis の看板はモンスのどの通りにありますか？",
+      "options": [
+        "Rue des Fripiers",
+        "Rue de la Chaussée",
+        "Rue de Nimy"
+      ],
+      "answer": 2
+    }
+  ],
+  "IHS Rue de Nimy 71": [
+    {
+      "question": "71 Rue de Nimyの浮彫にはどのようなモチーフが描かれていますか？",
+      "options": [
+        "ラテン十字",
+        "クリストグラムIHS",
+        "モンス市のシンボル"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "この看板のクリストグラムIHSに関連する象徴的な要素は何ですか？",
+      "options": [
+        "いばらの冠",
+        "聖杯",
+        "3本の釘"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "モンスのIHS看板はどの通りにありますか？",
+      "options": [
+        "Rue de Nimy",
+        "Rue des Clercs",
+        "Rue de la Chaussée"
+      ],
+      "answer": 0
+    }
+  ],
+  "A le Trois Brouet": [
+    {
+      "question": "À le Trois Brouet の看板の浮彫にはどのようなモチーフが描かれていますか？",
+      "options": [
+        "王冠",
+        "ハンマー",
+        "三つの手押し車"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "À le Trois Brouet の看板は何年に作られましたか？",
+      "options": [
+        "1714",
+        "1800",
+        "1650"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "À le Trois Brouet の看板はモンスのどの通りにありますか？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue de Nimy",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Saint-Pierre Rue de Nimy": [
+    {
+      "question": "80 Rue de Nimyの彫刻された看板にはどの聖人が描かれていますか？",
+      "options": [
+        "聖ペテロ",
+        "聖パウロ",
+        "聖ヤコブ"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "この看板はおそらくどの時代に彫刻されたものですか？",
+      "options": [
+        "19世紀",
+        "18世紀",
+        "20世紀"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "モンスにある聖ペテロの看板はどの通りにありますか？",
+      "options": [
+        "Rue des Clercs",
+        "Rue de la Chaussée",
+        "Rue de Nimy"
+      ],
+      "answer": 2
+    }
+  ],
+  "Aux Trois Herrents": [
+    {
+      "question": "「Aux Trois Herrents」の看板に浮彫で表現されているモチーフは何ですか？",
+      "options": [
+        "3匹のマス",
+        "3匹のニシン",
+        "3匹のサーモン"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "「Aux Trois Herrents」の看板は何年に作られましたか？",
+      "options": [
+        "1715",
+        "1730",
+        "1723"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "モンスにある「Aux Trois Herrents」の看板はどの通りにありますか？",
+      "options": [
+        "Rue de Nimy",
+        "Rue des Fripiers",
+        "Rue de la Chaussée"
+      ],
+      "answer": 0
+    }
+  ],
+  "Armes de Mons Petit Marche": [
+    {
+      "question": "モンスの紋章のアーチキーにはどのようなモチーフが描かれていますか？",
+      "options": [
+        "星",
+        "鷲",
+        "ライオン"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "モンスの紋章はどの時代に彫刻されましたか？",
+      "options": [
+        "18世紀",
+        "16世紀",
+        "19世紀"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "モンスの紋章はどの中庭にありますか？",
+      "options": [
+        "駅の中庭",
+        "プチ・マルシェの中庭",
+        "証券取引所の中庭"
+      ],
+      "answer": 1
+    }
+  ],
+  "IHS dans un soleil": [
+    {
+      "question": "89 rue de Nimyの浮彫にはどのようなモチーフが描かれていますか？",
+      "options": [
+        "IHSクリストグラム",
+        "ライオン",
+        "十字架"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "観察された宗教的モチーフはどの時代にさかのぼりますか？",
+      "options": [
+        "16世紀",
+        "18世紀",
+        "19世紀"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "IHSの浮彫がある通りはどこですか？",
+      "options": [
+        "Rue des Clercs",
+        "Rue de la Chaussée",
+        "Rue de Nimy"
+      ],
+      "answer": 2
+    }
+  ],
+  "Aux Trois Verts Chapeaux": [
+    {
+      "question": "「Aux Trois Verts Chapeaux」の看板にはどのようなモチーフが描かれていますか？",
+      "options": [
+        "三つの花",
+        "三つの星",
+        "三つの帽子"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "「Aux Trois Verts Chapeaux」の看板は何年に作られましたか？",
+      "options": [
+        "1712年",
+        "1705年",
+        "1720年"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "モンスにある「Aux Trois Verts Chapeaux」の看板はどの通りにありますか？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue de Nimy",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "A la Tette d'Or": [
+    {
+      "question": "「À la Tette d'Or」の看板の浮彫に見えるモチーフは何ですか？",
+      "options": [
+        "彫刻された頭",
+        "彫刻された動物",
+        "彫刻された風景"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "看板の浮彫に使用されている主な材料は何ですか？",
+      "options": [
+        "木",
+        "石",
+        "金属"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "「À la Tette d'Or」の看板はどの通りにありますか？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Fripiers",
+        "Rue d'Havré"
+      ],
+      "answer": 2
+    }
+  ],
+  "Le Lecteur Colas": [
+    {
+      "question": "現代彫刻「Le Lecteur」に使用されている主な材料は何ですか？",
+      "options": [
+        "ブロンズ",
+        "石",
+        "木"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "彫刻「Le Lecteur」は何年に設置されましたか？",
+      "options": [
+        "1985年",
+        "1995年",
+        "1990年"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "彫刻「Le Lecteur」はモンスのどの通りにありますか？",
+      "options": [
+        "Rue d'Havré",
+        "Rue de Nimy",
+        "Rue de la Chaussée"
+      ],
+      "answer": 0
+    }
+  ],
+  "Au Lion d'Or": [
+    {
+      "question": "浮彫のどの要素が時とともに消えましたか？",
+      "options": [
+        "カルトゥーシュ",
+        "通り",
+        "ライオン"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "浮彫 'Au Lion d'Or' は何年に作成されましたか？",
+      "options": [
+        "1712",
+        "1800",
+        "1650"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "'Au Lion d'Or' の看板はどの通りにありますか？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue des Clercs"
+      ],
+      "answer": 1
+    }
+  ],
+  "Millesime MDCCXII": [
+    {
+      "question": "刻まれた石に見える模様は何ですか？",
+      "options": [
+        "MDCCXII",
+        "紋章",
+        "花"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "刻まれた石に記された年は何ですか？",
+      "options": [
+        "1800",
+        "1712",
+        "1600"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "MDCCXIIの刻まれた石はどの通りにありますか？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Fripiers",
+        "Rue d'Havré"
+      ],
+      "answer": 2
+    }
+  ],
+  "A la Clef d'Or": [
+    {
+      "question": "'À la Clef d'Or'の看板にはどのようなモチーフが描かれていますか？",
+      "options": [
+        "古い本",
+        "装飾的な鍵",
+        "スタイライズされた花"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "'À la Clef d'Or'の看板はおそらくどの時代に作られましたか？",
+      "options": [
+        "17世紀に",
+        "20世紀に",
+        "19世紀に"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "'À la Clef d'Or'の看板はどの通りにありますか？",
+      "options": [
+        "Rue d'Havré",
+        "Rue de la Chaussée",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Tasche d'Argent": [
+    {
+      "question": "Tasche d'Argentの看板にはどの素材が使われていますか？",
+      "options": [
+        "金属",
+        "木",
+        "石"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Tasche d'Argentの看板は何年に修復されましたか？",
+      "options": [
+        "1934",
+        "1920",
+        "1945"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Tasche d'Argentの看板はどの通りにありますか？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "A la Balance d'Or": [
+    {
+      "question": "Balance d'Orの看板にはどのようなモチーフが彫られていますか？",
+      "options": [
+        "天秤",
+        "本",
+        "鍵"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Balance d'Orは何年に設立されましたか？",
+      "options": [
+        "1800",
+        "1768",
+        "1873"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "モンスにあるBalance d'Orの看板はどの通りにありますか？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Fripiers",
+        "Rue d'Havré"
+      ],
+      "answer": 2
+    }
+  ],
+  "Au Renard": [
+    {
+      "question": "「Au Renard」の看板の浮彫にはどのようなモチーフが描かれていますか？",
+      "options": [
+        "威厳のあるライオン",
+        "走っているキツネ",
+        "止まっているフクロウ"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "「Au Renard」の看板は何年に作られましたか？",
+      "options": [
+        "1710",
+        "1735",
+        "1724"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "モンスにある「Au Renard」の看板はどの通りにありますか？",
+      "options": [
+        "Rue d'Havré",
+        "Rue de la Chaussée",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Lunette d'Or": [
+    {
+      "question": "À la Lunette d'Orの看板のファサードに彫刻されているモチーフは何ですか？",
+      "options": [
+        "時計",
+        "本",
+        "双眼鏡"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "À la Lunette d'Orの看板に彫刻された双眼鏡はどの時代に作られましたか？",
+      "options": [
+        "19世紀",
+        "18世紀",
+        "20世紀"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "À la Lunette d'Orの看板はどの通りにありますか？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Au Pistolet d'Or": [
+    {
+      "question": "「Au Pistolet d'Or」の看板に浮彫で表現されているモチーフは何ですか？",
+      "options": [
+        "ピストル",
+        "剣",
+        "盾"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "「Au Pistolet d'Or」の看板は何年に作られましたか？",
+      "options": [
+        "1705",
+        "1711",
+        "1720"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "「Au Pistolet d'Or」の看板はどの通りにありますか？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Fripiers",
+        "Rue du Hautbois"
+      ],
+      "answer": 2
+    }
+  ],
+  "A l'Ecaille d'Or": [
+    {
+      "question": "Écaille d'Orの看板にはどのようなモチーフが描かれていますか？",
+      "options": [
+        "魚",
+        "貝殻",
+        "星"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Écaille d'Orの看板は何年に作られましたか？",
+      "options": [
+        "1800年",
+        "1725年",
+        "1750年"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Écaille d'Orの看板はモンスのどの通りにありますか？",
+      "options": [
+        "Rue du Hautbois",
+        "Rue de la Chaussée",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Paile d'Or": [
+    {
+      "question": "'À la Paile d'Or' の看板にはどのようなモチーフが描かれていますか？",
+      "options": [
+        "風車",
+        "フォーク",
+        "パン職人のシャベル"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "'À la Paile d'Or' の看板に関連する職業は何ですか？",
+      "options": [
+        "パン職人",
+        "肉屋",
+        "料理人"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "'À la Paile d'Or' の看板はどの通りにありますか？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Au Corbeau": [
+    {
+      "question": "'Au Corbeau'の看板のドアに彫刻されている鳥は何ですか？",
+      "options": [
+        "カラス",
+        "ハト",
+        "ツバメ"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "'Au Corbeau'の看板の住所はどこですか？",
+      "options": [
+        "シャッセ通り45番地",
+        "アヴレ通り106番地",
+        "フリピエ通り12番地"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "'Au Corbeau'の看板に使用されているモチーフの種類は何ですか？",
+      "options": [
+        "木彫り",
+        "壁画",
+        "石彫り"
+      ],
+      "answer": 2
+    }
+  ],
+  "Pelles a enfourner 1573": [
+    {
+      "question": "パン職人のシャベルにはどのようなモチーフが描かれていますか？",
+      "options": [
+        "4つのバゲット",
+        "3つのパン",
+        "1つのパン"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "シャベルの石は何年に作られましたか？",
+      "options": [
+        "1565年",
+        "1580年",
+        "1573年"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "パン職人のシャベルの石はどこで見つかりましたか？",
+      "options": [
+        "アヴレ通り",
+        "シャウセ通り",
+        "公園広場"
+      ],
+      "answer": 0
+    }
+  ],
+  "Au Mousqueton d'Or": [
+    {
+      "question": "「Au Mousqueton d'Or」の看板に浮き彫りで表現されているモチーフは何ですか？",
+      "options": [
+        "剣",
+        "盾",
+        "カラビナ"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "「Au Mousqueton d'Or」の看板は何年に作られましたか？",
+      "options": [
+        "1726",
+        "1710",
+        "1735"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "モンスにある「Au Mousqueton d'Or」の看板はどの通りにありますか？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "A la Faux d'Or": [
+    {
+      "question": "'À la Faux d'Or'の看板の浮彫にはどのようなモチーフが描かれていますか？",
+      "options": [
+        "鎌",
+        "紋章",
+        "王冠"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "'À la Faux d'Or'の看板は何年に彫刻されましたか？",
+      "options": [
+        "1715",
+        "1723",
+        "1730"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "'À la Faux d'Or'の看板はモンスのどの通りにありますか？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue de Nimy",
+        "Rue d'Havré"
+      ],
+      "answer": 2
+    }
+  ],
+  "La Croix d'Or Havre": [
+    {
+      "question": "La Croix d'Orの十字架を特徴づけるモチーフは何ですか？",
+      "options": [
+        "螺旋模様",
+        "フルール・ド・リスの先端",
+        "パテ十字"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "La Croix d'Orは何年に設立されましたか？",
+      "options": [
+        "1750年",
+        "1789年",
+        "1766年"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "MonsにあるLa Croix d'Orはどの通りにありますか？",
+      "options": [
+        "Rue d'Havré",
+        "Rue de la Chaussée",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Licorne": [
+    {
+      "question": "'À la Licorne'の看板の浮彫に描かれているモチーフは何ですか？",
+      "options": [
+        "ドラゴン",
+        "人魚",
+        "馬とヘルメット"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "'À la Licorne'の看板に関連するFraneau de Gommegniesの日時は何ですか？",
+      "options": [
+        "16世紀",
+        "17世紀",
+        "19世紀"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "モンスにある'À la Licorne'の看板はどの通りにありますか？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "La Belle Plebeienne": [
+    {
+      "question": "'La Belle Plébéienne' の彫刻にはどの材料が使われていますか？",
+      "options": [
+        "ブロンズ",
+        "大理石",
+        "石"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "'La Belle Plébéienne' は何年に制作されましたか？",
+      "options": [
+        "1980",
+        "1974",
+        "1965"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "'La Belle Plébéienne' はモンスのどの公園にありますか？",
+      "options": [
+        "ドダイン公園",
+        "セルナ公園",
+        "ワウクスホール公園"
+      ],
+      "answer": 2
+    }
+  ],
+  "Buste de la reine Astrid": [
+    {
+      "question": "アストリッド女王のバストはどの素材で作られましたか？",
+      "options": [
+        "大理石",
+        "ブロンズ",
+        "石"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "アストリッド女王のオリジナルバストは何年に盗まれましたか？",
+      "options": [
+        "2005",
+        "2012",
+        "2009"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "モンスのどの公園にアストリッド女王のバストがありますか？",
+      "options": [
+        "ワウクスホール公園",
+        "ドダイン公園",
+        "セルナ公園"
+      ],
+      "answer": 0
+    }
+  ],
+  "Armes de Mons Rue de la Clef": [
+    {
+      "question": "モンスのアームの主なモチーフは何ですか？",
+      "options": [
+        "狩猟シーン",
+        "田舎の風景",
+        "紋章"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "モンスのアームの歴史的背景は何ですか？",
+      "options": [
+        "古い大肉屋の遺物",
+        "肉屋通りの古い看板",
+        "戦争記念碑"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "モンスのアームはどの通りにありますか？",
+      "options": [
+        "フリピエ通り",
+        "クレフ通り",
+        "肉屋通り"
+      ],
+      "answer": 1
+    }
+  ],
+  "A la Tete Saint-Jean": [
+    {
+      "question": "看板のレリーフにはどのモチーフが描かれていますか？",
+      "options": [
+        "洗礼者ヨハネの頭",
+        "ペトロの頭",
+        "パウロの頭"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "この看板が作られた時代はいつと推定されますか？",
+      "options": [
+        "16世紀",
+        "17世紀",
+        "18世紀"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "『À la Tête Saint-Jean』の看板はどの通りにありますか？",
+      "options": [
+        "Rue de la Fontaine",
+        "Rue des Fripiers",
+        "Rue de la Clef"
+      ],
+      "answer": 2
+    }
+  ],
+  "Au Grand Laboureur": [
+    {
+      "question": "「Au Grand Laboureur」の看板に使用されている主な材料は何ですか？",
+      "options": [
+        "木",
+        "石",
+        "金属"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "「Au Grand Laboureur」の看板はどの時代にさかのぼりますか？",
+      "options": [
+        "19世紀",
+        "20世紀",
+        "18世紀"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "モンスにある「Au Grand Laboureur」の看板はどの通りにありますか？",
+      "options": [
+        "Rue de la Clef",
+        "Rue de la Fontaine",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "Colombe du Saint-Esprit": [
+    {
+      "question": "バルコニーにある鳩はどの素材でできていますか？",
+      "options": [
+        "彫刻された石",
+        "塗装された木",
+        "金色の鋳鉄"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "聖霊の鳩はどの住所にありますか？",
+      "options": [
+        "ウダン通り13番",
+        "シャウセ通り5番",
+        "公園広場10番"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "バルコニーにある鳩が表すシンボルは何ですか？",
+      "options": [
+        "戦争",
+        "平和",
+        "繁栄"
+      ],
+      "answer": 1
+    }
+  ],
+  "Mortier et Pilon": [
+    {
+      "question": "Mortier et Pilon の看板に使用されている主な材料は何ですか？",
+      "options": [
+        "金属",
+        "木材",
+        "ガラス"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mortier et Pilon の看板は何年に設置されましたか？",
+      "options": [
+        "1985年",
+        "1995年",
+        "2005年"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Mortier et Pilon の看板はモンスのどの通りにありますか？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Fripiers",
+        "Rue de Houdain"
+      ],
+      "answer": 2
+    }
+  ],
+  "A la Bonne Femme": [
+    {
+      "question": "「À la Bonne Femme」の看板に使用されている主な材料は何ですか？",
+      "options": [
+        "金属",
+        "木",
+        "石"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "「À la Bonne Femme」の看板は何年に作られましたか？",
+      "options": [
+        "1710",
+        "1735",
+        "1723"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "「À la Bonne Femme」の看板は、移動する前に元々どの通りにありましたか？",
+      "options": [
+        "Rue Bertaimont",
+        "Rue de la Chaussée",
+        "Rue de Nimy"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Croix d'Or Croix-Place": [
+    {
+      "question": "「À la Croix d'Or」の看板の浮彫にはどのようなモチーフが描かれていますか？",
+      "options": [
+        "ライオン",
+        "花",
+        "十字架"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "「À la Croix d'Or」の看板は何年に作られましたか？",
+      "options": [
+        "1936年",
+        "1920年",
+        "1945年"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "「À la Croix d'Or」の看板の場所の歴史的意義は何ですか？",
+      "options": [
+        "デ・クレルク通りの終わりを示しています",
+        "ハヴレの管轄点でした",
+        "モンスで最も古い看板です"
+      ],
+      "answer": 1
+    }
+  ],
+  "Fontaine Rue de Bertaimont": [
+    {
+      "question": "ベルタモン通り31番地にある噴水はどのような浮彫りの特徴がありますか？",
+      "options": [
+        "ハーフリリーフ",
+        "バスリリーフ",
+        "フルリリーフ"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "この噴水が作られた時代はいつだと推定されますか？",
+      "options": [
+        "19世紀",
+        "18世紀",
+        "20世紀"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "モンスにあるハーフリリーフの水盤噴水はどの通りにありますか？",
+      "options": [
+        "シャセ通り",
+        "クレルク通り",
+        "ベルタモン通り"
+      ],
+      "answer": 2
+    }
+  ],
+  "Croix plume et pinceau": [
+    {
+      "question": "クロワ・プルーム・エ・パンソーの鉄細工にはどのようなモチーフが表現されていますか？",
+      "options": [
+        "星と月",
+        "十字架、羽、筆",
+        "ユリの花"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "この美しい鉄細工はどの聖職者に関連していますか？",
+      "options": [
+        "デュポン聖職者",
+        "マルタン聖職者",
+        "強力な聖職者"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "クロワ・プルーム・エ・パンソーはどの通りにありますか？",
+      "options": [
+        "王子の地の通り",
+        "抵抗の通り",
+        "戦士の通り"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Grande Rose": [
+    {
+      "question": "「À la Grande Rose」の看板の浮彫にはどのようなモチーフが描かれていますか？",
+      "options": [
+        "ライオン",
+        "王冠",
+        "彫刻されたバラ"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "彫刻されたバラの再利用はどの時代にさかのぼりますか？",
+      "options": [
+        "16世紀",
+        "18世紀",
+        "15世紀"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "「À la Grande Rose」の看板はどの通りにありますか？",
+      "options": [
+        "Rue des Fripiers",
+        "Rue de la Poterie",
+        "Rue de la Résistance"
+      ],
+      "answer": 1
+    }
+  ],
+  "Chateau de le Marcote": [
+    {
+      "question": "シャトー・ド・ル・マルコットの看板に彫られている動物のモチーフは何ですか？",
+      "options": [
+        "3匹のイタチ",
+        "2匹のキツネ",
+        "4匹のウサギ"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "シャトー・ド・ル・マルコットの看板は何年に彫られましたか？",
+      "options": [
+        "1702年",
+        "1689年",
+        "1650年"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "モンスの33 rue des Marcottesにある家の特徴は何ですか？",
+      "options": [
+        "古い市役所です",
+        "古い礼拝堂です",
+        "最も狭い家です"
+      ],
+      "answer": 2
+    }
+  ],
+  "16 IHS 93": [
+    {
+      "question": "38 rue des Groseilliersの浮彫に見られる主なモチーフは何ですか？",
+      "options": [
+        "ラテン十字",
+        "クリストグラム",
+        "紋章"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "クリストグラムの年代は何年ですか？",
+      "options": [
+        "1685",
+        "1701",
+        "1693"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "モンスにある1693年の日付のクリストグラムはどの通りにありますか？",
+      "options": [
+        "Rue des Groseilliers",
+        "Rue de la Chaussée",
+        "Rue de la Résistance"
+      ],
+      "answer": 0
+    }
+  ],
+  "Cheval Dore": [
+    {
+      "question": "Cheval Doreの入口の鍵に彫られているモチーフは何ですか？",
+      "options": [
+        "ライオン",
+        "花",
+        "馬"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Cheval Doreはいつ彫刻されましたか？",
+      "options": [
+        "19世紀に",
+        "18世紀に",
+        "20世紀に"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "MonsのCheval Doreはどの通りにありますか？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue du Parc",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Bas-relief litterature montoise": [
+    {
+      "question": "モントワーズ文学の創作者に捧げられたプレートにはどの材料が使用されていますか？",
+      "options": [
+        "ブロンズ",
+        "大理石",
+        "石"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "モントワーズ作家を称えるブロンズプレートの作者は誰ですか？",
+      "options": [
+        "アンリ・デルモット",
+        "ギュスターヴ・ジャコブス",
+        "シャルル・ルテリエ"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "モントワーズ文学に捧げられたプレートはどの通りにありますか？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Clercs",
+        "Jardin du Mayeur"
+      ],
+      "answer": 2
+    }
+  ],
+  "A la Coupe d'Or": [
+    {
+      "question": "「À la Coupe d'Or」の看板には、どのようなタイプのオブジェクトが高浮彫りで表現されていますか？",
+      "options": [
+        "カップ",
+        "聖器",
+        "キャンドルスタンド"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "「À la Coupe d'Or」の彫刻された聖器は、どの時代に作られましたか？",
+      "options": [
+        "18世紀に",
+        "19世紀に",
+        "17世紀に"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "「À la Coupe d'Or」の看板はどの通りにありますか？",
+      "options": [
+        "Rue de la Coupe",
+        "Rue de la Paix",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "A Saint-Antoine": [
+    {
+      "question": "サン・アントワーヌの浮彫に描かれているモチーフは何ですか？",
+      "options": [
+        "サン・ペテロと彼の魚",
+        "サン・ジェームスと彼の貝殻",
+        "サン・アントワーヌと彼の豚"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "サン・アントワーヌに捧げられた教会の創設の推定日付は何ですか？",
+      "options": [
+        "17世紀",
+        "16世紀",
+        "18世紀"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A Saint-Antoineの訪問ポイントはどの通りにありますか？",
+      "options": [
+        "Rue des Fripiers",
+        "Rue de la Coupe",
+        "Rue de la Résistance"
+      ],
+      "answer": 1
+    }
+  ],
+  "Au Paon et au Cygne": [
+    {
+      "question": "'Au Paon et au Cygne' の看板のペディメントにはどの動物が描かれていますか？",
+      "options": [
+        "クジャクと白鳥",
+        "ワシとサギ",
+        "犬と猫"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "'Au Paon et au Cygne' の看板がある通りの番号は何ですか？",
+      "options": [
+        "15",
+        "22",
+        "30"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "モンスのどの歴史的な通りに 'Au Paon et au Cygne' の看板がありますか？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Clercs",
+        "Rue des Fripiers"
+      ],
+      "answer": 2
+    }
+  ],
+  "Cartouche et blason Grande Triperie": [
+    {
+      "question": "Grande Triperie のカルトゥーシュにはどのようなモチーフが描かれていますか？",
+      "options": [
+        "盾",
+        "マスカロン",
+        "犬ライオン"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "この紋章が作成されたのはどの時代だと推定できますか？",
+      "options": [
+        "16世紀",
+        "19世紀",
+        "18世紀"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "モンスのGrande Triperieはどの通りにありますか？",
+      "options": [
+        "Rue de la Grande Triperie",
+        "Rue de la Petite Triperie",
+        "Rue des Bouchers"
+      ],
+      "answer": 0
+    }
+  ],
+  "Le Gant": [
+    {
+      "question": "看板Le Gantの浮彫にはどのようなモチーフが描かれていますか？",
+      "options": [
+        "靴",
+        "帽子",
+        "手袋"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "看板Le Gantは何年に彫刻されましたか？",
+      "options": [
+        "1718",
+        "1720",
+        "1705"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "モンスの看板Le Gantはどの通りにありますか？",
+      "options": [
+        "Rue de la Chaussée",
+        "Grand'Rue",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "BF IHS IL": [
+    {
+      "question": "BF IHS IL のクリストグラムにはどのようなモチーフがありますか？",
+      "options": [
+        "ハートと3本の釘",
+        "十字架と王冠",
+        "天使と星"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "BF IHS IL のクリストグラムはおそらくどの時代に作成されましたか？",
+      "options": [
+        "16世紀",
+        "18世紀",
+        "20世紀"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "モンスにあるBF IHS IL のクリストグラムはどの通りにありますか？",
+      "options": [
+        "Rue des Fripiers",
+        "Rue de la Chaussée",
+        "Grand'Rue"
+      ],
+      "answer": 2
+    }
+  ],
+  "A la Couronne Grand Rue": [
+    {
+      "question": "'À la Couronne'の看板に浮彫で表現されているモチーフは何ですか？",
+      "options": [
+        "ライオン",
+        "伯爵の王冠",
+        "フルール・ド・リス"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "伯爵の王冠は何世紀に彫刻されましたか？",
+      "options": [
+        "18世紀に",
+        "17世紀に",
+        "19世紀に"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "'À la Couronne'の看板はどの通りにありますか？",
+      "options": [
+        "グランル街",
+        "シャウセ通り",
+        "フリピエ通り"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Ville d'Avesnes": [
+    {
+      "question": "'À la Ville d'Avesnes'の看板にはどのようなモチーフが浮彫りされていますか？",
+      "options": [
+        "モンスの風景",
+        "市場のシーン",
+        "アヴェンヌの表現"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "'À la Ville d'Avesnes'の看板は何年に作成されましたか？",
+      "options": [
+        "1724",
+        "1710",
+        "1735"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "'À la Ville d'Avesnes'の看板はどの通りにありますか？",
+      "options": [
+        "Rue de la Chaussée",
+        "Grand'Rue",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Cantoria Roland de Lassus": [
+    {
+      "question": "ロラン・ド・ラリュスの記念碑の3人の聖歌隊員に使用されている材料は何ですか？",
+      "options": [
+        "ブロンズ",
+        "大理石",
+        "石"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "ロラン・ド・ラリュスの記念碑は何年に開幕されましたか？",
+      "options": [
+        "1965",
+        "1970",
+        "1980"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "モンスにあるロラン・ド・ラリュスの記念碑はどの通りにありますか？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Fripiers",
+        "Rue du Chapitre"
+      ],
+      "answer": 2
+    }
+  ],
+  "Loge maconnique Rue Chisaire": [
+    {
+      "question": "フリーメイソンのロッジのファサードに見えるシンボルは何ですか？",
+      "options": [
+        "宗教的シンボル",
+        "フリーメイソンのシンボル",
+        "軍事シンボル"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "フリーメイソンのロッジは何年に設立されましたか？",
+      "options": [
+        "1804",
+        "1850",
+        "1776"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "モンスにあるフリーメイソンのロッジはどの通りにありますか？",
+      "options": [
+        "Rue Chisaire",
+        "Rue de la Chaussée",
+        "Rue de Nimy"
+      ],
+      "answer": 0
+    }
+  ],
+  "St Franciscus Kring": [
+    {
+      "question": "マスケリエ通り31番地にある旧家の名前は何ですか？",
+      "options": [
+        "ワロンの家",
+        "ベルギー人の家",
+        "フラマンの家"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "サン・フランシスカス・クリングはどのような建物ですか？",
+      "options": [
+        "家",
+        "教会",
+        "博物館"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "モンスにあるサン・フランシスカス・クリングはどの通りにありますか？",
+      "options": [
+        "シャセ通り",
+        "マスケリエ通り",
+        "ニミ通り"
+      ],
+      "answer": 1
+    }
+  ],
+  "Rue Cronque": [
+    {
+      "question": "'cronque'という言葉のモントワ方言での意味は何ですか？",
+      "options": [
+        "曲がりくねった",
+        "広い",
+        "真っ直ぐ"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Rue Cronqueの舗装で見られる注目すべき特徴は何ですか？",
+      "options": [
+        "古い井戸",
+        "神秘的な十字架",
+        "噴水"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Rue Cronqueはどの場所に通じていますか？",
+      "options": [
+        "グランプラス",
+        "サン・ヴァンサン大聖堂",
+        "城公園"
+      ],
+      "answer": 2
+    }
+  ],
+  "Chasse du Bon Dieu": [
+    {
+      "question": "モンスのシャス・デュ・ボン・デューはどのような種類の通りですか？",
+      "options": [
+        "大きな通り",
+        "狭い路地",
+        "公共広場"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "この狩りの名前のインスピレーションとなったキリストの名前は何ですか？",
+      "options": [
+        "慈悲のキリスト",
+        "奇跡のキリスト",
+        "哀れみの善なる神"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "シャス・デュ・ボン・デューは古いモンスのどの側面を表していますか？",
+      "options": [
+        "古い都市の布",
+        "現代の大通り",
+        "大きな広場"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rampe Borgnagache": [
+    {
+      "question": "モンス方言で「Borgnagache」という名前に関連付けられている鳥はどれですか？",
+      "options": [
+        "クロウタドリ",
+        "ハト",
+        "カササギ"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "「Borgnagache」という名前に関連する病院の創設者は誰ですか？",
+      "options": [
+        "ジャンとジャック・ボルグナガッシュ",
+        "ピエールとポール・デュポン",
+        "マリーとルイ・マルタン"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "モンスのどの地区にボルグナガッシュの坂がありますか？",
+      "options": [
+        "グランプラス地区",
+        "コレギアータ地区",
+        "駅地区"
+      ],
+      "answer": 1
+    }
+  ],
+  "Rue de la Grosse Pomme": [
+    {
+      "question": "グロス・ポム通りを通った伝統的なイベントは何ですか？",
+      "options": [
+        "ゴールデンカーの行列",
+        "モンスのカーニバル",
+        "サン・ヴァンサンのフェア"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "グロス・ポム通りと古い中世の城壁との関係は何ですか？",
+      "options": [
+        "それは交易路でした",
+        "それは防御壁の記憶を保持しています",
+        "それは城の場所でした"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "グロス・ポム通りの近くにある記念碑は何ですか？",
+      "options": [
+        "モンスの鐘楼",
+        "モンスのグランプラス",
+        "サン・ウォードルの大聖堂"
+      ],
+      "answer": 2
+    }
+  ],
+  "Rue des Cinq Visages": [
+    {
+      "question": "五つの顔に関連する神秘を呼び起こす通りの名前は何ですか？",
+      "options": [
+        "Rue de la Collégiale",
+        "Rue des Cinq Visages",
+        "Rue du Beffroi"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Rue des Cinq Visagesは、どの古代の構造物の道筋を大まかにたどっていますか？",
+      "options": [
+        "ローマの水道橋",
+        "産業用運河",
+        "中世の囲い"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Rue des Cinq Visagesはモンスのどの地区にありますか？",
+      "options": [
+        "サント・ウォードル大聖堂地区",
+        "グランプラス地区",
+        "アート地区"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rampe Sainte Waudru": [
+    {
+      "question": "三位一体の毎週日曜日にサント・ワドゥルの坂で行われるイベントは何ですか？",
+      "options": [
+        "クラフトフェアが開催される",
+        "クラシック音楽のコンサートが行われる",
+        "金の車は止まらずに坂を登らなければならない"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "金の車が坂で止まった場合の結果は何ですか？",
+      "options": [
+        "一年以内に不幸が街を襲う",
+        "行列はキャンセルされる",
+        "その山車はもう使えなくなる"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "サント・ワドゥルの坂はモンスのどの象徴的なモニュメントに通じていますか？",
+      "options": [
+        "モンスの鐘楼",
+        "サント・ワドゥルの大聖堂",
+        "モンスのグランプラス"
+      ],
+      "answer": 1
+    }
+  ],
+  "Rue de la Voussure": [
+    {
+      "question": "「voussure」という用語で指定される建築要素は何ですか？",
+      "options": [
+        "アーチ",
+        "窓",
+        "柱"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Rue de la Voussureのアーチ型通路はどの建物の下を通っていましたか？",
+      "options": [
+        "サン・ウォードル大聖堂",
+        "サン・ジェルマン教会",
+        "モンスの鐘楼"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Rue de la Voussureのおおよその長さはどれくらいですか？",
+      "options": [
+        "100メートル",
+        "25メートル",
+        "50メートル"
+      ],
+      "answer": 2
+    }
+  ],
+  "Rue à Degrés": [
+    {
+      "question": "Rue à Degrésはどのような種類の通りですか？",
+      "options": [
+        "歩行者専用通り",
+        "階段",
+        "商業通り"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Rue à Degrésにはどのようなアート作品がありますか？",
+      "options": [
+        "街の肖像",
+        "ブロンズ彫刻",
+        "Nevercrewの壁画"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Rue à Degrésはモンスのどの地区にありますか？",
+      "options": [
+        "ラショ区",
+        "グランプラス地区",
+        "ベルフロイ地区"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rue de la Peine Perdue": [
+    {
+      "question": "Rue de la Peine Perdueの近くにあるサン・エリザベス教会を特徴づける建築様式は何ですか？",
+      "options": [
+        "ルネサンス",
+        "モダン",
+        "バロックとゴシック"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "この通りの名前のインスピレーションとなった表現「peine perdue」の意味は何ですか？",
+      "options": [
+        "無駄な努力",
+        "確実な成功",
+        "値する報酬"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Rue de la Peine Perdueはモンスのどの地区にありますか？",
+      "options": [
+        "グランプラス地区",
+        "旧モンス地区",
+        "コレジアル地区"
+      ],
+      "answer": 1
+    }
+  ],
+  "Cour du Noir Lévrier": [
+    {
+      "question": "Cour du Noir Lévrierに関連する動物は何ですか？",
+      "options": [
+        "黒いグレイハウンド",
+        "猫",
+        "馬"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "モンスにある他のどの場所が名前にグレイハウンドの言及を持っていますか？",
+      "options": [
+        "職人の通り",
+        "白いグレイハウンド",
+        "市場広場"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Cour du Noir Lévrierはどのようなタイプの空間ですか？",
+      "options": [
+        "大きな大通り",
+        "公共公園",
+        "舗装された行き止まり"
+      ],
+      "answer": 2
+    }
+  ],
+  "Cour de l'Âne Barré": [
+    {
+      "question": "この中庭の名前にある「barré」という用語は、ロバに関してどのような意味ですか？",
+      "options": [
+        "鎖でつながれたロバ",
+        "背中に暗いストライプがあること",
+        "小型のロバ"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "バレロバのような看板は、なぜ非識字者にとって重要だったのですか？",
+      "options": [
+        "施設の質を示した",
+        "権力の象徴だった",
+        "方向を見つけるための目印として機能した"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "バレロバの中庭は、どの有名な広場の近くにありますか？",
+      "options": [
+        "グランプラス",
+        "公園広場",
+        "市場広場"
+      ],
+      "answer": 0
+    }
+  ],
+  "Ruelle aux Quinettes": [
+    {
+      "question": "Ruelle aux Quinettes の歴史的な名前は何ですか？",
+      "options": [
+        "Rachot",
+        "Cronque",
+        "Hocquinette"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Ruelle aux Quinettes はどの地区にありますか？",
+      "options": [
+        "Rachot 地区",
+        "グランプラス",
+        "アート地区"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Ruelle aux Quinettes の特徴は何ですか？",
+      "options": [
+        "非常に広い",
+        "非常に親密で狭い",
+        "歴史的なモニュメントに囲まれている"
+      ],
+      "answer": 1
+    }
+  ],
+  "Rue des Clercs": [
+    {
+      "question": "クレール通りから見える象徴的な建物は何ですか？",
+      "options": [
+        "鐘楼",
+        "サン・ウォードル大聖堂",
+        "美術館"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "クレール通りと聖職者の歴史的な関係は何ですか？",
+      "options": [
+        "彼らは皮革職人でした",
+        "彼らは書き手と教会の人々でした",
+        "彼らはワイン商人でした"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "クレール通りにあるどの家がユネスコの世界遺産の家になりましたか？",
+      "options": [
+        "職人の家",
+        "芸術の家",
+        "スペインの家"
+      ],
+      "answer": 2
+    }
+  ],
+  "Rampe du Château": [
+    {
+      "question": "Rampe du Château にはどのような表面が使用されていますか？",
+      "options": [
+        "アスファルト",
+        "舗装",
+        "砂利"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "バロック様式の鐘楼の前に、Rampe du Château の場所にはどの歴史的なモニュメントがありましたか？",
+      "options": [
+        "サント・ウォードル大聖堂",
+        "司教の宮殿",
+        "ヘイノー伯爵の城"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Rampe du Château はモンスのどの地区にありますか？",
+      "options": [
+        "鐘楼地区",
+        "グランプラス地区",
+        "アート地区"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rue des Gades": [
+    {
+      "question": "'Gades' はモントワ方言で何を意味しますか？",
+      "options": [
+        "畑",
+        "川",
+        "ヤギ"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Rue des Gades を特徴づける舗装の種類は何ですか？",
+      "options": [
+        "石畳",
+        "砂利",
+        "アスファルト"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Rue des Gades はモンスのどの象徴的なモニュメントの近くにありますか？",
+      "options": [
+        "大聖堂",
+        "鐘楼",
+        "グランプラス"
+      ],
+      "answer": 1
+    }
+  ],
+  "Cour du Bailly": [
+    {
+      "question": "モンスの中世の文脈において、Cour du Baillyはどのようなタイプの空間を表していますか？",
+      "options": [
+        "サービスと通行の空間",
+        "礼拝の場所",
+        "公共市場"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "モンスの歴史的文脈において、バイリフの役割は何でしたか？",
+      "options": [
+        "軍の指導者",
+        "王子の代表",
+        "地元の職人"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Cour du Baillyは古い城の後ろにあります。この城の名前は何ですか？",
+      "options": [
+        "公爵夫人の城",
+        "グランプラスの城",
+        "伯爵の城"
+      ],
+      "answer": 2
+    }
+  ],
+  "Ruelle du Cerf Blanc": [
+    {
+      "question": "Ruelle du Cerf Blancにはどのような種類の家がありますか？",
+      "options": [
+        "現代の家",
+        "17世紀の家",
+        "木製の家"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "古代のイメージにおいて白い鹿は何を象徴していますか？",
+      "options": [
+        "ペット",
+        "戦争の象徴",
+        "珍しい魔法の生き物"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Ruelle du Cerf Blancはモンスのどの地区にありますか？",
+      "options": [
+        "公園地区",
+        "グランプラス地区",
+        "コレギアート地区"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rue de l'Âtre": [
+    {
+      "question": "Rue de l'Âtreの文脈で「âtre」という言葉の意味は何ですか？",
+      "options": [
+        "一種の記念碑",
+        "歴史的地区",
+        "家の炉"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "サン・ニコラ・アン・アヴレ教会は何年に設立されましたか？",
+      "options": [
+        "1224",
+        "1300",
+        "1450"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "サン・ニコラ・アン・アヴレ教会の側面ファサードに記録されている宗教的要素は何ですか？",
+      "options": [
+        "サン・ニコラの像",
+        "苦しむキリスト",
+        "聖母を描いたステンドグラス"
+      ],
+      "answer": 1
+    }
+  ],
+  "Rue des Trois Boudins": [
+    {
+      "question": "トロワ・ブダン通りの近くにはどの建物がありますか？",
+      "options": [
+        "Le Mundaneum",
+        "La Collégiale Sainte-Waudru",
+        "Le Beffroi de Mons"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "‘Rue des Trois Boudins’という名前はおそらくどこから来ているのでしょうか？",
+      "options": [
+        "近所のジョーク",
+        "内臓店の看板",
+        "歴史的な出来事"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Mundaneumのファサードに見られる建築様式は何ですか？",
+      "options": [
+        "ゴシック",
+        "バロック",
+        "アムステルダム派表現主義"
+      ],
+      "answer": 2
+    }
+  ],
+  "Rue des Quatre Fils Aymon": [
+    {
+      "question": "四人のアイモンの息子に関連する伝説の馬の名前は何ですか？",
+      "options": [
+        "ブレイブハート",
+        "バヤール",
+        "トルネード"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "四人のアイモンの息子の通り14番地にはどのような建物がありますか？",
+      "options": [
+        "教会",
+        "博物館",
+        "古い邸宅"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "四人のアイモンの息子の伝説の主なテーマは何ですか？",
+      "options": [
+        "シャルルマーニュの逃亡",
+        "モンスの征服",
+        "グランプラスの設立"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rue des Fillettes": [
+    {
+      "question": "Rue des Fillettesと売春の歴史的な関係は何ですか？",
+      "options": [
+        "それはアーティストの集会所でした",
+        "それは花市場でした",
+        "それは中世の売春に関連していました"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Rue des Fillettesは何年に市の文書に言及されましたか？",
+      "options": [
+        "1543",
+        "1602",
+        "1450"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Monsのどの地区がRue des Fillettesの近くにありますか？",
+      "options": [
+        "アート地区",
+        "娯楽地区",
+        "歴史地区"
+      ],
+      "answer": 1
+    }
+  ],
+  "Rue de la Terre du Prince": [
+    {
+      "question": "王子の土地通りではどのような遺跡を見ることができますか？",
+      "options": [
+        "モンスの古い城壁の遺跡",
+        "古い城の廃墟",
+        "教会の基礎"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "「王子の土地」という名前に関連する領地は何ですか？",
+      "options": [
+        "ブラバント公の領地",
+        "ハイノー伯爵の領地",
+        "フランス王の領地"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "王子の土地通りはどのような歴史的建造物の近くにありますか？",
+      "options": [
+        "コレギアート教会",
+        "駅",
+        "鐘楼"
+      ],
+      "answer": 2
+    }
+  ],
+  "Rue des Sœurs Grises": [
+    {
+      "question": "灰色の修道女の服装を特徴づける色は何ですか？",
+      "options": [
+        "黒",
+        "灰色",
+        "白"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "灰色の修道女はどのような宗教共同体でしたか？",
+      "options": [
+        "ベネディクト会",
+        "シトー会",
+        "フランシスコ会の第三会"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "モンスのどの地点が灰色の修道女通りと似た歴史を共有していますか？",
+      "options": [
+        "黒い修道女通り",
+        "教会広場",
+        "教士通り"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rue de la Petite Guirlande": [
+    {
+      "question": "小さな花輪通りを通る伝統的なイベントは何ですか？",
+      "options": [
+        "モンスのデュカス",
+        "ビンシュのカーニバル",
+        "黄金の車の行列"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "'小さな花輪'という名前は、この通りの文脈で何を意味しますか？",
+      "options": [
+        "お祭りの装飾",
+        "古い職業",
+        "建物の種類"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "小さな花輪通りは駅に対してどの方向にありますか？",
+      "options": [
+        "東へ",
+        "西へ",
+        "南へ"
+      ],
+      "answer": 1
+    }
+  ],
+  "La clé rouge": [
+    {
+      "question": "'La clé rouge'の看板にはどのようなモチーフが彫られていますか？",
+      "options": [
+        "ライオン",
+        "大きな鍵",
+        "花"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "彫刻スタイルに基づいて、看板が作成された時代はいつと推定されますか？",
+      "options": [
+        "18世紀",
+        "20世紀",
+        "19世紀"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "'La clé rouge'の看板はどの通りにありますか？",
+      "options": [
+        "Rue de Nimy",
+        "Rue de la Clé d'Or",
+        "Rue de la Paix"
+      ],
+      "answer": 0
+    }
+  ]
+}

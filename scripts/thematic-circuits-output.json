@@ -1,0 +1,1367 @@
+{
+  "newPois": [
+    {
+      "name": "Rue d'Enghien",
+      "lat": 50.4545584,
+      "lng": 3.9510233,
+      "audio": "",
+      "skipUnless": "doudouMuseumOpen",
+      "desc": "Petite rue qui relie la Grand-Place au quartier du château. Si le musée du Doudou est ouvert, on la emprunte en sortant du musée vers la collégiale.",
+      "address": "Rue d'Enghien 19, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Rue Cronque",
+      "lat": 50.4544957,
+      "lng": 3.9506853,
+      "audio": "",
+      "skipUnless": "doudouMuseumOpen",
+      "desc": "Ruelle pavée qui mène vers le parc du Château, la chapelle Saint-Calixte et le beffroi.",
+      "address": "Rue Cronque, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Rampe Sainte Waudru",
+      "lat": 50.4536586,
+      "lng": 3.9479122,
+      "audio": "",
+      "desc": "Rampe qui descend de la collégiale Sainte-Waudru vers la ville basse. On y trouve notamment la fresque Alegoría de Santa Valdetrudis.",
+      "address": "Rampe Sainte-Waudru, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Rue de la Grosse Pomme",
+      "lat": 50.4538232,
+      "lng": 3.9467103,
+      "audio": "",
+      "desc": "Ruelle historique entre la collégiale et le square, au cœur du quartier canonial.",
+      "address": "Rue de la Grosse Pomme, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Rue du Chapitre",
+      "lat": 50.4533215,
+      "lng": 3.9469509,
+      "audio": "",
+      "desc": "Rue du chapitre de Sainte-Waudru, entre la collégiale et le square Saint-Germain.",
+      "address": "Rue du Chapitre, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Rue des Fripiers",
+      "lat": 50.4521674,
+      "lng": 3.9503927,
+      "audio": "",
+      "desc": "Rue commerçante qui relie la Grand-Place à la Grand'Rue, bordée de boutiques et de façades anciennes.",
+      "address": "Rue des Fripiers, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Thanks Galerie",
+      "lat": 50.4519183,
+      "lng": 3.9510358,
+      "audio": "",
+      "desc": "Galerie d'art contemporain au 22 rue des Fripiers, au cœur des rues commerçantes.",
+      "address": "Rue des Fripiers 22, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Lask'Art",
+      "lat": 50.4520077,
+      "lng": 3.9514806,
+      "audio": "",
+      "desc": "Galerie Lask'Art, au 32 rue des Fripiers, dédiée à la création artistique.",
+      "address": "Rue des Fripiers 32, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Rue de la Coupe",
+      "lat": 50.4532498,
+      "lng": 3.9521253,
+      "audio": "",
+      "desc": "Ancienne rue commerçante. On y trouve notamment l'enseigne À la Coupe d'Or, un ciboire sculpté.",
+      "address": "Rue de la Coupe, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Grand'Rue",
+      "lat": 50.4504568,
+      "lng": 3.9492771,
+      "audio": "",
+      "desc": "Grande artère commerçante de Mons, entre la Grand-Place et le quartier de la gare.",
+      "address": "Grand'Rue 70, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Rue d'Havre",
+      "lat": 50.4537358,
+      "lng": 3.9540512,
+      "audio": "",
+      "desc": "L'une des plus anciennes rues commerçantes de Mons, particulièrement riche en enseignes de pierre.",
+      "address": "Rue d'Havré, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Laurence Vray Instant suspendu",
+      "lat": 50.4545584,
+      "lng": 3.9510233,
+      "audio": "",
+      "desc": "Fresque Instant suspendu de Laurence Vray (Belgique), rue d'Enghien 19. Un instant figé sur le mur, entre Grand-Place et beffroi.",
+      "address": "Rue d'Enghien 19, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Atelier Pica Pica Panorama",
+      "lat": 50.455065,
+      "lng": 3.9497865,
+      "audio": "",
+      "desc": "Panorama d'Atelier Pica Pica (Belgique), dans le passage Victor Hugo. Une composition collective qui ouvre la perspective urbaine.",
+      "address": "Passage Victor Hugo, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Hell'O Folks",
+      "lat": 50.4558294,
+      "lng": 3.9509141,
+      "audio": "",
+      "desc": "Folks, fresque de Hell'O (Belgique), rue du 11 Novembre 8. Univers onirique et figures hybrides.",
+      "address": "Rue du 11 Novembre 8, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Kobra Torre de Saber",
+      "lat": 50.45822,
+      "lng": 3.95255,
+      "audio": "",
+      "desc": "Torre de Saber de Kobra (Brésil), rue du Mont du Parc. Une tour du savoir peinte monumentale.",
+      "address": "Rue du Mont du Parc, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Andrea Ravo Mattoni Charles Quint",
+      "lat": 50.45855,
+      "lng": 3.9548,
+      "audio": "",
+      "desc": "Charles Quint d'Andrea Ravo Mattoni (Italie), boulevard Charles Quint 18. Réinterprétation picturale d'un portrait impérial.",
+      "address": "Boulevard Charles Quint 18, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Olivier Sonck Ivre d'histoires",
+      "lat": 50.4590444,
+      "lng": 3.9516953,
+      "audio": "",
+      "desc": "Ivre d'histoires d'Olivier Sonck (Belgique), sur les murs de la prison de Mons, rue des Barbelés.",
+      "address": "Rue des Barbelés, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Zesar Bahamonte Le Dragon",
+      "lat": 50.4585283,
+      "lng": 3.9541071,
+      "audio": "",
+      "desc": "Le Dragon de Zësar Bahamonte (Espagne), rue du Rossignol 14. Le monstre du Lumeçon dans la ville.",
+      "address": "Rue du Rossignol 14, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Zesar Bahamonte Saint Georges",
+      "lat": 50.4594013,
+      "lng": 3.9546298,
+      "audio": "",
+      "desc": "Saint-Georges de Zësar Bahamonte (Espagne), rue du Grand Jour 29. Le saint sauveur face au dragon.",
+      "address": "Rue du Grand Jour 29, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Arts2 Tunnel de la Paix",
+      "lat": 50.4600135,
+      "lng": 3.9542018,
+      "audio": "",
+      "desc": "Tunnel de la Paix, réalisé par Arts² (Belgique) dans le tunnel de la rue de la Croix-Rouge.",
+      "address": "Rue de la Croix-Rouge, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Noir Artist Don't sleep on your dream",
+      "lat": 50.458523,
+      "lng": 3.9556689,
+      "audio": "",
+      "desc": "Don't sleep on your dream de Noir Artist (Belgique), rue de Nimy 121.",
+      "address": "Rue de Nimy 121, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Andrea Ravo Mattoni Rue de Nimy 126",
+      "lat": 50.4590844,
+      "lng": 3.9560415,
+      "audio": "",
+      "desc": "Fresque d'Andrea Ravo Mattoni (Italie), rue de Nimy 126.",
+      "address": "Rue de Nimy 126, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Pierre Liebaert Je crois aux nuits",
+      "lat": 50.4584263,
+      "lng": 3.955846,
+      "audio": "",
+      "desc": "Je crois aux nuits de Pierre Liebaert (Belgique), rue de Nimy 106.",
+      "address": "Rue de Nimy 106, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Godmess Third Rua Storytelling",
+      "lat": 50.458523,
+      "lng": 3.9556689,
+      "audio": "",
+      "desc": "Storytelling de Godmess & Third Rua (Portugal), à l'entrée de l'école communale, rue de Nimy.",
+      "address": "Rue de Nimy 90, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Leonidas Giannakopoulos Global City",
+      "lat": 50.4575787,
+      "lng": 3.9550863,
+      "audio": "",
+      "desc": "Global City de Leonidas Giannakopoulos (Grèce), rue de Nimy 73.",
+      "address": "Rue de Nimy 73, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Ufocinque Passeggiando nella Storia",
+      "lat": 50.4544452,
+      "lng": 3.9591051,
+      "audio": "",
+      "desc": "Passeggiando nella Storia d'Ufocinque (Italie), sur les murs des cours de justice, rue des Arbalestriers.",
+      "address": "Rue des Arbalestriers, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Stelios Pupet Harmonizing Mons",
+      "lat": 50.4568509,
+      "lng": 3.9560421,
+      "audio": "",
+      "desc": "Harmonizing Mons de Stelios Pupet (Grèce), au croisement de la rue Antoine Clesse et de la rue du Gouverneur Maurice Damoiseaux.",
+      "address": "Rue Antoine Clesse, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Jana et JS Le couple de la rue Verte",
+      "lat": 50.456392,
+      "lng": 3.9549713,
+      "audio": "",
+      "desc": "Le couple de la rue Verte de Jana & JS (France et Autriche), rue de Nimy 42.",
+      "address": "Rue de Nimy 42, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Lola Goies Rue du Miroir",
+      "lat": 50.4546115,
+      "lng": 3.953967,
+      "audio": "",
+      "desc": "Fresque de Lola Goies / Arts² (Belgique), rue du Miroir 18.",
+      "address": "Rue du Miroir 18, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Eva Badalamenti Passage de l'ilot",
+      "lat": 50.45428,
+      "lng": 3.95322,
+      "audio": "",
+      "desc": "Fresque d'Eva Badalamenti / Arts² (Belgique), dans le passage de l'îlot.",
+      "address": "Passage de l'Îlot, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Blancbec Le monstrueux",
+      "lat": 50.4540465,
+      "lng": 3.95637,
+      "audio": "",
+      "desc": "Le monstrueux de Blancbec (Belgique), rue d'Havré 95.",
+      "address": "Rue d'Havré 95, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Oli-B L'escapade",
+      "lat": 50.45313,
+      "lng": 3.95769,
+      "audio": "",
+      "desc": "L'escapade d'Oli-B (Belgique), au jardin Gustave Jacobs.",
+      "address": "Jardin Gustave Jacobs, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Levalet L'homme des cavernes",
+      "lat": 50.4522016,
+      "lng": 3.9538262,
+      "audio": "",
+      "desc": "L'homme des cavernes de Levalet (France), rue de Houdain 1. Un personnage collé au mur, comme sorti d'un autre temps.",
+      "address": "Rue de Houdain 1, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Farm Prod Rue de la Halle",
+      "lat": 50.4521105,
+      "lng": 3.9538637,
+      "audio": "",
+      "desc": "Fresque de Farm Prod (Belgique), rue de la Halle 2.",
+      "address": "Rue de la Halle 2, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Hell'O Rue de la Halle",
+      "lat": 50.4520996,
+      "lng": 3.9541176,
+      "audio": "",
+      "desc": "Fresque de Hell'O (Belgique), rue de la Halle 5.",
+      "address": "Rue de la Halle 5, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Ilan Walbrecq Georges Cuvelier",
+      "lat": 50.4507245,
+      "lng": 3.9540359,
+      "audio": "",
+      "desc": "Montois célèbres : Georges Cuvelier, par Ilan Walbrecq / Arts², rue de la Halle 42.",
+      "address": "Rue de la Halle 42, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Cedric Le Borgne La riviere",
+      "lat": 50.4504285,
+      "lng": 3.9538515,
+      "audio": "",
+      "desc": "La rivière de Cédric Le Borgne (France), au Marché-aux-Poissons.",
+      "address": "Marché aux Poissons, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Andrea Buglisi La Gayole",
+      "lat": 50.4496948,
+      "lng": 3.9551372,
+      "audio": "",
+      "desc": "La Gayole d'Andrea Buglisi (Italie), rue des Arquebusiers 3.",
+      "address": "Rue des Arquebusiers 3, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Thomas Istasse La lune de Malapert",
+      "lat": 50.4486551,
+      "lng": 3.9521348,
+      "audio": "",
+      "desc": "Montois célèbres : la lune de Malapert, par Thomas Istasse / Arts², au croisement de la rue de la Trouille et de la rue Malapert.",
+      "address": "Rue Malapert, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Eva Badalamenti Louis Buisseret",
+      "lat": 50.4500932,
+      "lng": 3.9514941,
+      "audio": "",
+      "desc": "Montois célèbres : Louis Buisseret, par Eva Badalamenti / Arts², rue des Sœurs Noires 19.",
+      "address": "Rue des Sœurs Noires 19, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Taquen Bouquet of memory and hope",
+      "lat": 50.4500663,
+      "lng": 3.9524952,
+      "audio": "",
+      "desc": "Bouquet of memory and hope de Taquen (Espagne), rue des Chartriers 2.",
+      "address": "Rue des Chartriers 2, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Dussart Myncke True story Marche aux herbes",
+      "lat": 50.4527055,
+      "lng": 3.9527209,
+      "audio": "",
+      "desc": "True story de Calvin Dussart et Charles Myncke (Belgique), au Marché aux Herbes.",
+      "address": "Marché aux Herbes, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Dussart Myncke True story Croix Place",
+      "lat": 50.4501341,
+      "lng": 3.9519637,
+      "audio": "",
+      "desc": "True story de Calvin Dussart et Charles Myncke (Belgique), rue de Houdain / Croix-Place.",
+      "address": "Croix-Place, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Duek Eldorado",
+      "lat": 50.4521252,
+      "lng": 3.9512663,
+      "audio": "",
+      "desc": "Eldorado de Duek (Espagne), rue des Fripiers 19.",
+      "address": "Rue des Fripiers 19, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Poni Grand Rue",
+      "lat": 50.4522147,
+      "lng": 3.9496429,
+      "audio": "",
+      "desc": "Fresque de Poni (Mexique), Grand'Rue 8.",
+      "address": "Grand'Rue 8, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Paul Segard Ma ville s'endort",
+      "lat": 50.4514353,
+      "lng": 3.9495562,
+      "audio": "",
+      "desc": "Ma ville s'endort de Paul Segard (Belgique), dans le Passage du Centre.",
+      "address": "Passage du Centre, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Dulk The battle",
+      "lat": 50.4509555,
+      "lng": 3.9478935,
+      "audio": "",
+      "desc": "The battle de Dulk (Espagne), rue des Capucins 13.",
+      "address": "Rue des Capucins 13, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Celeste Gangolphe Mille et une feuille",
+      "lat": 50.4510569,
+      "lng": 3.9478446,
+      "audio": "",
+      "desc": "Mille et une feuille de Céleste Gangolphe (France), rue des Capucins 40.",
+      "address": "Rue des Capucins 40, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Nean Cybele et Poliade",
+      "lat": 50.4509383,
+      "lng": 3.9474926,
+      "audio": "",
+      "desc": "Cybèle et Poliade de Nean (Belgique), rue des Capucins 37.",
+      "address": "Rue des Capucins 37, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Momo Rue Cantimpret",
+      "lat": 50.44972,
+      "lng": 3.94515,
+      "audio": "",
+      "desc": "Fresque de Momo (États-Unis), rue Cantimpré 14.",
+      "address": "Rue Cantimpré 14, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Arkane Lalie",
+      "lat": 50.4475131,
+      "lng": 3.9487318,
+      "audio": "",
+      "desc": "Lalie d'Arkane (France), rue de Bertaimont 55.",
+      "address": "Rue de Bertaimont 55, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Zmogk The elements",
+      "lat": 50.44805,
+      "lng": 3.94655,
+      "audio": "",
+      "desc": "The elements de Zmogk (Russie), rue des Cannoniers 18.",
+      "address": "Rue des Cannoniers 18, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Tris Horizon",
+      "lat": 50.4474632,
+      "lng": 3.9447134,
+      "audio": "",
+      "desc": "Horizon de Tris (France), boulevard Sainctelette 62.",
+      "address": "Boulevard Sainctelette 62, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Dourone Boulevard Sainctelette",
+      "lat": 50.4479647,
+      "lng": 3.9439522,
+      "audio": "",
+      "desc": "Fresque de Dourone (Espagne), boulevard Sainctelette 76.",
+      "address": "Boulevard Sainctelette 76, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Daniel Eime Resistance",
+      "lat": 50.4487937,
+      "lng": 3.9403195,
+      "audio": "",
+      "desc": "Résistance de Daniel Eime (Portugal), boulevard Sainctelette 133.",
+      "address": "Boulevard Sainctelette 133, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Nadege Dauvergne Place du Beguinage",
+      "lat": 50.4493217,
+      "lng": 3.9444219,
+      "audio": "",
+      "desc": "Fresque de Nadège Dauvergne (France), place du Béguinage 13.",
+      "address": "Place du Béguinage 13, 7000 Mons, Belgium"
+    },
+    {
+      "name": "10eme ARTE L'envol des ballons",
+      "lat": 50.4521078,
+      "lng": 3.9455149,
+      "audio": "",
+      "desc": "L'envol des ballons de 10ème ARTE (Espagne), rue de l'Athénée 3.",
+      "address": "Rue de l'Athénée 3, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Arts2 Roland de Lassus",
+      "lat": 50.4520558,
+      "lng": 3.9463094,
+      "audio": "",
+      "desc": "Montois célèbres : Roland de Lassus, par les étudiants d'Arts² (Belgique), rue des Cinq Visages.",
+      "address": "Rue des Cinq Visages, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Robert Montgomery Invisible graffiti of love",
+      "lat": 50.4531394,
+      "lng": 3.9432457,
+      "audio": "",
+      "desc": "Invisible graffiti of love de Robert Montgomery (Royaume-Uni), place Léopold.",
+      "address": "Place Léopold, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Projeto Ruido Le temps",
+      "lat": 50.4554656,
+      "lng": 3.9455319,
+      "audio": "",
+      "desc": "Le temps de Projeto Ruído (Portugal), rue Claude de Bettignies 19.",
+      "address": "Rue Claude de Bettignies 19, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Margaux Del Vecchio Anto Carte",
+      "lat": 50.4541932,
+      "lng": 3.9458916,
+      "audio": "",
+      "desc": "Montois célèbres : Anto Carte, par Margaux Del Vecchio / Arts², square Roosevelt 5.",
+      "address": "Square Roosevelt 5, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Rachelle Celiane Santerre Jacques Du Broeucq",
+      "lat": 50.4530493,
+      "lng": 3.9468293,
+      "audio": "",
+      "desc": "Montois célèbres : Jacques Du Broeucq, par Rachelle & Céliane Santerre / Arts², rue du Chapitre 3.",
+      "address": "Rue du Chapitre 3, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Andrea Ravo Mattoni Sainte Waudru et ses filles",
+      "lat": 50.4528558,
+      "lng": 3.9483042,
+      "audio": "",
+      "desc": "Sainte Waudru et ses filles visitant les prisonniers, d'Andrea Ravo Mattoni (Italie), place du Chapitre 2.",
+      "address": "Place du Chapitre 2, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Ana Langeheldt Alegoria de santa Valdetrudis",
+      "lat": 50.4535487,
+      "lng": 3.9485708,
+      "audio": "",
+      "desc": "Alegoría de Santa Valdetrudis d'Ana Langeheldt (Espagne), rampe Sainte-Waudru 4.",
+      "address": "Rampe Sainte-Waudru 4, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Filip Gilissen Spread your wings",
+      "lat": 50.4532335,
+      "lng": 3.9486578,
+      "audio": "",
+      "desc": "Spread your wings de Filip Gilissen (Belgique), square Saint-Germain.",
+      "address": "Square Saint-Germain, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Nevercrew Dissipation",
+      "lat": 50.4531045,
+      "lng": 3.9507623,
+      "audio": "",
+      "desc": "Dissipation de Nevercrew (Suisse), rue à Degrés.",
+      "address": "Rue à Degrés, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A la Poire d'Or",
+      "lat": 50.455261,
+      "lng": 3.953044,
+      "audio": "",
+      "desc": "Enseigne de pierre datée de 1789 : une poire suspendue à un ruban, en demi-relief Louis XVI. Au 3 rue de Nimy.",
+      "address": "Rue de Nimy 3, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Le Gros Maillet",
+      "lat": 50.455339,
+      "lng": 3.953233,
+      "audio": "",
+      "desc": "Maillet sculpté au 9 rue de Nimy, ancienne enseigne de métier.",
+      "address": "Rue de Nimy 9, 7000 Mons, Belgium"
+    },
+    {
+      "name": "The Bootle Arms",
+      "lat": 50.45545,
+      "lng": 3.9533,
+      "audio": "",
+      "desc": "Blason rappelant le jumelage Mons–Bootle, au 14 rue de Nimy.",
+      "address": "Rue de Nimy 14, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Au Paradis",
+      "lat": 50.4555,
+      "lng": 3.9535,
+      "audio": "",
+      "desc": "Ancienne enseigne du XVIIIe siècle, Au Paradis, au 25 rue de Nimy.",
+      "address": "Rue de Nimy 25, 7000 Mons, Belgium"
+    },
+    {
+      "name": "IHS Rue de Nimy 71",
+      "lat": 50.4575,
+      "lng": 3.9553,
+      "audio": "",
+      "desc": "Christogramme IHS avec les trois clous, au 71 rue de Nimy.",
+      "address": "Rue de Nimy 71, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A le Trois Brouet",
+      "lat": 50.45756,
+      "lng": 3.95539,
+      "audio": "",
+      "desc": "À le Trois Brouet (1714) : trois brouettes sous une couronne, au 72 rue de Nimy.",
+      "address": "Rue de Nimy 72, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Saint-Pierre Rue de Nimy",
+      "lat": 50.457758,
+      "lng": 3.955472,
+      "audio": "",
+      "desc": "Enseigne de saint Pierre sculptée au 80 rue de Nimy.",
+      "address": "Rue de Nimy 80, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Aux Trois Herrents",
+      "lat": 50.4578,
+      "lng": 3.9555,
+      "audio": "",
+      "desc": "Aux Trois Herrents (1723) : trois harengs alignés en bas-relief, au 83 rue de Nimy.",
+      "address": "Rue de Nimy 83, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Armes de Mons Petit Marche",
+      "lat": 50.45785,
+      "lng": 3.95555,
+      "audio": "",
+      "desc": "Blason de Mons sur une clé d'arc, cour du Petit Marché, derrière le 83 rue de Nimy.",
+      "address": "Rue de Nimy 83, 7000 Mons, Belgium"
+    },
+    {
+      "name": "IHS dans un soleil",
+      "lat": 50.458,
+      "lng": 3.9555,
+      "audio": "",
+      "desc": "Christogramme IHS dans un soleil, motif religieux du XVIIIe siècle, au 89 rue de Nimy.",
+      "address": "Rue de Nimy 89, 7000 Mons, Belgium"
+    },
+    {
+      "name": "La clé rouge",
+      "lat": 50.458131,
+      "lng": 3.955611,
+      "audio": "",
+      "desc": "À la Clée Rouge : grande clé sculptée au 96 rue de Nimy.",
+      "address": "Rue de Nimy 96, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Aux Trois Verts Chapeaux",
+      "lat": 50.45831,
+      "lng": 3.9557,
+      "audio": "",
+      "desc": "Aux Trois Verts Chapeaux (1712) : trois chapeaux sculptés et peints, au 102 rue de Nimy.",
+      "address": "Rue de Nimy 102, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A la Tette d'Or",
+      "lat": 50.454012,
+      "lng": 3.9531529,
+      "audio": "",
+      "desc": "À la Tette d'Or, 15 rue d'Havré. Le motif de la tête a été buriné ; l'inscription subsiste.",
+      "address": "Rue d'Havré 15, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Le Lecteur Colas",
+      "lat": 50.4538534,
+      "lng": 3.9538185,
+      "audio": "",
+      "desc": "Le Lecteur, sculpture moderne de Colas posée en 1990 sur un ancien cartouche, au 35 rue d'Havré.",
+      "address": "Rue d'Havré 35, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Au Lion d'Or",
+      "lat": 50.4536314,
+      "lng": 3.9542501,
+      "audio": "",
+      "desc": "Au Lion d'Or (1712), 42 rue d'Havré. Cartouche ancien ; le lion a disparu.",
+      "address": "Rue d'Havré 42, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Millesime MDCCXII",
+      "lat": 50.4536494,
+      "lng": 3.9543242,
+      "audio": "",
+      "desc": "Pierre millésimée MDCCXII (1712) au 44 rue d'Havré.",
+      "address": "Rue d'Havré 44, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A la Clef d'Or",
+      "lat": 50.4536494,
+      "lng": 3.9543242,
+      "audio": "",
+      "desc": "À la Clef d'Or : clé ouvragée suspendue à un ruban, au 44 rue d'Havré.",
+      "address": "Rue d'Havré 44, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A la Tasche d'Argent",
+      "lat": 50.4536228,
+      "lng": 3.9544414,
+      "audio": "",
+      "desc": "À la Tasche d'Argent, enseigne de pierre restaurée en 1934, au 48 rue d'Havré.",
+      "address": "Rue d'Havré 48, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A la Lunette d'Or",
+      "lat": 50.4536097,
+      "lng": 3.9545189,
+      "audio": "",
+      "desc": "À la Lunette d'Or : binocle sculpté au 50 rue d'Havré.",
+      "address": "Rue d'Havré 50, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Au Renard",
+      "lat": 50.45378,
+      "lng": 3.95458,
+      "audio": "",
+      "desc": "Au Renard (1724) : renard courant en demi-relief, au 51 rue d'Havré.",
+      "address": "Rue d'Havré 51, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A la Balance d'Or",
+      "lat": 50.4537932,
+      "lng": 3.9546278,
+      "audio": "",
+      "desc": "À la Balance d'Or (1768/1873) : balance sculptée au 53 rue d'Havré.",
+      "address": "Rue d'Havré 53, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A la Paile d'Or",
+      "lat": 50.4536555,
+      "lng": 3.9557438,
+      "audio": "",
+      "desc": "À la Paile d'Or : pelle de boulanger entourée de végétaux, au 72 rue d'Havré.",
+      "address": "Rue d'Havré 72, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Au Corbeau",
+      "lat": 50.4535301,
+      "lng": 3.9571415,
+      "audio": "",
+      "desc": "Au Corbeau : oiseau sculpté sur la porte cochère du 106 rue d'Havré.",
+      "address": "Rue d'Havré 106, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Pelles a enfourner 1573",
+      "lat": 50.4537109,
+      "lng": 3.9574375,
+      "audio": "",
+      "desc": "Deux pelles de boulanger croisées portant chacune trois pains (1573). Pierre retrouvée dans le sol puis replacée sous le porche du 114 rue d'Havré.",
+      "address": "Rue d'Havré 114, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A la Faux d'Or",
+      "lat": 50.4540207,
+      "lng": 3.9577716,
+      "audio": "",
+      "desc": "À la Faux d'Or (1723) : faux sculptée au 115 rue d'Havré.",
+      "address": "Rue d'Havré 115, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A la Licorne",
+      "lat": 50.4535654,
+      "lng": 3.9577743,
+      "audio": "",
+      "desc": "À la Licorne : en réalité cheval et heaume des Franeau de Gommegnies, au 116 rue d'Havré.",
+      "address": "Rue d'Havré 116, 7000 Mons, Belgium"
+    },
+    {
+      "name": "La Croix d'Or Havre",
+      "lat": 50.4540193,
+      "lng": 3.9578396,
+      "audio": "",
+      "desc": "La Croix d'Or (1766) : croix aux extrémités fleurdelisées, au 117 rue d'Havré.",
+      "address": "Rue d'Havré 117, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Au Mousqueton d'Or",
+      "lat": 50.4538318,
+      "lng": 3.9576767,
+      "audio": "",
+      "desc": "Au Mousqueton d'Or (1726) : mousqueton en demi-relief, au 122 rue d'Havré.",
+      "address": "Rue d'Havré 122, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A la Grande Rose",
+      "lat": 50.4536731,
+      "lng": 3.9509209,
+      "audio": "",
+      "desc": "À la Grande Rose / À la Montagne : magnifique rose sculptée, remploi du XVIe siècle, au 2 rue de la Poterie.",
+      "address": "Rue de la Poterie 2, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Au Pistolet d'Or",
+      "lat": 50.453078,
+      "lng": 3.95463,
+      "audio": "",
+      "desc": "Au Pistolet d'Or (1711) : pistolet en demi-relief, au 35 rue du Hautbois.",
+      "address": "Rue du Hautbois 35, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A l'Ecaille d'Or",
+      "lat": 50.452793,
+      "lng": 3.954542,
+      "audio": "",
+      "desc": "À l'Écaille d'Or (1750) : coquille reposant sur deux palmettes, au 22 rue du Hautbois.",
+      "address": "Rue du Hautbois 22, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Fontaine Rue de Bertaimont",
+      "lat": 50.448219,
+      "lng": 3.9490427,
+      "audio": "",
+      "desc": "Fontaine à vasques en demi-relief, au 31 rue de Bertaimont.",
+      "address": "Rue de Bertaimont 31, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A la Coupe d'Or",
+      "lat": 50.4533079,
+      "lng": 3.952275,
+      "audio": "",
+      "desc": "À la Coupe d'Or : ciboire sculpté en haut-relief, au 17 rue de la Coupe.",
+      "address": "Rue de la Coupe 17, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A Saint-Antoine",
+      "lat": 50.4528783,
+      "lng": 3.9521517,
+      "audio": "",
+      "desc": "À Saint-Antoine : saint Antoine, son cochon, une chapelle et des arbres, au 37 rue de la Coupe.",
+      "address": "Rue de la Coupe 37, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Mortier et Pilon",
+      "lat": 50.4523015,
+      "lng": 3.9531652,
+      "audio": "",
+      "desc": "Enseigne moderne Mortier et Pilon, posée vers 1995 au 10 rue de Houdain.",
+      "address": "Rue de Houdain 10, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Colombe du Saint-Esprit",
+      "lat": 50.4520698,
+      "lng": 3.9525872,
+      "audio": "",
+      "desc": "Colombe en fonte dorée sur le balcon du 13 rue de Houdain.",
+      "address": "Rue de Houdain 13, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Au Paon et au Cygne",
+      "lat": 50.4519183,
+      "lng": 3.9510358,
+      "audio": "",
+      "desc": "Paon et cygne dans deux petits frontons, très discrets, au 22 rue des Fripiers.",
+      "address": "Rue des Fripiers 22, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Chateau de le Marcote",
+      "lat": 50.4578384,
+      "lng": 3.9534537,
+      "audio": "",
+      "desc": "Château de le Marcote (1689) : trois belettes courant. La maison la plus étroite de Mons, au 33 rue des Marcottes.",
+      "address": "Rue des Marcottes 33, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Cheval Dore",
+      "lat": 50.4575159,
+      "lng": 3.9511244,
+      "audio": "",
+      "desc": "Cheval sculpté sur la clé de l'entrée, au 19 rue du Parc.",
+      "address": "Rue du Parc 19, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A la Bonne Femme",
+      "lat": 50.4517015,
+      "lng": 3.9553692,
+      "audio": "",
+      "desc": "À la Bonne Femme (1723), enseigne déplacée de la rue Bertaimont, au 6 rue Spira.",
+      "address": "Rue Spira 6, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Armes de Mons Rue de la Clef",
+      "lat": 50.4536825,
+      "lng": 3.9525376,
+      "audio": "",
+      "desc": "Armes de Mons au 4 rue de la Clef : seul vestige connu de l'ancienne Grande Boucherie.",
+      "address": "Rue de la Clef 4, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A la Tete Saint-Jean",
+      "lat": 50.4535915,
+      "lng": 3.9527982,
+      "audio": "",
+      "desc": "À la Tête Saint-Jean : tête de saint Jean-Baptiste posée sur un plateau, au 9 rue de la Clef.",
+      "address": "Rue de la Clef 9, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Au Grand Laboureur",
+      "lat": 50.453052,
+      "lng": 3.9528027,
+      "audio": "",
+      "desc": "Au Grand Laboureur : inscription dans une allège du XVIIIe siècle, au 30 rue de la Clef.",
+      "address": "Rue de la Clef 30, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Blasons muets",
+      "lat": 50.4545821,
+      "lng": 3.9534775,
+      "audio": "",
+      "desc": "Blasons muets (1545) : deux écus autour d'un phylactère daté, au 8 rue du Miroir.",
+      "address": "Rue du Miroir 8, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Au Gros Visage",
+      "lat": 50.4545862,
+      "lng": 3.9536569,
+      "audio": "",
+      "desc": "Au Gros Visage (1789) : visage joufflu, ange ou allégorie du vent, au 10 rue du Miroir.",
+      "address": "Rue du Miroir 10, 7000 Mons, Belgium"
+    },
+    {
+      "name": "1582 4+W",
+      "lat": 50.4515662,
+      "lng": 3.9436238,
+      "audio": "",
+      "desc": "Écu millésimé 1582, 4+W, au 14 rue Masquelier.",
+      "address": "Rue Masquelier 14, 7000 Mons, Belgium"
+    },
+    {
+      "name": "St Franciscus Kring",
+      "lat": 50.4509875,
+      "lng": 3.9428576,
+      "audio": "",
+      "desc": "St Franciscus Kring, ancienne Maison des Flamands, au 31 rue Masquelier.",
+      "address": "Rue Masquelier 31, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Cartouche et blason Grande Triperie",
+      "lat": 50.4510891,
+      "lng": 3.9516739,
+      "audio": "",
+      "desc": "Mascaron, soleil, chiens-lions et écu, au 13 rue de la Grande Triperie.",
+      "address": "Rue de la Grande Triperie 13, 7000 Mons, Belgium"
+    },
+    {
+      "name": "16 IHS 93",
+      "lat": 50.4546804,
+      "lng": 3.9588206,
+      "audio": "",
+      "desc": "Christogramme daté 1693, au 38 rue des Groseilliers.",
+      "address": "Rue des Groseilliers 38, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Croix plume et pinceau",
+      "lat": 50.45278,
+      "lng": 3.94833,
+      "audio": "",
+      "desc": "Belle ferronnerie liée au chanoine Puissant : croix, plume et pinceau, au 3 rue Terre du Prince.",
+      "address": "Rue Terre-du-Prince 3, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Loge maconnique Rue Chisaire",
+      "lat": 50.4525489,
+      "lng": 3.9432903,
+      "audio": "",
+      "desc": "Symboles maçonniques sur la façade du 2 rue Chisaire.",
+      "address": "Rue Chisaire 2, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A la Croix d'Or Croix-Place",
+      "lat": 50.4501341,
+      "lng": 3.9519637,
+      "audio": "",
+      "desc": "À la Croix d'Or (1936) : référence à l'ancienne croix qui marquait la juridiction d'Havré, 3 Croix-Place.",
+      "address": "Croix-Place 3, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A la Ville d'Avesnes",
+      "lat": 50.4504568,
+      "lng": 3.9492771,
+      "audio": "",
+      "desc": "À la Ville d'Avesnes (1724) : petite représentation d'Avesnes en bas-relief, au 70 Grand'Rue.",
+      "address": "Grand'Rue 70, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Le Gant",
+      "lat": 50.4496294,
+      "lng": 3.9495786,
+      "audio": "",
+      "desc": "Le Gant (1718) : gant sculpté au 95 Grand'Rue.",
+      "address": "Grand'Rue 95, 7000 Mons, Belgium"
+    },
+    {
+      "name": "A la Couronne Grand Rue",
+      "lat": 50.4497713,
+      "lng": 3.9493832,
+      "audio": "",
+      "desc": "À la Couronne : couronne comtale en bas-relief, au 102 Grand'Rue.",
+      "address": "Grand'Rue 102, 7000 Mons, Belgium"
+    },
+    {
+      "name": "BF IHS IL",
+      "lat": 50.4496651,
+      "lng": 3.9493158,
+      "audio": "",
+      "desc": "Christogramme BF IHS IL, cœur et trois clous, au 104 Grand'Rue.",
+      "address": "Grand'Rue 104, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Portes du Theatre Royal",
+      "lat": 50.4544643,
+      "lng": 3.9522767,
+      "audio": "",
+      "desc": "Portes en fonte du Théâtre Royal : médaillons de Molière, Racine, Grétry et Roland de Lassus, plus le blason de Mons.",
+      "address": "Grand-Place, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Bas-relief litterature montoise",
+      "lat": 50.455492,
+      "lng": 3.951122,
+      "audio": "",
+      "desc": "Plaque de bronze de Gustave Jacobs dédiée aux créateurs de la littérature montoise : Henri Delmotte, J.-B. Descamps, Charles Letellier et Pierre Moutrieux.",
+      "address": "Jardin du Mayeur, 7000 Mons, Belgium"
+    },
+    {
+      "name": "La Belle Plebeienne",
+      "lat": 50.452961,
+      "lng": 3.96446,
+      "audio": "",
+      "desc": "La Belle Plébéienne, bronze de René Harvent (1974), dans le parc du Waux-Hall.",
+      "address": "Parc du Waux-Hall, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Buste de la reine Astrid",
+      "lat": 50.453082,
+      "lng": 3.964647,
+      "audio": "",
+      "desc": "Buste de la reine Astrid par Victor Rousseau. L'original a été volé en 2009 ; une copie a été installée en 2012.",
+      "address": "Parc du Waux-Hall, 7000 Mons, Belgium"
+    },
+    {
+      "name": "Cantoria Roland de Lassus",
+      "lat": 50.453328,
+      "lng": 3.947002,
+      "audio": "",
+      "desc": "Cantoria : monument à Roland de Lassus, trois chantres en bronze par Christian Leroy, inaugurés en 1970, rue du Chapitre.",
+      "address": "Rue du Chapitre, 7000 Mons, Belgium"
+    }
+  ],
+  "tours": {
+    "famille": {
+      "label": "Famille / essentiels",
+      "names": [
+        "Grand-place",
+        "Hotel de Ville",
+        "Fontaine du Rouge Puits",
+        "Immeuble Grand Place 28 30",
+        "Singe du Grand Garde",
+        "Statue du Dragon",
+        "Ropieur",
+        "Gillis",
+        "Mayeur",
+        "Musee du Doudou",
+        "Rue d'Enghien",
+        "Rue Cronque",
+        "Chapelle Saint Calixte",
+        "Tour Cesar",
+        "Beffroi",
+        "Maison Espagnole",
+        "Collegiale Sainte Waudru",
+        "Tresors de Sainte Waudru",
+        "Rampe Sainte Waudru",
+        "Rue de la Grosse Pomme",
+        "Rue du Chapitre",
+        "Pilori",
+        "Square",
+        "Rue des Fripiers",
+        "Thanks Galerie",
+        "Lask'Art",
+        "Rue de la Coupe",
+        "Grand-place"
+      ],
+      "meters": 3208,
+      "walkMinutes": 43,
+      "totalMinutes": 141,
+      "kmLabel": "3,2 km",
+      "timeLabel": "2h20",
+      "poiCount": 28
+    },
+    "art_est": {
+      "label": "L'Art habite la ville — Est",
+      "names": [
+        "Grand-place",
+        "Lola Goies Rue du Miroir",
+        "Eva Badalamenti Passage de l'ilot",
+        "Laurence Vray Instant suspendu",
+        "Atelier Pica Pica Panorama",
+        "Hell'O Folks",
+        "Kobra Torre de Saber",
+        "Olivier Sonck Ivre d'histoires",
+        "Arts2 Tunnel de la Paix",
+        "Zesar Bahamonte Saint Georges",
+        "Andrea Ravo Mattoni Rue de Nimy 126",
+        "Pierre Liebaert Je crois aux nuits",
+        "Godmess Third Rua Storytelling",
+        "Noir Artist Don't sleep on your dream",
+        "Andrea Ravo Mattoni Charles Quint",
+        "Zesar Bahamonte Le Dragon",
+        "Leonidas Giannakopoulos Global City",
+        "Stelios Pupet Harmonizing Mons",
+        "Jana et JS Le couple de la rue Verte",
+        "Ufocinque Passeggiando nella Storia",
+        "Grand-place"
+      ],
+      "meters": 2674,
+      "walkMinutes": 36,
+      "totalMinutes": 109,
+      "kmLabel": "2,7 km",
+      "timeLabel": "1h50",
+      "poiCount": 21
+    },
+    "art_sud": {
+      "label": "L'Art habite la ville — Sud",
+      "names": [
+        "Grand-place",
+        "Dussart Myncke True story Marche aux herbes",
+        "Levalet L'homme des cavernes",
+        "Farm Prod Rue de la Halle",
+        "Hell'O Rue de la Halle",
+        "Ilan Walbrecq Georges Cuvelier",
+        "Cedric Le Borgne La riviere",
+        "Taquen Bouquet of memory and hope",
+        "Dussart Myncke True story Croix Place",
+        "Eva Badalamenti Louis Buisseret",
+        "Thomas Istasse La lune de Malapert",
+        "Andrea Buglisi La Gayole",
+        "Oli-B L'escapade",
+        "Blancbec Le monstrueux",
+        "Grand-place"
+      ],
+      "meters": 1644,
+      "walkMinutes": 22,
+      "totalMinutes": 74,
+      "kmLabel": "1,6 km",
+      "timeLabel": "1h15",
+      "poiCount": 15
+    },
+    "art_ouest": {
+      "label": "L'Art habite la ville — Ouest",
+      "names": [
+        "Grand-place",
+        "Nevercrew Dissipation",
+        "Duek Eldorado",
+        "Poni Grand Rue",
+        "Paul Segard Ma ville s'endort",
+        "Celeste Gangolphe Mille et une feuille",
+        "Dulk The battle",
+        "Nean Cybele et Poliade",
+        "10eme ARTE L'envol des ballons",
+        "Arts2 Roland de Lassus",
+        "Andrea Ravo Mattoni Sainte Waudru et ses filles",
+        "Filip Gilissen Spread your wings",
+        "Ana Langeheldt Alegoria de santa Valdetrudis",
+        "Rachelle Celiane Santerre Jacques Du Broeucq",
+        "Lucie et les Papillons",
+        "Margaux Del Vecchio Anto Carte",
+        "Projeto Ruido Le temps",
+        "Robert Montgomery Invisible graffiti of love",
+        "Momo Rue Cantimpret",
+        "Zmogk The elements",
+        "Arkane Lalie",
+        "Tris Horizon",
+        "Dourone Boulevard Sainctelette",
+        "Nadege Dauvergne Place du Beguinage",
+        "Daniel Eime Resistance",
+        "Grand-place"
+      ],
+      "meters": 4168,
+      "walkMinutes": 56,
+      "totalMinutes": 147,
+      "kmLabel": "4,2 km",
+      "timeLabel": "2h25",
+      "poiCount": 26
+    },
+    "patrimoine": {
+      "label": "Histoire / Patrimoine",
+      "names": [
+        "Grand-place",
+        "Eglise Saint Nicolas",
+        "Eglise Sainte Elisabeth",
+        "Statue du Dragon",
+        "Hotel de Ville",
+        "Singe du Grand Garde",
+        "Ropieur",
+        "Mayeur",
+        "Gillis",
+        "Collegiale Sainte Waudru",
+        "Le Car d Or",
+        "Tresors de Sainte Waudru",
+        "Eglise Notre Dame de Messines",
+        "Grand-place"
+      ],
+      "meters": 1815,
+      "walkMinutes": 24,
+      "totalMinutes": 73,
+      "kmLabel": "1,8 km",
+      "timeLabel": "1h15",
+      "poiCount": 14
+    },
+    "curiosites_nord": {
+      "label": "Bas-reliefs — Nord (rue de Nimy)",
+      "names": [
+        "Grand-place",
+        "Theatre Royal",
+        "Portes du Theatre Royal",
+        "Immeuble Blanc Lévrier",
+        "Hotel de la Couronne",
+        "Singe du Grand Garde",
+        "Blasons muets",
+        "Au Gros Visage",
+        "A la Poire d'Or",
+        "Le Gros Maillet",
+        "The Bootle Arms",
+        "Au Paradis",
+        "IHS Rue de Nimy 71",
+        "A le Trois Brouet",
+        "Saint-Pierre Rue de Nimy",
+        "Aux Trois Herrents",
+        "Armes de Mons Petit Marche",
+        "IHS dans un soleil",
+        "La clé rouge",
+        "Aux Trois Verts Chapeaux",
+        "Grand-place"
+      ],
+      "meters": 3463,
+      "walkMinutes": 46,
+      "totalMinutes": 120,
+      "kmLabel": "3,5 km",
+      "timeLabel": "2h",
+      "poiCount": 21
+    },
+    "curiosites_est": {
+      "label": "Bas-reliefs — Est (rue d'Havré)",
+      "names": [
+        "Grand-place",
+        "A la Tette d'Or",
+        "Le Lecteur Colas",
+        "Au Lion d'Or",
+        "Millesime MDCCXII",
+        "A la Clef d'Or",
+        "A la Tasche d'Argent",
+        "A la Balance d'Or",
+        "Au Renard",
+        "A la Lunette d'Or",
+        "Au Pistolet d'Or",
+        "A l'Ecaille d'Or",
+        "A la Paile d'Or",
+        "Au Corbeau",
+        "Pelles a enfourner 1573",
+        "Au Mousqueton d'Or",
+        "A la Faux d'Or",
+        "La Croix d'Or Havre",
+        "A la Licorne",
+        "Grand-place"
+      ],
+      "meters": 2993,
+      "walkMinutes": 40,
+      "totalMinutes": 110,
+      "kmLabel": "3,0 km",
+      "timeLabel": "1h50",
+      "poiCount": 20
+    },
+    "curiosites_sud": {
+      "label": "Bas-reliefs — Sud",
+      "names": [
+        "Grand-place",
+        "Armes de Mons Rue de la Clef",
+        "A la Tete Saint-Jean",
+        "Au Grand Laboureur",
+        "Colombe du Saint-Esprit",
+        "Mortier et Pilon",
+        "A la Bonne Femme",
+        "A la Croix d'Or Croix-Place",
+        "Fontaine Rue de Bertaimont",
+        "Croix plume et pinceau",
+        "A la Grande Rose",
+        "Chateau de le Marcote",
+        "16 IHS 93",
+        "Grand-place"
+      ],
+      "meters": 2506,
+      "walkMinutes": 33,
+      "totalMinutes": 82,
+      "kmLabel": "2,5 km",
+      "timeLabel": "1h20",
+      "poiCount": 14
+    },
+    "curiosites_ouest": {
+      "label": "Bas-reliefs — Ouest",
+      "names": [
+        "Grand-place",
+        "Cheval Dore",
+        "Bas-relief litterature montoise",
+        "A la Coupe d'Or",
+        "A Saint-Antoine",
+        "Au Paon et au Cygne",
+        "Cartouche et blason Grande Triperie",
+        "Le Gant",
+        "BF IHS IL",
+        "A la Couronne Grand Rue",
+        "A la Ville d'Avesnes",
+        "Cantoria Roland de Lassus",
+        "Loge maconnique Rue Chisaire",
+        "St Franciscus Kring",
+        "Grand-place"
+      ],
+      "meters": 2702,
+      "walkMinutes": 36,
+      "totalMinutes": 88,
+      "kmLabel": "2,7 km",
+      "timeLabel": "1h30",
+      "poiCount": 15
+    },
+    "commerces": {
+      "label": "Rues commerçantes",
+      "names": [
+        "Grand-place",
+        "Office du Tourisme",
+        "Rue d'Havre",
+        "Marche aux Herbes",
+        "Rue de la Coupe",
+        "Lask'Art",
+        "Thanks Galerie",
+        "Rue des Fripiers",
+        "Grand'Rue",
+        "Grand-place"
+      ],
+      "meters": 1450,
+      "walkMinutes": 19,
+      "totalMinutes": 54,
+      "kmLabel": "1,5 km",
+      "timeLabel": "55 min",
+      "poiCount": 10
+    },
+    "complet": {
+      "label": "Visite complète",
+      "names": [
+        "Grand-place",
+        "Fontaine du Rouge Puits",
+        "Immeuble Grand Place 28 30",
+        "Hotel de Ville",
+        "Singe du Grand Garde",
+        "Statue du Dragon",
+        "Ropieur",
+        "Gillis",
+        "Mayeur",
+        "Musee du Doudou",
+        "BAM",
+        "Conservatoire Royal",
+        "Eglise Sainte Elisabeth",
+        "Palais de Justice",
+        "Maison Losseau",
+        "Maison Rue de Nimy 53",
+        "Mundaneum",
+        "Place du Parc",
+        "Chapelle des Visitandines",
+        "Ancienne Caserne de Gendarmerie",
+        "Tour Valenciennoise",
+        "Pavillons Caserne Cavalerie",
+        "Eglise Saint Nicolas",
+        "Chapelle du Belian",
+        "Marche aux Herbes",
+        "Square",
+        "Pilori",
+        "Lucie et les Papillons",
+        "Collegiale Sainte Waudru",
+        "Tresors de Sainte Waudru",
+        "Le Car d Or",
+        "Maison Espagnole",
+        "Porte Rue Courte",
+        "Chapelle Saint Calixte",
+        "Tour Cesar",
+        "Beffroi",
+        "Grand-place"
+      ],
+      "meters": 4273,
+      "walkMinutes": 57,
+      "totalMinutes": 186,
+      "kmLabel": "4,3 km",
+      "timeLabel": "3h05",
+      "poiCount": 37
+    }
+  },
+  "missing": []
+}

@@ -140,6 +140,9 @@ let markers = [];
 let directionsService;
 let directionsRenderer;
 let currentIndex = 0;
+/** Membre du patchwork Grand-Place actuellement sélectionné (audio + texte). */
+let lastClusterMember = null;
+let lastClusterHostIndex = null;
 
 function getAudioHeardIndices() {
     try {
@@ -199,11 +202,115 @@ function unlockPointNavigationAfterAudioStart(idx) {
     syncPhotoListenPrompt();
 }
 
+function getCurrentClusterHost() {
+    const loc = getLocationAtIndex(currentIndex);
+    if (loc && Array.isArray(loc.cluster) && loc.cluster.length) return loc;
+    return null;
+}
+
+function isDoudouMuseumOpen() {
+    return localStorage.getItem('mons_doudou_open') === '1';
+}
+
+function isLocationSkipped(loc) {
+    if (!loc) return false;
+    if (loc.skipUnless === 'doudouMuseumOpen') {
+        const circuit = localStorage.getItem('selectedCircuit') || '';
+        if (String(circuit).startsWith('insolite')) return false;
+        return !isDoudouMuseumOpen();
+    }
+    return false;
+}
+
+function peekNextPlayableLocation() {
+    if (!Array.isArray(filteredLocations) || currentIndex >= filteredLocations.length - 1) {
+        return null;
+    }
+    const nextIdx = findPlayableIndex(currentIndex + 1, 1);
+    if (nextIdx <= currentIndex || nextIdx >= filteredLocations.length) return null;
+    return filteredLocations[nextIdx];
+}
+
+function findPlayableIndex(startIdx, direction) {
+    const len = Array.isArray(filteredLocations) ? filteredLocations.length : 0;
+    if (!len) return 0;
+    let i = startIdx;
+    while (i >= 0 && i < len && isLocationSkipped(filteredLocations[i])) {
+        i += direction;
+    }
+    if (i < 0) {
+        i = 0;
+        while (i < len && isLocationSkipped(filteredLocations[i])) i++;
+        return Math.min(i, len - 1);
+    }
+    if (i >= len) {
+        i = len - 1;
+        while (i >= 0 && isLocationSkipped(filteredLocations[i])) i--;
+        return Math.max(i, 0);
+    }
+    return i;
+}
+
+function getLocationDisplayName(loc) {
+    if (!loc) return '';
+    if (loc.clusterTitle) return translatePoiCaption({ name: loc.clusterTitle });
+    return translatePoiCaption(loc);
+}
+
+function formatPoiDisplayLabel(label) {
+    return String(label || '')
+        .replace(/\bARTS2\b/g, 'Arts²')
+        .replace(/\bArts2\b/g, 'Arts²');
+}
+
+function translatePoiCaption(item) {
+    if (!item) return '';
+    const label = item.label || item.name || '';
+    if (!label) return '';
+    const fromLabel = translateClq('poi.' + label, '');
+    if (fromLabel && fromLabel !== 'poi.' + label && fromLabel !== '') return formatPoiDisplayLabel(fromLabel);
+    if (item.name && item.name !== label) {
+        const fromName = translateClq('poi.' + item.name, '');
+        if (fromName && fromName !== 'poi.' + item.name && fromName !== '') return formatPoiDisplayLabel(fromName);
+    }
+    return formatPoiDisplayLabel(label);
+}
+
+function getActiveDescriptionTarget() {
+    if (lastClusterMember && lastClusterMember.name) return lastClusterMember;
+    const host = getCurrentClusterHost();
+    if (host && host.cluster && host.cluster[0]) return host.cluster[0];
+    return getLocationAtIndex(currentIndex);
+}
+
 function shouldShowPhotoListenPrompt() {
     if (localStorage.getItem('museumMode') === 'true') return false;
     if (isTourFreeRoam()) return false;
     if (isPointUnlockedForNext(currentIndex)) return false;
-    return !!getLocationAtIndex(currentIndex);
+    if (getCurrentClusterHost()) return false;
+    const loc = getLocationAtIndex(currentIndex);
+    if (!loc || !loc.audio) return false;
+    return true;
+}
+
+function applyClusterHint(el) {
+    if (!el) return;
+    const main = el.querySelector('.photo-cluster-hint-main');
+    const stop = el.querySelector('.photo-cluster-hint-stop');
+    if (main) {
+        main.textContent = translateClq(
+            'photo_cluster_hint',
+            "Cliquez sur l'image qui vous intéresse"
+        );
+    }
+    if (stop) {
+        stop.textContent = translateClq(
+            'photo_cluster_hint_stop',
+            'Pour revenir au choix, cliquez sur le bouton stop dans le menu audio'
+        );
+        stop.style.setProperty('color', '#ff2d2d', 'important');
+        stop.style.setProperty('font-weight', '800', 'important');
+    }
 }
 
 function syncPhotoListenPrompt() {
@@ -212,6 +319,10 @@ function syncPhotoListenPrompt() {
     const label = btn.querySelector('.photo-listen-label');
     if (label) {
         label.textContent = translateClq('photo_listen_hint', 'Cliquez pour écouter');
+    }
+    const hint = document.getElementById('point-cluster-hint');
+    if (hint) {
+        applyClusterHint(hint);
     }
     if (shouldShowPhotoListenPrompt()) btn.removeAttribute('hidden');
     else btn.setAttribute('hidden', '');
@@ -240,7 +351,12 @@ function ensureNextButtonRef() {
 function isPoiTourDescriptionSrc(src) {
     if (!src || src === 'Chansons/air_doudou.mp3') return false;
     const loc = getLocationAtIndex(currentIndex);
-    return !!(loc && loc.audio && src === loc.audio);
+    if (!loc) return false;
+    if (loc.audio && src === loc.audio) return true;
+    if (Array.isArray(loc.cluster)) {
+        return loc.cluster.some((member) => member && member.audio === src);
+    }
+    return false;
 }
 
 function handlePoiDescriptionAudioEnded(idx) {
@@ -794,11 +910,6 @@ function setupGoogleMapsNavButton() {
 
 function updatePointPhotoForCurrentIndex() {
     if (localStorage.getItem('museumMode') === 'true') return;
-    const imageElement = document.getElementById('point-image');
-    if (!imageElement || !Array.isArray(filteredLocations)) return;
-    const current = filteredLocations[currentIndex];
-    if (!current || !current.name) return;
-    applyPointImage(imageElement, current);
     const textContainer = document.getElementById('media-display');
     if (textContainer && textContainer.style.display === 'block') {
         return;
@@ -811,6 +922,9 @@ function refreshRouteToCurrentDestination() {
     lastRouteCalculationTime = 0;
     lastRouteFitKey = null;
     updatePointPhotoForCurrentIndex();
+    if (typeof updateCurrentDisplay === 'function') {
+        updateCurrentDisplay();
+    }
     const pos = getCurrentUserLatLng();
     if (pos) {
         calculateRouteFromPosition(pos, "Votre position");
@@ -1469,7 +1583,7 @@ if (isMainPage) {
   }
 }
 
-const selectedCircuit = storedCircuit || 'grand';
+const selectedCircuit = storedCircuit || 'famille';
 const selectedCircuitStart = storedCircuitStart || 'grand_place';
 const resolvedCircuitFromStorage = storedResolvedCircuit;
 
@@ -1491,7 +1605,7 @@ function resolveActiveCircuitKey(baseCircuit, startPoint, storedVariant) {
 
   const availableKeys = Object.keys(circuits || {});
   if (availableKeys.length > 0) {
-    return availableKeys.includes('grand') ? 'grand' : availableKeys[0];
+    return availableKeys.includes('famille') ? 'famille' : availableKeys[0];
   }
 
   throw new Error('Aucun circuit disponible pour initialiser le parcours.');
@@ -1503,7 +1617,19 @@ if (!shouldForceCircuitSelection && activeCircuitKey && circuits[activeCircuitKe
   localStorage.setItem('selectedCircuitResolved', activeCircuitKey);
 }
 
-const filteredLocations = circuits[activeCircuitKey].map(i => locations[i - 1]);
+function getActiveCircuitIndices(key) {
+  if (key === 'commerces' && typeof buildCommercesIndices === 'function') {
+    try {
+      const ids = JSON.parse(localStorage.getItem('mons_commerces_selected') || '[]');
+      if (Array.isArray(ids) && ids.length) {
+        return buildCommercesIndices(ids);
+      }
+    } catch (e) {}
+  }
+  return circuits[key];
+}
+
+const filteredLocations = getActiveCircuitIndices(activeCircuitKey).map(i => locations[i - 1]);
 
 if (filteredLocations.length > 0) {
   startPoint = filteredLocations[0];
@@ -1549,22 +1675,48 @@ function encodeAssetPath(assetPath) {
         .join("/");
 }
 
-/** Liste ordonnée de chemins images à essayer (Mons, Bruxelles, Mons explicite). */
+function isRemoteImageUrl(assetPath) {
+    const value = String(assetPath || '').trim();
+    return /^https?:\/\//i.test(value) || value.startsWith('//');
+}
+
+function getKnownLocalPoiImage(location) {
+    if (!location) return '';
+    const mapped = (typeof window !== 'undefined' && window.POI_IMAGE_MAP && location.name)
+        ? window.POI_IMAGE_MAP[location.name]
+        : '';
+    if (mapped && !isRemoteImageUrl(mapped)) return mapped;
+    if (location.image && !isRemoteImageUrl(location.image)) return location.image;
+    return '';
+}
+
+/** Liste ordonnée de chemins images locaux à essayer (jamais d'URL distante). */
 function getPointImagePathCandidates(location) {
     if (!location) return [];
+    const known = getKnownLocalPoiImage(location);
+    if (known) return [known];
+
     const candidates = [];
     const seen = new Set();
     function add(path) {
-        if (!path || seen.has(path)) return;
+        if (!path || isRemoteImageUrl(path) || seen.has(path)) return;
         seen.add(path);
         candidates.push(path);
     }
 
-    if (location.image) {
-        add(location.image);
-    }
-
     const rawName = (location.name || "").trim();
+    const titleBase = poiImageBaseFromName(rawName);
+    if (titleBase) {
+        add(`images/${titleBase}.jpg`);
+        add(`images/${titleBase}.jpeg`);
+        add(`images/${titleBase}.png`);
+    }
+    const normBase = normalizeFileName(rawName);
+    if (normBase && normBase !== titleBase) {
+        add(`images/${normBase}.jpg`);
+        add(`images/${normBase}.jpeg`);
+        add(`images/${normBase}.png`);
+    }
 
     if (location.audio) {
         const fromAudioJpg = location.audio
@@ -1575,40 +1727,14 @@ function getPointImagePathCandidates(location) {
         add(fromAudioJpg.replace(/\.jpg$/i, ".jpeg"));
     }
 
-    const bases = [];
-    if (rawName) {
-        bases.push(rawName);
-        const withoutIndex = rawName.replace(/^\d+\s+/, "").trim();
-        if (withoutIndex && withoutIndex !== rawName) {
-            bases.push(withoutIndex);
-        }
-        const titleBase = poiImageBaseFromName(rawName);
-        if (titleBase) bases.push(titleBase);
-        const normBase = normalizeFileName(rawName);
-        if (normBase) bases.push(normBase);
-    }
-
-    const ordered = [];
-    for (const path of candidates) {
-        ordered.push(path);
-    }
-    for (const base of bases) {
-        for (const ext of POI_IMAGE_EXTENSIONS) {
-            const path = `images/${base}${ext}`;
-            if (!seen.has(path)) {
-                seen.add(path);
-                ordered.push(path);
-            }
-        }
-    }
-    return ordered;
+    return candidates;
 }
 
 function applyPointImage(imageElement, location) {
     if (!imageElement || !location) return;
     const candidates = getPointImagePathCandidates(location);
     if (!candidates.length) return;
-    imageElement.alt = location.name || "";
+    imageElement.alt = location.label || location.name || "";
     let index = 0;
     function tryNext() {
         if (index >= candidates.length) {
@@ -1634,8 +1760,136 @@ function applyPointImage(imageElement, location) {
     tryNext();
 }
 
+function maybeAutoUnlockSilentPoint() {
+    if (localStorage.getItem('museumMode') === 'true') return;
+    if (getCurrentClusterHost()) return;
+    const loc = getLocationAtIndex(currentIndex);
+    if (!loc || loc.audio) return;
+    unlockPointNavigationAfterAudioStart(currentIndex);
+    markAudioCompletedForIndex(currentIndex);
+}
+
+function hidePointClusterUi() {
+    const clusterEl = document.getElementById('point-cluster');
+    const hintEl = document.getElementById('point-cluster-hint');
+    if (clusterEl) {
+        clusterEl.setAttribute('hidden', '');
+        clusterEl.innerHTML = '';
+    }
+    if (hintEl) hintEl.setAttribute('hidden', '');
+}
+
+function renderPointCluster(host) {
+    const clusterEl = document.getElementById('point-cluster');
+    const hintEl = document.getElementById('point-cluster-hint');
+    const imageElement = document.getElementById('point-image');
+    if (!clusterEl || !host) return;
+
+    if (imageElement) {
+        imageElement.style.setProperty('display', 'none', 'important');
+        imageElement.setAttribute('hidden', '');
+    }
+
+    const members = host.cluster;
+    clusterEl.dataset.count = String(members.length);
+    clusterEl.innerHTML = '';
+    members.forEach((member) => {
+        const tile = document.createElement('button');
+        tile.type = 'button';
+        tile.className = 'cluster-tile';
+        if (lastClusterMember && lastClusterMember.name === member.name) {
+            tile.classList.add('is-active');
+        }
+        const img = document.createElement('img');
+        const caption = document.createElement('span');
+        caption.textContent = translatePoiCaption(member);
+        img.alt = caption.textContent;
+        applyPointImage(img, member);
+        tile.appendChild(img);
+        tile.appendChild(caption);
+        tile.addEventListener('click', (event) => {
+            event.preventDefault();
+            event.stopPropagation();
+            lastClusterMember = member;
+            lastClusterHostIndex = currentIndex;
+            clusterEl.querySelectorAll('.cluster-tile').forEach((el) => el.classList.remove('is-active'));
+            tile.classList.add('is-active');
+            if (typeof window.clqOpenUiRail === 'function') {
+                window.clqOpenUiRail('ui-rail-left-audio');
+            }
+            playLocationDescriptionAudio(member);
+        });
+        clusterEl.appendChild(tile);
+    });
+    clusterEl.removeAttribute('hidden');
+    if (hintEl) {
+        applyClusterHint(hintEl);
+        hintEl.removeAttribute('hidden');
+    }
+}
+
+function renderActivePointMedia() {
+    if (lastClusterHostIndex !== currentIndex) {
+        lastClusterMember = null;
+        lastClusterHostIndex = currentIndex;
+    }
+
+    const imageElement = document.getElementById('point-image');
+    const host = getCurrentClusterHost();
+
+    if (localStorage.getItem('museumMode') === 'true') {
+        hidePointClusterUi();
+        if (imageElement) {
+            imageElement.removeAttribute('hidden');
+            imageElement.style.removeProperty('display');
+        }
+        return;
+    }
+
+    if (host) {
+        renderPointCluster(host);
+    } else {
+        hidePointClusterUi();
+        if (imageElement) {
+            imageElement.removeAttribute('hidden');
+            imageElement.style.removeProperty('display');
+            const current = getLocationAtIndex(currentIndex);
+            if (current) applyPointImage(imageElement, current);
+        }
+        maybeAutoUnlockSilentPoint();
+    }
+    syncPhotoListenPrompt();
+}
+
+function playLocationDescriptionAudio(locLike) {
+    const target = locLike || getActiveDescriptionTarget();
+    const host = getCurrentClusterHost();
+    if (host && target) {
+        lastClusterMember = target;
+        lastClusterHostIndex = currentIndex;
+    }
+    const imageElement = document.getElementById('point-image');
+    if (target && target.audio) {
+        const textFile = poiTextFilePath(target.name);
+        playExclusiveAudio(target.audio, textFile, imageElement);
+        unlockPointNavigationAfterAudioStart(currentIndex);
+        return true;
+    }
+    const silentText = target
+        ? (getShortDescription(target.name) || getDescription(target.name))
+        : null;
+    if (silentText) showPointTextDisplay(silentText);
+    unlockPointNavigationAfterAudioStart(currentIndex);
+    markAudioCompletedForIndex(currentIndex);
+    return false;
+}
+
 function fitPointImageToFrame(imageElement) {
     imageElement = imageElement || document.getElementById('point-image');
+    const mainImage = document.getElementById('point-image');
+    if (imageElement && mainImage && imageElement !== mainImage) return;
+    const clusterEl = document.getElementById('point-cluster');
+    if (clusterEl && !clusterEl.hasAttribute('hidden')) return;
     const frame = document.getElementById('point-image-frame');
     if (!imageElement || !frame) return;
     if (!imageElement.naturalWidth || !imageElement.naturalHeight) return;
@@ -1692,6 +1946,34 @@ function schedulePointImageFit() {
     });
 }
 
+function getGuidancePhotoLocation() {
+    const host = getCurrentClusterHost();
+    if (host && lastClusterMember) return lastClusterMember;
+    return getLocationAtIndex(currentIndex);
+}
+
+function showGuidancePhotoStandin() {
+    const standin = document.getElementById('map-photo-standin');
+    if (!standin) return;
+    const loc = getGuidancePhotoLocation();
+    if (loc) {
+        applyPointImage(standin, loc);
+        standin.alt = loc.label || loc.name || '';
+    } else {
+        const mainImage = document.getElementById('point-image');
+        if (mainImage && mainImage.currentSrc) {
+            standin.src = mainImage.currentSrc;
+        }
+    }
+    standin.removeAttribute('hidden');
+}
+
+function hideGuidancePhotoStandin() {
+    const standin = document.getElementById('map-photo-standin');
+    if (!standin) return;
+    standin.setAttribute('hidden', '');
+}
+
 function showPointTextDisplay(text) {
     const frame = document.getElementById('point-image-frame');
     const imageElement = document.getElementById('point-image');
@@ -1712,11 +1994,16 @@ function showPointTextDisplay(text) {
         imageElement.style.setProperty('display', 'none', 'important');
     }
     if (typeof text === 'string') {
+        if (/<!DOCTYPE html>|<html[\s>]/i.test(text) || text.includes('<title>Page not found</title>')) {
+            return;
+        }
         currentDescriptionText = text;
         textContainer.innerText = text;
     }
     textContainer.style.display = 'block';
     textContainer.scrollTop = 0;
+    showGuidancePhotoStandin();
+    setInlineAudioControlsVisible(true);
 }
 
 function showPointImageDisplay(options) {
@@ -1737,6 +2024,10 @@ function showPointImageDisplay(options) {
             textContainer.innerText = '';
         }
     }
+    setInlineAudioControlsVisible(false);
+    if (!preserveText) {
+        hideLearnMoreButton();
+    }
     if (frame) {
         frame.style.removeProperty('display');
         frame.style.removeProperty('background-image');
@@ -1747,16 +2038,97 @@ function showPointImageDisplay(options) {
             imageElement.style.display = 'block';
         }
     }
+    renderActivePointMedia();
+    hideGuidancePhotoStandin();
     if (/android/i.test(navigator.userAgent || '') && typeof fitPointImageToFrame === 'function') {
         fitPointImageToFrame(imageElement);
     }
 }
 
 function setAudioPlayPauseIcon(playing) {
-    const btn = document.getElementById('audio-btn');
-    if (!btn) return;
-    btn.textContent = playing ? '⏸️' : '▶️';
-    btn.title = playing ? 'Pause' : 'Play';
+    const icon = playing ? '⏸️' : '▶️';
+    const title = playing ? 'Pause' : 'Play';
+    ['audio-btn', 'inline-audio-btn'].forEach((id) => {
+        const btn = document.getElementById(id);
+        if (!btn) return;
+        btn.textContent = icon;
+        btn.title = title;
+    });
+}
+
+function setInlineAudioControlsVisible(visible) {
+    const bar = document.getElementById('inline-audio-controls');
+    if (bar) {
+        if (visible) bar.removeAttribute('hidden');
+        else bar.setAttribute('hidden', '');
+    }
+    syncInlineAudioHint(visible);
+}
+
+function isInlineAudioHintDismissed() {
+    try {
+        return localStorage.getItem('mons_hide_inline_audio_hint') === '1';
+    } catch (e) {
+        return false;
+    }
+}
+
+function syncInlineAudioHint(controlsVisible) {
+    const hint = document.getElementById('inline-audio-hint');
+    if (!hint) return;
+    const show = !!controlsVisible && !isInlineAudioHintDismissed();
+    if (!show) {
+        hint.setAttribute('hidden', '');
+        return;
+    }
+    const textEl = document.getElementById('inline-audio-hint-text');
+    const dismissEl = document.getElementById('inline-audio-hint-dismiss');
+    if (textEl) {
+        textEl.textContent = translateClq(
+            'inline_audio_hint',
+            'Cliquez sur le petit carré STOP pour revenir aux images du POI, ou bien sur la flèche de direction droite pour passer au POI suivant.'
+        );
+    }
+    if (dismissEl) {
+        dismissEl.textContent = translateClq(
+            'inline_audio_hint_dismiss',
+            'Ne plus afficher ceci'
+        );
+    }
+    hint.removeAttribute('hidden');
+}
+
+function dismissInlineAudioHint() {
+    try {
+        localStorage.setItem('mons_hide_inline_audio_hint', '1');
+    } catch (e) {}
+    const hint = document.getElementById('inline-audio-hint');
+    if (hint) hint.setAttribute('hidden', '');
+}
+
+function bindInlineAudioControls() {
+    const pairs = [
+        ['inline-audio-btn', 'audio-btn'],
+        ['inline-stop-btn', 'stop-btn'],
+        ['inline-restart-btn', 'restart-btn']
+    ];
+    pairs.forEach(([fromId, toId]) => {
+        const from = document.getElementById(fromId);
+        const to = document.getElementById(toId);
+        if (!from || !to) return;
+        from.addEventListener('click', (event) => {
+            event.preventDefault();
+            to.click();
+        });
+    });
+    const dismissEl = document.getElementById('inline-audio-hint-dismiss');
+    if (dismissEl) {
+        dismissEl.addEventListener('click', (event) => {
+            event.preventDefault();
+            event.stopPropagation();
+            dismissInlineAudioHint();
+        });
+    }
 }
 
 function stopAllAudio() {
@@ -1772,6 +2144,8 @@ function stopAllAudio() {
     // Vider le texte mémorisé
     currentDescriptionText = "";
     isDoudouSongPlaying = false; // Réinitialiser le flag
+    hideLearnMoreButton();
+    poiAudioVersion = 'short';
 
     const imageElement = document.getElementById("point-image");
     const textContainer = document.getElementById("media-display");
@@ -1787,43 +2161,111 @@ function stopAllAudio() {
 
 // --- Gestionnaire de descriptions multilingues ---
 let descriptionsData = null;
+let descriptionsShortData = null;
+let poiAudioVersion = 'short';
+let lastPoiDescriptionSrc = null;
+
+function descriptionsCacheQuery() {
+    return window.APP_VERSION ? ('?v=' + encodeURIComponent(window.APP_VERSION)) : '';
+}
 
 // Fonction pour charger les descriptions multilingues
 async function loadDescriptions() {
+    const q = descriptionsCacheQuery();
     try {
-        const response = await fetch('translations/descriptions.json');
-        
+        const response = await fetch('translations/descriptions.json' + q, { cache: 'no-store' });
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
-        
-        descriptionsData = await response.json();
+        const ctype = (response.headers.get('content-type') || '').toLowerCase();
+        if (ctype.includes('text/html')) {
+            throw new Error('HTML instead of JSON');
+        }
+        const raw = await response.text();
+        if (/<!DOCTYPE html>|<html[\s>]/i.test(raw)) {
+            throw new Error('HTML instead of JSON');
+        }
+        descriptionsData = JSON.parse(raw);
     } catch (error) {
         console.error('❌ Erreur lors du chargement des descriptions:', error);
         descriptionsData = null;
     }
+    try {
+        const shortRes = await fetch('translations/descriptions_short.json' + q, { cache: 'no-store' });
+        if (!shortRes.ok) {
+            throw new Error(`HTTP error! status: ${shortRes.status}`);
+        }
+        const ctype = (shortRes.headers.get('content-type') || '').toLowerCase();
+        if (ctype.includes('text/html')) {
+            throw new Error('HTML instead of JSON');
+        }
+        const raw = await shortRes.text();
+        if (/<!DOCTYPE html>|<html[\s>]/i.test(raw)) {
+            throw new Error('HTML instead of JSON');
+        }
+        descriptionsShortData = JSON.parse(raw);
+    } catch (error) {
+        console.error('❌ Erreur lors du chargement des descriptions courtes:', error);
+        descriptionsShortData = null;
+    }
+}
+
+function getDescriptionFromStore(store, locationName, language = null) {
+    if (!store) return null;
+    const lang = language || (window.translationManager ? window.translationManager.getCurrentLanguage() : 'fr');
+    return store[lang]?.[locationName] || store.fr?.[locationName] || null;
 }
 
 // Fonction pour obtenir la description selon la langue
 function getDescription(locationName, language = null) {
     if (!descriptionsData) {
         console.warn('⚠️ Descriptions non chargées, utilisation du fichier texte');
-        return null; // Retourner null pour utiliser l'ancien système
-    }
-    
-    const lang = language || (window.translationManager ? window.translationManager.getCurrentLanguage() : 'fr');
-    const description = descriptionsData[lang]?.[locationName];
-    
-    if (description) {
-        return description;
-    } else {
-        console.warn(`⚠️ Aucune description trouvée pour ${locationName} en ${lang}`);
         return null;
+    }
+    const description = getDescriptionFromStore(descriptionsData, locationName, language);
+    if (description) return description;
+    console.warn(`⚠️ Aucune description trouvée pour ${locationName}`);
+    return null;
+}
+
+function getShortDescription(locationName, language = null) {
+    return getDescriptionFromStore(descriptionsShortData, locationName, language);
+}
+
+function hideLearnMoreButton() {
+    const btn = document.getElementById('learn-more-btn');
+    if (btn) btn.setAttribute('hidden', '');
+}
+
+function showLearnMoreButton() {
+    const btn = document.getElementById('learn-more-btn');
+    if (!btn) return;
+    const label = translateClq('learn_more_button', 'Voulez-vous en savoir plus ?');
+    btn.textContent = label;
+    btn.removeAttribute('hidden');
+}
+
+function poiTextFilePath(name) {
+    return `data/${normalizeFileName(name)}.txt` + descriptionsCacheQuery();
+}
+
+function startLongDescriptionFromLearnMore() {
+    hideLearnMoreButton();
+    const target = getActiveDescriptionTarget();
+    if (!target || !target.audio) return;
+    const longText = getDescription(target.name);
+    if (longText) showPointTextDisplay(longText);
+    playExclusiveAudio(target.audio, poiTextFilePath(target.name), document.getElementById('point-image'), null, { version: 'long' });
+    if (!longText) {
+        loadDescriptions().then(() => {
+            const next = getDescription(target.name);
+            if (next) showPointTextDisplay(next);
+        });
     }
 }
 
 // Fonction pour obtenir le chemin audio selon la langue
-function getAudioPath(baseAudioPath, language = null) {
+function getAudioPath(baseAudioPath, language = null, options = {}) {
     const lang = language || (window.translationManager ? window.translationManager.getCurrentLanguage() : 'fr');
     
     // L'air du doudou ne change pas selon la langue (élément folklorique)
@@ -1831,29 +2273,35 @@ function getAudioPath(baseAudioPath, language = null) {
         return "Chansons/air_doudou_fr.mp3";
     }
     
-    // Extraire le nom du fichier sans extension
     const pathParts = baseAudioPath.split('/');
     const fileName = pathParts[pathParts.length - 1];
     const nameWithoutExt = fileName.replace('.mp3', '');
-    
-    // Construire le nouveau chemin avec le suffixe de langue
-    const newFileName = `${nameWithoutExt}_${lang}.mp3`;
-    const newPath = pathParts.slice(0, -1).join('/') + '/' + newFileName;
-    
-    return newPath;
+    const short = options && options.short === true;
+    const newFileName = short
+        ? `${nameWithoutExt}_short_${lang}.mp3`
+        : `${nameWithoutExt}_${lang}.mp3`;
+    const dir = pathParts.slice(0, -1).join('/');
+    return (dir ? dir + '/' : '') + newFileName + descriptionsCacheQuery();
 }
 
 // --- Modification de la fonction playExclusiveAudio pour supporter le multilingue ---
-function playExclusiveAudio(src, textFile = null, imageElement = null, originalImageSrc = null) {
+function playExclusiveAudio(src, textFile = null, imageElement = null, originalImageSrc = null, options = {}) {
     const textContainer = document.getElementById("media-display");
+    const descTarget = getActiveDescriptionTarget() || (typeof filteredLocations !== 'undefined' ? filteredLocations[currentIndex] : null);
+    const isPoiDesc = isPoiTourDescriptionSrc(src);
+    const wantShort = options.version !== 'long';
+    const hasShortText = !!(isPoiDesc && descTarget && getShortDescription(descTarget.name));
+    const version = (wantShort && hasShortText) ? 'short' : 'long';
+    if (isPoiDesc) {
+        poiAudioVersion = version;
+        lastPoiDescriptionSrc = src;
+    }
+    hideLearnMoreButton();
 
-    // Si un audio est déjà en cours, on l'arrête et on réaffiche la photo
     if (currentAudio && !currentAudio.paused) {
         currentAudio.pause();
         currentAudio.currentTime = 0;
-
-        // Ne pas modifier l'affichage si c'est l'air du doudou
-        if (src !== "Chansons/air_doudou.mp3") {
+        if (src !== "Chansons/air_doudou.mp3" && version !== 'long') {
             if (imageElement && originalImageSrc) {
                 imageElement.src = originalImageSrc;
             }
@@ -1861,33 +2309,31 @@ function playExclusiveAudio(src, textFile = null, imageElement = null, originalI
         }
     }
 
-    // Obtenir le chemin audio selon la langue
-    const audioPath = getAudioPath(src);
+    const audioPath = isPoiDesc
+        ? getAudioPath(src, null, { short: version === 'short' })
+        : getAudioPath(src);
 
-    if (isPoiTourDescriptionSrc(src)) {
+    if (isPoiDesc) {
         poiDescriptionAudioIndex = currentIndex;
     } else if (src !== 'Chansons/air_doudou.mp3') {
         poiDescriptionAudioIndex = null;
     }
-    
-    // Sauvegarder la position actuelle si l'audio existe déjà et est en pause
+
     let savedCurrentTime = 0;
-    if (currentAudio && currentAudio.paused && currentAudio.src && currentAudio.readyState > 0) {
+    if (currentAudio && currentAudio.paused && currentAudio.src && currentAudio.readyState > 0 && version !== 'long') {
         savedCurrentTime = currentAudio.currentTime;
     }
-    
+
     currentAudio = new Audio(audioPath);
-    
-    // Restaurer la position si on reprend une lecture en pause
+
     if (savedCurrentTime > 0) {
-        // Attendre que l'audio soit chargé avant de restaurer la position
         currentAudio.addEventListener('loadedmetadata', () => {
             if (savedCurrentTime > 0 && savedCurrentTime < currentAudio.duration) {
                 currentAudio.currentTime = savedCurrentTime;
             }
         }, { once: true });
     }
-    
+
     function onDescriptionAudioEnded() {
         currentAudio = null;
         if (textContainer) {
@@ -1898,7 +2344,6 @@ function playExclusiveAudio(src, textFile = null, imageElement = null, originalI
             setAudioPlayPauseIcon(false);
         }
         if (src !== 'Chansons/air_doudou.mp3') {
-            showPointImageDisplay();
             if (
                 poiDescriptionAudioIndex !== null &&
                 poiDescriptionAudioIndex === currentIndex
@@ -1907,9 +2352,14 @@ function playExclusiveAudio(src, textFile = null, imageElement = null, originalI
                 poiDescriptionAudioIndex = null;
                 handlePoiDescriptionAudioEnded(idx);
             }
+            if (version === 'short' && isPoiDesc) {
+                showLearnMoreButton();
+            } else {
+                showPointImageDisplay();
+            }
         }
 
-        if (src !== 'Chansons/air_doudou.mp3' && currentIndex < filteredLocations.length - 1) {
+        if (src !== 'Chansons/air_doudou.mp3' && version !== 'short' && currentIndex < filteredLocations.length - 1) {
             const currentLang = window.translationManager
                 ? window.translationManager.getCurrentLanguage()
                 : 'fr';
@@ -1927,32 +2377,52 @@ function playExclusiveAudio(src, textFile = null, imageElement = null, originalI
     }
 
     function bindPoiDescriptionStartedUnlock(audioEl) {
-        if (!isPoiTourDescriptionSrc(src)) return;
+        if (!isPoiDesc) return;
         const idx = currentIndex;
         const onPlay = () => unlockPointNavigationAfterAudioStart(idx);
         audioEl.addEventListener('play', onPlay, { once: true });
     }
 
-    // Gestion d'erreur si le fichier audio n'existe pas
-    currentAudio.addEventListener('error', () => {
-        console.warn(`⚠️ Fichier audio ${audioPath} non trouvé, utilisation du fichier original`);
-        const fallback = new Audio(src);
+    function playFallback(path) {
+        const fallback = new Audio(path);
         currentAudio = fallback;
         bindEndedHandler(fallback);
         bindPoiDescriptionStartedUnlock(fallback);
-        if (savedCurrentTime > 0) {
-            fallback.addEventListener('loadedmetadata', () => {
-                if (savedCurrentTime > 0 && savedCurrentTime < fallback.duration) {
-                    fallback.currentTime = savedCurrentTime;
-                }
-            }, { once: true });
-        }
         fallback.play();
-    });
+    }
+
+    currentAudio.addEventListener('error', () => {
+        if (version === 'short') {
+            console.warn(`⚠️ Audio court ${audioPath} absent, lecture de la version longue`);
+            poiAudioVersion = 'long';
+            const longPath = getAudioPath(src, null, { short: false });
+            const longAudio = new Audio(longPath);
+            currentAudio = longAudio;
+            bindEndedHandler(longAudio);
+            bindPoiDescriptionStartedUnlock(longAudio);
+            longAudio.addEventListener('error', () => {
+                console.warn(`⚠️ Fichier audio ${longPath} non trouvé, utilisation du fichier original`);
+                playFallback(src);
+            }, { once: true });
+            if (descTarget) {
+                const longText = getDescription(descTarget.name);
+                if (longText) showPointTextDisplay(longText);
+            }
+            longAudio.play();
+            return;
+        }
+        console.warn(`⚠️ Fichier audio ${audioPath} non trouvé, utilisation du fichier original`);
+        playFallback(src);
+    }, { once: true });
 
     bindEndedHandler(currentAudio);
     bindPoiDescriptionStartedUnlock(currentAudio);
-    currentAudio.play();
+    const playPromise = currentAudio.play();
+    if (playPromise && typeof playPromise.catch === 'function') {
+        playPromise.catch((err) => {
+            console.warn('⚠️ Lecture audio bloquée ou échouée:', err && err.message ? err.message : err);
+        });
+    }
 
     setAudioPlayPauseIcon(true);
 
@@ -1966,25 +2436,49 @@ function playExclusiveAudio(src, textFile = null, imageElement = null, originalI
             .catch(err => console.error("Erreur de chargement paroles Doudou :", err));
     }
 
-    // Ne pas modifier l'affichage si c'est l'air du doudou
     if (textFile && imageElement && textContainer && src !== "Chansons/air_doudou.mp3") {
-        // Essayer d'abord de charger la description depuis le JSON multilingue
-        const currentLocation = filteredLocations[currentIndex];
-        if (currentLocation) {
-            const description = getDescription(currentLocation.name);
+        if (descTarget) {
+            const description = version === 'short'
+                ? (getShortDescription(descTarget.name) || getDescription(descTarget.name))
+                : getDescription(descTarget.name);
             if (description) {
                 showPointTextDisplay(description);
                 return;
             }
         }
-        
-        // Fallback : utiliser l'ancien système avec les fichiers .txt
-        fetch(textFile)
-            .then(response => response.text())
-            .then(text => {
-                showPointTextDisplay(text);
-            })
-            .catch(err => console.error("Erreur de chargement texte :", err));
+        const loadThenShow = () => {
+            if (descTarget) {
+                const description = version === 'short'
+                    ? (getShortDescription(descTarget.name) || getDescription(descTarget.name))
+                    : getDescription(descTarget.name);
+                if (description) {
+                    showPointTextDisplay(description);
+                    return true;
+                }
+            }
+            return false;
+        };
+        const fetchTxt = () => {
+            fetch(textFile, { cache: 'no-store' })
+                .then(response => {
+                    if (!response.ok) throw new Error('HTTP ' + response.status);
+                    const ctype = (response.headers.get('content-type') || '').toLowerCase();
+                    if (ctype.includes('text/html')) throw new Error('HTML fallback');
+                    return response.text();
+                })
+                .then(text => {
+                    if (!text || /<!DOCTYPE html>|<html[\s>]/i.test(text)) return;
+                    showPointTextDisplay(text);
+                })
+                .catch(err => console.error("Erreur de chargement texte :", err));
+        };
+        if (!descriptionsData) {
+            loadDescriptions().then(() => {
+                if (!loadThenShow()) fetchTxt();
+            });
+            return;
+        }
+        fetchTxt();
     }
 }
 
@@ -2450,16 +2944,16 @@ function updateLocation() {
 
     // Mettre à jour l'image seulement en mode PARCOURS. En mode musée, l'image est déjà définie.
     if (localStorage.getItem('museumMode') !== 'true') {
-        const imageElement = document.getElementById("point-image");
-        if (imageElement) {
-            const current = filteredLocations[currentIndex];
-            if (current) {
-                applyPointImage(imageElement, current);
-            }
-        }
+        renderActivePointMedia();
     }
 
     syncNextButtonState();
+    lastRouteCalculationPos = null;
+    lastRouteCalculationTime = 0;
+    lastRouteFitKey = null;
+    if (typeof updateCurrentDisplay === 'function') {
+        updateCurrentDisplay();
+    }
 
     // Vérifier si on a déjà une position utilisateur (marqueur en mémoire ou dernière position sauvegardée)
     let initialRouteCalculated = false;
@@ -2594,7 +3088,7 @@ function updateUserMarker(pos, fromGpsWatch) {
 function calculateRouteFromPosition(pos, fromName = "Votre position") {
     const destination = getRouteDestination();
     if (destination) {
-        calculateRoute(pos, destination, fromName, destination.name);
+        calculateRoute(pos, destination, fromName, getLocationDisplayName(destination) || destination.name);
     }
 }
 
@@ -2654,11 +3148,8 @@ function calculateDistanceBetweenPositions(pos1, pos2) {
 }
 
 function calculateRoute(from, to, fromName, toName) {
-    if (isUpdating) {
-        return;
-    }
-
     const requestId = ++routeRequestSeq;
+    const destIndexAtRequest = currentIndex;
     isUpdating = true;
 
     routeMarkers.forEach((marker) => marker.setMap(null));
@@ -2676,9 +3167,21 @@ function calculateRoute(from, to, fromName, toName) {
 
     directionsService.route(request, (result, status) => {
         if (requestId !== routeRequestSeq) {
+            return;
+        }
+        const liveDest = getRouteDestination();
+        const stillCurrent =
+            liveDest &&
+            to &&
+            Number(liveDest.lat) === Number(to.lat) &&
+            Number(liveDest.lng) === Number(to.lng) &&
+            (localStorage.getItem('museumMode') === 'true' ||
+                Number(destIndexAtRequest) === Number(currentIndex));
+        if (!stillCurrent) {
             isUpdating = false;
             return;
         }
+        const liveName = getLocationDisplayName(liveDest) || liveDest.name || toName;
         if (status == "OK") {
             if (!guidanceWatchActive) {
                 resetMapRotation();
@@ -2713,9 +3216,13 @@ function calculateRoute(from, to, fromName, toName) {
                 position: leg.end_location,
                 map: map,
                 icon: {
-                    url: 'https://maps.google.com/mapfiles/ms/icons/red-dot.png'
+                    url: 'data:image/svg+xml;charset=UTF-8,' + encodeURIComponent(
+                        '<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32"><circle cx="16" cy="16" r="10" fill="#ea4335" stroke="#ffffff" stroke-width="2"/></svg>'
+                    ),
+                    scaledSize: new google.maps.Size(32, 32),
+                    anchor: new google.maps.Point(16, 16)
                 },
-                title: toName
+                title: liveName
             });
             routeMarkers.push(destinationMarker);
 
@@ -2754,7 +3261,7 @@ function calculateRoute(from, to, fromName, toName) {
                         const museumTarget = emergencyPrefix || (window.translationManager ? window.translationManager.translate('museum_target') : '🎯 Musée :');
                         const estimatedTime = window.translationManager ? window.translationManager.translate('estimated_time') : 'Temps estimé :';
                         const distanceLabel = window.translationManager ? window.translationManager.translate('distance') : 'Distance :';
-                        display.textContent = `${museumTarget} ${toName} – ${estimatedTime} ${formatDuration(duration)} – ${distanceLabel} ${distance}`;
+                        display.textContent = `${museumTarget} ${liveName} – ${estimatedTime} ${formatDuration(duration)} – ${distanceLabel} ${distance}`;
                     } else {
                         const nextPoint = window.translationManager ? window.translationManager.translate('next_point') : 'Prochain point :';
                         const estimatedTime = window.translationManager ? window.translationManager.translate('estimated_time') : 'Temps estimé :';
@@ -2763,7 +3270,7 @@ function calculateRoute(from, to, fromName, toName) {
                         const scoreText = window.translationManager ? window.translationManager.translate('score') : 'Score :';
                         // Calculer le score maximum basé sur le nombre de questions posées
                         const maxScore = getMaxScoreBasedOnQuestions();
-                        display.textContent = `${nextPoint} ${toName} – ${estimatedTime} ${formatDuration(duration)} – ${distanceLabel} ${distance} – ${totalDistanceLabel} ${totalKm} km – ${scoreText} ${score}/${maxScore}`;
+                        display.textContent = `${nextPoint} ${liveName} – ${estimatedTime} ${formatDuration(duration)} – ${distanceLabel} ${distance} – ${totalDistanceLabel} ${totalKm} km – ${scoreText} ${score}/${maxScore}`;
                     }
                     display.style.opacity = "0.99";
                     void display.offsetHeight;
@@ -2777,7 +3284,7 @@ function calculateRoute(from, to, fromName, toName) {
                     const museumTarget = emergencyPrefix || (window.translationManager ? window.translationManager.translate('museum_target') : '🎯 Musée :');
                     const estimatedTime = window.translationManager ? window.translationManager.translate('estimated_time') : 'Temps estimé :';
                     const distanceLabel = window.translationManager ? window.translationManager.translate('distance') : 'Distance :';
-                    display.textContent = `${museumTarget} ${toName} – ${estimatedTime} ${formatDuration(duration)} – ${distanceLabel} ${distance}`;
+                    display.textContent = `${museumTarget} ${liveName} – ${estimatedTime} ${formatDuration(duration)} – ${distanceLabel} ${distance}`;
                 }
             }
         } else {
@@ -2820,6 +3327,7 @@ function advanceToNextPoint() {
         markAudioHeardForIndex(currentIndex);
         // Avancer normalement vers le dernier point
         currentIndex++;
+        currentIndex = findPlayableIndex(currentIndex, 1);
         steps = [];
         currentStepIndex = 0;
         localStorage.setItem("mons_currentIndex", currentIndex);
@@ -2847,6 +3355,7 @@ function advanceToNextPoint() {
 
         markAudioHeardForIndex(currentIndex);
         currentIndex++;
+        currentIndex = findPlayableIndex(currentIndex, 1);
         steps = [];
         currentStepIndex = 0;
         // Sauvegarde systématique de l'état
@@ -2949,6 +3458,119 @@ function showHomeConfirmPopup(onConfirm, onCancel) {
 
     overlay.appendChild(box);
     document.body.appendChild(overlay);
+}
+
+function showDoudouMuseumOpenPopup(onAnswered) {
+    showUniversalPopup({
+        id: 'doudou-open-popup',
+        icon1: '🏰',
+        icon2: '🎭',
+        title: translateClq('doudou_open_title', 'Musée du Doudou'),
+        message: translateClq(
+            'doudou_open_message',
+            "Le musée du Doudou est-il ouvert ?<br><br><b>Non</b> : faites demi-tour vers l'entrée de l'Hôtel de Ville, puis dirigez-vous vers le Conservatoire."
+        ),
+        buttons: [
+            {
+                label: translateClq('doudou_open_yes', 'Oui, il est ouvert'),
+                color: '#2ecc40',
+                onClick: () => {
+                    if (typeof onAnswered === 'function') onAnswered(true);
+                }
+            },
+            {
+                label: translateClq('doudou_open_no', 'Non, il est fermé'),
+                color: '#e74c3c',
+                onClick: () => {
+                    localStorage.setItem('mons_doudou_open', '0');
+                    if (typeof onAnswered === 'function') onAnswered(false);
+                }
+            }
+        ]
+    });
+}
+
+function showDoudouVisitPopup(onAnswered) {
+    showUniversalPopup({
+        id: 'doudou-visit-popup',
+        icon1: '🎟️',
+        icon2: '🎭',
+        title: translateClq('doudou_visit_title', 'Musée du Doudou'),
+        message: translateClq(
+            'doudou_visit_message',
+            "L'entrée est payante, désirez-vous visiter le musée ? Nous vous le conseillons vivement !<br><br><b>Oui</b> : visitez le musée, puis sortez par la rue du 11 novembre, puis la rue Neuve (musée CAP), puis la rue d'Enghien.<br><br><b>Non</b> : faites demi-tour et sortez par l'Hôtel de Ville."
+        ),
+        buttons: [
+            {
+                label: translateClq('doudou_visit_yes', 'Oui'),
+                color: '#2ecc40',
+                onClick: () => {
+                    localStorage.setItem('mons_doudou_open', '1');
+                    if (typeof onAnswered === 'function') onAnswered(true);
+                }
+            },
+            {
+                label: translateClq('doudou_visit_no', 'Non'),
+                color: '#e74c3c',
+                onClick: () => {
+                    localStorage.setItem('mons_doudou_open', '0');
+                    if (typeof onAnswered === 'function') onAnswered(false);
+                }
+            }
+        ]
+    });
+}
+
+function showHdvRoomsHintPopup(onClose) {
+    showUniversalPopup({
+        id: 'hdv-rooms-hint-popup',
+        icon1: '🏛️',
+        icon2: '💍',
+        title: translateClq('hdv_rooms_title', 'Hôtel de Ville'),
+        message: translateClq(
+            'hdv_rooms_message',
+            "Si vous souhaitez visiter l'Hôtel de Ville, vous pouvez entrer par la première porte à droite dans l'entrée et faire une visite gratuite des magnifiques salles.<br><br>Attention toutefois si un mariage est en cours."
+        ),
+        buttons: [
+            {
+                label: translateClq('hdv_rooms_ok', "J'ai compris"),
+                color: '#b30000',
+                onClick: () => {
+                    if (typeof onClose === 'function') onClose();
+                }
+            }
+        ]
+    });
+}
+
+function promptDoudouExitThen(thenFn) {
+    showDoudouMuseumOpenPopup((isOpen) => {
+        if (!isOpen) {
+            localStorage.setItem('mons_doudou_open', '0');
+            if (typeof thenFn === 'function') thenFn();
+            return;
+        }
+        showDoudouVisitPopup(() => {
+            if (typeof thenFn === 'function') thenFn();
+        });
+    });
+}
+
+function promptBeforeAdvancing(thenFn) {
+    const nextLoc = peekNextPlayableLocation();
+    const afterHdvHint = () => {
+        const loc = getLocationAtIndex(currentIndex);
+        if (loc && loc.askMuseumOpen) {
+            promptDoudouExitThen(thenFn);
+            return;
+        }
+        thenFn();
+    };
+    if (nextLoc && nextLoc.name === 'Ropieur') {
+        showHdvRoomsHintPopup(afterHdvHint);
+        return;
+    }
+    afterHdvHint();
 }
 
 // === Fonction pour vérifier si l'app est installée (PWA) ===
@@ -3646,6 +4268,9 @@ function initializeMainLogic() {
     
     if (savedCurrentIndex !== null) {
         currentIndex = parseInt(savedCurrentIndex);
+        if (!Number.isNaN(currentIndex)) {
+            currentIndex = findPlayableIndex(currentIndex, 1);
+        }
     }
     
     if (savedScore !== null) {
@@ -3839,6 +4464,7 @@ function disableFooterButtons() {
     if (audioControls) {
         audioControls.style.display = 'none';
     }
+    setInlineAudioControlsVisible(false);
     
     // Cacher le bouton selfie en mode musée
     const selfieBtn = document.getElementById('selfie-btn');
@@ -4846,13 +5472,38 @@ function showEndOfTourPopup() {
 
     const overlay = document.createElement('div');
     overlay.id = 'end-of-tour-overlay';
+    overlay.style.position = 'fixed';
+    overlay.style.top = '0';
+    overlay.style.left = '0';
+    overlay.style.width = '100vw';
+    overlay.style.height = '100vh';
+    overlay.style.background = 'rgba(0,0,0,0.7)';
+    overlay.style.display = 'flex';
+    overlay.style.alignItems = 'center';
+    overlay.style.justifyContent = 'center';
+    overlay.style.zIndex = '9999';
+    overlay.style.padding = '12px';
+    overlay.style.boxSizing = 'border-box';
 
     const box = document.createElement('div');
     box.className = 'end-of-tour-box';
+    box.style.background = 'url("images/parchemin.jpg") center/cover';
+    box.style.border = '4px solid #b8860b';
+    box.style.borderRadius = '18px';
+    box.style.boxShadow = '0 0 24px #0008';
+    box.style.color = '#4b2e05';
+    box.style.fontFamily = 'MedievalSharp, Arial, serif';
+    box.style.padding = '32px 24px 24px 24px';
+    box.style.maxWidth = '90vw';
+    box.style.width = '400px';
+    box.style.textAlign = 'center';
+    box.style.position = 'relative';
 
     const icon = document.createElement('div');
     icon.className = 'end-of-tour-icon';
     icon.textContent = '⚔️🐉🏆';
+    icon.style.fontSize = '2em';
+    icon.style.marginBottom = '8px';
     box.appendChild(icon);
 
     const title = document.createElement('div');
@@ -4860,13 +5511,20 @@ function showEndOfTourPopup() {
     title.textContent = window.translationManager
         ? window.translationManager.translate('victory')
         : 'Victoire !';
+    title.style.fontWeight = 'bold';
+    title.style.fontSize = '1.3em';
+    title.style.color = '#b30000';
+    title.style.marginBottom = '15px';
     box.appendChild(title);
 
     const msg = document.createElement('div');
     msg.className = 'end-of-tour-msg';
     msg.innerHTML = window.translationManager
         ? window.translationManager.translate('victory_message')
-        : "C'est la dernière étape de votre parcours !<br><br>Bravo, vous avez vaincu la Sardine !<br>La bête est terrassée !<br><br>À l'arrivée, si vous le souhaitez, vous pourrez prendre un selfie avec la Sardine !<br><br>Vous pouvez également voyager à votre guise dans les différents points du parcours si vous voulez vous rendre à un endroit particulier.";
+        : "C'est la dernière étape de votre parcours !<br><br>Bravo, vous avez vaincu le Dragon !<br>La bête est terrassée !<br><br><strong>Ein V'la co pou ein an !</strong><br><br>À l'arrivée, si vous le souhaitez, vous pourrez prendre un selfie avec Saint Georges !";
+    msg.style.marginBottom = '25px';
+    msg.style.color = '#4b2e05';
+    msg.style.lineHeight = '1.5';
     box.appendChild(msg);
 
     const btnCompris = document.createElement('button');
@@ -4874,9 +5532,17 @@ function showEndOfTourPopup() {
     btnCompris.textContent = window.translationManager
         ? window.translationManager.translate('understood')
         : 'COMPRIS';
+    btnCompris.style.background = '#b30000';
+    btnCompris.style.color = 'white';
+    btnCompris.style.fontWeight = 'bold';
+    btnCompris.style.border = 'none';
+    btnCompris.style.borderRadius = '8px';
+    btnCompris.style.padding = '12px 28px';
+    btnCompris.style.fontSize = '1.1rem';
+    btnCompris.style.cursor = 'pointer';
+    btnCompris.style.fontFamily = 'MedievalSharp, Arial, serif';
     btnCompris.addEventListener('click', () => {
-        document.body.removeChild(overlay);
-        // Afficher le bouton selfie
+        if (overlay.parentNode) overlay.parentNode.removeChild(overlay);
         const selfieBtn = document.getElementById('selfie-btn');
         if (selfieBtn) {
             selfieBtn.style.display = 'block';
@@ -4899,6 +5565,7 @@ document.addEventListener("DOMContentLoaded", () => {
     pauseBtn = document.getElementById('audio-btn');
     stopBtn = document.getElementById('stop-btn');
     restartBtn = document.getElementById('restart-btn');
+    bindInlineAudioControls();
     quizResumeBtn = document.getElementById('quiz-resume-btn');
     if (quizResumeBtn) {
         quizResumeBtn.addEventListener('click', () => resumeQuizFromFooter());
@@ -4972,23 +5639,27 @@ document.addEventListener("DOMContentLoaded", () => {
         
         stopAllAudio();
 
-        if (localStorage.getItem("mons_quizEnabled") === null) {
-            showQuizPrompt((wantsQuiz) => {
-                quizEnabled = wantsQuiz;
+        const goNext = () => {
+            if (localStorage.getItem("mons_quizEnabled") === null) {
+                showQuizPrompt((wantsQuiz) => {
+                    quizEnabled = wantsQuiz;
+                    if (quizEnabled) {
+                        showQuizForCurrentPoint(() => advanceToNextPoint());
+                    } else {
+                        advanceToNextPoint();
+                    }
+                });
+            } else {
+                quizEnabled = localStorage.getItem("mons_quizEnabled") === "true";
                 if (quizEnabled) {
                     showQuizForCurrentPoint(() => advanceToNextPoint());
                 } else {
                     advanceToNextPoint();
                 }
-            });
-        } else {
-            quizEnabled = localStorage.getItem("mons_quizEnabled") === "true";
-            if (quizEnabled) {
-                showQuizForCurrentPoint(() => advanceToNextPoint());
-            } else {
-                advanceToNextPoint();
             }
-        }
+        };
+
+        promptBeforeAdvancing(goNext);
     });
     }
 
@@ -5008,6 +5679,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 localStorage.setItem('mons_visitedPoints', JSON.stringify(visitedPoints));
             }
             currentIndex--;
+            currentIndex = findPlayableIndex(currentIndex, -1);
             // Réinitialiser le flag pour permettre l'ajout de la distance au point précédent
             distanceAlreadyAddedForCurrentPoint = false;
             steps = [];
@@ -5052,14 +5724,8 @@ document.addEventListener("DOMContentLoaded", () => {
         // Audio en pause → reprise
         if (currentAudio && currentAudio.paused) {
             if (lastAudioLang !== null && lastAudioLang !== currentLang) {
-                const current = filteredLocations[currentIndex];
-                const imageElement = document.getElementById("point-image");
-                if (current && current.audio) {
-                    const textFile = `data/${normalizeFileName(current.name)}.txt`;
-                    playExclusiveAudio(current.audio, textFile, imageElement);
-                    unlockPointNavigationAfterAudioStart(currentIndex);
-                    lastAudioLang = currentLang;
-                }
+                playLocationDescriptionAudio(getActiveDescriptionTarget());
+                lastAudioLang = currentLang;
                 setAudioPlayPauseIcon(true);
             } else {
                 if (lastAudioLang === null) {
@@ -5076,12 +5742,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
         // Aucun audio chargé → lancer la description du point
         stopAllAudio();
-        const current = getLocationAtIndex(currentIndex);
-        const imageElement = document.getElementById("point-image");
-        if(current && current.audio) {
-            const textFile = `data/${normalizeFileName(current.name)}.txt`;
-            playExclusiveAudio(current.audio, textFile, imageElement);
-            unlockPointNavigationAfterAudioStart(currentIndex);
+        const current = getActiveDescriptionTarget();
+        if (current && current.audio) {
+            playLocationDescriptionAudio(current);
             if (lastAudioLang === null) {
                 lastAudioLang = currentLang;
             }
@@ -5100,6 +5763,10 @@ document.addEventListener("DOMContentLoaded", () => {
     const photoListenBtn = document.getElementById('photo-listen-btn');
     if (photoListenBtn) {
         photoListenBtn.addEventListener('click', startCurrentPointAudioFromPhoto);
+    }
+    const learnMoreBtn = document.getElementById('learn-more-btn');
+    if (learnMoreBtn) {
+        learnMoreBtn.addEventListener('click', startLongDescriptionFromLearnMore);
     }
     syncPhotoListenPrompt();
 
@@ -5146,11 +5813,15 @@ document.addEventListener("DOMContentLoaded", () => {
             currentAudio.currentTime = 0;
             currentAudio.play();
             setAudioPlayPauseIcon(true);
-
-            // Ré-afficher le texte (description ou chanson) au redémarrage
+            hideLearnMoreButton();
             if (currentDescriptionText) {
                 showPointTextDisplay(currentDescriptionText);
             }
+            return;
+        }
+        const target = getActiveDescriptionTarget();
+        if (target && target.audio) {
+            playLocationDescriptionAudio(target);
         }
     });
     }
@@ -5513,18 +6184,18 @@ document.addEventListener('DOMContentLoaded', function() {
             
             // Relancer l'audio dans la nouvelle langue après un court délai
             setTimeout(() => {
-                if (currentLocation && currentLocation.audio) {
-                    const imageElement = document.getElementById("point-image");
-                    const textFile = `data/${normalizeFileName(currentLocation.name)}.txt`;
-                    playExclusiveAudio(currentLocation.audio, textFile, imageElement);
-                    unlockPointNavigationAfterAudioStart(currentIndex);
-                }
+                playLocationDescriptionAudio(getActiveDescriptionTarget());
             }, 100);
         }
         
         // Recharger les descriptions pour la nouvelle langue
         loadDescriptions();
         syncPhotoListenPrompt();
+        const inlineBar = document.getElementById('inline-audio-controls');
+        syncInlineAudioHint(inlineBar && !inlineBar.hasAttribute('hidden'));
+        if (typeof renderActivePointMedia === 'function') {
+            renderActivePointMedia();
+        }
         
         // Mettre à jour le splash screen si il est visible (seulement sur index.html)
         const isOnIndexPage = window.location.pathname.endsWith('index.html') || 
@@ -5544,13 +6215,19 @@ document.addEventListener('DOMContentLoaded', function() {
         setTimeout(() => {
             const textContainer = document.getElementById("media-display");
             if (textContainer && textContainer.style.display !== "none") {
-                const currentLocation = filteredLocations[currentIndex];
+                const currentLocation = getActiveDescriptionTarget();
                 if (currentLocation) {
-                    const newDescription = getDescription(currentLocation.name);
+                    const newDescription = poiAudioVersion === 'short'
+                        ? (getShortDescription(currentLocation.name) || getDescription(currentLocation.name))
+                        : getDescription(currentLocation.name);
                     if (newDescription) {
                         currentDescriptionText = newDescription;
                         textContainer.innerText = newDescription;
                     }
+                }
+                const learnMore = document.getElementById('learn-more-btn');
+                if (learnMore && !learnMore.hasAttribute('hidden')) {
+                    showLearnMoreButton();
                 }
             }
         }, 200); // Délai pour laisser le temps aux descriptions de se charger
@@ -5621,7 +6298,7 @@ function updateCurrentDisplay() {
             const totalKm = (totalDistance / 1000).toFixed(2);
             const translatedTimeValue = formatDuration(currentPointDuration);
             
-            display.textContent = `${nextPoint} ${currentLocation.name} – ${estimatedTime} ${translatedTimeValue} – ${distanceLabel} ${currentPointDistance} – ${totalDistanceLabel} ${totalKm} km – ${scoreText} ${score}/${maxScore}`;
+            display.textContent = `${nextPoint} ${getLocationDisplayName(currentLocation)} – ${estimatedTime} ${translatedTimeValue} – ${distanceLabel} ${currentPointDistance} – ${totalDistanceLabel} ${totalKm} km – ${scoreText} ${score}/${maxScore}`;
         }
     }
 }
@@ -5629,7 +6306,8 @@ function updateCurrentDisplay() {
 // Fonction pour charger les traductions du quiz
 async function loadQuizTranslations() {
     try {
-        const response = await fetch('translations/quiz_translations.json');
+        const v = window.APP_VERSION ? ('?v=' + encodeURIComponent(window.APP_VERSION)) : '';
+        const response = await fetch('translations/quiz_translations.json' + v);
         
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);

@@ -1,0 +1,674 @@
+{
+  "Rue d'Enghien 19, 7000 Mons, Belgium": {
+    "lat": 50.4545584,
+    "lng": 3.9510233,
+    "display": "19, Rue d'Enghien, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue Cronque, 7000 Mons, Belgium": {
+    "lat": 50.4544957,
+    "lng": 3.9506853,
+    "display": "Rue Cronque, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rampe Sainte-Waudru, 7000 Mons, Belgium": {
+    "lat": 50.4536586,
+    "lng": 3.9479122,
+    "display": "Rampe Sainte-Waudru, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue de la Grosse Pomme, 7000 Mons, Belgium": {
+    "lat": 50.4538232,
+    "lng": 3.9467103,
+    "display": "Rue de la Grosse Pomme, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue du Chapitre, 7000 Mons, Belgium": {
+    "lat": 50.4533215,
+    "lng": 3.9469509,
+    "display": "Rue du Chapitre, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue des Fripiers, 7000 Mons, Belgium": {
+    "lat": 50.4521674,
+    "lng": 3.9503927,
+    "display": "Rue des Fripiers, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue des Fripiers 22, 7000 Mons, Belgium": {
+    "lat": 50.4519183,
+    "lng": 3.9510358,
+    "display": "22, Rue des Fripiers, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue des Fripiers 32, 7000 Mons, Belgium": {
+    "lat": 50.4520077,
+    "lng": 3.9514806,
+    "display": "Fuego Salsa, 32, Rue des Fripiers, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue de la Coupe, 7000 Mons, Belgium": {
+    "lat": 50.4532498,
+    "lng": 3.9521253,
+    "display": "Rue de la Coupe, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Grand'Rue 70, 7000 Mons, Belgium": {
+    "lat": 50.4504568,
+    "lng": 3.9492771,
+    "display": "70, Grand-Rue, Quartier Rachot, Faubourg de Bertaimont, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue d'Havré, 7000 Mons, Belgium": {
+    "lat": 50.4537358,
+    "lng": 3.9540512,
+    "display": "Rue d'Havré, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Passage Victor Hugo, 7000 Mons, Belgium": {
+    "lat": 50.455065,
+    "lng": 3.9497865,
+    "display": "Passage Victor Hugo, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue du 11 Novembre 8, 7000 Mons, Belgium": {
+    "lat": 50.4558294,
+    "lng": 3.9509141,
+    "display": "Rue du 11 Novembre 1918, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue du Mont du Parc, 7000 Mons, Belgium": {
+    "lat": 50.4476111,
+    "lng": 3.9573541,
+    "display": "Rue du Mont Panisel, Quartier Rachot, Faubourg de la porte d'Havré, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue des Barbelés, 7000 Mons, Belgium": {
+    "lat": 50.4590444,
+    "lng": 3.9516953,
+    "display": "Rue des Barbelés, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue du Rossignol 14, 7000 Mons, Belgium": {
+    "lat": 50.4585283,
+    "lng": 3.9541071,
+    "display": "14, Rue du Rossignol, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue du Grand Jour 29, 7000 Mons, Belgium": {
+    "lat": 50.4594013,
+    "lng": 3.9546298,
+    "display": "29, Rue du Grand Jour, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue de la Croix-Rouge, 7000 Mons, Belgium": {
+    "lat": 50.4600135,
+    "lng": 3.9542018,
+    "display": "Rue de la Croix-Rouge, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue de Nimy 121, 7000 Mons, Belgium": {
+    "lat": 50.458523,
+    "lng": 3.9556689,
+    "display": "Rue de Nimy, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue de Nimy 126, 7000 Mons, Belgium": {
+    "lat": 50.4590844,
+    "lng": 3.9560415,
+    "display": "126, Rue de Nimy, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue de Nimy 106, 7000 Mons, Belgium": {
+    "lat": 50.4584263,
+    "lng": 3.955846,
+    "display": "Fondation Mons 2025, 106, Rue de Nimy, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue de Nimy 90, 7000 Mons, Belgium": {
+    "lat": 50.458523,
+    "lng": 3.9556689,
+    "display": "Rue de Nimy, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue de Nimy 73, 7000 Mons, Belgium": {
+    "lat": 50.4575787,
+    "lng": 3.9550863,
+    "display": "Office National des Pensions, 73, Rue de Nimy, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue des Arbalestriers, 7000 Mons, Belgium": {
+    "lat": 50.4544452,
+    "lng": 3.9591051,
+    "display": "Rue des Arbalestriers, Quartier Rachot, Faubourg de la porte d'Havré, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue Antoine Clesse, 7000 Mons, Belgium": {
+    "lat": 50.4568509,
+    "lng": 3.9560421,
+    "display": "Rue Antoine Clesse, Quartier Rachot, Faubourg de la porte d'Havré, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue de Nimy 42, 7000 Mons, Belgium": {
+    "lat": 50.456392,
+    "lng": 3.9549713,
+    "display": "42, Rue de Nimy, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue du Miroir 18, 7000 Mons, Belgium": {
+    "lat": 50.4546115,
+    "lng": 3.953967,
+    "display": "18;20, Rue du Miroir, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Passage de l'Îlot, 7000 Mons, Belgium": null,
+  "Rue d'Havré 95, 7000 Mons, Belgium": {
+    "lat": 50.4540465,
+    "lng": 3.95637,
+    "display": "95, Rue d'Havré, Quartier Rachot, Faubourg de la porte d'Havré, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Jardin Gustave Jacobs, 7000 Mons, Belgium": null,
+  "Rue de Houdain 1, 7000 Mons, Belgium": {
+    "lat": 50.4522016,
+    "lng": 3.9538262,
+    "display": "1, Rue de Houdain, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue de la Halle 2, 7000 Mons, Belgium": {
+    "lat": 50.4521105,
+    "lng": 3.9538637,
+    "display": "2, Rue de la Halle, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue de la Halle 5, 7000 Mons, Belgium": {
+    "lat": 50.4520996,
+    "lng": 3.9541176,
+    "display": "5, Rue de la Halle, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue de la Halle 42, 7000 Mons, Belgium": {
+    "lat": 50.4507245,
+    "lng": 3.9540359,
+    "display": "42, Rue de la Halle, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Marché aux Poissons, 7000 Mons, Belgium": {
+    "lat": 50.4504285,
+    "lng": 3.9538515,
+    "display": "Marché aux Poissons, Rue Froissart, Quartier Rachot, Faubourg de Bertaimont, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue des Arquebusiers 3, 7000 Mons, Belgium": {
+    "lat": 50.4496948,
+    "lng": 3.9551372,
+    "display": "3, Rue des Arquebusiers, Quartier Rachot, Faubourg de la porte d'Havré, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue Malapert, 7000 Mons, Belgium": {
+    "lat": 50.4486551,
+    "lng": 3.9521348,
+    "display": "Rue Malapert, Quartier Rachot, Faubourg de Bertaimont, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue des Sœurs Noires 19, 7000 Mons, Belgium": {
+    "lat": 50.4500932,
+    "lng": 3.9514941,
+    "display": "19, Rue des Sœurs Noires, Quartier Rachot, Faubourg de Bertaimont, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue des Chartriers 2, 7000 Mons, Belgium": {
+    "lat": 50.4500663,
+    "lng": 3.9524952,
+    "display": "2, Rue des Chartriers, Quartier Rachot, Faubourg de Bertaimont, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Marché aux Herbes, 7000 Mons, Belgium": {
+    "lat": 50.4527055,
+    "lng": 3.9527209,
+    "display": "Marché aux Herbes, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Croix-Place, 7000 Mons, Belgium": {
+    "lat": 50.4501341,
+    "lng": 3.9519637,
+    "display": "Croix Place, Quartier Rachot, Faubourg de Bertaimont, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue des Fripiers 19, 7000 Mons, Belgium": {
+    "lat": 50.4521252,
+    "lng": 3.9512663,
+    "display": "La Vie Moderne, 19, Rue des Fripiers, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Grand'Rue 8, 7000 Mons, Belgium": {
+    "lat": 50.4522147,
+    "lng": 3.9496429,
+    "display": "8, Grand-Rue, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Passage du Centre, 7000 Mons, Belgium": {
+    "lat": 50.4514353,
+    "lng": 3.9495562,
+    "display": "Passage du Centre, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue des Capucins 13, 7000 Mons, Belgium": {
+    "lat": 50.4509555,
+    "lng": 3.9478935,
+    "display": "Rue des Capucins, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue des Capucins 40, 7000 Mons, Belgium": {
+    "lat": 50.4510569,
+    "lng": 3.9478446,
+    "display": "40, Rue des Capucins, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue des Capucins 37, 7000 Mons, Belgium": {
+    "lat": 50.4509383,
+    "lng": 3.9474926,
+    "display": "37, Rue des Capucins, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue Cantimpré 14, 7000 Mons, Belgium": null,
+  "Rue de Bertaimont 55, 7000 Mons, Belgium": {
+    "lat": 50.4475131,
+    "lng": 3.9487318,
+    "display": "55, Rue de Bertaimont, Quartier Rachot, Faubourg de Bertaimont, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue des Cannoniers 18, 7000 Mons, Belgium": null,
+  "Boulevard Sainctelette 62, 7000 Mons, Belgium": {
+    "lat": 50.4474632,
+    "lng": 3.9447134,
+    "display": "62, Boulevard Sainctelette, Faubourg de Bertaimont, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Boulevard Sainctelette 76, 7000 Mons, Belgium": {
+    "lat": 50.4479647,
+    "lng": 3.9439522,
+    "display": "76, Boulevard Sainctelette, Faubourg de Bertaimont, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Boulevard Sainctelette 133, 7000 Mons, Belgium": {
+    "lat": 50.4487937,
+    "lng": 3.9403195,
+    "display": "Boulevard Sainctelette, Faubourg de Bertaimont, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Place du Béguinage 13, 7000 Mons, Belgium": {
+    "lat": 50.4493217,
+    "lng": 3.9444219,
+    "display": "13, Place du Béguinage, Faubourg de Bertaimont, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue de l'Athénée 3, 7000 Mons, Belgium": {
+    "lat": 50.4521078,
+    "lng": 3.9455149,
+    "display": "3, Rue de l'Athénée, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue des Cinq Visages, 7000 Mons, Belgium": {
+    "lat": 50.4520558,
+    "lng": 3.9463094,
+    "display": "Rue des Cinq Visages, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Place Léopold, 7000 Mons, Belgium": {
+    "lat": 50.4531394,
+    "lng": 3.9432457,
+    "display": "Place Léopold, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue Claude de Bettignies 19, 7000 Mons, Belgium": {
+    "lat": 50.4554656,
+    "lng": 3.9455319,
+    "display": "19, Rue Claude de Bettignies, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Square Roosevelt 5, 7000 Mons, Belgium": {
+    "lat": 50.4541932,
+    "lng": 3.9458916,
+    "display": "4;5, Square Franklin Delano Roosevelt, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue du Chapitre 3, 7000 Mons, Belgium": {
+    "lat": 50.4530493,
+    "lng": 3.9468293,
+    "display": "Secrétariat Décanal Sainte-Waudru, 3, Rue du Chapitre, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Place du Chapitre 2, 7000 Mons, Belgium": {
+    "lat": 50.4528558,
+    "lng": 3.9483042,
+    "display": "2, Place du Chapitre, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rampe Sainte-Waudru 4, 7000 Mons, Belgium": {
+    "lat": 50.4535487,
+    "lng": 3.9485708,
+    "display": "4, Rampe Sainte-Waudru, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Square Saint-Germain, 7000 Mons, Belgium": {
+    "lat": 50.4532335,
+    "lng": 3.9486578,
+    "display": "Square Saint-Germain, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue à Degrés, 7000 Mons, Belgium": {
+    "lat": 50.4531045,
+    "lng": 3.9507623,
+    "display": "Rue à Degrés, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue d'Havré 15, 7000 Mons, Belgium": {
+    "lat": 50.454012,
+    "lng": 3.9531529,
+    "display": "15, Rue d'Havré, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue d'Havré 35, 7000 Mons, Belgium": {
+    "lat": 50.4538534,
+    "lng": 3.9538185,
+    "display": "35, Rue d'Havré, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue d'Havré 42, 7000 Mons, Belgium": {
+    "lat": 50.4536314,
+    "lng": 3.9542501,
+    "display": "42, Rue d'Havré, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue d'Havré 44, 7000 Mons, Belgium": {
+    "lat": 50.4536494,
+    "lng": 3.9543242,
+    "display": "44, Rue d'Havré, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue d'Havré 48, 7000 Mons, Belgium": {
+    "lat": 50.4536228,
+    "lng": 3.9544414,
+    "display": "48, Rue d'Havré, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue d'Havré 50, 7000 Mons, Belgium": {
+    "lat": 50.4536097,
+    "lng": 3.9545189,
+    "display": "50, Rue d'Havré, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue d'Havré 51, 7000 Mons, Belgium": {
+    "lat": 50.4539191,
+    "lng": 3.9580537,
+    "display": "Rue d'Havré, Quartier Rachot, Faubourg de la porte d'Havré, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue d'Havré 53, 7000 Mons, Belgium": {
+    "lat": 50.4537932,
+    "lng": 3.9546278,
+    "display": "53, Rue d'Havré, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue d'Havré 72, 7000 Mons, Belgium": {
+    "lat": 50.4536555,
+    "lng": 3.9557438,
+    "display": "72, Rue d'Havré, Quartier Rachot, Faubourg de la porte d'Havré, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue d'Havré 106, 7000 Mons, Belgium": {
+    "lat": 50.4535301,
+    "lng": 3.9571415,
+    "display": "106, Rue d'Havré, Quartier Rachot, Faubourg de la porte d'Havré, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue d'Havré 114, 7000 Mons, Belgium": {
+    "lat": 50.4537109,
+    "lng": 3.9574375,
+    "display": "114, Rue d'Havré, Quartier Rachot, Faubourg de la porte d'Havré, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue d'Havré 115, 7000 Mons, Belgium": {
+    "lat": 50.4540207,
+    "lng": 3.9577716,
+    "display": "115, Rue d'Havré, Quartier Rachot, Faubourg de la porte d'Havré, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue d'Havré 116, 7000 Mons, Belgium": {
+    "lat": 50.4535654,
+    "lng": 3.9577743,
+    "display": "116, Rue d'Havré, Quartier Rachot, Faubourg de la porte d'Havré, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue d'Havré 117, 7000 Mons, Belgium": {
+    "lat": 50.4540193,
+    "lng": 3.9578396,
+    "display": "117, Rue d'Havré, Quartier Rachot, Faubourg de la porte d'Havré, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue d'Havré 122, 7000 Mons, Belgium": {
+    "lat": 50.4538318,
+    "lng": 3.9576767,
+    "display": "122, Rue d'Havré, Quartier Rachot, Faubourg de la porte d'Havré, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue de la Poterie 2, 7000 Mons, Belgium": {
+    "lat": 50.4536731,
+    "lng": 3.9509209,
+    "display": "2, Rue de la Poterie, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue du Hautbois 22, 7000 Mons, Belgium": {
+    "lat": 50.452793,
+    "lng": 3.954542,
+    "display": "22, Rue du Hautbois, Quartier Rachot, Faubourg de la porte d'Havré, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue de Bertaimont 31, 7000 Mons, Belgium": {
+    "lat": 50.448219,
+    "lng": 3.9490427,
+    "display": "31, Rue de Bertaimont, Quartier Rachot, Faubourg de Bertaimont, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue de la Coupe 17, 7000 Mons, Belgium": {
+    "lat": 50.4533079,
+    "lng": 3.952275,
+    "display": "17, Rue de la Coupe, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue de la Coupe 37, 7000 Mons, Belgium": {
+    "lat": 50.4528783,
+    "lng": 3.9521517,
+    "display": "37, Rue de la Coupe, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue de Houdain 10, 7000 Mons, Belgium": {
+    "lat": 50.4523015,
+    "lng": 3.9531652,
+    "display": "10, Rue de Houdain, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue de Houdain 13, 7000 Mons, Belgium": {
+    "lat": 50.4520698,
+    "lng": 3.9525872,
+    "display": "13, Rue de Houdain, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue des Marcottes 33, 7000 Mons, Belgium": {
+    "lat": 50.4578384,
+    "lng": 3.9534537,
+    "display": "33, Rue des Marcottes, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue du Parc 19, 7000 Mons, Belgium": {
+    "lat": 50.4575159,
+    "lng": 3.9511244,
+    "display": "19, Rue du Parc, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue Spira 6, 7000 Mons, Belgium": {
+    "lat": 50.4517015,
+    "lng": 3.9553692,
+    "display": "6, Rue Spira, Quartier Rachot, Faubourg de la porte d'Havré, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue de la Clef 4, 7000 Mons, Belgium": {
+    "lat": 50.4536825,
+    "lng": 3.9525376,
+    "display": "4, Rue de la Clef, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue de la Clef 9, 7000 Mons, Belgium": {
+    "lat": 50.4535915,
+    "lng": 3.9527982,
+    "display": "9, Rue de la Clef, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue de la Clef 30, 7000 Mons, Belgium": {
+    "lat": 50.453052,
+    "lng": 3.9528027,
+    "display": "30, Rue de la Clef, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue du Miroir 8, 7000 Mons, Belgium": {
+    "lat": 50.4545821,
+    "lng": 3.9534775,
+    "display": "8, Rue du Miroir, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue du Miroir 10, 7000 Mons, Belgium": {
+    "lat": 50.4545862,
+    "lng": 3.9536569,
+    "display": "10, Rue du Miroir, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue Masquelier 14, 7000 Mons, Belgium": {
+    "lat": 50.4515662,
+    "lng": 3.9436238,
+    "display": "14, Rue André Masquelier, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue Masquelier 31, 7000 Mons, Belgium": {
+    "lat": 50.4509875,
+    "lng": 3.9428576,
+    "display": "31, Rue André Masquelier, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue de la Grande Triperie 13, 7000 Mons, Belgium": {
+    "lat": 50.4510891,
+    "lng": 3.9516739,
+    "display": "Rue de la Grande Triperie, Quartier Rachot, Faubourg de Bertaimont, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue des Groseilliers 38, 7000 Mons, Belgium": {
+    "lat": 50.4546804,
+    "lng": 3.9588206,
+    "display": "38, Rue des Groseilliers, Quartier Rachot, Faubourg de la porte d'Havré, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue Terre-du-Prince 3, 7000 Mons, Belgium": null,
+  "Rue Chisaire 2, 7000 Mons, Belgium": {
+    "lat": 50.4525489,
+    "lng": 3.9432903,
+    "display": "2, Rue Chisaire, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Croix-Place 3, 7000 Mons, Belgium": {
+    "lat": 50.4501341,
+    "lng": 3.9519637,
+    "display": "Croix Place, Quartier Rachot, Faubourg de Bertaimont, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Grand'Rue 95, 7000 Mons, Belgium": {
+    "lat": 50.4496294,
+    "lng": 3.9495786,
+    "display": "95, Grand-Rue, Quartier Rachot, Faubourg de Bertaimont, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Grand'Rue 102, 7000 Mons, Belgium": {
+    "lat": 50.4497713,
+    "lng": 3.9493832,
+    "display": "Amnesia, 102, Grand-Rue, Quartier Rachot, Faubourg de Bertaimont, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Grand'Rue 104, 7000 Mons, Belgium": {
+    "lat": 50.4496651,
+    "lng": 3.9493158,
+    "display": "104, Grand-Rue, Quartier Rachot, Faubourg de Bertaimont, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Grand-Place, 7000 Mons, Belgium": {
+    "lat": 50.4544643,
+    "lng": 3.9522767,
+    "display": "Grand-Place, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue de la Chaussée, 7000 Mons, Belgium": {
+    "lat": 50.4529722,
+    "lng": 3.9510422,
+    "display": "Rue de la Chaussée, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue de la Petite Guirlande, 7000 Mons, Belgium": {
+    "lat": 50.4514495,
+    "lng": 3.9454328,
+    "display": "Rue de la Petite Guirlande, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue Rogier, 7000 Mons, Belgium": {
+    "lat": 50.4520884,
+    "lng": 3.9443801,
+    "display": "Rue Rogier, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue Léopold II, 7000 Mons, Belgium": {
+    "lat": 50.4528178,
+    "lng": 3.9436104,
+    "display": "Rue Léopold II, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue de la Clef, 7000 Mons, Belgium": {
+    "lat": 50.4527154,
+    "lng": 3.9533476,
+    "display": "Rue de la Clef, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue de Houdain, 7000 Mons, Belgium": {
+    "lat": 50.4521978,
+    "lng": 3.9528323,
+    "display": "Rue de Houdain, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue du Hautbois, 7000 Mons, Belgium": {
+    "lat": 50.4533325,
+    "lng": 3.9551668,
+    "display": "Rue du Hautbois, Quartier Rachot, Faubourg de la porte d'Havré, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue du Miroir, 7000 Mons, Belgium": {
+    "lat": 50.4546882,
+    "lng": 3.9537099,
+    "display": "Rue du Miroir, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue des Capucins, 7000 Mons, Belgium": {
+    "lat": 50.4509555,
+    "lng": 3.9478935,
+    "display": "Rue des Capucins, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Ruelle du Cerf Blanc, 7000 Mons, Belgium": null,
+  "Cour du Noir Lévrier, 7000 Mons, Belgium": {
+    "lat": 50.4549266,
+    "lng": 3.9536999,
+    "display": "Cour du Noir Lévrier, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue des Fillettes, 7000 Mons, Belgium": {
+    "lat": 50.4577309,
+    "lng": 3.9510342,
+    "display": "Rue des Fillettes, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue de la Voussure, 7000 Mons, Belgium": {
+    "lat": 50.4530673,
+    "lng": 3.9499889,
+    "display": "Rue de la Voussure, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Cour de l'Âne Barré, 7000 Mons, Belgium": {
+    "lat": 50.4542707,
+    "lng": 3.9528392,
+    "display": "Cour de l'Âne Barré, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Chasse du Bon Dieu, 7000 Mons, Belgium": {
+    "lat": 50.4557733,
+    "lng": 3.9470597,
+    "display": "Chasse du Bon Dieu, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Cour du Bailly, 7000 Mons, Belgium": {
+    "lat": 50.4557764,
+    "lng": 3.948576,
+    "display": "Cour du Bailly, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rampe du Château, 7000 Mons, Belgium": {
+    "lat": 50.4537212,
+    "lng": 3.9495878,
+    "display": "Rampe du Château, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue des Gades, 7000 Mons, Belgium": {
+    "lat": 50.4541196,
+    "lng": 3.9503485,
+    "display": "Rue des Gades, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue de la Peine Perdue, 7000 Mons, Belgium": {
+    "lat": 50.4542446,
+    "lng": 3.9544775,
+    "display": "Rue de la Peine Perdue, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue des Trois Boudins, 7000 Mons, Belgium": {
+    "lat": 50.458644,
+    "lng": 3.9565678,
+    "display": "Rue des Trois Boudins, Faubourg de la porte d'Havré, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rampe Borgnagache, 7000 Mons, Belgium": {
+    "lat": 50.4563958,
+    "lng": 3.9462225,
+    "display": "Rampe Borgnagache, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Ruelle aux Quinettes, 7000 Mons, Belgium": {
+    "lat": 50.4532214,
+    "lng": 3.9523095,
+    "display": "Ruelle aux Quinettes, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue de la Terre du Prince, 7000 Mons, Belgium": {
+    "lat": 50.4520228,
+    "lng": 3.9485396,
+    "display": "Rue de la Terre du Prince, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue des Quatre Fils Aymon, 7000 Mons, Belgium": {
+    "lat": 50.4567728,
+    "lng": 3.9538769,
+    "display": "Rue des Quatre Fils Aymon, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue des Clercs, 7000 Mons, Belgium": {
+    "lat": 50.4533601,
+    "lng": 3.9493458,
+    "display": "Rue des Clercs, Quartier Rachot, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue des Sœurs Grises, 7000 Mons, Belgium": {
+    "lat": 50.4514975,
+    "lng": 3.9464917,
+    "display": "Rue des Sœurs Grises, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  "Rue des Sœurs Noires, 7000 Mons, Belgium": {
+    "lat": 50.4499907,
+    "lng": 3.9511542
+  },
+  "Rue de la Biche, 7000 Mons, Belgium": {
+    "lat": 50.4544188,
+    "lng": 3.9561097
+  },
+  "Rue des Ropieurs, 7000 Mons, Belgium": {
+    "lat": 50.4619818,
+    "lng": 3.9442965
+  },
+  "Rue des Blancs Mouchons, 7000 Mons, Belgium": {
+    "lat": 50.449656,
+    "lng": 3.9488179
+  },
+  "Impasse de l'Inquiétude, 7000 Mons, Belgium": null,
+  "Rue du Pourcelet, 7000 Mons, Belgium": {
+    "lat": 50.4674564,
+    "lng": 3.9590683
+  },
+  "Marché aux Poulets, 7000 Mons, Belgium": null,
+  "Ruelle du Repos, 7000 Mons, Belgium": {
+    "lat": 50.4480309,
+    "lng": 3.9485486
+  },
+  "Rue des Hommes Blancs, 7000 Mons, Belgium": {
+    "lat": 50.4592905,
+    "lng": 3.9701382
+  },
+  "Sentier des Poètes, 7000 Mons, Belgium": {
+    "lat": 50.4572494,
+    "lng": 3.9716686
+  },
+  "Chasse du Roeulx, 7000 Mons, Belgium": null,
+  "Chemin de l'Inquiétude, 7000 Mons, Belgium": {
+    "lat": 50.4518622,
+    "lng": 3.9358442
+  },
+  "g:Marché aux Poulets, 7000 Mons, Belgium": null,
+  "g:Chasse du Roeulx, 7000 Mons, Belgium": null
+}

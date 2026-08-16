@@ -17,3 +17,13 @@
 
 [functions."poi-propose"]
   timeout = 26
+
+[[headers]]
+  for = "/data/*"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/translations/*"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"

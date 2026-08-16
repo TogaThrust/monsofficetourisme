@@ -1,0 +1,263 @@
+{
+  "Rue Cronque": [
+    {
+      "question": "Quel est le sens du mot 'cronque' en parler montois ?",
+      "options": [
+        "Sinueux",
+        "Large",
+        "Droit"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quelle caractéristique notable peut-on trouver dans le pavage de la Rue Cronque ?",
+      "options": [
+        "Une croix mystérieuse",
+        "Un ancien puits",
+        "Une fontaine"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Vers quel lieu la Rue Cronque mène-t-elle ?",
+      "options": [
+        "Le parc du Château",
+        "La Grand-Place",
+        "La collégiale Saint-Vincent"
+      ],
+      "answer": 0
+    }
+  ],
+  "Chasse du Bon Dieu": [
+    {
+      "question": "Quel type de voie est la Chasse du Bon Dieu à Mons ?",
+      "options": [
+        "Une venelle étroite",
+        "Une grande avenue",
+        "Une place publique"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel est le nom du Christ qui a inspiré le nom de cette chasse ?",
+      "options": [
+        "Christ de la Miséricorde",
+        "Bon Dieu de Pitié",
+        "Christ des Miracles"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel aspect du vieux Mons est représenté par la Chasse du Bon Dieu ?",
+      "options": [
+        "Les boulevards modernes",
+        "Le tissu urbain ancien",
+        "Les grandes places"
+      ],
+      "answer": 1
+    }
+  ],
+  "Rampe Borgnagache": [
+    {
+      "question": "Quel oiseau est associé au nom 'Borgnagache' dans le dialecte montois ?",
+      "options": [
+        "La pie",
+        "Le merle",
+        "Le pigeon"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qui sont les fondateurs de l'hôpital lié au nom 'Borgnagache' ?",
+      "options": [
+        "Jean et Jacques Borgnagache",
+        "Pierre et Paul Dupont",
+        "Marie et Louis Martin"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quel quartier de Mons se trouve la rampe Borgnagache ?",
+      "options": [
+        "Le quartier de la Grand-Place",
+        "Le quartier de la collégiale",
+        "Le quartier de la gare"
+      ],
+      "answer": 1
+    }
+  ],
+  "Rue de la Grosse Pomme": [
+    {
+      "question": "Quel événement traditionnel passait par la Rue de la Grosse Pomme ?",
+      "options": [
+        "La procession du Car d’Or",
+        "Le carnaval de Mons",
+        "La foire de Saint-Vincent"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel est le lien entre la Rue de la Grosse Pomme et l'ancienne enceinte médiévale ?",
+      "options": [
+        "Elle était une voie de commerce",
+        "Elle conserve la mémoire d'un mur défensif",
+        "Elle était le site d'un château"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel monument se trouve à proximité de la Rue de la Grosse Pomme ?",
+      "options": [
+        "Le beffroi de Mons",
+        "La collégiale Sainte-Waudru",
+        "La Grand-Place de Mons"
+      ],
+      "answer": 1
+    }
+  ],
+  "Rue des Cinq Visages": [
+    {
+      "question": "Quel est le nom de la rue qui évoque un mystère lié à cinq visages ?",
+      "options": [
+        "Rue des Cinq Visages",
+        "Rue de la Collégiale",
+        "Rue du Beffroi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "La Rue des Cinq Visages suit approximativement le tracé de quelle ancienne structure ?",
+      "options": [
+        "Une enceinte médiévale",
+        "Un aqueduc romain",
+        "Un canal industriel"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quel quartier de Mons se situe la Rue des Cinq Visages ?",
+      "options": [
+        "Quartier de la collégiale Sainte-Waudru",
+        "Quartier de la Grand-Place",
+        "Quartier des Arts"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rampe Sainte Waudru": [
+    {
+      "question": "Quel événement se déroule chaque dimanche de la Trinité sur la rampe Sainte-Waudru ?",
+      "options": [
+        "Le Car d'Or doit gravir la rampe sans s'arrêter",
+        "Une foire artisanale est organisée",
+        "Des concerts de musique classique sont donnés"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quelle est la conséquence si le Car d'Or s'arrête sur la rampe ?",
+      "options": [
+        "Un malheur frappera la ville dans l'année",
+        "La procession sera annulée",
+        "Le char ne pourra plus être utilisé"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "La rampe Sainte-Waudru mène à quel monument emblématique de Mons ?",
+      "options": [
+        "La collégiale Sainte-Waudru",
+        "Le beffroi de Mons",
+        "La Grand-Place de Mons"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rue de la Voussure": [
+    {
+      "question": "Quel élément architectural est désigné par le terme 'voussure' ?",
+      "options": [
+        "Voûte",
+        "Fenêtre",
+        "Colonne"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Sous quel édifice passait le passage voûté de la Rue de la Voussure ?",
+      "options": [
+        "Église Saint-Germain",
+        "Collégiale Sainte-Waudru",
+        "Beffroi de Mons"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quelle est la longueur approximative de la Rue de la Voussure ?",
+      "options": [
+        "50 mètres",
+        "100 mètres",
+        "25 mètres"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rue à Degrés": [
+    {
+      "question": "Quel type de rue est la rue à Degrés ?",
+      "options": [
+        "Une rue piétonne",
+        "Un escalier",
+        "Une rue commerçante"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quelle œuvre d'art se trouve dans la rue à Degrés ?",
+      "options": [
+        "Un portrait de la ville",
+        "Une fresque de Nevercrew",
+        "Une sculpture en bronze"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quel quartier de Mons se situe la rue à Degrés ?",
+      "options": [
+        "Quartier Rachot",
+        "Quartier de la Grand-Place",
+        "Quartier du Beffroi"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rue de la Peine Perdue": [
+    {
+      "question": "Quel type d'architecture caractérise l'église Sainte-Élisabeth, située près de la Rue de la Peine Perdue ?",
+      "options": [
+        "Baroque et gothique",
+        "Renaissance",
+        "Moderne"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel est le sens de l'expression 'peine perdue' qui a inspiré le nom de cette rue ?",
+      "options": [
+        "Un effort vain",
+        "Un succès assuré",
+        "Une récompense méritée"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quel quartier de Mons se trouve la Rue de la Peine Perdue ?",
+      "options": [
+        "Quartier de la Grand-Place",
+        "Quartier de la Collégiale",
+        "Quartier de Vieux Mons"
+      ],
+      "answer": 2
+    }
+  ]
+}

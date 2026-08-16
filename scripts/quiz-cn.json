@@ -1,0 +1,5773 @@
+{
+  "Grand-place": [
+    {
+      "question": "哪座15世纪哥特式建筑俯瞰蒙斯大广场（Grand-Place）？",
+      "options": [
+        "巴洛克式钟楼",
+        "市政厅（Hôtel de Ville）",
+        "Sainte-Waudru学院教堂"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Ducasse期间，大广场上每年举行的传统是什么？",
+      "options": [
+        "圣乔治与巨龙之战，称为 Lumeçon",
+        "金车（Car d'Or）游行直至 Casteau",
+        "从钟楼抛掷旗帜"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "在 Lumeçon 交战原址的铺装中嵌入了什么？",
+      "options": [
+        "一座文艺复兴小钟楼",
+        "一枚直径12米的蓝石圆环，刻有19个市镇的名称",
+        "金车（Car d'Or）的复制品"
+      ],
+      "answer": 1
+    }
+  ],
+  "Fontaine du Rouge Puits": [
+    {
+      "question": "这座喷泉为何被称为 Rouge-Puits？",
+      "options": [
+        "因为它曾有一段时间被通体漆成红色",
+        "因为洗肉使水染上了颜色",
+        "因为它标示消防队入口"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "其建筑师是谁？他于1828年获罗马建筑大奖。",
+      "options": [
+        "Charles Sury",
+        "Albert J.B. Jamot",
+        "Emmanuel-Henri Fonson"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "柱顶、阶梯状檐壁之上有什么？",
+      "options": [
+        "一座小钟楼",
+        "四颗石球",
+        "一只石瓶"
+      ],
+      "answer": 2
+    }
+  ],
+  "Immeuble Blanc Lévrier": [
+    {
+      "question": "「Au Blanc Lévrier」一名从何而来？",
+      "options": [
+        "来自设于底层的犬舍",
+        "来自两只猎犬雕塑及铭文「AV BLAN LEVRIE」",
+        "来自绘有猎犬的纹章"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "立面上的纹章令人想起哪位君主？",
+      "options": [
+        "Charles Quint，伴有双头鹰与金羊毛项圈（Toison d'Or）",
+        "Louis XIV",
+        "Napoléon Ier"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "这座市民哥特式府邸建于哪一年？",
+      "options": [
+        "1458",
+        "1709",
+        "1530"
+      ],
+      "answer": 2
+    }
+  ],
+  "Immeuble Grand Place 31 34": [
+    {
+      "question": "约1709年，这一匀质街块由多少座房屋组成？",
+      "options": [
+        "三座蓝石房屋",
+        "四座粉刷砖与蓝石房屋",
+        "六座新古典主义房屋"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "面向大广场的立面展开多少开间？",
+      "options": [
+        "十二开间、三层",
+        "七开间图尔奈式",
+        "四开间、两层"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "什么元素在水平方向上划分这些立面？",
+      "options": [
+        "托斯卡纳柱",
+        "阶梯山墙",
+        "连接窗台与过梁的连续饰带"
+      ],
+      "answer": 2
+    }
+  ],
+  "Office du Tourisme": [
+    {
+      "question": "这座容纳旅游局的古典建筑属于哪个世纪？",
+      "options": [
+        "15世纪",
+        "18世纪",
+        "19世纪"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "该建筑何时全面翻修以接待旅游局？",
+      "options": [
+        "2013年至2014年间",
+        "1981年",
+        "1948年"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "此次翻修保留了哪一方面？",
+      "options": [
+        "市政官专用的圣坛屏",
+        "原有马厩",
+        "立面的历史风貌"
+      ],
+      "answer": 2
+    }
+  ],
+  "Hotel de la Couronne": [
+    {
+      "question": "哪位蒙斯建筑师在1766年至1772年间设计了 Hôtel de la Couronne？",
+      "options": [
+        "Mathieu de Layens",
+        "Emmanuel-Henri-Chrétien Fonson",
+        "Louis Ledoux"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "这座府邸取代了哪座更早的建筑？",
+      "options": [
+        "「Grise Ostriche」，自1550年起即有记载",
+        "埃诺最高政务院府邸",
+        "Cambron修道院的城区庇护所"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "直至19世纪末，该建筑主要承担何种功能？",
+      "options": [
+        "法院",
+        "巴黎—布鲁塞尔驿站",
+        "市政官祈祷堂"
+      ],
+      "answer": 1
+    }
+  ],
+  "Chapelle Saint Georges": [
+    {
+      "question": "这座文艺复兴小堂建于哪一年？",
+      "options": [
+        "1458",
+        "1601",
+        "1797"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "它最初为谁而建？",
+      "options": [
+        "Sainte-Waudru女咏礼司铎",
+        "Cantimpret的贝居安修女",
+        "市政官，作为市政当局的祈祷堂"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "约1880年拆除的圣坛屏（jubé）曾有何作用？",
+      "options": [
+        "使市政当局成员可从三级会议厅参加礼仪",
+        "将小堂与钟楼相连",
+        "陈列 Sainte-Waudru 的珍宝"
+      ],
+      "answer": 0
+    }
+  ],
+  "Immeuble Grand Place 28 30": [
+    {
+      "question": "这一组建筑代表何种风格、哪个世纪？",
+      "options": [
+        "15世纪布拉班特哥特式",
+        "18世纪蒙斯古典式",
+        "20世纪新艺术运动"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "整组由多少座蓝石房屋组成？",
+      "options": [
+        "两座",
+        "四座",
+        "三座"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "29号有何特别之处？",
+      "options": [
+        "铁艺阳台与石栏杆",
+        "原有的孟莎屋顶",
+        "七开间图尔奈式"
+      ],
+      "answer": 0
+    }
+  ],
+  "Immeuble Grand Place 14": [
+    {
+      "question": "这座 Rue du Miroir 街角建筑可追溯至何时？",
+      "options": [
+        "18世纪最后三分之一",
+        "1530年",
+        "14世纪"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "朝向大广场的主立面呈何面貌？",
+      "options": [
+        "十二开间、两层",
+        "三开间、三层，蓝石砌筑",
+        "带柱廊的巴洛克立面"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "大广场建筑的底层通常有什么？",
+      "options": [
+        "祈祷堂",
+        "市政档案",
+        "商铺"
+      ],
+      "answer": 2
+    }
+  ],
+  "Theatre Royal": [
+    {
+      "question": "皇家剧院（Théâtre Royal）何时落成？",
+      "options": [
+        "1843年10月18日",
+        "1661年",
+        "1937年"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "哪位蒙斯建筑师绘制了其平面？",
+      "options": [
+        "Vincent Anthony",
+        "Charles Sury",
+        "Paul Saintenoy"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "1869年何种事件使建筑部分损毁？",
+      "options": [
+        "轰炸",
+        "围城",
+        "火灾"
+      ],
+      "answer": 2
+    }
+  ],
+  "Singe du Grand Garde": [
+    {
+      "question": "Grand'Garde 的猴子固定在何处？",
+      "options": [
+        "市政厅台阶脚下",
+        "市政厅立面上",
+        "Ropieur 喷泉上"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "访客做什么动作以求好运？",
+      "options": [
+        "抚摸它被磨光的头颅",
+        "在它手中放一枚硬币",
+        "绕雕像转三圈"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "猴子被如何表现？",
+      "options": [
+        "站立，举起盾牌",
+        "蹲坐，用左手搔脸颊",
+        "生有双翼，如龙"
+      ],
+      "answer": 1
+    }
+  ],
+  "Statue du Dragon": [
+    {
+      "question": "谁雕塑了市政厅入口附近圣乔治与巨龙的青铜像？",
+      "options": [
+        "Léon Gobert",
+        "Xavier Veilhan",
+        "Gérard Garouste"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "这些雕塑于哪一年落成？",
+      "options": [
+        "1937",
+        "2006",
+        "2024"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "这些当代作品令人想起蒙斯的哪一传统？",
+      "options": [
+        "圣乔治与巨龙之战，于 Ducasse 期间庆祝",
+        "Mundaneum 的创立",
+        "巴洛克钟楼的建造"
+      ],
+      "answer": 0
+    }
+  ],
+  "Hotel de Ville": [
+    {
+      "question": "市政厅的建造始于哪一年？",
+      "options": [
+        "1458",
+        "1661",
+        "1843"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "哪位建筑师主持兴建？他也以鲁汶市政厅闻名。",
+      "options": [
+        "Louis Ledoux",
+        "Mathieu de Layens",
+        "Jean-Baptiste Huriau"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "文艺复兴小钟楼中收藏的、铸于1390年的钟是哪一口？",
+      "options": [
+        "El Grosse Cloche du Catiau",
+        "La Bancloque",
+        "Zandrine"
+      ],
+      "answer": 1
+    }
+  ],
+  "Ropieur": [
+    {
+      "question": "谁雕塑了 Ropieur 喷泉？该喷泉于1937年9月26日落成。",
+      "options": [
+        "Gérard Garouste",
+        "Léon Gobert",
+        "David Mesguich"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "谁自1931年起提议建造这座喷泉？当时他是蒙斯美术学院院长。",
+      "options": [
+        "Paul Heupgen",
+        "Marcel Gillis",
+        "Paul Otlet"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Heupgen 如何界定 Ropieur，而不止于孩童的外表？",
+      "options": [
+        "一位圣武士",
+        "军事象征",
+        "聪明、顽皮却善良"
+      ],
+      "answer": 2
+    }
+  ],
+  "Gillis": [
+    {
+      "question": "Marcel Gillis（1897-1972）从事哪些活动？",
+      "options": [
+        "仅为军事建筑师",
+        "画家、素描家、修复师、漫画家、诗人与民谣歌手",
+        "仅为档案保管员"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "1928年至1965年，他任哪座博物馆的馆长？",
+      "options": [
+        "Mundaneum",
+        "Doudou 博物馆",
+        "蒙斯美术博物馆"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "其具象创作属于哪一流派？",
+      "options": [
+        "瓦隆现实主义，接近 Nervia 团体",
+        "布鲁塞尔新艺术运动",
+        "埃诺巴洛克"
+      ],
+      "answer": 0
+    }
+  ],
+  "Mayeur": [
+    {
+      "question": "Jardin du Mayeur 位于何处？",
+      "options": [
+        "Calatrava 车站前方",
+        "市政厅后方",
+        "Waux-Hall 公园内"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "这座花园何时辟建？",
+      "options": [
+        "1930年至1936年间",
+        "1458年",
+        "1862年至1864年间"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "其中尤其可见哪件1937年的雕塑？",
+      "options": [
+        "Grand'Garde 的猴子",
+        "Xavier Veilhan 的雕像",
+        "Léon Gobert 所作的 Ropieur"
+      ],
+      "answer": 2
+    }
+  ],
+  "Musee du Doudou": [
+    {
+      "question": "Doudou 博物馆主要纪念什么？",
+      "options": [
+        "蒙斯 Ducasse，自2005年起列入 UNESCO 非物质文化遗产",
+        "埃诺伯爵的历史",
+        "BAM 的当代艺术收藏"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "博物馆设于哪座历史建筑中？",
+      "options": [
+        "Filles de Notre-Dame 旧修道院",
+        "旧当铺（Mont-de-Piété），位于 Jardin du Mayeur",
+        "Guillaume 兵营"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "馆中尤其讲解哪一场传奇之战？",
+      "options": [
+        "Jemappes 战役",
+        "1691年围城",
+        "Lumeçon，圣乔治与巨龙之战"
+      ],
+      "answer": 2
+    }
+  ],
+  "Conservatoire Royal": [
+    {
+      "question": "自1873年起，音乐学院设于哪一旧建筑群中？",
+      "options": [
+        "Filles de Notre-Dame 修道院，Rue de Nimy",
+        "Major Sabbe 兵营",
+        "Hôtel de Bavière"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "音乐学院何时由音乐会与舞会协会创立？",
+      "options": [
+        "1450",
+        "1820",
+        "1937"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "它如今并入哪所高等艺术学院？",
+      "options": [
+        "仅 ESAPV",
+        "布鲁塞尔皇家学院",
+        "ARTS²"
+      ],
+      "answer": 2
+    }
+  ],
+  "Eglise Sainte Elisabeth": [
+    {
+      "question": "凭借 Isabeau d'Antoing 而建立的原小堂献给哪位圣女？",
+      "options": [
+        "Sainte Waudru",
+        "Élisabeth de Hongrie",
+        "Notre-Dame de Messines"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "哥特式教堂何时祝圣？",
+      "options": [
+        "1588年10月16日",
+        "1345年",
+        "1714年3月25日"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "1714年火灾后，哪位蒙斯建筑师主持修复？",
+      "options": [
+        "Vincent Anthony",
+        "Nicolas de Brissy",
+        "Claude-Joseph de Bettignies"
+      ],
+      "answer": 2
+    }
+  ],
+  "Palais de Justice": [
+    {
+      "question": "谁在1844年至1848年间建造蒙斯法院？",
+      "options": [
+        "Jean-Baptiste Huriau",
+        "Charles-Damas Vincent",
+        "Joseph Hubert"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Soignies 石材立面属于何种风格？",
+      "options": [
+        "布拉班特哥特式",
+        "新古典主义",
+        "巴洛克"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "自1975年起，哪一上诉司法机关在此开庭？",
+      "options": [
+        "最高法院",
+        "国务委员会",
+        "蒙斯上诉法院"
+      ],
+      "answer": 2
+    }
+  ],
+  "Maison Losseau": [
+    {
+      "question": "哪位蒙斯律师与艺术赞助人自1899年起改造了这座宅邸？",
+      "options": [
+        "Henri La Fontaine",
+        "Léon Losseau",
+        "Paul Heupgen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "哪位比利时新艺术运动建筑师首先主持工程？",
+      "options": [
+        "Paul Saintenoy",
+        "Charles Sury",
+        "Rémi de Puydt"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "这座宅邸在蒙斯率先采用了何种现代设施？",
+      "options": [
+        "公用电话",
+        "电力与燃煤集中供暖",
+        "液压电梯"
+      ],
+      "answer": 1
+    }
+  ],
+  "Maison Rue de Nimy 53": [
+    {
+      "question": "这座列入保护的房屋属于何种建筑风格？",
+      "options": [
+        "新艺术运动",
+        "斯海尔德哥特式",
+        "图尔奈式"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "哪一机构如今在此设总部？",
+      "options": [
+        "IDEA，埃诺之心地区发展署",
+        "国家档案馆",
+        "Mundaneum"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "该建筑自何时起被列为古迹？",
+      "options": [
+        "1952",
+        "1989年5月30日",
+        "2006"
+      ],
+      "answer": 1
+    }
+  ],
+  "Mundaneum": [
+    {
+      "question": "谁在19世纪末创立了 Mundaneum？",
+      "options": [
+        "Paul Otlet 与 Henri La Fontaine",
+        "Léon Losseau 与 Paul Saintenoy",
+        "Marcel Gillis 与 Nervia 团体"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "为何有时称它为「纸上之 Google」？",
+      "options": [
+        "因为它只用黄色卡片",
+        "因为它旨在汇集并分类全部人类知识",
+        "因为它发明了互联网"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Henri La Fontaine 于1913年获得何种奖项？",
+      "options": [
+        "诺贝尔文学奖",
+        "Europa Nostra 奖",
+        "诺贝尔和平奖"
+      ],
+      "answer": 2
+    }
+  ],
+  "Place du Parc": [
+    {
+      "question": "这座广场旧称什么？",
+      "options": [
+        "Place Saint-Jean",
+        "Marché de Coppenage",
+        "Place des Congrès"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "何种特殊形状赋予它城市空间上的独特性？",
+      "options": [
+        "正圆",
+        "菱形",
+        "三角形"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "第一次世界大战期间毁坏了哪些元素？",
+      "options": [
+        "钟楼与 Bancloque",
+        "蒙斯大学",
+        "一座音乐亭与 Roland de Lassus 雕像"
+      ],
+      "answer": 2
+    }
+  ],
+  "Chapelle des Visitandines": [
+    {
+      "question": "谁于1650年推动访亲会修女（Visitandines）在蒙斯定居？",
+      "options": [
+        "Bucquoy 伯爵夫人，埃诺大执达吏之妻",
+        "Marguerite de Constantinople",
+        "Louise de Bouzanton"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "哪位蒙斯建筑师于1717年建造这座巴洛克小堂？",
+      "options": [
+        "Nicolas de Brissy",
+        "Claude-Joseph de Bettignies",
+        "Albert Jamot"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "1872年至2006年，哪一机构占用此地？",
+      "options": [
+        "旅游局",
+        "皇家音乐学院",
+        "国家档案馆"
+      ],
+      "answer": 2
+    }
+  ],
+  "Ancienne Caserne de Gendarmerie": [
+    {
+      "question": "Rue du Rossignol 的这座兵营建于哪一年？",
+      "options": [
+        "1824",
+        "1870",
+        "1933"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "哪位省级建筑师绘制了平面？",
+      "options": [
+        "Charles-Damas Vincent",
+        "Charles Sury",
+        "Jules Hubert"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "红砖与白石立面属于何种风格？",
+      "options": [
+        "军事新古典主义",
+        "埃诺哥特式",
+        "佛兰德斯新文艺复兴"
+      ],
+      "answer": 2
+    }
+  ],
+  "Prison de Mons": [
+    {
+      "question": "1863年至1867年建造的这座监狱采用何种星形建筑模式？",
+      "options": [
+        "「Ducpétiaux」模式",
+        "巴西利卡平面",
+        "修道院的 U 形平面"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "哪位法国诗人于1873年至1875年被关押于此？",
+      "options": [
+        "Arthur Rimbaud",
+        "Paul Verlaine",
+        "Victor Hugo"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Verlaine 为何被囚于此？",
+      "options": [
+        "因逃兵",
+        "因赌债",
+        "因向 Arthur Rimbaud 开枪"
+      ],
+      "answer": 2
+    }
+  ],
+  "Tour Valenciennoise": [
+    {
+      "question": "这座第二道城墙上的塔楼何时建造？",
+      "options": [
+        "1358年至1359年间",
+        "1661年至1672年间",
+        "1825年"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "其直径约多少？墙厚可达4米。",
+      "options": [
+        "12米",
+        "87米",
+        "23米"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "为何它在今日尤为珍贵？",
+      "options": [
+        "1818年拆除城墙后，它是中世纪围墙唯一幸存者",
+        "它收藏49口钟的钟琴",
+        "它是蒙斯最古老的宗教建筑"
+      ],
+      "answer": 0
+    }
+  ],
+  "Pavillons Caserne Cavalerie": [
+    {
+      "question": "这座1838年至1841年建造的兵营旧称什么？",
+      "options": [
+        "Guillaume 兵营",
+        "Léopold 兵营",
+        "Major Sabbe 兵营"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "它可容纳多少人与马匹？",
+      "options": [
+        "最多1000名士兵与600匹马",
+        "仅最多2000名士兵",
+        "600人与1000匹马"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "自1889年起，哪一团尤其驻扎于此？",
+      "options": [
+        "仅第11炮兵团",
+        "1824年的步猎兵",
+        "第2骑兵猎兵团"
+      ],
+      "answer": 2
+    }
+  ],
+  "Tank Sherman": [
+    {
+      "question": "Mons Memorial Museum 前方的纪念坦克是哪一辆？",
+      "options": [
+        "一辆德国虎式坦克",
+        "M4A1 Sherman「In the Mood」",
+        "一辆雷诺轻型坦克"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "2019年8月的安置纪念哪一事件？",
+      "options": [
+        "1944年9月蒙斯解放75周年",
+        "滑铁卢战役",
+        "1918年停战"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "原 Sherman「In the Mood」由谁指挥？",
+      "options": [
+        "Patton 将军",
+        "一级军士长 Lafayette G. Pool",
+        "一名1940年的比利时军官"
+      ],
+      "answer": 1
+    }
+  ],
+  "Machine a Eau": [
+    {
+      "question": "为何蒙斯在19世纪决定兴建水力厂？",
+      "options": [
+        "仅为大广场喷泉供水",
+        "为驱动钟琴",
+        "在霍乱疫情之后供应饮用水"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "哪些工程师与建筑师设计了水力机械（1869-1871）？",
+      "options": [
+        "Jules Drion 与 Joseph Hubert",
+        "Louis Fuchs 与 Jules Hubert",
+        "Van De Polder 与 Charles Sury"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "借助 Trouille 河的水力，水从何处抽上来？",
+      "options": [
+        "Marché aux Herbes 的水井",
+        "Spiennes 的泉源",
+        "Nimy-Blaton 运河"
+      ],
+      "answer": 1
+    }
+  ],
+  "Parc du Waux Hall": [
+    {
+      "question": "谁在1862年至1864年间布置了这座5公顷的公园？",
+      "options": [
+        "Joseph Hubert",
+        "Louis Fuchs",
+        "Rémi de Puydt"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "蒙斯市何时购入以作为公共空间？",
+      "options": [
+        "1892年",
+        "1821年",
+        "1936年"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "公园中央矗立着哪座建筑？",
+      "options": [
+        "一座巴洛克钟楼",
+        "旧当铺（Mont-de-Piété）",
+        "Jules Hubert 设计的折衷主义亭阁"
+      ],
+      "answer": 2
+    }
+  ],
+  "Eglise Saint Nicolas": [
+    {
+      "question": "城墙外第一座堂区 Saint-Nicolas 何时设立？",
+      "options": [
+        "1224年",
+        "1664年",
+        "1588年"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "哪场火灾摧毁了哥特式教堂，仅留下钟楼？",
+      "options": [
+        "1714年 Sainte-Élisabeth 火灾",
+        "1664年火灾",
+        "1548年火灾"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "哪位建筑师在1664年至1702年间主持巴洛克重建？",
+      "options": [
+        "Mathieu de Layens",
+        "Claude-Joseph de Bettignies",
+        "Vincent Anthony"
+      ],
+      "answer": 2
+    }
+  ],
+  "Chapelle du Belian": [
+    {
+      "question": "哪位建筑师于1775年建造这座小堂？",
+      "options": [
+        "Emmanuel-Henri Fonson",
+        "Nicolas de Brissy",
+        "Ouvertus"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "它曾作为哪一团体的城区庇护所？",
+      "options": [
+        "黑衣修女（Sœurs Noires）",
+        "位于 Mesvin 的 Bélian 修道院女咏礼司铎",
+        "访亲会修女（Visitandines）"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "哪一机构如今用它举办展览？",
+      "options": [
+        "BAM",
+        "国家档案馆",
+        "蒙斯大学"
+      ],
+      "answer": 2
+    }
+  ],
+  "Marche aux Herbes": [
+    {
+      "question": "Marché aux Herbes 广场常被称作什么？",
+      "options": [
+        "小市场（Petit Marché）",
+        "大市场（Grand-Marché）",
+        "Place Saint-Jean"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "独立于大市场的食品市场何时设立？",
+      "options": [
+        "1833年",
+        "1409年",
+        "1955年"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "直至1955年迁走之前，这里曾有哪座喷泉？",
+      "options": [
+        "Fontaine-Pilori",
+        "Ropieur",
+        "Rouge-Puits 喷泉"
+      ],
+      "answer": 2
+    }
+  ],
+  "Maison Rue de la Couronne 20 22": [
+    {
+      "question": "这座列入保护的房屋见证哪个世纪？",
+      "options": [
+        "18世纪",
+        "16世纪",
+        "19世纪"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "其立面有多少开间、多少层？",
+      "options": [
+        "三开间、两层",
+        "四开间、三层",
+        "七开间图尔奈式"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Rue de la Couronne 在历史上连接什么？",
+      "options": [
+        "车站与 Waux-Hall",
+        "钟楼与 Trouille 河",
+        "大广场与 Rue de Nimy"
+      ],
+      "answer": 2
+    }
+  ],
+  "Couvent des Soeurs Noires": [
+    {
+      "question": "这些修女为何被称为黑衣修女（Sœurs Noires）？",
+      "options": [
+        "她们穿着黑色肩衣（scapulaire）",
+        "她们的修道院以蓝石建造",
+        "她们只承办葬礼"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "离开贝居安会院后，她们于哪一年在城边定居？",
+      "options": [
+        "1248",
+        "1485",
+        "1498"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "她们尤其从事何种慈善事业？",
+      "options": [
+        "军事教育",
+        "照料病人，包括鼠疫流行期间",
+        "管理 Mundaneum"
+      ],
+      "answer": 1
+    }
+  ],
+  "Carre des Arts": [
+    {
+      "question": "这座1824年至1827年建造的建筑最初用途是什么？",
+      "options": [
+        "步猎兵兵营，称为 Guillaume 兵营",
+        "音乐学院",
+        "法院"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "哪位建筑师设计了其军事新古典主义建筑？",
+      "options": [
+        "Charles Sury",
+        "Rémi de Puydt",
+        "Jean-Baptiste Huriau"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "自1993年起，哪所高等艺术学院设于此地？",
+      "options": [
+        "仅皇家音乐学院",
+        "图尔奈学院",
+        "ESAPV，如今并入 ARTS²"
+      ],
+      "answer": 2
+    }
+  ],
+  "Anciens Abattoirs": [
+    {
+      "question": "哪位建筑师在1854年至1855年间建造该建筑群？",
+      "options": [
+        "Charles Sury",
+        "Louis Fuchs",
+        "Joseph Hubert"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "屠宰场何时最终关闭？",
+      "options": [
+        "1948年",
+        "1984年1月1日",
+        "2006年"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "自2006年向公众开放以来，这处列入保护的场地有何用途？",
+      "options": [
+        "警察局",
+        "草市",
+        "当代艺术文化中心"
+      ],
+      "answer": 2
+    }
+  ],
+  "Eglise Notre Dame de Messines": [
+    {
+      "question": "这座教堂最初以何名称为人知？",
+      "options": [
+        "Saint-Nicolas en Bertaimont",
+        "Sainte-Élisabeth",
+        "Saint-Germain"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "17世纪初的哪一事件使此地成为朝圣地？",
+      "options": [
+        "钟楼的建造",
+        "在墓地中发现一幅圣母画像",
+        "仅因 Recollets 修会到来"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "现教堂位于何处？",
+      "options": [
+        "Place du Parc",
+        "Rue de Nimy",
+        "Rue de Bertaimont"
+      ],
+      "answer": 2
+    }
+  ],
+  "Maison Rue de Bertaimont 17": [
+    {
+      "question": "这座房屋自何时起列入瓦隆遗产名录？",
+      "options": [
+        "1988年8月12日",
+        "1955年11月10日",
+        "1709年"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "其蓝石蒙斯建筑是哪个世纪的典型？",
+      "options": [
+        "15世纪",
+        "18世纪",
+        "20世纪"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "它位于哪个街区？该区自1620年起以巨人 Ducasse 闻名。",
+      "options": [
+        "Havré",
+        "Nimy",
+        "Messines"
+      ],
+      "answer": 2
+    }
+  ],
+  "Maison Rue de Bertaimont 33": [
+    {
+      "question": "这座18世纪房屋有几层、几开间？",
+      "options": [
+        "三层三开间",
+        "四开间、两层",
+        "十二开间"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "右侧开间有何特点？",
+      "options": [
+        "为实墙、无窗",
+        "略微后退、更宽，带门与阳台窗",
+        "上有小钟楼"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "该街区尤其经历过哪一次历史围城？",
+      "options": [
+        "1815年围城",
+        "1830年荷兰围城",
+        "1691年蒙斯围城"
+      ],
+      "answer": 2
+    }
+  ],
+  "Casemates": [
+    {
+      "question": "1817年至1822年间，暗堡在何种政权下建造？",
+      "options": [
+        "尼德兰王国",
+        "法兰西帝国",
+        "独立的比利时国家"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "整组由多少座宏伟拱顶组成？",
+      "options": [
+        "七座",
+        "四十九座",
+        "十二座"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "它们原拟作何用，却从未如此使用？",
+      "options": [
+        "围城时收容最多2000名士兵",
+        "用作屠宰场",
+        "安置 Mundaneum"
+      ],
+      "answer": 0
+    }
+  ],
+  "Bonne Maison de Bouzanton": [
+    {
+      "question": "谁于1562年在 Hôtel de Bavière 创立这座孤儿院？",
+      "options": [
+        "Anne de Crécy",
+        "Louise de Bouzanton",
+        "Isabeau d'Antoing"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "该机构为谁而设？",
+      "options": [
+        "蒙斯的贫困儿童",
+        "Sainte-Waudru 女咏礼司铎",
+        "伤兵"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "哪位侄女于1662年续办事业，并为男童增设一翼？",
+      "options": [
+        "Marguerite de Constantinople",
+        "Jeanne de Chantal",
+        "Anne de Crécy"
+      ],
+      "answer": 2
+    }
+  ],
+  "Chapelle du Beguinage": [
+    {
+      "question": "谁于1248年创立这座小堂？",
+      "options": [
+        "Marguerite de Constantinople",
+        "Sainte Waudru",
+        "François de Sales"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "它属于 Trouille 河左岸的哪一贝居安会院？",
+      "options": [
+        "Nimy 贝居安会院",
+        "Cantimpret 贝居安会院",
+        "黑衣修女修道院"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "1549年至1551年间以何种风格重建？",
+      "options": [
+        "巴洛克",
+        "新古典主义",
+        "埃诺哥特式"
+      ],
+      "answer": 2
+    }
+  ],
+  "Tour du Val des Ecoliers": [
+    {
+      "question": "这座修道院教堂的塔楼何时建造？",
+      "options": [
+        "1739年至1743年间",
+        "1252年",
+        "1892年"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "其建筑师是谁？",
+      "options": [
+        "Vincent Anthony",
+        "Nicolas de Brissy",
+        "Louis Ledoux"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "1252年创立、1796年被废的修道院还剩下什么？",
+      "options": [
+        "整座修道院教堂",
+        "完整的回廊",
+        "这座塔楼，1876年拆除后的最后遗存"
+      ],
+      "answer": 2
+    }
+  ],
+  "Gare de Mons": [
+    {
+      "question": "谁设计了如今的桥式车站？",
+      "options": [
+        "Santiago Calatrava",
+        "René Panis",
+        "Joseph Hubert"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "蒙斯第一座车站于哪一年投入使用？",
+      "options": [
+        "1874",
+        "1841",
+        "1952"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "哪位建筑师设计了1952年落成、2013年拆除的现代车站？",
+      "options": [
+        "Santiago Calatrava",
+        "Charles Sury",
+        "René Panis"
+      ],
+      "answer": 2
+    }
+  ],
+  "Statue Saint Georges": [
+    {
+      "question": "哪位法国艺术家创作了这座2024年落成的青铜雕像？",
+      "options": [
+        "Gérard Garouste",
+        "Xavier Veilhan",
+        "David Mesguich"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "它位于何处？",
+      "options": [
+        "Place des Congrès，Calatrava 车站后方",
+        "市政厅脚下",
+        "Jardin du Mayeur 内"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "它属于哪一公共艺术项目？",
+      "options": [
+        "仅 Mons 2015",
+        "Europa Nostra",
+        "「L'Art habite la Ville」"
+      ],
+      "answer": 2
+    }
+  ],
+  "Lucie et les Papillons": [
+    {
+      "question": "谁创作了这座2019年安装的纪念性雕塑？",
+      "options": [
+        "David Mesguich",
+        "Xavier Veilhan",
+        "Léon Gobert"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "蝴蝶与折断的剪刀尤其象征什么？",
+      "options": [
+        "军事胜利",
+        "初生的爱与情感的脆弱",
+        "蒙斯商业"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "这件不锈钢作品大约有多高？",
+      "options": [
+        "3米",
+        "87米",
+        "超过7米"
+      ],
+      "answer": 2
+    }
+  ],
+  "Collegiale Sainte Waudru": [
+    {
+      "question": "这座始建于1450年的学院教堂属于何种风格？",
+      "options": [
+        "布拉班特哥特式",
+        "巴洛克",
+        "莱茵罗马式"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "建筑长达多少？",
+      "options": [
+        "87米",
+        "32米",
+        "115米"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "原计划高190米的塔楼为何未完工？",
+      "options": [
+        "1691年停工，仅建至屋顶高度",
+        "1664年毁于火灾",
+        "UNESCO 予以禁止"
+      ],
+      "answer": 0
+    }
+  ],
+  "Tresors de Sainte Waudru": [
+    {
+      "question": "馆中尤其收藏圣女 Waudru 哪件7世纪的个人物品？",
+      "options": [
+        "La Bancloque",
+        "一枚戒指及称为「Benoîte Affique」的搭扣",
+        "金羊毛项圈（Toison d'Or）"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "珍宝馆中展出的殓布还覆盖着什么？",
+      "options": [
+        "钟楼图纸",
+        "Mundaneum 档案",
+        "圣女遗骨，她是城市的创立者"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "1793年的哪一事件使珍宝蒙受损失？",
+      "options": [
+        "第一次法国占领",
+        "学院教堂火灾",
+        "1691年围城"
+      ],
+      "answer": 0
+    }
+  ],
+  "Le Car d Or": [
+    {
+      "question": "金车（Car d'Or）在哪一节日中居于核心？该节日于2005年列入 UNESCO。",
+      "options": [
+        "Messines 的 ducasse",
+        "蒙斯 Ducasse，又称 Doudou",
+        "Havré 庙会"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "1349年的哪场疫病促成圣女 Waudru 圣髑游行？",
+      "options": [
+        "霍乱",
+        "西班牙流感",
+        "鼠疫"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "现存马车（1779-1782年制作）为何种风格？",
+      "options": [
+        "Louis XVI",
+        "火焰哥特式",
+        "新艺术运动"
+      ],
+      "answer": 0
+    }
+  ],
+  "Porte Rue Courte": [
+    {
+      "question": "2号门洞再利用的这座哥特式门来自何处？",
+      "options": [
+        "市政厅",
+        "Val des Écoliers 旧修道院",
+        "Saint-Germain 学院教堂"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "在并入18世纪图尔奈式房屋之前，它属于哪个世纪？",
+      "options": [
+        "11世纪",
+        "19世纪",
+        "16世纪"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "过梁上饰有火焰哥特式的何种典型纹样？",
+      "options": [
+        "饰有花饰与钩饰的双曲尖拱",
+        "三角山花",
+        "牛眼窗（œil-de-bœuf）"
+      ],
+      "answer": 0
+    }
+  ],
+  "Maison Espagnole": [
+    {
+      "question": "1548年哪场火灾之后，Rue des Clercs 的这座房屋得以重建？",
+      "options": [
+        "1714年 Sainte-Élisabeth 火灾",
+        "蒙斯大火",
+        "1869年皇家剧院火灾"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "旧尼德兰的这种哥特建筑常被称作什么？",
+      "options": [
+        "斯海尔德建筑",
+        "仅布拉班特哥特式",
+        "Louis XV 风格"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "其屋顶尤其以何元素为特色？",
+      "options": [
+        "巴洛克穹顶",
+        "石板孟莎屋顶",
+        "阶梯山墙，或称雀步（pas de moineau）"
+      ],
+      "answer": 2
+    }
+  ],
+  "Chapelle Saint Calixte": [
+    {
+      "question": "谁于1051年为教皇 Calixte Ier 的圣髑下令建造这座小堂？",
+      "options": [
+        "Baudouin IV",
+        "Richilde 伯爵夫人",
+        "Jean d'Avesnes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "它在蒙斯遗产中为何特别重要？",
+      "options": [
+        "它是城中保存下来的最古老宗教建筑",
+        "它收藏钟琴",
+        "它是比利时唯一的巴洛克钟楼"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "这座与伯爵城堡相连的建筑用何种石材建造？",
+      "options": [
+        "仅 Soignies 石",
+        "卡拉拉大理石",
+        "Bray 砂岩"
+      ],
+      "answer": 2
+    }
+  ],
+  "Ancien Chateau Comtal": [
+    {
+      "question": "哪位被称为「建造者」的伯爵于11世纪在这座小丘上筑堡？",
+      "options": [
+        "Jean d'Avesnes",
+        "Baudouin IV",
+        "Charles Quint"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "城堡还有哪些遗迹可见？",
+      "options": [
+        "城堡围墙、César 塔与 Saint-Calixte 小堂",
+        "伯爵宫殿全貌",
+        "一座87米高的主塔"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "这座城堡对埃诺伯国有何作用？",
+      "options": [
+        "仅为市场",
+        "水运车站",
+        "伯爵居所与行政中心"
+      ],
+      "answer": 2
+    }
+  ],
+  "Tour Cesar": [
+    {
+      "question": "César 塔是哪一中世纪建筑群为数不多的遗存之一？",
+      "options": [
+        "荷兰暗堡",
+        "蒙斯旧伯爵城堡",
+        "Léopold 兵营"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "它大概建于何时？",
+      "options": [
+        "13或14世纪，Jean d'Avesnes 治下",
+        "1661年",
+        "1841年"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "今日在城堡公园中仍可见什么？",
+      "options": [
+        "直至钟楼的完整塔身",
+        "一座文艺复兴小钟楼",
+        "塔基，已融入19世纪布置的公园"
+      ],
+      "answer": 2
+    }
+  ],
+  "Beffroi": [
+    {
+      "question": "蒙斯钟楼在比利时为何独一无二？",
+      "options": [
+        "它是全国唯一的巴洛克式钟楼",
+        "它是最古老的宗教建筑",
+        "它从未有过钟"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "它有多高？蒙斯人给它起了什么绰号？",
+      "options": [
+        "115米；Lumeçon",
+        "87米；El Catiau",
+        "23米；Bancloque"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "其钟琴有多少口钟？",
+      "options": [
+        "十二口",
+        "四口",
+        "49口"
+      ],
+      "answer": 2
+    }
+  ],
+  "Square": [
+    {
+      "question": "Square Saint-Germain 建于哪座建筑的遗迹之上？",
+      "options": [
+        "旧 Saint-Germain 学院教堂，毁于法国大革命",
+        "伯爵城堡",
+        "Guillaume 兵营"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "哪些建筑师于1887年创建了这座公共花园？",
+      "options": [
+        "Louis Ledoux 与 Vincent Anthony",
+        "Paul Saintenoy 与 Henri Sauvage",
+        "Joseph Hubert 与 Louis Fuchs"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "纪念喷泉献给谁？",
+      "options": [
+        "1830年的蒙斯志愿军",
+        "圣女 Waudru",
+        "Paul Verlaine"
+      ],
+      "answer": 0
+    }
+  ],
+  "Pilori": [
+    {
+      "question": "Fontaine-Pilori 于哪一年建成，以取代一口16世纪水井？",
+      "options": [
+        "1450",
+        "1779",
+        "1937"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "它属于何种风格、使用何种石材？",
+      "options": [
+        "Louis XVI，Écaussinnes 蓝石",
+        "哥特式，Bray 砂岩",
+        "巴洛克，砖砌"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "当时除装饰外，它还有何功能？",
+      "options": [
+        "仅为司法耻辱柱",
+        "承载钟琴",
+        "作为由渡槽供水的取水点"
+      ],
+      "answer": 2
+    }
+  ],
+  "Lola Goies Rue du Miroir": [
+    {
+      "question": "这幅壁画在城市中，夜间游荡的主要图案是什么？",
+      "options": [
+        "骑马的圣乔治",
+        "穿越蒙斯的龙",
+        "梅西纳的巨人"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "谁是这幅壁画的作者洛拉·戈伊斯的母校？",
+      "options": [
+        "ARTS²，蒙斯艺术高等学校",
+        "布鲁塞尔的拉坎布尔",
+        "列日皇家美术学院"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "除了街道名称外，龙的图案在这里与哪个地方主题对话？",
+      "options": [
+        "蒙达纽姆和十进制分类",
+        "贝古宁的周日市场",
+        "蒙斯的杜卡斯和镜子的主题"
+      ],
+      "answer": 2
+    }
+  ],
+  "Eva Badalamenti Passage de l'ilot": [
+    {
+      "question": "这幅壁画在Îlot通道中转变了什么？",
+      "options": [
+        "一个古老的井变成了纪念喷泉",
+        "一个铁路隧道变成了地下画廊",
+        "一个简单的过道变成了视觉停靠点"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "埃娃·巴达拉门蒂在什么背景下创作了这件作品？",
+      "options": [
+        "作为Farm Prod集体的受邀艺术家",
+        "作为ARTS²的学生",
+        "在蒙达纽姆的驻留期间"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "这幅壁画具体位于哪里？",
+      "options": [
+        "在Îlot通道",
+        "蒙杜帕克街",
+        "鱼市场"
+      ],
+      "answer": 0
+    }
+  ],
+  "Laurence Vray Instant suspendu": [
+    {
+      "question": "《悬停瞬间》中主要穿越的图案是什么？",
+      "options": [
+        "亲密、水和轻盈",
+        "卢梅松的战斗",
+        "塔罗牌的刀片"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "劳伦斯·弗雷在这里使用了什么媒介作为旅程中的暂停？",
+      "options": [
+        "画布上的丝网印刷",
+        "摄影模板",
+        "摄影"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "这位蒙斯艺术家在哪里安装了这件作品？",
+      "options": [
+        "在铁丝网街，监狱的墙上",
+        "在昂亨街19号",
+        "在莱奥波德广场"
+      ],
+      "answer": 1
+    }
+  ],
+  "Atelier Pica Pica Panorama": [
+    {
+      "question": "Atelier Pica Pica在这个全景中寻找什么？",
+      "options": [
+        "查理五世的帝国肖像",
+        "属于城市的形状和阴影",
+        "一组锦鲤的动物图鉴"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Atelier Pica Pica的三人组由谁组成？",
+      "options": [
+        "博里斯·马戈特、曼努埃尔·法尔卡塔和杰罗姆·德吉夫",
+        "杰罗姆·梅宁和安托万·德泰尔",
+        "Draw和Contra"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "在这件作品中，通道是如何设计的？",
+      "options": [
+        "作为蒙达纽姆的档案室",
+        "作为一个开放的鸟笼",
+        "作为一个小型壁面剧场"
+      ],
+      "answer": 2
+    }
+  ],
+  "Hell'O Folks": [
+    {
+      "question": "这幅Hell'O的壁画有什么视觉混合特征？",
+      "options": [
+        "仅仅是经典的涂鸦字母",
+        "以范·伊森迪克的风格绘制的学术肖像",
+        "与卡通和漫画人物相关的神秘符号"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "这个来自涂鸦的二人组为这件作品留下了什么？",
+      "options": [
+        "油漆和墨水",
+        "字母，转而使用纸张、油漆和墨水绘图",
+        "任何民俗的参考"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "这件作品还基于哪个蒙斯主题？",
+      "options": [
+        "杜杜",
+        "巴洛克钟楼",
+        "国际十进制分类法"
+      ],
+      "answer": 0
+    }
+  ],
+  "Kobra Torre de Saber": [
+    {
+      "question": "标题《知识之塔》给图像带来了什么样的存在？",
+      "options": [
+        "一种几乎象征性的知识之塔",
+        "卢梅松的龙",
+        "17世纪的静物画"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Kobra在这里优先选择什么类型的构图？",
+      "options": [
+        "小型的摄影模板",
+        "一个光亮的文字装置",
+        "一种巨大的格式，鲜艳的颜色和动态的线条"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "这幅壁画是在哪条街上绘制的？",
+      "options": [
+        "夜莺街",
+        "蒙杜帕克街",
+        "查特里街"
+      ],
+      "answer": 1
+    }
+  ],
+  "Olivier Sonck Ivre d'histoires": [
+    {
+      "question": "《醉于故事》在监狱的墙上混合了什么？",
+      "options": [
+        "仅仅是帝国肖像",
+        "图像、文字和记忆",
+        "照亮的锦鲤"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "滋养这幅壁画的故事来自哪里？",
+      "options": [
+        "与囚犯和居民进行的童年记忆工作坊",
+        "罗兰·德·拉苏斯的手稿",
+        "穆丹纽姆的档案"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "这幅壁画在哪里完成？",
+      "options": [
+        "尼米街126号",
+        "圣日耳曼广场",
+        "在铁丝网街的监狱墙上"
+      ],
+      "answer": 2
+    }
+  ],
+  "Arts2 Tunnel de la Paix": [
+    {
+      "question": "学生们为这个隧道选择了什么主题？",
+      "options": [
+        "塔罗牌",
+        "火把游行",
+        "和平"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "是谁陪伴这二十名ARTS²的学生？",
+      "options": [
+        "安德烈·拉沃·马托尼",
+        "以其大型壁画而闻名的皮特·罗德里格斯",
+        "罗伯特·蒙哥马利"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "这幅壁画让红十字街的隧道变成了什么？",
+      "options": [
+        "一个转变为反思空间的通道",
+        "圣瓦德鲁大教堂的复制品",
+        "一个有顶市场"
+      ],
+      "answer": 0
+    }
+  ],
+  "Zesar Bahamonte Saint Georges": [
+    {
+      "question": "Zësar Bahamonte在城市景观中引入了哪个形象？",
+      "options": [
+        "圣乔治",
+        "圣瓦德鲁和她的女儿们",
+        "保罗·奥特莱特"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "这位壁画艺术家来自哪里？",
+      "options": [
+        "葡萄牙",
+        "俄罗斯",
+        "西班牙"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "这幅壁画位于哪里？",
+      "options": [
+        "夜莺街",
+        "大日街29号",
+        "查尔斯五世大道"
+      ],
+      "answer": 1
+    }
+  ],
+  "Andrea Ravo Mattoni Rue de Nimy 126": [
+    {
+      "question": "哪种光线组织了这个场景，有时被称为“蜡烛”？",
+      "options": [
+        "一个广告霓虹灯",
+        "火把游行中的明暗光线",
+        "锦鲤的光线"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "安德烈·拉沃·马托尼是如何在墙上进行创作的？",
+      "options": [
+        "没有准备草图，直接用喷雾",
+        "仅使用摄影模板",
+        "通过剪纸拼贴"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "哪些大师滋养了这幅独特的作品？",
+      "options": [
+        "安托·卡特、路易·比塞雷特和安托万·克莱斯",
+        "鲁本斯、门林和范艾克",
+        "维拉斯奎兹、卡拉瓦乔和约翰·威廉·沃特豪斯"
+      ],
+      "answer": 2
+    }
+  ],
+  "Pierre Liebaert Je crois aux nuits": [
+    {
+      "question": "《我相信夜晚》邀请人们关注什么？",
+      "options": [
+        "立面顶部的塔罗牌",
+        "一只奎查尔鸟和墨西哥花卉",
+        "在阴影中持续存在的东西：古老的动作、游行、狂欢节的形象"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "皮埃尔·利贝尔特的主要创作是什么？",
+      "options": [
+        "涂鸦字母",
+        "摄影",
+        "大型雕塑"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "利贝尔特通常关注哪些主题？",
+      "options": [
+        "从内部经历的主题，关于漫长的时间",
+        "仅仅是广告委托",
+        "穆丹纽姆的地图"
+      ],
+      "answer": 0
+    }
+  ],
+  "Godmess Third Rua Storytelling": [
+    {
+      "question": "Godmess和Third Rua选择了什么出发点？",
+      "options": [
+        "蒙特的儿童画",
+        "查理五世的肖像",
+        "传统的盖约尔"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "这两位艺术家来自哪里？",
+      "options": [
+        "瑞士",
+        "美国",
+        "葡萄牙"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "这幅壁画在哪里绘制？",
+      "options": [
+        "修道院街",
+        "在小市场院，尼米街",
+        "贝古纳广场"
+      ],
+      "answer": 1
+    }
+  ],
+  "Noir Artist Don't sleep on your dream": [
+    {
+      "question": "这幅壁画中交汇了哪些世界？",
+      "options": [
+        "仅仅是Lumeçon的民俗",
+        "广告、波普艺术、巴洛克艺术和书法",
+        "17世纪的静物画"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Noir Artist的真名是什么？",
+      "options": [
+        "Lucien Gilson",
+        "Matteo Capobianco",
+        "Fabio Lopez"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "这幅壁画位于蒙斯的哪条街？",
+      "options": [
+        "Enghien街",
+        "Barbelés街",
+        "Nimy街"
+      ],
+      "answer": 2
+    }
+  ],
+  "Andrea Ravo Mattoni Charles Quint": [
+    {
+      "question": "Andrea Ravo Mattoni在这里重新诠释了什么形象？",
+      "options": [
+        "Lumeçon的龙",
+        "一个周日市场",
+        "查理五世的皇帝肖像"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "艺术家通过将经典作品转移到墙上寻求什么？",
+      "options": [
+        "用私人画廊取代教堂",
+        "将过去与现在结合，并将博物馆开放给街道",
+        "抹去所有历史参考"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "这幅壁画位于哪里？",
+      "options": [
+        "查理五世大道18号",
+        "Chapitre街",
+        "Roosevelt广场"
+      ],
+      "answer": 0
+    }
+  ],
+  "Zesar Bahamonte Le Dragon": [
+    {
+      "question": "Zësar重新演绎了蒙斯想象中的哪个中心形象？",
+      "options": [
+        "Lumeçon的龙",
+        "巴洛克钟楼",
+        "Grand'Garde的猴子"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "艺术家经历了怎样的地理路线来到蒙斯？",
+      "options": [
+        "纽约然后伦敦",
+        "里斯本然后波尔图",
+        "塞维利亚、巴塞罗那，然后是蒙得维的亚"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "龙是在哪条街上绘制的？",
+      "options": [
+        "Grand Jour街",
+        "Rossignol街",
+        "Miroir街"
+      ],
+      "answer": 1
+    }
+  ],
+  "Leonidas Giannakopoulos Global City": [
+    {
+      "question": "哪个蒙斯机构启发了这幅作品？",
+      "options": [
+        "圣沃德鲁教堂",
+        "Mundaneum及其创始人的思想",
+        "哥特式市政厅"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "标题“全球城市”总结了什么？",
+      "options": [
+        "将蒙斯与开放世界想象对话的雄心",
+        "大广场商店的清单",
+        "对圣乔治唯一战斗的致敬"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "艺术家引用了保罗·奥特莱特的哪种视角？",
+      "options": [
+        "中世纪的草药市场",
+        "模范监狱",
+        "传播知识与合作的全球城市"
+      ],
+      "answer": 2
+    }
+  ],
+  "Stelios Pupet Harmonizing Mons": [
+    {
+      "question": "Stelios Pupet是如何构建他的作品的？",
+      "options": [
+        "仅通过条纹平面",
+        "通过光明的词语",
+        "通过结合具象和几何"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "标题“Harmonizing Mons”传达了什么？",
+      "options": [
+        "城墙的清单",
+        "形式、节奏和地方记忆之间的和谐",
+        "圣人与龙之间的斗争"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "这件作品向哪位蒙斯作曲家致敬？",
+      "options": [
+        "Antoine Clesse",
+        "Roland de Lassus",
+        "Jacques Brel"
+      ],
+      "answer": 0
+    }
+  ],
+  "Jana et JS Le couple de la rue Verte": [
+    {
+      "question": "哪个建筑元素组织了这个场景？",
+      "options": [
+        "窗户，内外的开口",
+        "一座知识塔",
+        "一个封闭的鸟笼"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Jana & JS自2006年以来使用了什么技术？",
+      "options": [
+        "无准备草图的喷雾",
+        "无模板的放大摄影",
+        "基于他们自己照片的模板"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "这幅壁画与城市的哪个精神相契合？",
+      "options": [
+        "查理五世的帝国古典主义",
+        "蒙斯的超现实主义精神",
+        "仅城墙的城市规划"
+      ],
+      "answer": 1
+    }
+  ],
+  "Ufocinque Passeggiando nella Storia": [
+    {
+      "question": "Ufocinque依赖于哪个城市轨迹？",
+      "options": [
+        "Lumeçon大广场",
+        "靠近瓦朗谢讷塔的旧城墙轨迹",
+        "古斯塔夫·雅各布斯花园"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Ufocinque的真实姓名是什么，他主要从事什么工作？",
+      "options": [
+        "马泰奥·卡波比安科；多层次解读的叠加",
+        "吕西安·吉尔松；广告书法",
+        "克里斯蒂安·雷贝基；地面绘画"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "标题“Passeggiando nella Storia”是什么意思？",
+      "options": [
+        "塔罗牌的寓言",
+        "Gayoles的清单",
+        "邀请在历史中漫步"
+      ],
+      "answer": 2
+    }
+  ],
+  "Dussart Myncke True story Marche aux herbes": [
+    {
+      "question": "在这面封闭的墙面窗户中可以看到什么？",
+      "options": [
+        "蒙斯的地方领袖肖像",
+        "1950年代好莱坞的漫画和电影海报",
+        "被照亮的锦鲤"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "这两位学生将哪个城市细节转变为虚构的场景？",
+      "options": [
+        "蒙斯的许多封闭窗户",
+        "钟楼的台阶",
+        "Lumeçon的石板路"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "标题“True story”要求我们如何看待这面墙？",
+      "options": [
+        "像一张地籍图",
+        "像一幅静物画",
+        "像一面在现实与大众想象之间讲述故事的墙"
+      ],
+      "answer": 2
+    }
+  ],
+  "Levalet L'homme des cavernes": [
+    {
+      "question": "Levalet的人物如何与建筑对话？",
+      "options": [
+        "他们以条纹平面画出，与开口无关",
+        "他们贴在地上，像一块地毯",
+        "他们用中国墨水绘制，逐窗嵌入"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "这个场景在你眼前营造了什么样的错位？",
+      "options": [
+        "当代人与其自身起源之间的现实主义与超现实主义的交汇",
+        "圣乔治与龙的战斗",
+        "18世纪的草药市场"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Houdain街的墙面变成了什么？",
+      "options": [
+        "Mundaneum的地图",
+        "一个可以像故事一样阅读的叙述背景",
+        "一个封闭的鸟笼"
+      ],
+      "answer": 1
+    }
+  ],
+  "Farm Prod Rue de la Halle": [
+    {
+      "question": "顶部的立面上有哪些人物雕像？",
+      "options": [
+        "圣瓦德鲁和她的女儿们",
+        "亚当和夏娃",
+        "西贝尔和波利亚德"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "在其他符号中，下面可以识别出哪些塔罗牌？",
+      "options": [
+        "皇帝、死亡、世界和节制",
+        "班克洛克、金车和罗皮尔",
+        "审判、隐士和命运之轮仅此而已"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "从上到下阅读墙面后，这个构图提供了什么样的视觉旅行？",
+      "options": [
+        "大广场的职业清单",
+        "奥特莱特的十进制分类法",
+        "塔罗牌、自我认知和时间的流逝"
+      ],
+      "answer": 2
+    }
+  ],
+  "Hell'O Rue de la Halle": [
+    {
+      "question": "墙面被分成多少个面板？",
+      "options": [
+        "四个",
+        "九个",
+        "十六个"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "在这个超现实的宇宙中，哪个图案反复出现？",
+      "options": [
+        "眼睛",
+        "钟楼",
+        "奎查尔"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "在图画中，除了涂鸦字母外，还需要观察什么？",
+      "options": [
+        "仅仅是帝国肖像",
+        "虚构的生物、粉彩和没有强制阅读顺序的组合",
+        "书目卡片"
+      ],
+      "answer": 1
+    }
+  ],
+  "Ilan Walbrecq Georges Cuvelier": [
+    {
+      "question": "这幅肖像突出了哪位著名的蒙托瓦人？",
+      "options": [
+        "米其林星级厨师乔治·库维利尔",
+        "画家路易·布伊塞雷特",
+        "天文学家查尔斯·马拉佩尔特"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "这幅图像属于哪个露天画廊？",
+      "options": [
+        "在封闭的草药市场窗户上",
+        "在Arts²绘画工作室的“著名蒙托瓦人”系列中",
+        "在火枪手街的Gayoles上"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "如何区分这幅肖像与沿途更远处的路易·布伊塞雷特的肖像？",
+      "options": [
+        "这里是一个厨师；布伊塞雷特是一个画家",
+        "这里是一个龙；布伊塞雷特是一个罂粟花",
+        "两者展示的是同一张面孔，反向"
+      ],
+      "answer": 0
+    }
+  ],
+  "Cedric Le Borgne La riviere": [
+    {
+      "question": "在鱼市场上悬挂着什么？",
+      "options": [
+        "一条来自Lumeçon的龙",
+        "两条巨大的锦鲤，看起来像是在空中游泳",
+        "一对在窗户旁的情侣"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "这些雕塑的光源来自哪里？",
+      "options": [
+        "来自锦鲤内部",
+        "仅来自斜射的阳光，没有内部光源",
+        "来自放置在钟楼上的投影仪"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "当人们停下来时，这个装置产生了什么样的比例效果？",
+      "options": [
+        "它缩小了大教堂的比例",
+        "它重建了一个客厅水族箱",
+        "它让路人面对放大的自然时回归自己的尺度"
+      ],
+      "answer": 2
+    }
+  ],
+  "Taquen Bouquet of memory and hope": [
+    {
+      "question": "在查特里耶街，哪种花占据了墙面？",
+      "options": [
+        "圣瓦德鲁的百合",
+        "罂粟花",
+        "大广场的玫瑰"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "在这个花束中，除了花卉图案外，还需要阅读什么？",
+      "options": [
+        "沉重的回忆，同时也是希望的承诺",
+        "对Farm Prod塔罗牌的致敬",
+        "食品行业的徽章"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "罂粟花显现了这个地方的什么过去？",
+      "options": [
+        "Lumeçon的年度战斗",
+        "Otlet的档案分类",
+        "炸弹曾在此落下；如今罂粟花在此生长"
+      ],
+      "answer": 2
+    }
+  ],
+  "Dussart Myncke True story Croix Place": [
+    {
+      "question": "面对外立面，标题“True story”要求什么？",
+      "options": [
+        "将墙面视为一个故事，而不告诉你结局",
+        "计算哥特式的拱门",
+        "在塔罗牌的顶部找到亚当和夏娃"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "这幅“True story”与草药市场的有什么不同？",
+      "options": [
+        "它是Zësar Bahamonte签名的",
+        "它并没有列出被五十年代海报封闭的窗户：它赋予整条街道一个需要解读的场景",
+        "它描绘了两条锦鲤"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "这幅画在你眼前维持着什么差距？",
+      "options": [
+        "在目录和档案之间",
+        "在城市规划和地籍之间",
+        "在街道的现实和艺术家的视角之间"
+      ],
+      "answer": 2
+    }
+  ],
+  "Eva Badalamenti Louis Buisseret": [
+    {
+      "question": "墙面展示了什么样的面孔？",
+      "options": [
+        "米其林星级厨师乔治·库维利耶",
+        "蒙斯画家路易·布伊塞雷特",
+        "作曲家罗兰·德·拉苏斯"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "这个肖像在视觉上属于哪个系列？",
+      "options": [
+        "《著名的蒙斯人》，由Arts²的学生们绘制的地方人物画廊",
+        "《真实故事》的漫画窗户",
+        "《Hell'O》的十六块面板"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "如果从哈勒街过来，应该比较什么？",
+      "options": [
+        "那边的厨师，这里的画家：两个职业，同一个露天画廊",
+        "两个相同的龙",
+        "两个封闭的鸟笼"
+      ],
+      "answer": 0
+    }
+  ],
+  "Thomas Istasse La lune de Malapert": [
+    {
+      "question": "构图将视线引向哪里？",
+      "options": [
+        "朝向大广场的地下室",
+        "向上，在一幅沐浴在光线中的图像中",
+        "朝向吕梅松的石板路"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "观察墙面后，名称“Malapert”叠加了什么？",
+      "options": [
+        "一条蒙斯的街道和一个月球陨石坑，向观察天空的学者致敬",
+        "塞维利亚的一个街区和一个Gayole",
+        "一条铁路隧道和Mundaneum"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "这件作品在城市与空间之间建立了什么联系？",
+      "options": [
+        "它重建了城墙",
+        "它分类了奥特莱特的知识",
+        "它将蒙斯的土地与天空连接起来，而不离开地方记忆"
+      ],
+      "answer": 2
+    }
+  ],
+  "Andrea Buglisi La Gayole": [
+    {
+      "question": "建筑在你眼前是如何转变的？",
+      "options": [
+        "开放的鸟笼，鸟儿自由自在",
+        "知识之塔",
+        "锦鲤水族箱"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Buglisi 首先给路人设下了什么视觉陷阱？",
+      "options": [
+        "仅有的涂鸦字母",
+        "诱人的色彩，然后是更令人不安的消息，带有讽刺的色调",
+        "烛光退隐的明暗交替"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "标题《La Gayole》在图像中唤起了什么民间记忆？",
+      "options": [
+        "蒙特传统中的鸟笼",
+        "十进制分类法",
+        "圣乔治的战斗"
+      ],
+      "answer": 0
+    }
+  ],
+  "Oli-B L'escapade": [
+    {
+      "question": "墙上混合了什么？",
+      "options": [
+        "一幅灰色调的帝国肖像",
+        "抽象和具象的形状，鲜艳的色彩，运动的感觉",
+        "充满五十年代海报的窗户"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "这些形状与花园的关系如何？",
+      "options": [
+        "它们似乎与植物几乎一起呼吸",
+        "它们忽视花园，模仿钟楼",
+        "它们重现了城墙的平面图"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "图像给公共空间带来了什么色调？",
+      "options": [
+        "一份军事档案",
+        "一幅卡拉瓦乔式的明暗交替",
+        "一种梦幻而明亮的视角，比城市的矿物质更柔和"
+      ],
+      "answer": 2
+    }
+  ],
+  "Blancbec Le monstrueux": [
+    {
+      "question": "墙壁上有什么？",
+      "options": [
+        "来自Mundaneum的卡片",
+        "虚构的动物和植物",
+        "作曲家的肖像"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "几何形状和鲜艳色彩来自哪里？",
+      "options": [
+        "19世纪的历史画",
+        "仅仅是纪录摄影",
+        "涂鸦以及海报和角色的创作"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "最初赋予这种风格的形象是什么，其他生物之前？",
+      "options": [
+        "鸟",
+        "Lumeçon的龙",
+        "Grand'Garde的猴子"
+      ],
+      "answer": 0
+    }
+  ],
+  "Nevercrew Dissipation": [
+    {
+      "question": "《消散》讨论了什么主题？",
+      "options": [
+        "全球变暖",
+        "杜卡斯和卢梅松",
+        "比金纳市场"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "这个项目的技术特点是什么？",
+      "options": [
+        "仅使用模板",
+        "没有像拉沃那样的准备草图",
+        "Nevercrew首次在街道上直接工作"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "这个瑞士二人组由谁组成？",
+      "options": [
+        "杰罗姆·梅宁和安托万·德泰尔",
+        "克里斯蒂安·雷贝基和巴勃罗·托尼",
+        "法比奥·洛佩斯和埃洛迪·阿尔沙克"
+      ],
+      "answer": 1
+    }
+  ],
+  "Duek Eldorado": [
+    {
+      "question": "在《埃尔多拉多》中出现了哪种标志性鸟类？",
+      "options": [
+        "卢梅松的龙",
+        "奎兹尔鸟",
+        "大卫的猴子"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "来自西班牙的艺术家Duek在这里受到了哪些文化的启发？",
+      "options": [
+        "来自墨西哥及其自然和神秘主义",
+        "来自Mundaneum和保罗·奥特莱特",
+        "仅来自蒙特的Gayoles"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "这幅壁画位于哪里？",
+      "options": [
+        "大街8号",
+        "修道院街",
+        "二手商街19号"
+      ],
+      "answer": 2
+    }
+  ],
+  "Poni Grand Rue": [
+    {
+      "question": "Poni在这面墙上表现了什么？",
+      "options": [
+        "两条锦鲤",
+        "一对在窗边的情侣",
+        "一位女性形象，背景是蒙斯山"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "她为什么经常画没有瞳孔的女性？",
+      "options": [
+        "为了引用卡拉瓦乔",
+        "为了邀请人们旅行",
+        "为了模仿梅西纳的巨人"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "这位艺术家在蒙斯的存在有什么特别之处？",
+      "options": [
+        "这是墨西哥艺术家希尔达·帕拉福克斯首次在比利时创作",
+        "她在ARTS²教授已有十年",
+        "她在这里向罗兰·德·拉苏致敬"
+      ],
+      "answer": 0
+    }
+  ],
+  "Paul Segard Ma ville s'endort": [
+    {
+      "question": "保罗·塞加尔画了什么简单的场景？",
+      "options": [
+        "一个沉睡的人守护着城市",
+        "圣乔治的战斗",
+        "丰收的市场"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "他选择了什么样的色彩氛围？",
+      "options": [
+        "卡拉瓦乔风格的明暗对比",
+        "模仿MOMO的条纹平涂",
+        "柔和而富有诗意的粉彩"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "《我的城市在沉睡》在哪里？",
+      "options": [
+        "雅典街",
+        "在中央通道，大街",
+        "圣特莱特大道"
+      ],
+      "answer": 1
+    }
+  ],
+  "Celeste Gangolphe Mille et une feuille": [
+    {
+      "question": "常春藤在这面墙上隐藏了什么？",
+      "options": [
+        "查理五世的肖像",
+        "火焰中的人和叶子儿童，灵感来自Doudou",
+        "Mundaneum的档案"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Céleste Gangolphe喜欢混合哪些媒介？",
+      "options": [
+        "素描、绘画、拼贴和图案",
+        "仅使用无图案的喷雾",
+        "光字的装置"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "这幅壁画在一个矿石城市中做了什么？",
+      "options": [
+        "重建城墙",
+        "分类知识",
+        "为蒙特的民俗带来自然的气息"
+      ],
+      "answer": 2
+    }
+  ],
+  "Dulk The battle": [
+    {
+      "question": "《The battle》邀请人们进入哪个世界？",
+      "options": [
+        "一个书目档案",
+        "一个帝国肖像",
+        "一个充满动物和自然风景的梦幻世界"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dulk来自哪里？",
+      "options": [
+        "俄罗斯",
+        "西班牙",
+        "英国"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "这幅壁画在卡普辛街上还悄悄捍卫了什么？",
+      "options": [
+        "生态系统和最脆弱物种",
+        "Otlet的知识分类",
+        "瓦朗谢讷塔的重建"
+      ],
+      "answer": 0
+    }
+  ],
+  "Nean Cybele et Poliade": [
+    {
+      "question": "NEAN向哪些人物致敬？",
+      "options": [
+        "在Lumeçon竞技场的Cybèle和Poliade",
+        "塔罗牌中的亚当和夏娃",
+        "该地区的Gayoles"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "比利时艺术家的作品中贯穿着什么思考？",
+      "options": [
+        "广告和波普艺术",
+        "抽象城市地图",
+        "时间、记忆及其转变的方式"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "为什么这面墙特别适合这个主题？",
+      "options": [
+        "因为它毗邻Mundaneum",
+        "因为它的痕迹和层次使历史可见",
+        "因为它为周日市场提供了讲台"
+      ],
+      "answer": 1
+    }
+  ],
+  "10eme ARTE L'envol des ballons": [
+    {
+      "question": "我们看到什么在聚集的人脸上升起？",
+      "options": [
+        "Gayoles",
+        "气球",
+        "书目档案"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "10ème ARTE是谁？",
+      "options": [
+        "一个在布鲁塞尔工作的西班牙和意大利二人组",
+        "一个俄罗斯集体",
+        "ARTS²的绘画工作室"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "这件作品灵感来源于蒙特的什么热情？",
+      "options": [
+        "贝古纳日市场",
+        "Mundaneum的建立",
+        "大广场上的民俗和所谓的Lumeçon战斗"
+      ],
+      "answer": 2
+    }
+  ],
+  "Arts2 Roland de Lassus": [
+    {
+      "question": "哪个蒙特人被ARTS²的学生们所纪念？",
+      "options": [
+        "安托万·克莱斯",
+        "雅克·杜布鲁克",
+        "罗兰·德·拉苏斯"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "这是什么类型的创作？",
+      "options": [
+        "一个文字装置",
+        "学生的集体创作",
+        "雅娜和JS的摄影模板"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "这幅肖像位于哪个街道？",
+      "options": [
+        "五面孔街",
+        "安托万·克莱斯街",
+        "章节街"
+      ],
+      "answer": 0
+    }
+  ],
+  "Andrea Ravo Mattoni Sainte Waudru et ses filles": [
+    {
+      "question": "安德烈·拉沃·马托尼在墙上转化了什么场景？",
+      "options": [
+        "圣瓦德鲁和她的女儿们探访囚犯",
+        "圣乔治的战斗",
+        "独自攀登金车"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "这幅图像在城市转化之前与哪位画家相关？",
+      "options": [
+        "安托·卡特",
+        "路易·布伊塞雷",
+        "安托万·范·伊森迪克"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "为什么章节街的这个位置很重要？",
+      "options": [
+        "因为它靠近现代监狱",
+        "因为它与附近的教堂直接相关",
+        "因为它沿着圣克莱特的旧城墙走"
+      ],
+      "answer": 1
+    }
+  ],
+  "Filip Gilissen Spread your wings": [
+    {
+      "question": "这个装置传达了什么？",
+      "options": [
+        "一条龙",
+        "翅膀和向上的冲劲",
+        "丰盛的市场"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "这是一种什么类型的作品，而不是平面壁画？",
+      "options": [
+        "一个装置",
+        "一个玻璃窗上的模板",
+        "一个装裱的摄影作品"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "圣日耳曼广场与哪个纪念碑呼应？",
+      "options": [
+        "世界博物馆",
+        "单独的钟楼",
+        "在风景中可见的圣瓦德鲁教堂"
+      ],
+      "answer": 2
+    }
+  ],
+  "Ana Langeheldt Alegoria de santa Valdetrudis": [
+    {
+      "question": "安娜·兰赫尔特重新诠释了什么传统？",
+      "options": [
+        "圣约翰的火焰",
+        "同性恋者",
+        "金车的上升"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "这位西班牙艺术家还有什么其他名字？",
+      "options": [
+        "第三条Rua",
+        "Lahe178",
+        "小马"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "圣瓦德鲁的寓言在哪里绘制？",
+      "options": [
+        "在圣瓦德鲁坡道上",
+        "尼米街",
+        "莱奥波德广场"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rachelle Celiane Santerre Jacques Du Broeucq": [
+    {
+      "question": "圣特尔姐妹向谁致敬？",
+      "options": [
+        "雅克·杜布鲁克，建筑师和雕塑家",
+        "安托·卡特，画家",
+        "乔治·库维利耶，厨师"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "这件作品是在ARTS²的什么背景下创作的？",
+      "options": [
+        "仅在雕刻工作室",
+        "在世界博物馆的驻留",
+        "在绘画工作室，系列“著名的蒙托人”"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "肖像位于靠近教堂的哪条街？",
+      "options": [
+        "五面孔街",
+        "章节街",
+        "黑姐妹街"
+      ],
+      "answer": 1
+    }
+  ],
+  "Margaux Del Vecchio Anto Carte": [
+    {
+      "question": "玛戈·德尔·维基奥代表了哪位蒙托画家？",
+      "options": [
+        "路易·比瑟雷特",
+        "安托·卡特",
+        "安托万·范·伊森迪克"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "这件作品属于哪个系列？",
+      "options": [
+        "“著名的蒙托人”",
+        "“真实故事”",
+        "“知识塔”"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "肖像在哪里绘制？",
+      "options": [
+        "章节街",
+        "马拉佩尔街",
+        "罗斯福广场"
+      ],
+      "answer": 2
+    }
+  ],
+  "Projeto Ruido Le temps": [
+    {
+      "question": "在《时间》中遇到了哪些图形语言？",
+      "options": [
+        "仅仅是学术的明暗对比",
+        "仅仅是字母",
+        "涂鸦、具象、抽象和颜色"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Projeto Ruído由谁组成？",
+      "options": [
+        "Godmess和第三条Rua",
+        "Draw（弗雷德里科·索阿雷斯·坎波斯）和Contra（罗德里戈·圭纳·冈萨尔维斯）",
+        "法比奥·洛佩斯和埃洛迪·阿尔沙克"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "这条街引导行人前往哪个博物馆？",
+      "options": [
+        "杜斯贝尔博物馆",
+        "仅世界博物馆",
+        "杜杜博物馆"
+      ],
+      "answer": 0
+    }
+  ],
+  "Robert Montgomery Invisible graffiti of love": [
+    {
+      "question": "罗伯特·蒙哥马利在这里使用了什么材料？",
+      "options": [
+        "文字",
+        "绘制的塔罗牌",
+        "锦鲤"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "标题《爱的隐形涂鸦》要求什么？",
+      "options": [
+        "重建城墙",
+        "分类文件",
+        "抬起头来，放慢速度，去阅读"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "这个亲密的声音在哪里出现？",
+      "options": [
+        "坎廷普雷街",
+        "莱奥波德广场",
+        "火枪手街"
+      ],
+      "answer": 1
+    }
+  ],
+  "Momo Rue Cantimpret": [
+    {
+      "question": "MOMO的作品组成是什么样的？",
+      "options": [
+        "蜡烛的明暗对比",
+        "条纹的平面色彩",
+        "中国墨水画的人物"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "这位美国艺术家因何种类型的干预而闻名？",
+      "options": [
+        "城市地图，从微小的动作到巨大的壁画",
+        "发光的锦鲤装置",
+        "著名的蒙托人肖像"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "这幅壁画在什么街道上为行程增添节奏？",
+      "options": [
+        "炮手街",
+        "贝尔泰蒙街",
+        "坎廷普雷街"
+      ],
+      "answer": 2
+    }
+  ],
+  "Zmogk The elements": [
+    {
+      "question": "Zmogk在街上创造了什么元素？",
+      "options": [
+        "锦鲤的水",
+        "气球的空气",
+        "火"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Zmogk来自哪里，他发展了什么风格？",
+      "options": [
+        "美国；条纹的平面色彩",
+        "俄罗斯；动态和多彩的构图",
+        "葡萄牙；现实主义的模板"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "这件作品与哪个接近Nervienne广场的仪式对话？",
+      "options": [
+        "圣约翰的火",
+        "金车的上升",
+        "周日市场"
+      ],
+      "answer": 0
+    }
+  ],
+  "Arkane Lalie": [
+    {
+      "question": "Arkane的《Lalie》灵感来源于什么？",
+      "options": [
+        "梅西纳的巨人，想象成真实的人",
+        "仅仅是Lumeçon的龙",
+        "塔罗牌的刀片"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "是什么创造了图像非常肉感的氛围？",
+      "options": [
+        "单独的字母",
+        "条纹的平面色彩",
+        "光线和构图"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "这幅壁画与哪个地区的民俗对话？",
+      "options": [
+        "Mundaneum区",
+        "梅西纳区，贝尔泰蒙街",
+        "鱼市场"
+      ],
+      "answer": 1
+    }
+  ],
+  "Tris Horizon": [
+    {
+      "question": "Tris在这座盲窗建筑上采用了什么主题？",
+      "options": [
+        "Gayoles",
+        "门",
+        "罂粟花"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "他的宇宙位于哪些领域之间？",
+      "options": [
+        "漫画与现实主义，带有电影氛围",
+        "仅仅是学术的明暗对比",
+        "17世纪的静物画"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "圣克莱特大道跟随什么？",
+      "options": [
+        "金车游行的路线",
+        "Mundaneum的轴线",
+        "城市的旧城墙和入口门的路线"
+      ],
+      "answer": 2
+    }
+  ],
+  "Dourone Boulevard Sainctelette": [
+    {
+      "question": "对Dourone来说，Doudou代表什么？",
+      "options": [
+        "与当地无关的装饰图案",
+        "对Mundaneum的引用",
+        "蒙托人的团结，跨代和共享"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dourone由谁组成？",
+      "options": [
+        "Christian Rebecchi和Pablo Togni",
+        "来自西班牙的Fabio Lopez和Elodie Arshak",
+        "Jérôme Meynen和Antoine Detaille"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "他们提醒了Ducasse的什么国际认可？",
+      "options": [
+        "联合国教科文组织将其列入人类非物质文化遗产",
+        "被列为军事纪念碑",
+        "与十进制分类的联系"
+      ],
+      "answer": 0
+    }
+  ],
+  "Nadege Dauvergne Place du Beguinage": [
+    {
+      "question": "Nadège Dauvergne在这个广场上受到什么启发？",
+      "options": [
+        "周日市场和丰盈的概念",
+        "Lumeçon的战斗",
+        "梅西纳的巨人"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "她与哪些画作对话，改变了尺度？",
+      "options": [
+        "提香的帝国肖像",
+        "特纳的风景画",
+        "17世纪的静物画，特别是Joris Van Son的作品"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "这幅宏伟的壁画在哪里绘制？",
+      "options": [
+        "坎廷普雷街",
+        "贝古纳广场",
+        "圣克莱特大道"
+      ],
+      "answer": 1
+    }
+  ],
+  "Daniel Eime Resistance": [
+    {
+      "question": "丹尼尔·艾梅在《抵抗》中向谁致敬？",
+      "options": [
+        "保罗·奥特莱特",
+        "玛格丽特·贝尔沃特",
+        "圣瓦德鲁"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "贯穿他所有创作的技术是什么？",
+      "options": [
+        "模板印刷，结合了流行、现实主义和几何图案",
+        "无准备图案的喷涂",
+        "光字的装置"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "这位艺术家来自哪里，他从什么时候开始进行街头创作？",
+      "options": [
+        "来自法国，仅从2022年开始",
+        "来自瑞士，双人合作",
+        "来自葡萄牙；他从小就开始涂鸦"
+      ],
+      "answer": 2
+    }
+  ],
+  "Portes du Theatre Royal": [
+    {
+      "question": "皇家剧院铸铁门上有哪些奖章？",
+      "options": [
+        "莫里埃、拉辛、格雷特里、罗兰·德·拉苏斯",
+        "雨果、巴尔扎克、维尔伦、兰波",
+        "大仲马、左拉、福楼拜、卡缪"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "皇家剧院的门是用什么材料制成的？",
+      "options": [
+        "木头",
+        "铸铁",
+        "石头"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "皇家剧院门上代表的是什么徽章？",
+      "options": [
+        "布鲁塞尔的徽章",
+        "列日的徽章",
+        "蒙斯的徽章"
+      ],
+      "answer": 2
+    }
+  ],
+  "Blasons muets": [
+    {
+      "question": "在镜子街8号可见的哑徽章的主要材料是什么？",
+      "options": [
+        "木头",
+        "石头",
+        "金属"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "哑徽章是在什么年份制作的？",
+      "options": [
+        "1600",
+        "1500",
+        "1545"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "在蒙斯，哑徽章所在的街道叫什么名字？",
+      "options": [
+        "镜子街",
+        "沙塞街",
+        "抵抗街"
+      ],
+      "answer": 0
+    }
+  ],
+  "Au Gros Visage": [
+    {
+      "question": "'Au Gros Visage'标志的浮雕上代表了什么图案？",
+      "options": [
+        "一只狮子",
+        "一朵花",
+        "一张胖脸"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "'Au Gros Visage'标志是在什么年份创建的？",
+      "options": [
+        "1789",
+        "1801",
+        "1750"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "'Au Gros Visage'标志位于蒙斯的哪条街上？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue du Miroir",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "A la Poire d'Or": [
+    {
+      "question": "'A la Poire d'Or' 的招牌上代表了什么图案？",
+      "options": [
+        "一只挂在丝带上的梨",
+        "一只昂首狮子",
+        "一朵百合花"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "'A la Poire d'Or' 的招牌是什么时候的？",
+      "options": [
+        "1750",
+        "1789",
+        "1801"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "'A la Poire d'Or' 的招牌位于哪个街道？",
+      "options": [
+        "Rue de la Clef",
+        "Rue des Fripiers",
+        "Rue de Nimy"
+      ],
+      "answer": 2
+    }
+  ],
+  "Le Gros Maillet": [
+    {
+      "question": "9 rue de Nimy 的标志主要图案是什么？",
+      "options": [
+        "一把木斧",
+        "一个雕刻的槌子",
+        "一个铁锤"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "这个行业标志是在什么时代制作的？",
+      "options": [
+        "在17世纪",
+        "在15世纪",
+        "在19世纪"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Le Gros Maillet 的标志位于蒙斯的哪条街？",
+      "options": [
+        "Rue de Nimy",
+        "Rue de la Chaussée",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "The Bootle Arms": [
+    {
+      "question": "The Bootle Arms 的招牌上代表了什么徽章？",
+      "options": [
+        "Mons 市的徽章",
+        "Hainaut 省的徽章",
+        "象征与 Bootle 结为姊妹城的徽章"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Mons 和 Bootle 之间的姊妹城关系是什么时候建立的？",
+      "options": [
+        "1964",
+        "1980",
+        "1990"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Bootle Arms 在 Mons 的哪个街道上？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue de Nimy",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Au Paradis": [
+    {
+      "question": "Au Paradis 招牌的主要图案是什么？",
+      "options": [
+        "天使",
+        "恶魔",
+        "树"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Au Paradis 招牌是在什么年份创建的？",
+      "options": [
+        "16 世纪",
+        "18 世纪",
+        "19 世纪"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Au Paradis 招牌位于蒙斯的哪条街上？",
+      "options": [
+        "Rue des Fripiers",
+        "Rue de la Chaussée",
+        "Rue de Nimy"
+      ],
+      "answer": 2
+    }
+  ],
+  "IHS Rue de Nimy 71": [
+    {
+      "question": "在71号Rue de Nimy的浮雕上代表了什么图案？",
+      "options": [
+        "拉丁十字架",
+        "基督图案IHS",
+        "蒙斯市的象征"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "与此标志上的基督图案IHS相关的象征性元素是什么？",
+      "options": [
+        "荆棘冠",
+        "圣杯",
+        "三根钉子"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "IHS标志位于蒙斯的哪条街上？",
+      "options": [
+        "Rue de Nimy",
+        "Rue des Clercs",
+        "Rue de la Chaussée"
+      ],
+      "answer": 0
+    }
+  ],
+  "A le Trois Brouet": [
+    {
+      "question": "À le Trois Brouet 的招牌浮雕上代表了什么图案？",
+      "options": [
+        "一个王冠",
+        "一个锤子",
+        "三辆手推车"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "À le Trois Brouet 的招牌是在什么年份创建的？",
+      "options": [
+        "1714",
+        "1800",
+        "1650"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "À le Trois Brouet 的招牌位于蒙斯的哪条街上？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue de Nimy",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Saint-Pierre Rue de Nimy": [
+    {
+      "question": "在80号尼米街的雕刻招牌上代表的是哪位圣人？",
+      "options": [
+        "圣彼得",
+        "圣保罗",
+        "圣雅各"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "这个招牌可能是在什么时代雕刻的？",
+      "options": [
+        "19世纪",
+        "18世纪",
+        "20世纪"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "圣彼得的招牌位于蒙斯的哪条街？",
+      "options": [
+        "神职人员街",
+        "车道街",
+        "尼米街"
+      ],
+      "answer": 2
+    }
+  ],
+  "Aux Trois Herrents": [
+    {
+      "question": "在‘Aux Trois Herrents’的招牌上，浮雕中表现的是什么图案？",
+      "options": [
+        "三条鳟鱼",
+        "三条鲱鱼",
+        "三条鲑鱼"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "‘Aux Trois Herrents’的招牌是在什么年份创建的？",
+      "options": [
+        "1715",
+        "1730",
+        "1723"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "‘Aux Trois Herrents’的招牌位于蒙斯的哪条街上？",
+      "options": [
+        "Rue de Nimy",
+        "Rue des Fripiers",
+        "Rue de la Chaussée"
+      ],
+      "answer": 0
+    }
+  ],
+  "Armes de Mons Petit Marche": [
+    {
+      "question": "在蒙斯的徽章拱形钥匙上代表什么图案？",
+      "options": [
+        "一颗星星",
+        "一只鹰",
+        "一只狮子"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "蒙斯的徽章是在什么时代雕刻的？",
+      "options": [
+        "18世纪",
+        "16世纪",
+        "19世纪"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "蒙斯的徽章位于哪个庭院？",
+      "options": [
+        "火车站庭院",
+        "小市场庭院",
+        "证券交易所庭院"
+      ],
+      "answer": 1
+    }
+  ],
+  "IHS dans un soleil": [
+    {
+      "question": "在89号尼米街的浮雕上表现了什么图案？",
+      "options": [
+        "IHS基督图案",
+        "一只狮子",
+        "一个十字架"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "观察到的宗教图案属于哪个时代？",
+      "options": [
+        "16世纪",
+        "18世纪",
+        "19世纪"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "IHS浮雕在阳光下的位置在哪条街？",
+      "options": [
+        "神职人员街",
+        "车道街",
+        "尼米街"
+      ],
+      "answer": 2
+    }
+  ],
+  "Aux Trois Verts Chapeaux": [
+    {
+      "question": "‘Aux Trois Verts Chapeaux’招牌上代表了什么图案？",
+      "options": [
+        "三朵花",
+        "三颗星星",
+        "三顶帽子"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "‘Aux Trois Verts Chapeaux’招牌是什么时候创建的？",
+      "options": [
+        "1712",
+        "1705",
+        "1720"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "‘Aux Trois Verts Chapeaux’招牌位于蒙斯的哪个街道上？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue de Nimy",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "A la Tette d'Or": [
+    {
+      "question": "在“À la Tette d'Or”标志的浮雕上可见什么图案？",
+      "options": [
+        "一个雕刻的头",
+        "一个雕刻的动物",
+        "一个刻画的风景"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "该标志的浮雕主要使用什么材料？",
+      "options": [
+        "木头",
+        "石头",
+        "金属"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "‘À la Tette d'Or’标志位于哪条街？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Fripiers",
+        "Rue d'Havré"
+      ],
+      "answer": 2
+    }
+  ],
+  "Le Lecteur Colas": [
+    {
+      "question": "现代雕塑 'Le Lecteur' 使用的主要材料是什么？",
+      "options": [
+        "青铜",
+        "石头",
+        "木头"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "雕塑 'Le Lecteur' 是在哪一年安装的？",
+      "options": [
+        "1985",
+        "1995",
+        "1990"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "雕塑 'Le Lecteur' 位于蒙斯的哪条街上？",
+      "options": [
+        "Rue d'Havré",
+        "Rue de Nimy",
+        "Rue de la Chaussée"
+      ],
+      "answer": 0
+    }
+  ],
+  "Au Lion d'Or": [
+    {
+      "question": "浮雕的哪个元素随着时间的推移而消失了？",
+      "options": [
+        "铭文",
+        "街道",
+        "狮子"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "浮雕 'Au Lion d'Or' 是在哪一年创作的？",
+      "options": [
+        "1712",
+        "1800",
+        "1650"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "‘Au Lion d'Or’ 的招牌位于哪个街道？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue des Clercs"
+      ],
+      "answer": 1
+    }
+  ],
+  "Millesime MDCCXII": [
+    {
+      "question": "在刻有日期的石头上可见的图案是什么？",
+      "options": [
+        "MDCCXII",
+        "一个徽章",
+        "一朵花"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "刻在日期石上的年份是什么？",
+      "options": [
+        "1800",
+        "1712",
+        "1600"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "MDCCXII的日期石位于哪个街道？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Fripiers",
+        "Rue d'Havré"
+      ],
+      "answer": 2
+    }
+  ],
+  "A la Clef d'Or": [
+    {
+      "question": "'À la Clef d'Or'的招牌上代表了什么图案？",
+      "options": [
+        "一本古老的书",
+        "一把华丽的钥匙",
+        "一朵风格化的花"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "'À la Clef d'Or'的招牌可能是在什么时代制作的？",
+      "options": [
+        "在17世纪",
+        "在20世纪",
+        "在19世纪"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "'À la Clef d'Or'的招牌位于哪条街？",
+      "options": [
+        "Rue d'Havré",
+        "Rue de la Chaussée",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Tasche d'Argent": [
+    {
+      "question": "Tasche d'Argent的招牌使用了什么材料？",
+      "options": [
+        "金属",
+        "木头",
+        "石头"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Tasche d'Argent的招牌是在什么年份修复的？",
+      "options": [
+        "1934",
+        "1920",
+        "1945"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Tasche d'Argent的招牌位于哪条街？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "A la Balance d'Or": [
+    {
+      "question": "Balance d'Or 的招牌上雕刻了什么图案？",
+      "options": [
+        "一个天平",
+        "一本书",
+        "一把钥匙"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Balance d'Or 是在哪一年创建的？",
+      "options": [
+        "1800",
+        "1768",
+        "1873"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Balance d'Or 的招牌位于蒙斯的哪条街上？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Fripiers",
+        "Rue d'Havré"
+      ],
+      "answer": 2
+    }
+  ],
+  "Au Renard": [
+    {
+      "question": "‘Au Renard’招牌的浮雕上代表了什么图案？",
+      "options": [
+        "一只威严的狮子",
+        "一只奔跑的狐狸",
+        "一只栖息的猫头鹰"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "‘Au Renard’招牌是在什么年份创建的？",
+      "options": [
+        "1710",
+        "1735",
+        "1724"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "‘Au Renard’招牌位于蒙斯的哪条街上？",
+      "options": [
+        "Rue d'Havré",
+        "Rue de la Chaussée",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Lunette d'Or": [
+    {
+      "question": "À la Lunette d'Or 标志的外立面上雕刻了什么图案？",
+      "options": [
+        "一块手表",
+        "一本书",
+        "一副双筒望远镜"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "À la Lunette d'Or 标志上雕刻的双筒望远镜是哪个时代制作的？",
+      "options": [
+        "19 世纪",
+        "18 世纪",
+        "20 世纪"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "À la Lunette d'Or 标志位于哪条街？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Au Pistolet d'Or": [
+    {
+      "question": "在‘Au Pistolet d'Or’的招牌上，什么图案以浮雕形式呈现？",
+      "options": [
+        "手枪",
+        "剑",
+        "盾牌"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "‘Au Pistolet d'Or’的招牌是在什么年份创建的？",
+      "options": [
+        "1705",
+        "1711",
+        "1720"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "‘Au Pistolet d'Or’的招牌位于哪个街道？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Fripiers",
+        "Rue du Hautbois"
+      ],
+      "answer": 2
+    }
+  ],
+  "A l'Ecaille d'Or": [
+    {
+      "question": "Écaille d'Or 的招牌上代表了什么图案？",
+      "options": [
+        "一条鱼",
+        "一个贝壳",
+        "一颗星星"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Écaille d'Or 的招牌是在什么年份创建的？",
+      "options": [
+        "1800",
+        "1725",
+        "1750"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Écaille d'Or 的招牌位于蒙斯的哪条街上？",
+      "options": [
+        "Rue du Hautbois",
+        "Rue de la Chaussée",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Paile d'Or": [
+    {
+      "question": "'À la Paile d'Or' 的招牌上代表了什么图案？",
+      "options": [
+        "风车",
+        "叉子",
+        "面包师的铲子"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "与 'À la Paile d'Or' 招牌相关的职业是什么？",
+      "options": [
+        "面包师",
+        "肉贩",
+        "厨师"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "'À la Paile d'Or' 招牌位于哪个街道？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Au Corbeau": [
+    {
+      "question": "在'Au Corbeau'招牌的门上雕刻的是哪种鸟？",
+      "options": [
+        "乌鸦",
+        "鸽子",
+        "燕子"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "'Au Corbeau'招牌的地址是什么？",
+      "options": [
+        "45号香榭街",
+        "106号哈夫雷街",
+        "12号小贩街"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "用于'Au Corbeau'招牌的图案是什么类型？",
+      "options": [
+        "木雕",
+        "壁画",
+        "石雕"
+      ],
+      "answer": 2
+    }
+  ],
+  "Pelles a enfourner 1573": [
+    {
+      "question": "面包师的铲子上代表了什么图案？",
+      "options": [
+        "四个法棍",
+        "三个面包",
+        "一个面包"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "铲子的石头是在什么年份制作的？",
+      "options": [
+        "1565",
+        "1580",
+        "1573"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "面包师的铲子石头在哪里被发现？",
+      "options": [
+        "哈夫雷街",
+        "沙塞街",
+        "公园广场"
+      ],
+      "answer": 0
+    }
+  ],
+  "Au Mousqueton d'Or": [
+    {
+      "question": "在‘Au Mousqueton d'Or’的招牌上，哪个图案以浮雕形式呈现？",
+      "options": [
+        "一把剑",
+        "一个盾牌",
+        "一个登山扣"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "‘Au Mousqueton d'Or’的招牌是在什么年份创建的？",
+      "options": [
+        "1726",
+        "1710",
+        "1735"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "‘Au Mousqueton d'Or’的招牌位于蒙斯的哪条街上？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "A la Faux d'Or": [
+    {
+      "question": "'À la Faux d'Or'招牌的浮雕上代表了什么图案？",
+      "options": [
+        "镰刀",
+        "徽章",
+        "王冠"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "'À la Faux d'Or'招牌是什么时候雕刻的？",
+      "options": [
+        "1715",
+        "1723",
+        "1730"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "'À la Faux d'Or'招牌位于蒙斯的哪条街上？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue de Nimy",
+        "Rue d'Havré"
+      ],
+      "answer": 2
+    }
+  ],
+  "La Croix d'Or Havre": [
+    {
+      "question": "什么图案是La Croix d'Or的十字架特征？",
+      "options": [
+        "螺旋图案",
+        "百合花尖端",
+        "十字架"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "La Croix d'Or是在什么年份创建的？",
+      "options": [
+        "1750",
+        "1789",
+        "1766"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "La Croix d'Or位于Mons的哪个街道？",
+      "options": [
+        "Rue d'Havré",
+        "Rue de la Chaussée",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Licorne": [
+    {
+      "question": "在'À la Licorne'标志的浮雕上代表了什么图案？",
+      "options": [
+        "一条龙",
+        "一个美人鱼",
+        "一匹马和一顶头盔"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "与'À la Licorne'标志相关的Franeau de Gommegnies的日期是什么？",
+      "options": [
+        "16世纪",
+        "17世纪",
+        "19世纪"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "'À la Licorne'标志位于蒙斯的哪条街上？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "La Belle Plebeienne": [
+    {
+      "question": "雕塑 'La Belle Plébéienne' 使用了什么材料？",
+      "options": [
+        "青铜",
+        "大理石",
+        "石头"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "'La Belle Plébéienne' 是在哪一年创作的？",
+      "options": [
+        "1980",
+        "1974",
+        "1965"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "'La Belle Plébéienne' 位于蒙斯的哪个公园？",
+      "options": [
+        "多达因公园",
+        "塞尔纳公园",
+        "沃克斯-霍尔公园"
+      ],
+      "answer": 2
+    }
+  ],
+  "Buste de la reine Astrid": [
+    {
+      "question": "制作阿斯特丽德女王半身像使用了什么材料？",
+      "options": [
+        "大理石",
+        "青铜",
+        "石头"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "阿斯特丽德女王的原作半身像是在什么年份被盗的？",
+      "options": [
+        "2005",
+        "2012",
+        "2009"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "阿斯特丽德女王的半身像位于蒙斯的哪个公园？",
+      "options": [
+        "瓦克斯霍尔公园",
+        "多达因公园",
+        "塞尔纳公园"
+      ],
+      "answer": 0
+    }
+  ],
+  "Armes de Mons Rue de la Clef": [
+    {
+      "question": "阿尔梅斯·德·蒙斯的主要图案是什么？",
+      "options": [
+        "一个狩猎场景",
+        "一个乡村风景",
+        "一个徽章"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "阿尔梅斯·德·蒙斯的历史背景是什么？",
+      "options": [
+        "古老大屠宰场的遗迹",
+        "肉商街的旧招牌",
+        "战争纪念碑"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "阿尔梅斯·德·蒙斯位于哪个街道？",
+      "options": [
+        "二手市场街",
+        "钥匙街",
+        "肉商街"
+      ],
+      "answer": 1
+    }
+  ],
+  "A la Tete Saint-Jean": [
+    {
+      "question": "标志的浮雕上代表了什么图案？",
+      "options": [
+        "施洗约翰的头",
+        "圣彼得的头",
+        "圣保罗的头"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "我们可以估计这个标志是在什么时代制作的？",
+      "options": [
+        "16世纪",
+        "17世纪",
+        "18世纪"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "‘À la Tête Saint-Jean’标志位于哪个街道？",
+      "options": [
+        "Rue de la Fontaine",
+        "Rue des Fripiers",
+        "Rue de la Clef"
+      ],
+      "answer": 2
+    }
+  ],
+  "Au Grand Laboureur": [
+    {
+      "question": "‘Au Grand Laboureur’标志使用的主要材料是什么？",
+      "options": [
+        "木头",
+        "石头",
+        "金属"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "‘Au Grand Laboureur’标志的年代是哪个时期？",
+      "options": [
+        "19世纪",
+        "20世纪",
+        "18世纪"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "‘Au Grand Laboureur’标志位于蒙斯的哪条街？",
+      "options": [
+        "Rue de la Clef",
+        "Rue de la Fontaine",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "Colombe du Saint-Esprit": [
+    {
+      "question": "阳台上的鸽子使用了什么材料？",
+      "options": [
+        "雕刻石",
+        "油漆木",
+        "黄金铸铁"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "圣灵的鸽子位于哪个地址？",
+      "options": [
+        "霍丹街13号",
+        "肖塞街5号",
+        "公园广场10号"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "阳台上的鸽子代表什么象征？",
+      "options": [
+        "战争",
+        "和平",
+        "繁荣"
+      ],
+      "answer": 1
+    }
+  ],
+  "Mortier et Pilon": [
+    {
+      "question": "Mortier et Pilon 招牌使用的主要材料是什么？",
+      "options": [
+        "金属",
+        "木材",
+        "玻璃"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mortier et Pilon 招牌是什么时候安装的？",
+      "options": [
+        "1985年",
+        "1995年",
+        "2005年"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Mortier et Pilon 招牌位于蒙斯的哪条街？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Fripiers",
+        "Rue de Houdain"
+      ],
+      "answer": 2
+    }
+  ],
+  "A la Bonne Femme": [
+    {
+      "question": "‘À la Bonne Femme’标志使用的主要材料是什么？",
+      "options": [
+        "金属",
+        "木头",
+        "石头"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "‘À la Bonne Femme’标志是在什么年份创建的？",
+      "options": [
+        "1710",
+        "1735",
+        "1723"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "‘À la Bonne Femme’标志最初位于哪个街道，后来被移走？",
+      "options": [
+        "Rue Bertaimont",
+        "Rue de la Chaussée",
+        "Rue de Nimy"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Croix d'Or Croix-Place": [
+    {
+      "question": "‘À la Croix d'Or’标志的浮雕上代表了什么图案？",
+      "options": [
+        "一只狮子",
+        "一朵花",
+        "一个十字架"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "‘À la Croix d'Or’标志是在什么年份创建的？",
+      "options": [
+        "1936",
+        "1920",
+        "1945"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "‘À la Croix d'Or’标志位置的历史意义是什么？",
+      "options": [
+        "它标志着des Clercs街的尽头",
+        "它曾是Havré的管辖点",
+        "它是Mons最古老的标志"
+      ],
+      "answer": 1
+    }
+  ],
+  "Fontaine Rue de Bertaimont": [
+    {
+      "question": "位于贝尔泰蒙街31号的喷泉有什么类型的浮雕特征？",
+      "options": [
+        "半浮雕",
+        "浅浮雕",
+        "全浮雕"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "我们可以估计这座喷泉是在什么时代建造的？",
+      "options": [
+        "19世纪",
+        "18世纪",
+        "20世纪"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "在蒙斯，哪条街上有半浮雕的水池喷泉？",
+      "options": [
+        "沙塞街",
+        "克莱尔克街",
+        "贝尔泰蒙街"
+      ],
+      "answer": 2
+    }
+  ],
+  "Croix plume et pinceau": [
+    {
+      "question": "在 Croix plume et pinceau 的铁艺中代表了什么图案？",
+      "options": [
+        "星星和月亮",
+        "十字架、羽毛和画笔",
+        "百合花"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "这件美丽的铁艺与哪位教士有关？",
+      "options": [
+        "杜邦教士",
+        "马丁教士",
+        "强大的教士"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Croix plume et pinceau 位于哪条街？",
+      "options": [
+        "王子之地街",
+        "抵抗街",
+        "战士街"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Grande Rose": [
+    {
+      "question": "‘À la Grande Rose’标志的浮雕上代表了什么图案？",
+      "options": [
+        "一只狮子",
+        "一个王冠",
+        "一朵雕刻的玫瑰"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "雕刻玫瑰的再利用来自哪个时代？",
+      "options": [
+        "16世纪",
+        "18世纪",
+        "15世纪"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "‘À la Grande Rose’标志位于哪条街？",
+      "options": [
+        "Rue des Fripiers",
+        "Rue de la Poterie",
+        "Rue de la Résistance"
+      ],
+      "answer": 1
+    }
+  ],
+  "Chateau de le Marcote": [
+    {
+      "question": "在 Chateau de le Marcote 的标志上雕刻了什么动物图案？",
+      "options": [
+        "三只鼬鼠",
+        "两只狐狸",
+        "四只兔子"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Chateau de le Marcote 的标志是在什么年份雕刻的？",
+      "options": [
+        "1702",
+        "1689",
+        "1650"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "位于蒙斯的 33 rue des Marcottes 的房子有什么特别之处？",
+      "options": [
+        "这是一个旧市政厅",
+        "这是一个旧教堂",
+        "这是最窄的房子"
+      ],
+      "answer": 2
+    }
+  ],
+  "16 IHS 93": [
+    {
+      "question": "在38号格罗塞利耶街的浮雕上可见的主要图案是什么？",
+      "options": [
+        "拉丁十字架",
+        "基督图案",
+        "徽章"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "基督图案的年代是哪个年份？",
+      "options": [
+        "1685",
+        "1701",
+        "1693"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "在蒙斯，1693年日期的基督图案位于哪条街上？",
+      "options": [
+        "格罗塞利耶街",
+        "香榭丽舍街",
+        "抵抗街"
+      ],
+      "answer": 0
+    }
+  ],
+  "Cheval Dore": [
+    {
+      "question": "在Cheval Dore的入口钥匙上雕刻了什么图案？",
+      "options": [
+        "一只狮子",
+        "一朵花",
+        "一匹马"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Cheval Dore是在哪个世纪雕刻的？",
+      "options": [
+        "在19世纪",
+        "在18世纪",
+        "在20世纪"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cheval Dore位于Mons的哪条街上？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue du Parc",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Bas-relief litterature montoise": [
+    {
+      "question": "用于纪念蒙托伊文学创作者的牌匾使用了什么材料？",
+      "options": [
+        "青铜",
+        "大理石",
+        "石头"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "谁是荣誉蒙托伊作家的青铜牌匾的作者？",
+      "options": [
+        "亨利·德尔莫特",
+        "古斯塔夫·雅各布斯",
+        "查尔斯·莱特利尔"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "纪念蒙托伊文学的牌匾位于哪个街道？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Clercs",
+        "Jardin du Mayeur"
+      ],
+      "answer": 2
+    }
+  ],
+  "A la Coupe d'Or": [
+    {
+      "question": "在“À la Coupe d'Or”标志上，哪种类型的物体以浮雕形式呈现？",
+      "options": [
+        "一个杯子",
+        "一个圣器",
+        "一个烛台"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "“À la Coupe d'Or”的雕刻圣器是在什么时代制作的？",
+      "options": [
+        "在18世纪",
+        "在19世纪",
+        "在17世纪"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "“À la Coupe d'Or”标志位于哪条街？",
+      "options": [
+        "Rue de la Coupe",
+        "Rue de la Paix",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "A Saint-Antoine": [
+    {
+      "question": "在圣安东的浮雕上表现的是什么图案？",
+      "options": [
+        "圣彼得和他的鱼",
+        "圣詹姆斯和他的贝壳",
+        "圣安东和他的猪"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "献给圣安东的教堂大约是什么时候建造的？",
+      "options": [
+        "17世纪",
+        "16世纪",
+        "18世纪"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A Saint-Antoine的参观点位于哪个街道？",
+      "options": [
+        "Rue des Fripiers",
+        "Rue de la Coupe",
+        "Rue de la Résistance"
+      ],
+      "answer": 1
+    }
+  ],
+  "Au Paon et au Cygne": [
+    {
+      "question": "在标志 'Au Paon et au Cygne' 的山墙上代表了哪些动物？",
+      "options": [
+        "孔雀和天鹅",
+        "鹰和苍鹭",
+        "狗和猫"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "标志 'Au Paon et au Cygne' 位于哪个街道号码？",
+      "options": [
+        "15",
+        "22",
+        "30"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "在蒙斯的哪条历史街道上可以找到标志 'Au Paon et au Cygne'？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Clercs",
+        "Rue des Fripiers"
+      ],
+      "answer": 2
+    }
+  ],
+  "Cartouche et blason Grande Triperie": [
+    {
+      "question": "Grande Triperie 的卡通上代表了什么图案？",
+      "options": [
+        "盾牌",
+        "面具",
+        "犬狮"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "我们可以估计这个徽章是在什么时代制作的？",
+      "options": [
+        "16 世纪",
+        "19 世纪",
+        "18 世纪"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Grande Triperie 位于蒙斯的哪个街道？",
+      "options": [
+        "Rue de la Grande Triperie",
+        "Rue de la Petite Triperie",
+        "Rue des Bouchers"
+      ],
+      "answer": 0
+    }
+  ],
+  "Le Gant": [
+    {
+      "question": "在标志Le Gant的浮雕上代表了什么图案？",
+      "options": [
+        "一只鞋子",
+        "一顶帽子",
+        "一只手套"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "标志Le Gant是在什么年份雕刻的？",
+      "options": [
+        "1718",
+        "1720",
+        "1705"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Le Gant的标志位于蒙斯的哪条街上？",
+      "options": [
+        "Rue de la Chaussée",
+        "Grand'Rue",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "BF IHS IL": [
+    {
+      "question": "BF IHS IL 的基督图案上有什么图案？",
+      "options": [
+        "心和三根钉子",
+        "十字架和王冠",
+        "天使和星星"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "BF IHS IL 的基督图案大概是在什么时期制作的？",
+      "options": [
+        "16 世纪",
+        "18 世纪",
+        "20 世纪"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "BF IHS IL 的基督图案位于蒙斯的哪条街上？",
+      "options": [
+        "Rue des Fripiers",
+        "Rue de la Chaussée",
+        "Grand'Rue"
+      ],
+      "answer": 2
+    }
+  ],
+  "A la Couronne Grand Rue": [
+    {
+      "question": "在'À la Couronne'的招牌上，浮雕中代表了什么图案？",
+      "options": [
+        "一只狮子",
+        "一个伯爵的王冠",
+        "一朵百合花"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "伯爵的王冠是在什么世纪雕刻的？",
+      "options": [
+        "在18世纪",
+        "在17世纪",
+        "在19世纪"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "‘À la Couronne’的招牌位于哪条街？",
+      "options": [
+        "大街",
+        "查索街",
+        "弗里皮尔街"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Ville d'Avesnes": [
+    {
+      "question": "在'À la Ville d'Avesnes'的招牌上，什么图案以浮雕形式呈现？",
+      "options": [
+        "蒙斯的风景",
+        "市场场景",
+        "对阿韦讷的表现"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "‘À la Ville d'Avesnes’的招牌是在什么年份创建的？",
+      "options": [
+        "1724",
+        "1710",
+        "1735"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "‘À la Ville d'Avesnes’的招牌位于哪个街道？",
+      "options": [
+        "Rue de la Chaussée",
+        "Grand'Rue",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Cantoria Roland de Lassus": [
+    {
+      "question": "为罗兰·德·拉苏斯纪念碑的三位唱诗班成员使用了什么材料？",
+      "options": [
+        "青铜",
+        "大理石",
+        "石头"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "罗兰·德·拉苏斯纪念碑是在什么年份揭幕的？",
+      "options": [
+        "1965",
+        "1970",
+        "1980"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "罗兰·德·拉苏斯纪念碑位于蒙斯的哪条街？",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Fripiers",
+        "Rue du Chapitre"
+      ],
+      "answer": 2
+    }
+  ],
+  "Loge maconnique Rue Chisaire": [
+    {
+      "question": "在共济会会所的外立面上可以看到哪些符号？",
+      "options": [
+        "宗教符号",
+        "共济会符号",
+        "军事符号"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "共济会会所成立于哪一年？",
+      "options": [
+        "1804",
+        "1850",
+        "1776"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "共济会会所位于蒙斯的哪条街上？",
+      "options": [
+        "Rue Chisaire",
+        "Rue de la Chaussée",
+        "Rue de Nimy"
+      ],
+      "answer": 0
+    }
+  ],
+  "St Franciscus Kring": [
+    {
+      "question": "位于马斯克利耶街31号的旧房子叫什么名字？",
+      "options": [
+        "瓦隆人之家",
+        "比利时人之家",
+        "弗拉芒人之家"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "圣弗朗西斯克环是什么类型的建筑？",
+      "options": [
+        "一座房子",
+        "一座教堂",
+        "一座博物馆"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "圣弗朗西斯克环位于蒙斯的哪条街上？",
+      "options": [
+        "沙塞街",
+        "马斯克利耶街",
+        "尼米街"
+      ],
+      "answer": 1
+    }
+  ],
+  "Rue Cronque": [
+    {
+      "question": "在蒙托方言中，'cronque'这个词的意思是什么？",
+      "options": [
+        "蜿蜒",
+        "宽",
+        "直"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "在Rue Cronque的铺路中可以找到什么显著特征？",
+      "options": [
+        "一个古老的水井",
+        "一个神秘的十字架",
+        "一个喷泉"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Rue Cronque通向哪个地方？",
+      "options": [
+        "大广场",
+        "圣文森特教堂",
+        "城堡公园"
+      ],
+      "answer": 2
+    }
+  ],
+  "Chasse du Bon Dieu": [
+    {
+      "question": "在蒙斯，Chasse du Bon Dieu 是什么类型的街道？",
+      "options": [
+        "一条大街",
+        "一条狭窄的小巷",
+        "一个公共广场"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "哪个基督的名字启发了这次追逐的名称？",
+      "options": [
+        "仁慈的基督",
+        "奇迹的基督",
+        "怜悯的好神"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Chasse du Bon Dieu 代表了旧蒙斯的哪个方面？",
+      "options": [
+        "古老的城市结构",
+        "现代的林荫大道",
+        "大型广场"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rampe Borgnagache": [
+    {
+      "question": "在蒙斯方言中，哪个鸟与“Borgnagache”这个名字相关联？",
+      "options": [
+        "黑鸟",
+        "鸽子",
+        "喜鹊"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "与“Borgnagache”这个名字相关的医院的创始人是谁？",
+      "options": [
+        "让和雅克·博尔纳加什",
+        "皮埃尔和保罗·迪蓬",
+        "玛丽和路易斯·马丁"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "博尔纳加什坡道位于蒙斯的哪个街区？",
+      "options": [
+        "大广场街区",
+        "教堂街区",
+        "火车站街区"
+      ],
+      "answer": 1
+    }
+  ],
+  "Rue de la Grosse Pomme": [
+    {
+      "question": "哪个传统活动经过了大苹果街？",
+      "options": [
+        "金车游行",
+        "蒙斯狂欢节",
+        "圣文森特集市"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "大苹果街与古老的中世纪城墙有什么联系？",
+      "options": [
+        "它是一条贸易路线",
+        "它保留了防御墙的记忆",
+        "它是一个城堡的遗址"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "哪个纪念碑位于大苹果街附近？",
+      "options": [
+        "蒙斯钟楼",
+        "蒙斯大广场",
+        "圣沃德鲁教堂"
+      ],
+      "answer": 2
+    }
+  ],
+  "Rue des Cinq Visages": [
+    {
+      "question": "哪个街道的名字与五个面孔相关的神秘事物有关？",
+      "options": [
+        "Rue de la Collégiale",
+        "Rue des Cinq Visages",
+        "Rue du Beffroi"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Rue des Cinq Visages 大致沿着哪种古老结构的路径？",
+      "options": [
+        "罗马水道",
+        "工业运河",
+        "中世纪围墙"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Rue des Cinq Visages 位于蒙斯的哪个区？",
+      "options": [
+        "圣沃德鲁教堂区",
+        "大广场区",
+        "艺术区"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rampe Sainte Waudru": [
+    {
+      "question": "每个三位一体的星期天在圣瓦德鲁坡道上举行什么活动？",
+      "options": [
+        "组织手工艺品博览会",
+        "举办古典音乐会",
+        "金车必须不停地攀登坡道"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "如果金车在坡道上停下，结果会怎样？",
+      "options": [
+        "一年内将有不幸降临城市",
+        "游行将被取消",
+        "该花车将无法再使用"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "圣瓦德鲁坡道通向蒙斯的哪个标志性纪念碑？",
+      "options": [
+        "蒙斯钟楼",
+        "圣瓦德鲁大教堂",
+        "蒙斯大广场"
+      ],
+      "answer": 1
+    }
+  ],
+  "Rue de la Voussure": [
+    {
+      "question": "用术语 'voussure' 指代的建筑元素是什么？",
+      "options": [
+        "拱门",
+        "窗户",
+        "柱子"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Rue de la Voussure 的拱形通道经过哪个建筑？",
+      "options": [
+        "圣沃德鲁教堂",
+        "圣杰尔曼教堂",
+        "蒙斯钟楼"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Rue de la Voussure 的大约长度是多少？",
+      "options": [
+        "100 米",
+        "25 米",
+        "50 米"
+      ],
+      "answer": 2
+    }
+  ],
+  "Rue à Degrés": [
+    {
+      "question": "Rue à Degrés 是什么类型的街道？",
+      "options": [
+        "步行街",
+        "楼梯",
+        "商业街"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Rue à Degrés 中有什么艺术作品？",
+      "options": [
+        "城市的肖像",
+        "青铜雕塑",
+        "Nevercrew 的壁画"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Rue à Degrés 位于蒙斯的哪个街区？",
+      "options": [
+        "拉肖区",
+        "大广场区",
+        "钟楼区"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rue de la Peine Perdue": [
+    {
+      "question": "位于Rue de la Peine Perdue附近的圣伊丽莎白教堂的建筑风格是什么？",
+      "options": [
+        "文艺复兴",
+        "现代",
+        "巴洛克和哥特式"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "启发这条街名称的表达“peine perdue”是什么意思？",
+      "options": [
+        "徒劳的努力",
+        "确保的成功",
+        "应得的奖励"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Rue de la Peine Perdue位于蒙斯的哪个区域？",
+      "options": [
+        "大广场区",
+        "旧蒙斯区",
+        "学院区"
+      ],
+      "answer": 1
+    }
+  ],
+  "Cour du Noir Lévrier": [
+    {
+      "question": "与Cour du Noir Lévrier相关的动物是什么？",
+      "options": [
+        "一只黑色猎犬",
+        "一只猫",
+        "一匹马"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "在Mons中，哪个地方的名字中也提到猎犬？",
+      "options": [
+        "工匠街",
+        "白猎犬",
+        "市场广场"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Cour du Noir Lévrier是什么类型的空间？",
+      "options": [
+        "一条大街",
+        "一个公共公园",
+        "一条铺砌的死胡同"
+      ],
+      "answer": 2
+    }
+  ],
+  "Cour de l'Âne Barré": [
+    {
+      "question": "在这个庭院名称中，'barré'一词指的是什么意义？",
+      "options": [
+        "一只被锁住的驴",
+        "背上有深色条纹的标记",
+        "一只小型驴"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "为什么像巴雷驴这样的标志对文盲很重要？",
+      "options": [
+        "它们指示了场所的质量",
+        "它们是权力的象征",
+        "它们作为定位的标志"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "巴雷驴庭院位于哪个著名广场附近？",
+      "options": [
+        "大广场",
+        "公园广场",
+        "市场广场"
+      ],
+      "answer": 0
+    }
+  ],
+  "Ruelle aux Quinettes": [
+    {
+      "question": "Ruelle aux Quinettes 的可能历史名称是什么？",
+      "options": [
+        "Rachot",
+        "Cronque",
+        "Hocquinette"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Ruelle aux Quinettes 位于哪个街区？",
+      "options": [
+        "Rachot 街区",
+        "大广场",
+        "艺术区"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Ruelle aux Quinettes 的特点是什么？",
+      "options": [
+        "它非常宽",
+        "它非常亲密且狭窄",
+        "它两旁是历史遗迹"
+      ],
+      "answer": 1
+    }
+  ],
+  "Rue des Clercs": [
+    {
+      "question": "从克莱尔街可以看到哪个标志性建筑？",
+      "options": [
+        "钟楼",
+        "圣沃德鲁大教堂",
+        "美术馆"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "教士与克莱尔街的历史联系是什么？",
+      "options": [
+        "他们是皮革工匠",
+        "他们是写作和教会的人",
+        "他们是葡萄酒商"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "位于克莱尔街的哪座房子成为了联合国教科文组织遗产之家？",
+      "options": [
+        "工艺之家",
+        "艺术之家",
+        "西班牙之家"
+      ],
+      "answer": 2
+    }
+  ],
+  "Rampe du Château": [
+    {
+      "question": "Rampe du Château 使用什么类型的表面？",
+      "options": [
+        "沥青",
+        "铺路石",
+        "碎石"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "在 baroque 钟楼之前，Rampe du Château 的位置上曾经有什么历史遗迹？",
+      "options": [
+        "圣瓦德鲁大教堂",
+        "主教宫",
+        "亨因特伯爵的城堡"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Rampe du Château 位于蒙斯的哪个区域？",
+      "options": [
+        "钟楼区",
+        "大广场区",
+        "艺术区"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rue des Gades": [
+    {
+      "question": "'Gades' 在蒙托瓦方言中是什么意思？",
+      "options": [
+        "田野",
+        "河流",
+        "山羊"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "什么类型的铺路材料是 Rue des Gades 的特点？",
+      "options": [
+        "鹅卵石",
+        "碎石",
+        "沥青"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Rue des Gades 位于蒙斯哪个标志性纪念碑附近？",
+      "options": [
+        "大教堂",
+        "钟楼",
+        "大广场"
+      ],
+      "answer": 1
+    }
+  ],
+  "Cour du Bailly": [
+    {
+      "question": "在蒙斯的中世纪背景下，Cour du Bailly代表什么类型的空间？",
+      "options": [
+        "服务和通行空间",
+        "礼拜场所",
+        "公共市场"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "在蒙斯的历史背景下，法官的角色是什么？",
+      "options": [
+        "军事领袖",
+        "王子的代表",
+        "当地工匠"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Cour du Bailly位于一座古老城堡的后面。这个城堡的名字是什么？",
+      "options": [
+        "公爵夫人的城堡",
+        "大广场城堡",
+        "伯爵城堡"
+      ],
+      "answer": 2
+    }
+  ],
+  "Ruelle du Cerf Blanc": [
+    {
+      "question": "在Ruelle du Cerf Blanc可以找到什么类型的房屋？",
+      "options": [
+        "现代房屋",
+        "17世纪的房屋",
+        "木屋"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "白鹿在古代意象中象征着什么？",
+      "options": [
+        "宠物",
+        "战争的象征",
+        "一种稀有而神奇的生物"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Ruelle du Cerf Blanc位于蒙斯的哪个区？",
+      "options": [
+        "公园区",
+        "大广场区",
+        "教堂区"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rue de l'Âtre": [
+    {
+      "question": "在Rue de l'Âtre的背景下，'âtre'这个词的意思是什么？",
+      "options": [
+        "一种纪念碑",
+        "一个历史街区",
+        "房子的炉灶"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "圣尼古拉教堂（Saint-Nicolas-en-Havré）是哪一年建立的？",
+      "options": [
+        "1224",
+        "1300",
+        "1450"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "在圣尼古拉教堂的侧面立面上记录了什么宗教元素？",
+      "options": [
+        "圣尼古拉的雕像",
+        "受难的基督",
+        "描绘圣母的彩色玻璃窗"
+      ],
+      "answer": 1
+    }
+  ],
+  "Rue des Trois Boudins": [
+    {
+      "question": "哪座建筑位于三香街附近？",
+      "options": [
+        "Le Mundaneum",
+        "La Collégiale Sainte-Waudru",
+        "Le Beffroi de Mons"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "‘Rue des Trois Boudins’这个名字可能来自哪里？",
+      "options": [
+        "一个邻里笑话",
+        "一家内脏店的招牌",
+        "一个历史事件"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "在Mundaneum的外立面上可以看到什么建筑风格？",
+      "options": [
+        "哥特式",
+        "巴洛克",
+        "阿姆斯特丹学派表现主义"
+      ],
+      "answer": 2
+    }
+  ],
+  "Rue des Quatre Fils Aymon": [
+    {
+      "question": "与四个艾蒙之子相关的传奇马的名字是什么？",
+      "options": [
+        "勇敢的心",
+        "巴亚尔德",
+        "龙卷风"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "在四个艾蒙之子街14号有什么类型的建筑？",
+      "options": [
+        "一座教堂",
+        "一座博物馆",
+        "一座旧宅"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "四个艾蒙之子的传说的主要主题是什么？",
+      "options": [
+        "查理曼的逃亡",
+        "蒙斯的征服",
+        "大广场的建立"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rue des Fillettes": [
+    {
+      "question": "Rue des Fillettes与卖淫的历史联系是什么？",
+      "options": [
+        "它是艺术家的聚会地点",
+        "它是一个花市",
+        "它与中世纪卖淫有关"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Rue des Fillettes在什么年份被提及于市政文件中？",
+      "options": [
+        "1543",
+        "1602",
+        "1450"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mons哪个街区靠近Rue des Fillettes？",
+      "options": [
+        "艺术区",
+        "娱乐区",
+        "历史区"
+      ],
+      "answer": 1
+    }
+  ],
+  "Rue de la Terre du Prince": [
+    {
+      "question": "在王子之地街可以观察到什么类型的遗迹？",
+      "options": [
+        "蒙斯古城墙的遗迹",
+        "一座古老城堡的废墟",
+        "一座教堂的基础"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "与“王子之地”这个名字相关的领域是什么？",
+      "options": [
+        "布拉班特公爵的领地",
+        "海诺特伯爵的领地",
+        "法国国王的领地"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "王子之地街靠近哪种历史建筑？",
+      "options": [
+        "一座学院教堂",
+        "火车站",
+        "钟楼"
+      ],
+      "answer": 2
+    }
+  ],
+  "Rue des Sœurs Grises": [
+    {
+      "question": "什么颜色是灰色修女的服装特征？",
+      "options": [
+        "黑色",
+        "灰色",
+        "白色"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "灰色修女属于哪种宗教团体？",
+      "options": [
+        "本笃会",
+        "西多会",
+        "方济各第三会"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "在蒙斯，哪个地方与灰色修女街有相似的历史？",
+      "options": [
+        "黑色修女街",
+        "教章广场",
+        "教士街"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rue de la Petite Guirlande": [
+    {
+      "question": "哪个传统活动经过小花环街？",
+      "options": [
+        "蒙斯的杜卡斯",
+        "宾舍狂欢节",
+        "金车游行"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "在这条街的背景下，'小花环'这个名字的含义是什么？",
+      "options": [
+        "节日装饰",
+        "一种古老的职业",
+        "一种建筑类型"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "小花环街相对于火车站的总体方向是什么？",
+      "options": [
+        "朝东",
+        "朝西",
+        "朝南"
+      ],
+      "answer": 1
+    }
+  ],
+  "La clé rouge": [
+    {
+      "question": "'La clé rouge'的招牌上雕刻了什么图案？",
+      "options": [
+        "一只狮子",
+        "一把大钥匙",
+        "一朵花"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "根据雕刻风格，可以估计招牌是在什么时代制作的？",
+      "options": [
+        "18世纪",
+        "20世纪",
+        "19世纪"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "'La clé rouge'的招牌位于哪条街？",
+      "options": [
+        "Rue de Nimy",
+        "Rue de la Clé d'Or",
+        "Rue de la Paix"
+      ],
+      "answer": 0
+    }
+  ]
+}

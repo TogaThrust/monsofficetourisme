@@ -1,4 +1,112 @@
-<!DOCTYPE html><html lang="fr"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title data-translate="mail_title">Contact Mail</title><link rel="stylesheet" href="style.css"><script src="api-base.js"></script><script src="translations/translationManager.js"></script><script src="translations/languageSelector.js"></script><script src="js/access-guard.js" defer="defer"></script><style>.mail-container{max-width:900px;margin:30px auto;padding:20px;background:#fff;border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,.15);font-family:Arial,sans-serif}.mail-container h1{margin-top:0;color:#14365c;text-align:center}.mail-container p{line-height:1.5;color:#333;text-align:justify}.mail-field{margin:14px 0;display:flex;flex-direction:column;gap:6px}.mail-field label{font-weight:600;color:#14365c}.mail-field textarea{min-height:160px;resize:vertical;padding:10px;font-size:1rem;border-radius:8px;border:1px solid #ccc;font-family:Arial,sans-serif}.mail-field input[type=email]{padding:10px;font-size:1rem;border-radius:8px;border:1px solid #ccc;font-family:Arial,sans-serif}.mail-actions{display:flex;gap:12px;justify-content:flex-end;margin-top:16px}.mail-actions button{padding:10px 16px;border:none;border-radius:10px;cursor:pointer;font-weight:700;color:#fff;background:#c8102e;transition:background .2s}.mail-actions button:hover{background:#a20d24}</style></head><body><div class="mail-container"><h1 data-translate="mail_title">Mail</h1><p id="mail-subtitle" data-translate="mail_subtitle">Pour envoyer un mail concernant un retour d'expérience, une remarque, un défaut ou une suggestion, entrez votre texte dans la zone suivante, entrez votre email et cliquez sur "envoyer". Notre équipe vous recontactera au plus tôt le cas échéant.</p><form id="contact-form" novalidate><div class="mail-field"><label for="mail-text" data-translate="mail_body_label">Votre message</label> <textarea id="mail-text" name="message" data-translate-placeholder="mail_body_placeholder" placeholder="Votre texte..."></textarea></div><div class="mail-field"><label for="mail-email" data-translate="mail_email_label">Votre email</label> <input id="mail-email" name="email" type="email" data-translate-placeholder="mail_email_placeholder" placeholder="votre@email.com"></div><input name="website" value="" style="display:none" tabindex="-1" autocomplete="off" aria-hidden="true"><div class="mail-actions"><button id="mail-send" type="submit" data-translate="mail_send">Envoyer</button> <button id="mail-back" type="button" data-translate="back">RETOUR</button></div></form></div><script>document.addEventListener('DOMContentLoaded', () => {
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title data-translate="mail_title">Contact Mail</title>
+  <link rel="stylesheet" href="style.css">
+  <!-- Base API (définit window.APP_CONFIG.API_BASE) -->
+  <script src="api-base.js"></script>
+  <script src="translations/translationManager.js"></script>
+  <script src="translations/languageSelector.js"></script>
+  <script src="js/access-guard.js" defer></script>
+  <style>
+    .mail-container {
+      max-width: 900px;
+      margin: 30px auto;
+      padding: 20px;
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+      font-family: 'Arial', sans-serif;
+    }
+    .mail-container h1 {
+      margin-top: 0;
+      color: #14365c;
+      text-align: center;
+    }
+    .mail-container p {
+      line-height: 1.5;
+      color: #333;
+      text-align: justify;
+    }
+    .mail-field {
+      margin: 14px 0;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .mail-field label {
+      font-weight: 600;
+      color: #14365c;
+    }
+    .mail-field textarea {
+      min-height: 160px;
+      resize: vertical;
+      padding: 10px;
+      font-size: 1rem;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+      font-family: 'Arial', sans-serif;
+    }
+    .mail-field input[type="email"] {
+      padding: 10px;
+      font-size: 1rem;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+      font-family: 'Arial', sans-serif;
+    }
+    .mail-actions {
+      display: flex;
+      gap: 12px;
+      justify-content: flex-end;
+      margin-top: 16px;
+    }
+    .mail-actions button {
+      padding: 10px 16px;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+      font-weight: 700;
+      color: #fff;
+      background: #c8102e;
+      transition: background 0.2s;
+    }
+    .mail-actions button:hover {
+      background: #a20d24;
+    }
+  </style>
+</head>
+<body>
+  <div class="mail-container">
+    <h1 data-translate="mail_title">Mail</h1>
+    <p id="mail-subtitle" data-translate="mail_subtitle">
+      Pour envoyer un mail concernant un retour d'expérience, une remarque, un défaut ou une suggestion, entrez votre texte dans la zone suivante, entrez votre email et cliquez sur "envoyer". Notre équipe vous recontactera au plus tôt le cas échéant.
+    </p>
+
+    <form id="contact-form" novalidate>
+      <div class="mail-field">
+        <label for="mail-text" data-translate="mail_body_label">Votre message</label>
+        <textarea id="mail-text" name="message" data-translate-placeholder="mail_body_placeholder" placeholder="Votre texte..."></textarea>
+      </div>
+
+      <div class="mail-field">
+        <label for="mail-email" data-translate="mail_email_label">Votre email</label>
+        <input id="mail-email" name="email" type="email" data-translate-placeholder="mail_email_placeholder" placeholder="votre@email.com">
+      </div>
+
+      <!-- Honeypot anti-bot -->
+      <input type="text" name="website" value="" style="display:none" tabindex="-1" autocomplete="off" aria-hidden="true">
+
+      <div class="mail-actions">
+        <button id="mail-send" type="submit" data-translate="mail_send">Envoyer</button>
+        <button id="mail-back" type="button" data-translate="back">RETOUR</button>
+      </div>
+    </form>
+  </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
       const tm = window.translationManager;
       const setPlaceholders = () => {
         const body = document.getElementById('mail-text');
@@ -154,4 +262,8 @@
       if (backBtn) backBtn.addEventListener('click', () => {
         window.location.href = 'instructions.html';
       });
-    });</script></body></html>
+    });
+  </script>
+</body>
+</html>
+

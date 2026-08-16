@@ -132,6 +132,26 @@ header h1 {
   max-width: 100%;
   height: 100%;
   max-width: calc(100vw - 20px);
+  position: relative;
+}
+
+#map-photo-standin,
+.map-photo-standin {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  background: #111;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+
+#map-photo-standin[hidden],
+.map-photo-standin[hidden] {
+  display: none !important;
 }
 
 #map {
@@ -1099,6 +1119,45 @@ img[src*="cityLoopQuest_Mons_Lite"] {
   display: none !important;
   visibility: hidden !important;
   pointer-events: none !important;
+}
+
+/* Popup fin de parcours */
+#end-of-tour-overlay {
+  position: fixed !important;
+  inset: 0 !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  background: rgba(0, 0, 0, 0.7) !important;
+  z-index: 9999 !important;
+  padding: 12px !important;
+  box-sizing: border-box !important;
+}
+#end-of-tour-overlay .end-of-tour-box {
+  background: url('images/parchemin.jpg') center/cover !important;
+  border: 4px solid #b8860b !important;
+  border-radius: 18px !important;
+  box-shadow: 0 0 24px rgba(0, 0, 0, 0.5) !important;
+  color: #4b2e05 !important;
+  font-family: 'MedievalSharp', Arial, serif !important;
+  max-width: min(420px, 94vw) !important;
+  width: 100% !important;
+  text-align: center !important;
+  padding: 32px 24px 24px !important;
+  box-sizing: border-box !important;
+}
+#end-of-tour-overlay .end-of-tour-title { font-weight: bold; font-size: 1.3em; color: #b30000; margin-bottom: 15px; }
+#end-of-tour-overlay .end-of-tour-msg { margin-bottom: 25px; color: #4b2e05; line-height: 1.5; }
+#end-of-tour-overlay .end-of-tour-btn {
+  background: #b30000 !important;
+  color: #fff !important;
+  font-weight: bold !important;
+  border: none !important;
+  border-radius: 8px !important;
+  padding: 12px 28px !important;
+  font-size: 1.1rem !important;
+  cursor: pointer !important;
+  font-family: 'MedievalSharp', Arial, serif !important;
 }
 
 /* Popup questions quiz */

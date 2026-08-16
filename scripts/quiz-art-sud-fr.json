@@ -1,0 +1,67 @@
+{
+  "Dussart Myncke True story Marche aux herbes": [
+    {"question": "Que voit-on dans les fenêtres murées de cette façade ?", "options": ["Des portraits de chefs montois", "Des comics et des affiches de films hollywoodiens des années 1950", "Des carpes koï éclairées"], "answer": 1},
+    {"question": "Quel détail urbain les deux étudiants transforment-ils en terrain de fiction ?", "options": ["Les nombreuses fenêtres bouchées de Mons", "Les marches du beffroi", "Les pavés du Lumeçon"], "answer": 0},
+    {"question": "Comment le titre « True story » demande-t-il de regarder le mur ?", "options": ["Comme un plan cadastral", "Comme une nature morte", "Comme une façade qui raconte, entre réel et imaginaire populaire"], "answer": 2}
+  ],
+  "Levalet L'homme des cavernes": [
+    {"question": "Comment les personnages de Levalet dialoguent-ils avec le bâtiment ?", "options": ["Ils sont peints en aplats zébrés, sans rapport avec les ouvertures", "Ils sont collés au sol, comme un tapis", "Ils sont dessinés à l'encre de Chine et s'insèrent fenêtre après fenêtre"], "answer": 2},
+    {"question": "Quel décalage la scène installe-t-elle sous vos yeux ?", "options": ["L'homme contemporain croisant ses propres origines, entre réalisme et surréalisme", "Un combat de Saint Georges contre le dragon", "Un marché aux herbes du XVIIIe siècle"], "answer": 0},
+    {"question": "Que devient la façade rue de Houdain ?", "options": ["Une carte du Mundaneum", "Un décor de narration à lire comme un récit", "Une cage à oiseaux fermée"], "answer": 1}
+  ],
+  "Farm Prod Rue de la Halle": [
+    {"question": "Quelles figures dominent le haut de la façade ?", "options": ["Sainte Waudru et ses filles", "Adam et Ève", "Cybèle et Poliade"], "answer": 1},
+    {"question": "Quelles lames du tarot reconnaît-on plus bas, parmi d'autres signes ?", "options": ["L'Empereur, La Mort, Le Monde et La Tempérance", "La Bancloque, le Car d'Or et le Ropieur", "Le Jugement, L'Ermite et La Roue de Fortune uniquement"], "answer": 0},
+    {"question": "Quel voyage visuel la composition propose-t-elle, une fois le mur lu de haut en bas ?", "options": ["Un inventaire des métiers de la Grand-Place", "La Classification décimale d'Otlet", "Le tarot, la connaissance de soi et le passage du temps"], "answer": 2}
+  ],
+  "Hell'O Rue de la Halle": [
+    {"question": "En combien de panneaux le mur est-il découpé ?", "options": ["Quatre", "Neuf", "Seize"], "answer": 2},
+    {"question": "Quel motif revient au centre de cet univers surréaliste ?", "options": ["L'œil", "Le beffroi", "Le Quetzal"], "answer": 0},
+    {"question": "Que faut-il observer dans le dessin, au-delà du lettrage graffiti ?", "options": ["Uniquement des portraits impériaux", "Des êtres imaginaires, des pastels et un assemblage sans un seul sens de lecture imposé", "Des fiches bibliographiques"], "answer": 1}
+  ],
+  "Ilan Walbrecq Georges Cuvelier": [
+    {"question": "Quel Montois célèbre le portrait met-il en lumière ?", "options": ["Georges Cuvelier, chef étoilé", "Louis Buisseret, peintre", "Charles Malapert, astronome"], "answer": 0},
+    {"question": "À quelle galerie à ciel ouvert cette image appartient-elle ?", "options": ["Aux fenêtres murées du Marché aux Herbes", "À la série « Montois célèbres » de l'atelier de dessin d'Arts²", "Aux Gayoles de la rue des Arquebusiers"], "answer": 1},
+    {"question": "Comment distinguer ce portrait de celui de Louis Buisseret, plus loin sur le parcours ?", "options": ["Ici c'est un cuisinier ; Buisseret est un peintre", "Ici c'est un dragon ; Buisseret est un coquelicot", "Les deux montrent le même visage, inversé"], "answer": 0}
+  ],
+  "Cedric Le Borgne La riviere": [
+    {"question": "Que voit-on suspendu au Marché-aux-Poissons ?", "options": ["Un dragon du Lumeçon", "Deux carpes koï géantes qui paraissent nager dans l'air", "Un couple à une fenêtre"], "answer": 1},
+    {"question": "D'où vient la lumière de ces sculptures ?", "options": ["De l'intérieur des carpes", "Uniquement du soleil rasant, sans source interne", "De projecteurs posés sur le beffroi"], "answer": 0},
+    {"question": "Quel effet d'échelle l'installation produit-elle quand on s'arrête devant elle ?", "options": ["Elle miniature la collégiale", "Elle reconstitue un aquarium de salon", "Elle ramène le passant à sa propre mesure face à une nature agrandie"], "answer": 2}
+  ],
+  "Taquen Bouquet of memory and hope": [
+    {"question": "Quelle fleur occupe le mur, rue des Chartriers ?", "options": ["Le lys de Sainte-Waudru", "Le coquelicot", "La rose de la Grand-Place"], "answer": 1},
+    {"question": "Que faut-il lire dans ce bouquet, au-delà du motif floral ?", "options": ["Un souvenir lourd et, en même temps, une promesse d'espoir", "Un hommage au tarot de Farm Prod", "Un blason des métiers de bouche"], "answer": 0},
+    {"question": "Quel passé du lieu le coquelicot rend-il visible ?", "options": ["Le combat annuel du Lumeçon", "Le classement des fiches d'Otlet", "Des bombes y sont tombées ; des coquelicots y poussent aujourd'hui"], "answer": 2}
+  ],
+  "Dussart Myncke True story Croix Place": [
+    {"question": "Que demande le titre « True story » une fois face à la façade ?", "options": ["De lire le mur comme un récit, sans qu'on vous en donne la fin", "De compter les travées gothiques", "De retrouver Adam et Ève en haut du tarot"], "answer": 0},
+    {"question": "En quoi cette « True story » diffère-t-elle de celle du Marché aux Herbes ?", "options": ["Elle est signée Zësar Bahamonte", "Elle n'inventorie pas les fenêtres murées par des affiches des fifties : elle charge toute la rue d'une scène à interpréter", "Elle représente deux carpes koï"], "answer": 1},
+    {"question": "Quel écart la peinture entretient-elle sous vos yeux ?", "options": ["Entre catalogue et archive", "Entre plan de ville et cadastre", "Entre réalité de la rue et regard d'artiste"], "answer": 2}
+  ],
+  "Eva Badalamenti Louis Buisseret": [
+    {"question": "Quel visage le mur donne-t-il à voir ?", "options": ["Georges Cuvelier, chef étoilé", "Louis Buisseret, peintre montois", "Roland de Lassus, compositeur"], "answer": 1},
+    {"question": "À quelle série ce portrait appartient-il visuellement ?", "options": ["« Montois célèbres », une galerie de figures locales peinte par les élèves d'Arts²", "Les fenêtres-comics de True story", "Les seize panneaux de Hell'O"], "answer": 0},
+    {"question": "Que faut-il comparer, si l'on vient de rue de la Halle ?", "options": ["Un cuisinier là-bas, un peintre ici : deux métiers, une même galerie à ciel ouvert", "Deux dragons identiques", "Deux cages à oiseaux fermées"], "answer": 0}
+  ],
+  "Thomas Istasse La lune de Malapert": [
+    {"question": "Vers où la composition oriente-t-elle le regard ?", "options": ["Vers les caves de la Grand-Place", "Vers le haut, dans une image baignée de lumière", "Vers les pavés du Lumeçon"], "answer": 1},
+    {"question": "Que superpose le nom « Malapert » une fois le mur observé ?", "options": ["Une rue de Mons et un cratère lunaire, hommage au savant qui observait le ciel", "Un quartier de Séville et une Gayole", "Un tunnel ferroviaire et le Mundaneum"], "answer": 0},
+    {"question": "Quel lien l'œuvre établit-elle entre la ville et l'espace ?", "options": ["Elle reconstitue les remparts", "Elle classe les connaissances d'Otlet", "Elle relie la terre montoise au ciel, sans quitter la mémoire locale"], "answer": 2}
+  ],
+  "Andrea Buglisi La Gayole": [
+    {"question": "En quoi le bâtiment est-il transformé sous vos yeux ?", "options": ["En cage à oiseaux ouverte, où les oiseaux restent libres", "En tour du savoir", "En aquarium de carpes koï"], "answer": 0},
+    {"question": "Quel piège visuel Buglisi tend-il d'abord au passant ?", "options": ["Le lettrage graffiti seul", "Des couleurs séduisantes, puis un message plus inquiet, teinté d'ironie", "Un clair-obscur de retraite aux flambeaux"], "answer": 1},
+    {"question": "Quelle mémoire populaire le titre « La Gayole » réveille-t-il dans l'image ?", "options": ["Les cages à oiseaux de la tradition montoise", "La Classification décimale", "Le combat de saint Georges"], "answer": 0}
+  ],
+  "Oli-B L'escapade": [
+    {"question": "Que voit-on se mêler sur le mur ?", "options": ["Un portrait impérial en grisaille", "Des formes abstraites et figuratives, des couleurs vives, une sensation de mouvement", "Des fenêtres remplies d'affiches des fifties"], "answer": 1},
+    {"question": "Comment les formes se comportent-elles par rapport au jardin ?", "options": ["Elles semblent presque respirer avec le végétal", "Elles ignorent le jardin et copient le beffroi", "Elles reproduisent le plan des remparts"], "answer": 0},
+    {"question": "Quelle tonalité l'image donne-t-elle à l'espace public ?", "options": ["Une archive militaire", "Un clair-obscur caravagesque", "Une vision onirique et lumineuse, plus douce que le minéral de la ville"], "answer": 2}
+  ],
+  "Blancbec Le monstrueux": [
+    {"question": "De quoi le mur rue d'Havré est-il peuplé ?", "options": ["De fiches du Mundaneum", "D'animaux et de plantes imaginaires", "De portraits de compositeurs"], "answer": 1},
+    {"question": "D'où viennent les formes géométriques et la gamme très vive ?", "options": ["De la peinture d'histoire du XIXe siècle", "De la photographie documentaire seule", "Du graffiti et du travail sur les affiches et les personnages"], "answer": 2},
+    {"question": "Quelle figure a d'abord donné naissance à ce style, avant les autres créatures ?", "options": ["L'oiseau", "Le dragon du Lumeçon", "Le Singe du Grand'Garde"], "answer": 0}
+  ]
+}

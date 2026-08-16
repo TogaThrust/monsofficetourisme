@@ -1,1 +1,5773 @@
-window.quizData={"Grand-place":[{question:"Quel élément en pierre bleue éclaire la nuit sur la Grand-Place ?",options:["Un toboggan géant pour dragons fatigués","Un anneau de 12 mètres gravé des noms des 19 communes de Mons","Le cercle secret des fans de fromage de Herve"],answer:1},{question:"Quel petit geste est censé vous porter chance à Mons ?",options:["Frotter la tête du Singe du Grand'Garde avec la main gauche","Danser trois fois autour de la fontaine en chantant du Jacques Brel","Faire un selfie avec le Beffroi en arrière-plan sans cligner des yeux"],answer:0},{question:"Quel combat légendaire anime la Grand-Place chaque année lors de la Ducasse ?",options:["Batman contre le Joker (version wallonne)","Saint-Georges contre le Dragon","Obélix contre un sanglier farci"],answer:1}],"Fontaine du Rouge Puits":[{question:"Pourquoi appelle-t-on cette fontaine le Rouge-Puits ?",options:["Parce qu'elle a été peinte entièrement en rouge pendant un temps","Parce que l'eau en sortait rouge (panique assurée)","Parce qu'elle est réservée aux pompiers de Mons"],answer:0},{question:"Que trouve-t-on au sommet du Rouge-Puits ?",options:["Une girouette en forme de chat","Un vase en pierre posé sur un entablement en escalier","Une antenne satellite pour pigeons connectés"],answer:1},{question:"Quel est le rôle des quatre mascarons sur la fontaine ?",options:["Ils chantent les plus grands succès de Doudou-FM","Ils annoncent l'heure en soufflant dans un cor de chasse","Ils crachent de l'eau via un gros tuyau coudé"],answer:2}],"Immeuble Blanc Lévrier":[{question:"Pourquoi l'immeuble s'appelle-t-il \"Au Blanc Lévrier\" ?",options:["Parce qu'un lévrier en pierre blanche trône sur le toit",'À cause des sculptures de deux lévriers et de l\'inscription "AV BLAN LEVRIE"',"Parce que c'était un ancien chenil royal"],answer:1},{question:"Quel grand personnage historique est représenté sur la façade ?",options:["Louis XIV en rollers","Napoléon tenant un gaufrier","Charles Quint avec l'aigle bicéphale et la Toison d'Or"],answer:2},{question:"Quel usage insolite ce bâtiment a-t-il connu après sa restauration de 1975 ?",options:["Une banque avec salle des coffres encore visible aujourd'hui","Une école de lévriers savants","Un magasin de bonbons classé au patrimoine sucré de Wallonie"],answer:0}],"Immeuble Grand Place 31 34":[{question:"Quelle particularité architecturale donne à cet îlot un aspect homogène ?",options:["Une gigantesque fresque de dragon courant sur les toits","Tous les habitants s'habillent pareil pour ne pas détonner","Une toiture unique percée de lucarnes et un rythme de façades coordonné"],answer:2},{question:"Quelle décoration originale distingue la deuxième travée du numéro 31 côté rue des Clercs ?",options:["Une balustrade en pierre sous les fenêtres","Un balcon en chocolat (à consommer avec modération)","Une mini-terrasse pour pigeons VIP"],answer:0},{question:"En quelle année cet ensemble a-t-il été classé comme monument ?",options:["En 1972, année bénie du patrimoine montois","En 1830, juste avant la révolution (et le carnaval)","En 2022, pour fêter ses 313 ans pile"],answer:0}],"Office du Tourisme":[{question:"Dans quel type de bâtiment se trouve l'Office du Tourisme de Mons ?",options:["Un château gonflable classé","Un bâtiment classique du XVIIIe siècle","Une cabane de scouts améliorée"],answer:1},{question:"Quel service ne fait pas partie de ceux proposés par l'Office du Tourisme ?",options:["La location de licornes pour visiter Mons autrement","La réservation de visites guidées","La vente de souvenirs et produits locaux"],answer:0},{question:"Lors de la rénovation du bâtiment entre 2013 et 2014, qu'a-t-on notamment amélioré ?",options:["Le système de catapultes anti-touristes pressés","Les façades, l'intérieur, et la scénographie","L'éclairage disco pour les soirées médiévales"],answer:1}],"Hôtel de la Couronne":[{question:"Quel style architectural domine la façade de l'Hôtel de la Couronne ?",options:["Style Lego modulable","Baroque disco","Style Louis XV, avec frontons courbes et balcons élégants"],answer:2},{question:"À quoi servait principalement l'Hôtel de la Couronne jusqu'à la fin du XIXe siècle ?",options:["Un relais pour la diligence Paris-Bruxelles","Un salon de thé pour Napoléon et ses copains","Une salle de concert pour pigeons artistes"],answer:0},{question:"Quel usage n'a pas été attribué à l'Hôtel de la Couronne au fil de son histoire ?",options:["Une station spatiale montoise","Une école supérieure, un café, une maison de justice","Un bâtiment occupé par les forces allemandes et alliées pendant les guerres"],answer:0}],"Chapelle Saint Georges":[{question:"Quel était le rôle initial de la Chapelle Saint-Georges construite en 1601 ?",options:["Un temple dédié aux dragons repentis","Un oratoire destiné aux échevins et ouvriers de la ville","Une salle secrète pour stocker les gaufres montoises"],answer:1},{question:"Quelle transformation étonnante a connu la chapelle après sa désacralisation ?",options:["Elle a été transformée en manège pour licornes miniatures","Elle est devenue un parc à trampolines religieux","Elle a servi de lieu de culte protestant, puis de salle pour divers événements"],answer:2},{question:"Quel élément lié à Saint-Georges a été obtenu par la ville et se trouve désormais dans l'église Sainte-Élisabeth ?",options:["Des reliques de saint Georges, placées dans une châsse baroque","Une relique de la queue du dragon","Le bouclier de Saint-Georges avec des LED"],answer:0}],"Immeuble Grand Place 28 30":[{question:"Quel style architectural caractérise les immeubles 28 à 30 de la Grand-Place de Mons ?",options:["Le style classique montois du XVIIIe siècle","Le style « boîte empilée » façon LEGO","Le style futuriste à base de verre et de lasers"],answer:0},{question:"Quel élément remplace les panneaux sous les fenêtres du numéro 29 ?",options:["Une fresque représentant Saint-Georges en trottinette","Un balcon en ferronnerie et des balustres en pierre","Des jardinières à géraniums volants"],answer:1},{question:"Que trouve-t-on aujourd'hui au rez-de-chaussée de ces immeubles ?",options:["Un musée du bouton montois","Des établissements Horeca comme cafés et restaurants","Une salle secrète dédiée aux fans de carrelage ancien"],answer:1}],"Immeuble Grand Place 14":[{question:"Quel est le matériau principal de la façade de l'immeuble au 14 Grand-Place ?",options:["La pierre bleue","Le béton armé avec paillettes","Le bois recyclé des chars du Doudou"],answer:0},{question:"Quel style architectural illustre l'immeuble situé au 14 Grand-Place de Mons ?",options:["Le style baroque façon manège enchanté","Le style tournaisien avec bandeaux et seuils saillants","Le style classique montois du XVIIIe siècle"],answer:2},{question:"Quelle est la fonction actuelle du rez-de-chaussée de l'immeuble ?",options:["Un établissement commercial","Un musée du miroir magique","Un ancien atelier de lévriers miniatures"],answer:0}],"Théâtre Royal":[{question:"Quel événement a marqué le Théâtre Royal en 1869 ?",options:["Un incendie partiel du bâtiment","Une comédie musicale avec des chats costumés","La visite surprise de Napoléon III déguisé en Molière"],answer:0},{question:"Quelle artiste emblématique a joué sur la scène du Théâtre Royal de Mons ?",options:["Lady Gaga","Sarah Bernhardt","La fée du Beffroi"],answer:1},{question:"Que peut-on admirer sur les portes en fonte du Théâtre Royal ?",options:["Des médaillons de Molière, Racine et d'autres figures culturelles","Un panneau solaire camouflé pour chauffer les fauteuils en hiver","Des graffitis médiévaux signés Saint-Georges"],answer:0}],"Singe du Grand Garde":[{question:"Depuis quand le Singe du Grand'Garde est-il officiellement un porte-bonheur ?",options:["Depuis l'époque des dinosaures montois","Depuis qu'il a été élu mascotte municipale en 2005","Depuis 1930"],answer:2},{question:"Quel geste faut-il faire pour que le Singe vous porte bonheur ?",options:["Lui caresser la tête avec la main gauche","Lui faire un clin d'œil tout en dansant le Doudou","Lui offrir une banane bénie"],answer:0},{question:"Parmi ces hypothèses, laquelle a été avancée pour expliquer l'origine du Singe ?",options:["C'est un ancien thermomètre municipal","Il servait de pilori pour enfants turbulents","Il surveillait les entrées secrètes du Beffroi"],answer:1}],"Statue du Dragon":[{question:"Qui est l'auteur des sculptures de Saint Georges et du dragon à Mons ?",options:["Gérard Garouste","Victor Hugo (dans ses heures perdues)","Le dragon lui-même, très manuel"],answer:0},{question:"Où sont installées ces sculptures de bronze ?",options:["Au sommet du Beffroi pour les téméraires","À droite de l'entrée principale de l'Hôtel de Ville","Dans la cave secrète du Musée du Doudou"],answer:1},{question:"Quel autre lieu de l'Hôtel de Ville a été décoré par Gérard Garouste ?",options:["La salle des mariages","Les toilettes officielles de Saint-Georges","Le grenier à gaufres"],answer:0}],"Hôtel de Ville":[{question:"Quel célèbre architecte a dirigé la construction de l'Hôtel de Ville de Mons au XVe siècle ?",options:["Victor Hugo (dans une autre vie)","Mathieu de Layens","Le Beffroi, reconverti en chef de chantier"],answer:1},{question:"Quel élément sonore historique est abrité dans le campanile du bâtiment ?",options:["Un coucou suisse importé de Namur","Une boîte à musique géante jouant le Doudou","Une cloche nommée 'Bancloque' datant de 1390"],answer:2},{question:"Que trouve-t-on dans la Salle des États au premier étage ?",options:["Un trampoline patrimonial pour les visiteurs actifs","Le laboratoire secret du Singe du Grand'Garde","Des boiseries sculptées, des portraits, et des vitraux"],answer:2}],Ropieur:[{question:"Qui est le sculpteur à l'origine de la statue du Ropieur ?",options:["Léon Gobert","Paul Heupgen","Monsieur Ropieur lui-même, en autoportrait"],answer:0},{question:"Quel brasseur a finalement participé financièrement à l'érection de la fontaine ?",options:["Labor","Caulier","Le Beffroi, via sa réserve secrète"],answer:1},{question:"Quel message incarne le Ropieur selon Paul Heupgen ?",options:["Un expert en tuyauterie urbaine","Le maître de l'arrosage automatique montois","Un type moral : espiègle, intelligent et bon"],answer:2}],Gillis:[{question:"Dans quel courant artistique peut-on situer le travail de Marcel Gillis ?",options:["Le réalisme wallon, proche du cercle Nervia","L'expressionnisme flamand du futur","Le minimalisme bruxellois en monocorde"],answer:0},{question:"Quelle chanson célèbre doit-on à Marcel Gillis ?",options:["Le Doudou Swing","Le Tableau d'Procession","Le Chant du Beffroi électrique"],answer:1},{question:"Parmi ces rôles, lequel Marcel Gillis n'a **pas** occupé ?",options:["Chanteur populaire","Conservateur du Musée des Beaux-Arts de Mons","Président de l'Union Mondiale des Dragons Volants"],answer:2}],Mayeur:[{question:"Qu'est-ce qui surprend souvent les visiteurs dans le Jardin du Mayeur ?",options:["La sculpture du Ropieur qui arrose les passants","Un dragon en grès qui grogne à midi","Un Beffroi miniature caché dans un buisson"],answer:0},{question:"Quel type de musique peut-on écouter au Jardin du Mayeur ?",options:["Des chants de sirènes montoises","Le carillon du beffroi et des concerts en plein air","Le DJ set hebdomadaire du Singe du Grand'Garde"],answer:1},{question:"Quel chemin mène du Jardin du Mayeur au site du Beffroi ?",options:["Le tunnel secret des échevins","La route des dragons volants","Le passage Victor Hugo"],answer:2}],"Musée du Doudou":[{question:"Quel événement central de la Ducasse est mis en valeur au Musée du Doudou ?",options:["Le combat entre Saint Georges et le Dragon, appelé le Lumeçon","La bataille des confettis contre le Beffroi","Le concours du plus long cri de 'Doudouuuuuu!'"],answer:0},{question:"Où est situé le Musée du Doudou ?",options:["Sur le toit du Beffroi, accessible par catapulte","Dans l'ancien Mont-de-Piété, derrière l'Hôtel de Ville","Sous la Grand-Place, entre deux catacombes du Dragon"],answer:1},{question:"Comment le musée s'assure-t-il d'être accessible à tous les publics ?",options:["En proposant uniquement des spectacles de mime","En livrant des visites via pigeons voyageurs","En offrant des livrets-jeux, des ateliers, et des dispositifs adaptés"],answer:2}],"Conservatoire Royal":[{question:"Quel ancien bâtiment religieux abrite le Conservatoire royal de Mons depuis 1873 ?",options:["L'ancien couvent des Filles de Notre-Dame","L'abbaye du Dragon endormi","Le cloître secret du Beffroi"],answer:0},{question:"Quel nouveau nom porte le Conservatoire depuis la fusion de 2012 ?",options:["L'École du Son et de la Fête","ARTS²","Le Conservatoire Royal des Chants du Doudou"],answer:1},{question:"Quels domaines sont enseignés à ARTS² ?",options:["Arts magiques, jonglage et cornemuse pour débutants","Cuisine sonore et peinture invisible","Musique, théâtre, et arts visuels"],answer:2}],"Eglise Sainte Elisabeth":[{question:"Quel événement marquant s'est produit dans l'église Sainte-Élisabeth en 1714 ?",options:["Un incendie accidentel lors de la célébration de l'Annonciation","La transformation du Beffroi en clocher annexe","La canonisation de la cloche principale"],answer:0},{question:"Quel style architectural résulte de la restauration après l'incendie ?",options:["Le néo-industriel montois","Le style baroque mêlé aux éléments gothiques conservés","Le style rococo-robotique très localisé"],answer:1},{question:"Quelle curiosité trouve-t-on sur la façade de l'église ?",options:["Un dragon en tutu","Une girouette représentant saint Georges en skateboard","Des sculptures en pierre d'un chevalier et d'une sirène"],answer:2}],"Palais de Justice":[{question:"Quel architecte a conçu le Palais de Justice de Mons au XIXe siècle ?",options:["Jean-Baptiste Huriau","Claude-Joseph de Bettignies","Le juge Dredd, entre deux audiences"],answer:0},{question:"Quel style architectural caractérise le bâtiment principal du Palais de Justice ?",options:["Le gothique flamboyant à col roulé","Le style néoclassique avec colonnes toscanes et frontons","Le rococo judiciaire expérimental"],answer:1},{question:"Qu'apporte l'extension moderne construite entre 2001 et 2005 ?",options:["Des toboggans pour fuir les procès","Des ailes reliées par des patios et une façade en verre et métal","Une salle d'audience flottante sur un étang intérieur"],answer:1}],"Maison Losseau":[{question:"Quel célèbre architecte belge a dirigé la transformation Art nouveau de la Maison Losseau ?",options:["Victor Horta","Paul Saintenoy","Claude-Joseph de Bettignies"],answer:1},{question:"Quelle innovation technologique n'était **pas** présente dans la maison au début du XXe siècle ?",options:["Un ascenseur","Un jacuzzi à bulles connectées","Une ligne téléphonique installée en 1905"],answer:1},{question:"Quel événement littéraire est lié à Léon Losseau ?",options:["La redécouverte de l'édition originale d'Une Saison en enfer de Rimbaud","La publication d'un roman de Saint Georges","La traduction du Doudou en klingon"],answer:0}],"Maison Rue de Nimy 53":[{question:"Quel style architectural caractérise la maison située au 53 rue de Nimy ?",options:["Le style tournaisien avec bandeaux saillants et corniche moulurée","Le style Beffroi-baroque ultramoderne","Le style cubique à tuiles inversées"],answer:0},{question:"Quel organisme occupe aujourd'hui cette maison classée ?",options:["L'Institut montois des dragons retraités","L'IDEA, Agence de développement territorial du Cœur du Hainaut","Le fan-club officiel du Singe du Grand'Garde"],answer:1},{question:"Quel élément architectural éclaire la toiture en croupe frontale ?",options:["Une lucarne unique en forme de dragon","Des hublots psychédéliques","Deux lucarnes à fronton courbe"],answer:2}],Mundaneum:[{question:"Quel était l'objectif principal du projet Mundaneum fondé par Paul Otlet et Henri La Fontaine ?",options:["Recueillir et organiser toutes les connaissances du monde","Créer une bibliothèque exclusivement belge","Indexer uniquement la presse européenne"],answer:0},{question:"Quel surnom est parfois donné au Mundaneum ?",options:["La bibliothèque sans livres","Le Google de papier","L'encyclopédie silencieuse"],answer:1},{question:"Quel prix prestigieux Henri La Fontaine a-t-il reçu en 1913 ?",options:["Le prix Nobel de littérature","Le prix Pulitzer","Le prix Nobel de la Paix"],answer:2}],"Place du Parc":[{question:"Quel autre nom portait autrefois la Place du Parc ?",options:["Place Saint-Jean","Place du Singe Arroseur","Place de la Gaufre Chantante"],answer:0},{question:"Quel bâtiment historique borde la place au nord ?",options:["Le Théâtre des Goûts et Saveurs","L'ancien couvent des Visitandines, occupé aujourd'hui par l'Université de Mons","La Maison du Doudou Farceur"],answer:1},{question:"Quel événement festif s'est tenu sur la place en 2022 ?",options:["La Marche des Dragons Gourmands","Le Défilé des Beffrois en pyjama","Le Food Festival avec food trucks, concerts et animations"],answer:2}],"Chapelle des Visitandines":[{question:"Quel architecte a construit la chapelle baroque des Visitandines en 1717 ?",options:["Victor Hugo (entre deux poèmes)","Claude-Joseph de Bettignies","Paul Saintenoy"],answer:1},{question:"Que trouve-t-on sous le chœur de la chapelle ?",options:["Une salle de concert miniature","Une crypte appelée 'cave des mortes' où reposent des religieuses","Un tunnel secret menant au Beffroi"],answer:1},{question:"Quelle nouvelle institution a pris possession du bâtiment en 2021 ?",options:["La Société des Dragons du Silence","La Maison du Doudou Fantôme","Le MUMons, musée de l'Université de Mons"],answer:2}],"Ancienne Caserne de Gendarmerie":[{question:"Quel style architectural caractérise la caserne de gendarmerie de Mons ?",options:["Le style néo-Renaissance flamande","Le style néo-futuriste à briques invisibles","Le style gothique à gaufres intégrées"],answer:0},{question:"Quel architecte a conçu cet édifice emblématique en 1870 ?",options:["Paul Saintenoy","Charles-Damas Vincent","Le colonel Moutarde dans la cour d'honneur"],answer:1},{question:"Pourquoi la caserne n'est-elle plus en activité aujourd'hui ?",options:["Elle a été reconvertie en musée des uniformes rebelles","Elle est désormais le siège de l'armée des dragons","Elle a été désaffectée après la réforme des polices en 2001"],answer:2}],"Prison de Mons":[{question:"Quel célèbre poète français a été incarcéré à la prison de Mons ?",options:["Arthur Rimbaud","Paul Verlaine","Victor Hugo, en mission undercover"],answer:1},{question:"Quel est le nom du modèle architectural utilisé pour la prison de Mons ?",options:["Le modèle du Beffroi tournant","Le modèle Ducpétiaux en étoile","Le plan en gaufre géante typique du Hainaut"],answer:1},{question:"Quel événement a eu lieu en 1955 devant la prison ?",options:["Un tournoi de lancer de pavés","La construction d'un mémorial pour les prisonniers politiques déportés","Une manifestation pour des cellules avec jacuzzi"],answer:1}],"Tour Valenciennoise":[{question:"Quelle fonction militaire remplissait la Tour Valenciennoise à l'origine ?",options:["Elle faisait partie des remparts médiévaux de Mons","Elle servait de piste d'atterrissage pour dragons en mission","Elle abritait les réserves de confiture du roi"],answer:0},{question:"Quel événement a transformé la tour en magasin à poudre ?",options:["La Révolution montoise de la Gaufre","Une décision du régime hollandais en 1825","La construction d'un four à boulets par les échevins"],answer:1},{question:"Quelle nouveauté a été ajoutée lors de la restauration entre 2005 et 2009 ?",options:["Un dragon mécanique pour accueillir les visiteurs","Une terrasse panoramique tournante","Une passerelle métallique pour accéder aux niveaux de la tour"],answer:2}],"Pavillons Caserne Cavalerie":[{question:"Quelle capacité accueillait autrefois la caserne Léopold ?",options:["1 000 hommes et 600 chevaux","200 chevaux et 1 500 dragons","500 officiers et une armée de pigeons voyageurs"],answer:0},{question:"Quel événement a provoqué la destruction partielle de la caserne en 1940 ?",options:["Un concours de feux d'artifice qui a mal tourné","Un bombardement aérien lors de la Seconde Guerre mondiale","L'arrivée trop festive d'un régiment de tambours"],answer:1},{question:"Quel bâtiment subsiste aujourd'hui et abrite des services militaires ?",options:["L'ancienne écurie royale du Dragon d'Or","Le gymnase historique des voltigeurs montois","Le mess des officiers, rue des Droits de l'Homme"],answer:2}],"Tank Sherman":[{question:"Que commémore le char Sherman 'In the Mood' installé à Mons ?",options:["Le 75e anniversaire de la libération de Mons en 1944","La naissance du premier robot-pompier montois","Une victoire légendaire du Doudou contre un canon"],answer:0},{question:"Qui était le célèbre commandant du char 'In the Mood' pendant la Seconde Guerre mondiale ?",options:["Colonel Beffroi","Sergent-chef Lafayette G. Pool","Caporal Ropieur"],answer:1},{question:"D'où provient le char Sherman offert à la Ville de Mons ?",options:["Du Musée des chars miniatures de Jemappes","Du programme de dons de l'armée américaine via TACOM","D'un entrepôt secret sous le Jardin du Mayeur"],answer:1}],"Machine à Eau":[{question:"Pourquoi la ville de Mons a-t-elle décidé de construire la Machine à Eau au XIXe siècle ?",options:["Pour créer un jacuzzi géant sur la Trouille","À cause des épidémies de choléra et du besoin d'un réseau d'eau potable","Pour alimenter le Beffroi en eau gazeuse"],answer:1},{question:"Quel système permettait à l'eau de remonter jusqu'au réservoir sous le jardin du Beffroi ?",options:["Un tapis roulant géant","Des pompes actionnées par une roue hydraulique et une machine à vapeur","Un ascenseur aquatique à tritons"],answer:1},{question:"Quel musée occupe aujourd'hui le bâtiment de la Machine à Eau ?",options:["Le Musée des Pluies Oubliées","Le Mons Memorial Museum (MMM)","Le Centre international de la Brouette contemporaine"],answer:1}],"Parc du Waux Hall":[{question:"Qui a aménagé le Parc du Waux-Hall à Mons entre 1862 et 1864 ?",options:["Louis Fuchs, paysagiste de renom","Saint Georges pendant une pause","Le Singe du Grand'Garde, passionné de jardinage"],answer:0},{question:"Quelle activité pour enfants se déroulait autrefois dans le parc ?",options:["Le lâcher de dragons miniatures","Le Petit Lumeçon, version enfantine du combat légendaire","Un concours de gaufres acrobatiques"],answer:1},{question:"Quel bâtiment central du parc est en cours de rénovation ?",options:["Le musée des arbres qui parlent","La serre volante de Mons","Le pavillon de style éclectique conçu par Jules Hubert"],answer:2}],"Eglise Saint Nicolas":[{question:"Quelle partie de l'église actuelle date encore de l'édifice gothique détruit en 1664 ?",options:["La tour-clocher en grès de Bray","Le buffet de l'orgue romantique","La façade baroque en brique"],answer:0},{question:"Quelle œuvre contemporaine a été ajoutée à l'église en 2013 ?",options:["Un vitrail représentant Saint Georges sur un skateboard","Une verrière monumentale représentant un oiseau bleu stylisé","Un tableau lumineux du Singe du Grand'Garde"],answer:1},{question:"Combien de chapelles latérales compte l'église Saint-Nicolas-en-Havré ?",options:["12, comme les mois du Doudou","7, comme les jours de la Ducasse","23, témoignant de la richesse des confréries"],answer:2}],"Chapelle du Bélian":[{question:"Quel était le rôle initial de la Chapelle du Bélian au XVIIIe siècle ?",options:["Un abri de dragons en cas de pluie","Le refuge urbain des chanoinesses de l'abbaye de Bélian","Un ancien théâtre de marionnettes montoises"],answer:1},{question:"Quelle installation originale a été réalisée par des étudiants en 2017 ?",options:["Un parcours d'escalade suspendu dans la nef","Une installation acoustique avec des toiles tendues","Un labyrinthe sonore en ballons de baudruche"],answer:1},{question:"Quel type d'exposition a été accueillie à la Chapelle du Bélian en 2025 ?",options:["Une rétrospective sur les cravates du Doudou","Une exposition de peintures faites avec de la gaufre","'Gueules noires', des portraits de mineurs européens"],answer:2}],"Marché aux Herbes":[{question:"Pourquoi appelait-on autrefois ce lieu le Marché de Coppenage ou des Mois à Fromages ?",options:["Parce qu'on y vendait exclusivement des fromages de saison","Parce qu'un moine y faisait des concours de fondues","Parce que c'était l'endroit où l'on échangeait du fromage contre des mois de vacances"],answer:0},{question:"Qu'est devenue la Fontaine du Rouge-Puits qui se trouvait autrefois sur la place ?",options:["Elle a été transformée en jacuzzi pour statues","Elle a été déplacée à l'entrée du piétonnier","Elle a été remplacée par une fontaine à bière pour étudiants"],answer:1},{question:"Quelle ambiance caractérise aujourd'hui la Place du Marché aux Herbes ?",options:["Un lieu calme dédié à la méditation bovine","Un centre administratif pour les dragons","Un espace vivant, animé par les bars, restaurants et étudiants"],answer:2}],"Maison Rue de la Couronne 20 22":[{question:"À quel siècle remonte l'architecture de la maison située au 20-22 rue de la Couronne ?",options:["Au XVIIIe siècle","Au XXIe siècle, version néo-montoise","À l'époque des Gaulois, version en torchis"],answer:0},{question:"Quel élément architectural a été conservé en partie dans cette maison ?",options:["La catapulte d'origine dans le salon","Les petits-bois des fenêtres","Un perron chantant à l'entrée"],answer:1},{question:"Qu'est-ce qui caractérise la toiture de cette maison ?",options:["Une véranda disco avec LED intégrées","Une bâtière à croupe avec tuiles plates et lucarne","Un toit végétal arrosé par le Singe du Grand'Garde"],answer:1}],"Couvent des Soeurs Noires":[{question:"Pourquoi les religieuses sont-elles surnommées les 'Sœurs Noires' ?",options:["Parce qu'elles chantaient exclusivement du métal symphonique","À cause du scapulaire noir qu'elles portaient","Parce qu'elles vivaient dans des maisons sans fenêtres"],answer:1},{question:"Quelle relique étonnante fait partie du trésor du couvent ?",options:["Une plume de Saint-Georges","Le crâne de Dagobert II","Une dent du dragon du Lumeçon"],answer:1},{question:"Quel usage culturel est donné aujourd'hui à la chapelle du couvent ?",options:["Elle accueille des concerts et des expositions","Elle sert de salle d'examen pour les épreuves de combat contre le dragon","Elle a été transformée en restaurant baroque"],answer:0}],"Carré des Arts":[{question:"Quel était l'usage initial du bâtiment aujourd'hui connu sous le nom de Carré des Arts ?",options:["Une caserne militaire construite entre 1824 et 1827","Un centre de dressage pour dragons de spectacle","La première salle de bal du Singe du Grand'Garde"],answer:0},{question:"Quel établissement d'enseignement artistique y est installé depuis 1993 ?",options:["Le Conservatoire du Mime Invisible","L'École supérieure des Arts plastiques et visuels, aujourd'hui ARTS²","Le Collège royal du Doudou graphique"],answer:1},{question:"Quelle transformation architecturale a été apportée à la cour intérieure ?",options:["Un circuit de skate pour artistes pressés","Une piscine baroque à reflets historiques","Une couverture moderne permettant d'accueillir des événements"],answer:2}],"Anciens Abattoirs":[{question:"Quel était l'usage initial du site des Anciens Abattoirs de Mons ?",options:["Un complexe industriel d'abattage construit au XIXe siècle","Un lieu de méditation pour moutons philosophes","Un centre d'entraînement pour acrobates carnivores"],answer:0},{question:"Quel espace des Anciens Abattoirs est dédié aux arts appliqués et à l'artisanat contemporain ?",options:["Le Frigo","L'Étable, où réside l'asbl BeCraft","La Boucherie de l'Imaginaire"],answer:1},{question:"Quel projet est prévu pour marquer les 20 ans de BeCraft en 2026 ?",options:["Un défilé de vaches en réalité augmentée","Une rétrospective de recettes médiévales","Une exposition historique avec témoignages et catalogue sur les anciens abattoirs"],answer:2}],"Eglise Notre Dame de Messines":[{question:"Quel événement a fait de l'église un lieu de pèlerinage au XVIIe siècle ?",options:["La découverte d'un tableau de la Vierge Marie, considéré comme miraculeux","L'apparition d'un dragon en costume liturgique","La chute d'une pluie de fleurs depuis le clocher"],answer:0},{question:"Quelle fête folklorique est issue du pèlerinage de Notre-Dame de Messines ?",options:["La Fête des Paniers Enchantés","La ducasse de Messines, avec géants et marché aux fleurs","Le Carnaval des Cloches dansantes"],answer:1},{question:"Quel style architectural caractérise l'église actuelle reconstruite en 1674 ?",options:["Un style baroque italien à coupoles flottantes","Un style gothique en sucre","Un style sobre en briques et pierre bleue typique de la région"],answer:2}],"Maison Rue de Bertaimont 17":[{question:"Quel matériau compose principalement la façade de la maison située au 17 rue de Bertaimont ?",options:["Du béton sculpté en forme de gaufres","De la pierre bleue","Du verre soufflé venu de Namur"],answer:1},{question:"À quel style architectural appartient cette maison classée ?",options:["Le style montois du XVIIIe siècle avec arcs surbaissés","Le style futuriste des chevaliers interstellaires","Le style gallo-romain revisité"],answer:0},{question:"Quel lien relie cette maison à la vie culturelle locale ?",options:["Elle abritait autrefois le club officiel des jongleurs montois","Elle est un point d'observation privilégié de la ducasse de Messines","Elle a accueilli le premier musée de la brique bleue"],answer:1}],"Maison Rue de Bertaimont 33":[{question:"Quelle particularité présente la travée droite de la façade de la maison ?",options:["Elle est surmontée d'une girouette en forme de gaufre","Elle est en retrait, plus large, avec une porte et une baie à balcon","Elle est faite uniquement de miroirs pour espionner les passants"],answer:1},{question:"Quel événement militaire a marqué les environs de cette maison ?",options:["Le siège de Mons en 1691 par les troupes de Louis XIV","L'invasion des dragons dansants en 1764","La grande bataille des crêpes volantes de Messines"],answer:0},{question:"Quel élément architectural orne les allèges des fenêtres ?",options:["Des portraits de Saint Georges miniatures","Des motifs de beffroi et de licorne","Des losanges ou panneaux découpés"],answer:2}],Casemates:[{question:"Quelle était la fonction initiale prévue pour les casemates de Mons ?",options:["Héberger jusqu'à 2 000 soldats en cas de siège","Abriter les dragons chanteurs de la région","Stocker les archives du Doudou en version parchemin"],answer:0},{question:"Quel musée est installé dans les casemates numérotées 3, 4 et 5 ?",options:["Le musée des Gaufres Médiévales","Le Musée de la Route, avec engins de génie civil","Le Musée du Silence Acoustique"],answer:1},{question:"Quel événement festif se déroule chaque année devant les casemates ?",options:["La chasse au trésor du Singe du Grand'Garde","La Parade des Poneys Pyrotechniques","Les Feux de la Saint-Jean avec bûcher et cortège aux flambeaux"],answer:2}],"Bonne Maison de Bouzanton":[{question:"Quelle mission Louise de Bouzanton s'était-elle donnée en 1562 ?",options:["Créer un orphelinat pour enfants pauvres à Mons","Fonder une chorale de dragons sopranos","Ouvrir une fabrique de gaufres solidaires"],answer:0},{question:"À quoi est dédié le bâtiment aujourd'hui ?",options:["Un musée des bonnes actions montoises","Une maison de repos et de soins gérée par une intercommunale","Une école de théâtre médiéval itinérante"],answer:1},{question:"Quel élément architectural marque l'entrée de la Bonne Maison ?",options:["Une porte en chocolat géante","Une girouette en forme de Doudou","Un portail monumental avec un cartouche bordé de volutes"],answer:2}],"Chapelle du Beguinage":[{question:"Quel type de communauté occupait le béguinage de Cantimpret ?",options:["Des béguines, femmes pieuses vivant sans vœux monastiques","Des chevaliers végétariens","Des dragons lettrés en théologie"],answer:0},{question:"Quel style architectural caractérise la chapelle reconstruite entre 1549 et 1551 ?",options:["Le style rococo psychédélique montois","Le style gothique hennuyer avec pierre calcaire et fenêtres ogivales","Le style beffroi néo-spirituel"],answer:1},{question:"Quel est l'usage actuel de la chapelle restaurée en 2008 ?",options:["Une salle de karaoké médiéval","Une salle de réunion multifonctionnelle","Un musée du silence religieux"],answer:1}],"Tour du Val des Ecoliers":[{question:"Quel ordre religieux est à l'origine de l'abbaye du Val des Écoliers ?",options:["Les chanoines réguliers de saint Augustin","Les chevaliers de la gaufre sacrée","Les bénédictins du Beffroi"],answer:0},{question:"Quelle découverte majeure a été faite lors des fouilles archéologiques de 2021 ?",options:["Une réserve secrète de dragons en pierre","Un ancien manuscrit du Doudou","Environ 60 sépultures humaines datant des XIVe et XVe siècles"],answer:2},{question:"Quelle transformation a été apportée à la tour lors de sa restauration entre 2005 et 2009 ?",options:["Une peinture en camouflage médiéval","L'ajout d'une passerelle métallique pour accéder aux niveaux","Un toit-terrasse panoramique avec jacuzzi"],answer:1}],"Gare de Mons":[{question:"Quel célèbre architecte a conçu la gare de Mons actuellement en construction ?",options:["Santiago Calatrava","René Panis","Léon le Singe du Grand'Garde"],answer:0},{question:"Quel surnom a été donné à la gare en raison de sa forme initiale ?",options:["Le papillon de fer","Le dragon","Le beffroi sur rails"],answer:1},{question:"Quel service ferroviaire international dessert la gare de Mons ?",options:["Le Doudou Express","L'Orient-Express montois","Le Ouigo Train Classique reliant Paris à Bruxelles"],answer:2}],"Statue Saint Georges":[{question:"Quel artiste a réalisé la statue contemporaine de saint Georges inaugurée en 2024 à Mons ?",options:["Xavier Veilhan","Santiago Calatrava","Paul Heupgen"],answer:0},{question:"Quel était l'objectif artistique de Xavier Veilhan avec cette sculpture ?",options:["Créer une œuvre ultraréaliste avec effets sonores","Proposer une vision onirique, stylisée et inquiétante du mythe","Reproduire le dragon dans une posture de selfie"],answer:1},{question:"Quel débat cette œuvre a-t-elle suscité auprès des habitants ?",options:["La ressemblance supposée avec des figures populaires inattendues","La dangerosité potentielle du dragon en cas de pluie","Le manque de bouclier lumineux comme dans les jeux vidéo"],answer:0}],"Lucie et les Papillons":[{question:"Quel symbole représente la paire de ciseaux brisée dans les mains de Lucie ?",options:["La fragilité des sentiments et l'innocence de l'enfance","Une punition pour avoir découpé ses devoirs","La fin de la dictature des cheveux longs"],answer:0},{question:"Quelle est la particularité technique de la sculpture de David Mesguich ?",options:["Elle change de couleur selon la météo","Elle est composée de près de 2000 facettes en acier inoxydable","Elle chante des berceuses en patois montois la nuit"],answer:1},{question:"Dans quel projet s'inscrit cette œuvre monumentale ?",options:["Mons Sculpture Park","L'Art habite la Ville","Papillons & Fantaisies SA"],answer:1}],"Collégiale Sainte Waudru":[{question:"Pourquoi la tour de la collégiale Sainte-Waudru n'a-t-elle jamais été achevée ?",options:["Sa construction a été interrompue en 1691 à hauteur du toit","Les pierres ont été volées par les dragons du beffroi","Elle s'est effondrée trois fois avant d'être abandonnée"],answer:0},{question:"Quelle œuvre artistique majeure est liée à Jacques Du Brœucq dans la collégiale ?",options:["Les vitraux Renaissance de l'empereur Maximilien","Les statues en albâtre représentant les vertus","Les grandes orgues à vapeur de 1693"],answer:1},{question:"Quelle légende est liée au nom de la commune de Quaregnon ?",options:["Un cheval qui répondait 'Nonnn' à chaque question","Un souterrain secret entre sainte Waudru et saint Ghislain","Un moine qui y perdit sa cloche magique"],answer:2}],"Trésors de Sainte Waudru":[{question:"Quel objet personnel de sainte Waudru est conservé dans le Trésor ?",options:["Une bague et une agrafe du VIIe siècle","Son journal intime écrit sur parchemin","Un bonnet en soie brodé de licornes"],answer:0},{question:"Quel événement tragique a entraîné la dispersion d'une partie du Trésor en 1797 ?",options:["Un incendie provoqué par un vitrail trop lumineux","Une vente publique pendant l'occupation française","Un vol orchestré par des pèlerins trop zélés"],answer:1},{question:"Que célèbre-t-on chaque année à la collégiale le samedi de la Trinité ?",options:["Une bénédiction de chapeaux ronds","La descente des reliques de sainte Waudru","Une bataille d'encensoirs en souvenir d'un miracle"],answer:2}],"Le Car d Or":[{question:"À quel événement historique la tradition du Car d'Or remonte-t-elle ?",options:["Un mariage royal célébré sur la Grand-Place","Une procession contre la peste en 1349","La signature du traité de paix entre Mons et Binche"],answer:1},{question:"Quelle superstition entoure la montée du Car d'Or sur la rampe de la collégiale ?",options:["Si le char s'arrête, un malheur frappera la ville","Si un cheval trébuche, l'année sera pluvieuse","Si le Car d'Or glisse, la Ducasse est annulée"],answer:0},{question:"Qu'est-ce qu'un chronogramme sur le Car d'Or ?",options:["Une horloge en bois doré intégrée au char","Un texte latin dont certaines lettres forment une date","Une prédiction de l'année à venir en chiffres romains"],answer:1}],"Porte Rue Courte":[{question:"De quel ancien bâtiment provient la porte gothique de la rue Courte ?",options:["De l'ancien château de Charles Quint","De l'abbaye du Val des Écoliers","Du beffroi démoli au XVIe siècle"],answer:1},{question:"Quel style architectural caractérise cette porte gothique ?",options:["Le style gothique flamboyant avec arc en accolade, fleurons et crochets","Le style rococo avec angelots souriants","Le style art déco, tout en lignes géométriques"],answer:0},{question:"Dans quel type de bâtiment a été intégrée cette porte gothique ?",options:["Une maison de style tournaisien du XVIIIe siècle","Un ancien moulin à vent reconverti","Un théâtre municipal abandonné"],answer:0}],"Maison Espagnole":[{question:"Quel style architectural caractérise la Maison Espagnole de Mons ?",options:["L'architecture gothique des anciens Pays-Bas dite « scaldienne »","L'architecture mauresque typique du sud de l'Espagne","L'architecture moderniste belge du XIXe siècle"],answer:0},{question:"Quelle fonction occupe aujourd'hui la Maison Espagnole ?",options:["Un musée consacré aux traditions culinaires de Mons","La Maison des patrimoines UNESCO","Le siège administratif de la ville"],answer:1},{question:"Quel événement majeur a motivé la reconstruction de Mons, dont fait partie la Maison Espagnole ?",options:["L'arrivée de Napoléon à Mons","Le grand incendie de 1548","L'éruption du volcan de Spiennes"],answer:1}],"Chapelle Saint Calixte":[{question:"Pourquoi la chapelle Saint-Calixte a-t-elle été construite en 1051 ?",options:["Pour servir de cave à vins aux comtes de Hainaut","Pour abriter les reliques du pape martyr Calixte Ier","Pour accueillir les réunions secrètes du conseil municipal"],answer:1},{question:"Quel est l'élément architectural ajouté à la chapelle au XIVe siècle ?",options:["Une flèche baroque en cuivre","Une voûte gothique à croisées d'ogives nervurées","Un dôme néoclassique en verre"],answer:1},{question:"Quel musée est aujourd'hui installé dans la chapelle Saint-Calixte ?",options:["Le musée de l'Eau de Mons","Le musée des Costumes du Doudou","Le musée du Château Comtal"],answer:2}],"Ancien Château Comtal":[{question:"Qui est à l'origine de la transformation de la colline en forteresse comtale au XIe siècle ?",options:["Baudouin IV, dit le Bâtisseur","Charlemagne en personne","Louis XIV, amateur de collines"],answer:0},{question:"Quel vestige de l'ancien château comtal est encore visible aujourd'hui ?",options:["La salle du trône doré","La tour César","Le donjon flottant"],answer:1},{question:"Quelle structure actuelle occupe l'ancien emplacement du château ?",options:["Le centre commercial du Doudou","Un parc public offrant une vue sur la ville","Une base militaire souterraine top secrète"],answer:1}],"Tour César":[{question:"À quelle période la Tour César a-t-elle probablement été construite ?",options:["Sous le règne de Jean d'Avesnes au XIIIe siècle","Pendant la Révolution française, pour cacher des trésors","Au XIXe siècle comme tour d'observation météo"],answer:0},{question:"Quel élément de la Tour César est encore visible aujourd'hui ?",options:["Le balcon royal panoramique","La base de la tour intégrée au parc du Château","Le sommet doré accessible en ascenseur"],answer:1},{question:"Pourquoi la Tour César est-elle considérée comme importante ?",options:["Parce qu'elle héberge une colonie de papillons rares","Parce qu'elle est le seul vestige médiéval où on joue au Lumeçon en Lego","Parce qu'elle témoigne du rôle militaire du château comtal de Mons"],answer:2}],Beffroi:[{question:"Quelle est la particularité architecturale du Beffroi de Mons ?",options:["C'est le seul beffroi de style baroque en Belgique","Il possède une base carrée en verre","Il a été construit entièrement sans fondations"],answer:0},{question:"Quel rôle jouait traditionnellement le carillon du Beffroi ?",options:["Il servait de réveil pour les soldats de la ville","Il rythmait la vie montoise avec des airs traditionnels","Il marquait les horaires de fermeture des portes de la ville"],answer:1},{question:"Comment Victor Hugo a-t-il décrit le Beffroi de Mons ?",options:["Comme une énorme cafetière flanquée de quatre théières","Comme une épée plantée dans le ciel montois","Comme une tour semblable à une cheminée de locomotive"],answer:0}]};
+window.quizData = {
+  "Grand-place": [
+    {
+      "question": "Quel bâtiment gothique du XVe siècle domine la Grand-Place de Mons ?",
+      "options": [
+        "Le Beffroi baroque",
+        "L'Hôtel de Ville",
+        "La collégiale Sainte-Waudru"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quelle tradition annuelle se déroule sur la Grand-Place lors de la Ducasse ?",
+      "options": [
+        "Le combat de Saint Georges contre le Dragon, appelé Lumeçon",
+        "La procession du Car d'Or jusqu'à Casteau",
+        "Le lancer de la bannière depuis le beffroi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel élément a été inséré dans le pavage, à l'endroit même du combat du Lumeçon ?",
+      "options": [
+        "Un campanile Renaissance",
+        "Un anneau de pierre bleue de 12 mètres, gravé des noms des 19 communes",
+        "Une réplique du Car d'Or"
+      ],
+      "answer": 1
+    }
+  ],
+  "Fontaine du Rouge Puits": [
+    {
+      "question": "Pourquoi cette fontaine est-elle appelée le Rouge-Puits ?",
+      "options": [
+        "Parce qu'elle a été peinte entièrement en rouge pendant une période",
+        "Parce que l'eau y était teintée par le nettoyage des viandes",
+        "Parce qu'elle marquait l'entrée des pompiers"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qui en est l'architecte, prix de Rome d'architecture en 1828 ?",
+      "options": [
+        "Charles Sury",
+        "Albert J.B. Jamot",
+        "Emmanuel-Henri Fonson"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Que trouve-t-on au sommet de la colonne, sur l'entablement en escalier ?",
+      "options": [
+        "Un campanile",
+        "Quatre boules de pierre",
+        "Un vase de pierre"
+      ],
+      "answer": 2
+    }
+  ],
+  "Immeuble Blanc Lévrier": [
+    {
+      "question": "D'où vient le nom « Au Blanc Lévrier » ?",
+      "options": [
+        "D'un chenil établi au rez-de-chaussée",
+        "Des sculptures de deux lévriers et de l'inscription « AV BLAN LEVRIE »",
+        "D'un blason représentant un chien de chasse"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel souverain est évoqué par un blason sur la façade ?",
+      "options": [
+        "Charles Quint, avec l'aigle bicéphale et le collier de la Toison d'Or",
+        "Louis XIV",
+        "Napoléon Ier"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année cet hôtel particulier de style gothique civil a-t-il été érigé ?",
+      "options": [
+        "1458",
+        "1709",
+        "1530"
+      ],
+      "answer": 2
+    }
+  ],
+  "Immeuble Grand Place 31 34": [
+    {
+      "question": "Combien de maisons composent cet îlot homogène vers 1709 ?",
+      "options": [
+        "Trois maisons en pierre bleue",
+        "Quatre maisons en briques enduites et pierre bleue",
+        "Six maisons néoclassiques"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Combien de travées les façades développent-elles sur la Grand-Place ?",
+      "options": [
+        "Douze travées sur trois niveaux",
+        "Sept travées de type tournaisien",
+        "Quatre travées sur deux niveaux"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel élément rythme horizontalement ces façades ?",
+      "options": [
+        "Des colonnes toscanes",
+        "Des pignons à gradins",
+        "Des bandeaux continus joignant seuils et linteaux"
+      ],
+      "answer": 2
+    }
+  ],
+  "Office du Tourisme": [
+    {
+      "question": "De quel siècle date le bâtiment classique qui abrite l'Office du tourisme ?",
+      "options": [
+        "XVe siècle",
+        "XVIIIe siècle",
+        "XIXe siècle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quand le bâtiment a-t-il été entièrement rénové pour accueillir l'Office du tourisme ?",
+      "options": [
+        "Entre 2013 et 2014",
+        "En 1981",
+        "En 1948"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel aspect a été conservé lors de cette rénovation ?",
+      "options": [
+        "Le jubé échevinal",
+        "Les écuries d'origine",
+        "L'aspect historique de la façade"
+      ],
+      "answer": 2
+    }
+  ],
+  "Hotel de la Couronne": [
+    {
+      "question": "Quel architecte montois a conçu l'Hôtel de la Couronne entre 1766 et 1772 ?",
+      "options": [
+        "Mathieu de Layens",
+        "Emmanuel-Henri-Chrétien Fonson",
+        "Louis Ledoux"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel bâtiment plus ancien cet hôtel a-t-il remplacé ?",
+      "options": [
+        "La « Grise Ostriche », attestée dès 1550",
+        "L'hôtel du Conseil souverain du Hainaut",
+        "Le refuge de l'abbaye de Cambron"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quelle fonction l'édifice a-t-il surtout exercée jusqu'à la fin du XIXe siècle ?",
+      "options": [
+        "Palais de justice",
+        "Relais pour la diligence Paris-Bruxelles",
+        "Oratoire échevinal"
+      ],
+      "answer": 1
+    }
+  ],
+  "Chapelle Saint Georges": [
+    {
+      "question": "En quelle année cette chapelle Renaissance a-t-elle été construite ?",
+      "options": [
+        "1458",
+        "1601",
+        "1797"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "À qui était-elle destinée à l'origine ?",
+      "options": [
+        "Aux chanoinesses de Sainte-Waudru",
+        "Aux béguines de Cantimpret",
+        "Aux échevins, comme oratoire du magistrat"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Que permettait le jubé, démoli vers 1880 ?",
+      "options": [
+        "Aux membres du magistrat d'assister aux offices depuis le salon des États",
+        "De relier la chapelle au beffroi",
+        "D'exposer le trésor de Sainte-Waudru"
+      ],
+      "answer": 0
+    }
+  ],
+  "Immeuble Grand Place 28 30": [
+    {
+      "question": "De quel style et de quel siècle cet ensemble est-il représentatif ?",
+      "options": [
+        "Gothique brabançon du XVe siècle",
+        "Classique montois du XVIIIe siècle",
+        "Art nouveau du XXe siècle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "De combien de maisons en pierre bleue l'ensemble est-il composé ?",
+      "options": [
+        "Deux maisons",
+        "Quatre maisons",
+        "Trois maisons"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Quelle particularité distingue le numéro 29 ?",
+      "options": [
+        "Un balcon en ferronnerie et des balustres en pierre",
+        "Une toiture mansardée d'origine",
+        "Sept travées de type tournaisien"
+      ],
+      "answer": 0
+    }
+  ],
+  "Immeuble Grand Place 14": [
+    {
+      "question": "À quelle période cet immeuble d'angle de la rue du Miroir remonte-t-il ?",
+      "options": [
+        "Au dernier tiers du XVIIIe siècle",
+        "À 1530",
+        "Au XIVe siècle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Comment se présente la façade principale vers la Grand-Place ?",
+      "options": [
+        "Douze travées sur deux niveaux",
+        "Trois travées sur trois niveaux, en pierre bleue",
+        "Une façade baroque à colonnes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Que trouve-t-on généralement au rez-de-chaussée des immeubles de la Grand-Place ?",
+      "options": [
+        "Des oratoires",
+        "Des archives communales",
+        "Des commerces"
+      ],
+      "answer": 2
+    }
+  ],
+  "Theatre Royal": [
+    {
+      "question": "Quand le Théâtre Royal a-t-il été inauguré ?",
+      "options": [
+        "Le 18 octobre 1843",
+        "En 1661",
+        "En 1937"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel architecte montois en a dressé les plans ?",
+      "options": [
+        "Vincent Anthony",
+        "Charles Sury",
+        "Paul Saintenoy"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel événement a partiellement ravagé le bâtiment en 1869 ?",
+      "options": [
+        "Un bombardement",
+        "Un siège",
+        "Un incendie"
+      ],
+      "answer": 2
+    }
+  ],
+  "Singe du Grand Garde": [
+    {
+      "question": "Où le Singe du Grand'Garde est-il fixé ?",
+      "options": [
+        "Au pied de l'escalier de l'Hôtel de Ville",
+        "À la façade de l'Hôtel de Ville",
+        "Sur la fontaine du Ropieur"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel geste les visiteurs font-ils pour se porter chance ?",
+      "options": [
+        "Ils caressent son crâne poli",
+        "Ils lui déposent une pièce dans la main",
+        "Ils tournent trois fois autour de la statue"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Comment le singe est-il représenté ?",
+      "options": [
+        "Debout, brandissant un écu",
+        "Accroupi, se grattant la joue de la main gauche",
+        "Ailé, comme un dragon"
+      ],
+      "answer": 1
+    }
+  ],
+  "Statue du Dragon": [
+    {
+      "question": "Qui a sculpté les bronzes de Saint Georges et du dragon près de l'entrée de l'Hôtel de Ville ?",
+      "options": [
+        "Léon Gobert",
+        "Xavier Veilhan",
+        "Gérard Garouste"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "En quelle année ces sculptures ont-elles été inaugurées ?",
+      "options": [
+        "1937",
+        "2006",
+        "2024"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quelle tradition montoise ces œuvres contemporaines rappellent-elles ?",
+      "options": [
+        "Le combat de Saint Georges contre le dragon, célébré à la Ducasse",
+        "La fondation du Mundaneum",
+        "La construction du beffroi baroque"
+      ],
+      "answer": 0
+    }
+  ],
+  "Hotel de Ville": [
+    {
+      "question": "En quelle année la construction de l'Hôtel de Ville a-t-elle commencé ?",
+      "options": [
+        "1458",
+        "1661",
+        "1843"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel architecte, aussi connu pour l'Hôtel de Ville de Louvain, en a dirigé l'édification ?",
+      "options": [
+        "Louis Ledoux",
+        "Mathieu de Layens",
+        "Jean-Baptiste Huriau"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quelle cloche, datant de 1390, est abritée dans le campanile Renaissance ?",
+      "options": [
+        "El Grosse Cloche du Catiau",
+        "La Bancloque",
+        "Zandrine"
+      ],
+      "answer": 1
+    }
+  ],
+  "Ropieur": [
+    {
+      "question": "Qui a sculpté la fontaine du Ropieur, inaugurée le 26 septembre 1937 ?",
+      "options": [
+        "Gérard Garouste",
+        "Léon Gobert",
+        "David Mesguich"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qui a proposé cette fontaine dès 1931, alors directeur de l'Académie des Beaux-Arts de Mons ?",
+      "options": [
+        "Paul Heupgen",
+        "Marcel Gillis",
+        "Paul Otlet"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Comment Heupgen définit-il le Ropieur, au-delà de l'apparence du gamin ?",
+      "options": [
+        "Un saint guerrier",
+        "Un symbole militaire",
+        "Intelligent, espiègle mais bon"
+      ],
+      "answer": 2
+    }
+  ],
+  "Gillis": [
+    {
+      "question": "Quelles étaient les activités de Marcel Gillis (1897-1972) ?",
+      "options": [
+        "Uniquement architecte militaire",
+        "Peintre, dessinateur, restaurateur, caricaturiste, poète et chanteur populaire",
+        "Uniquement conservateur d'archives"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "De quel musée fut-il conservateur de 1928 à 1965 ?",
+      "options": [
+        "Le Mundaneum",
+        "Le Musée du Doudou",
+        "Le Musée des Beaux-Arts de Mons"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "À quel courant son travail figuratif se rattache-t-il ?",
+      "options": [
+        "Le réalisme wallon, proche du cercle Nervia",
+        "L'Art nouveau bruxellois",
+        "Le baroque hennuyer"
+      ],
+      "answer": 0
+    }
+  ],
+  "Mayeur": [
+    {
+      "question": "Où se trouve le Jardin du Mayeur ?",
+      "options": [
+        "Devant la gare Calatrava",
+        "Derrière l'Hôtel de Ville",
+        "Dans le parc du Waux-Hall"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quand ce jardin a-t-il été aménagé ?",
+      "options": [
+        "Entre 1930 et 1936",
+        "En 1458",
+        "Entre 1862 et 1864"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quelle sculpture de 1937 y découvre-t-on notamment ?",
+      "options": [
+        "Le Singe du Grand'Garde",
+        "La statue de Xavier Veilhan",
+        "Le Ropieur, de Léon Gobert"
+      ],
+      "answer": 2
+    }
+  ],
+  "Musee du Doudou": [
+    {
+      "question": "Que célèbre principalement le Musée du Doudou ?",
+      "options": [
+        "La Ducasse de Mons, patrimoine immatériel de l'UNESCO depuis 2005",
+        "L'histoire des comtes de Hainaut",
+        "Les collections d'art contemporain du BAM"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quel bâtiment historique le musée est-il installé ?",
+      "options": [
+        "L'ancien couvent des Filles de Notre-Dame",
+        "L'ancien Mont-de-Piété, dans le Jardin du Mayeur",
+        "La caserne Guillaume"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel combat légendaire y est notamment expliqué ?",
+      "options": [
+        "La bataille de Jemappes",
+        "Le siège de 1691",
+        "Le Lumeçon, combat de Saint Georges et du Dragon"
+      ],
+      "answer": 2
+    }
+  ],
+  "Conservatoire Royal": [
+    {
+      "question": "Dans quel ancien ensemble le Conservatoire est-il installé depuis 1873 ?",
+      "options": [
+        "Le couvent des Filles de Notre-Dame, rue de Nimy",
+        "La caserne Major Sabbe",
+        "L'hôtel de Bavière"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quand le Conservatoire a-t-il été fondé par la Société des concerts et redoutes ?",
+      "options": [
+        "1450",
+        "1820",
+        "1937"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "À quelle école supérieure des arts est-il aujourd'hui intégré ?",
+      "options": [
+        "L'ESAPV uniquement",
+        "L'Académie royale de Bruxelles",
+        "ARTS²"
+      ],
+      "answer": 2
+    }
+  ],
+  "Eglise Sainte Elisabeth": [
+    {
+      "question": "À quelle sainte la chapelle d'origine, fondée grâce à Isabeau d'Antoing, était-elle dédiée ?",
+      "options": [
+        "Sainte Waudru",
+        "Élisabeth de Hongrie",
+        "Notre-Dame de Messines"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quand l'église gothique a-t-elle été consacrée ?",
+      "options": [
+        "Le 16 octobre 1588",
+        "En 1345",
+        "Le 25 mars 1714"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel architecte montois a dirigé la restauration après l'incendie de 1714 ?",
+      "options": [
+        "Vincent Anthony",
+        "Nicolas de Brissy",
+        "Claude-Joseph de Bettignies"
+      ],
+      "answer": 2
+    }
+  ],
+  "Palais de Justice": [
+    {
+      "question": "Qui a construit le Palais de Justice de Mons entre 1844 et 1848 ?",
+      "options": [
+        "Jean-Baptiste Huriau",
+        "Charles-Damas Vincent",
+        "Joseph Hubert"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "De quel style la façade en pierre de Soignies relève-t-elle ?",
+      "options": [
+        "Gothique brabançon",
+        "Néoclassique",
+        "Baroque"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quelle juridiction d'appel y siège depuis 1975 ?",
+      "options": [
+        "La Cour de cassation",
+        "Le Conseil d'État",
+        "La Cour d'appel de Mons"
+      ],
+      "answer": 2
+    }
+  ],
+  "Maison Losseau": [
+    {
+      "question": "Quel avocat et mécène montois a transformé cette demeure à partir de 1899 ?",
+      "options": [
+        "Henri La Fontaine",
+        "Léon Losseau",
+        "Paul Heupgen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel architecte belge de l'Art nouveau a d'abord dirigé les travaux ?",
+      "options": [
+        "Paul Saintenoy",
+        "Charles Sury",
+        "Rémi de Puydt"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quelle modernité la maison a-t-elle connue la première à Mons ?",
+      "options": [
+        "Le téléphone public",
+        "L'électricité et le chauffage central au charbon",
+        "L'ascenseur hydraulique"
+      ],
+      "answer": 1
+    }
+  ],
+  "Maison Rue de Nimy 53": [
+    {
+      "question": "De quel style architectural cette maison classée relève-t-elle ?",
+      "options": [
+        "Art nouveau",
+        "Gothique scaldien",
+        "Tournaisien"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Quelle institution y a aujourd'hui son siège ?",
+      "options": [
+        "L'IDEA, agence de développement territorial du Cœur du Hainaut",
+        "Les Archives de l'État",
+        "Le Mundaneum"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Depuis quand l'édifice est-il classé monument ?",
+      "options": [
+        "1952",
+        "Le 30 mai 1989",
+        "2006"
+      ],
+      "answer": 1
+    }
+  ],
+  "Mundaneum": [
+    {
+      "question": "Qui a fondé le Mundaneum à la fin du XIXe siècle ?",
+      "options": [
+        "Paul Otlet et Henri La Fontaine",
+        "Léon Losseau et Paul Saintenoy",
+        "Marcel Gillis et le cercle Nervia"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pourquoi le surnomme-t-on parfois le « Google de papier » ?",
+      "options": [
+        "Parce qu'il n'utilise que des fiches jaunes",
+        "Parce qu'il visait à rassembler et classer l'ensemble des connaissances humaines",
+        "Parce qu'il a inventé Internet"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quelle récompense Henri La Fontaine a-t-il reçue en 1913 ?",
+      "options": [
+        "Le prix Nobel de littérature",
+        "Le prix Europa Nostra",
+        "Le prix Nobel de la Paix"
+      ],
+      "answer": 2
+    }
+  ],
+  "Place du Parc": [
+    {
+      "question": "Sous quel nom cette place était-elle anciennement connue ?",
+      "options": [
+        "Place Saint-Jean",
+        "Marché de Coppenage",
+        "Place des Congrès"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quelle forme particulière lui donne une singularité urbaine ?",
+      "options": [
+        "Un cercle parfait",
+        "Un losange",
+        "Un triangle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quels éléments ont été détruits lors de la Première Guerre mondiale ?",
+      "options": [
+        "Le beffroi et la Bancloque",
+        "L'Université de Mons",
+        "Un kiosque à musique et une statue de Roland de Lassus"
+      ],
+      "answer": 2
+    }
+  ],
+  "Chapelle des Visitandines": [
+    {
+      "question": "Qui a initié l'installation des Visitandines à Mons en 1650 ?",
+      "options": [
+        "La comtesse Bucquoy, épouse du grand bailli du Hainaut",
+        "Marguerite de Constantinople",
+        "Louise de Bouzanton"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel architecte montois a érigé la chapelle baroque en 1717 ?",
+      "options": [
+        "Nicolas de Brissy",
+        "Claude-Joseph de Bettignies",
+        "Albert Jamot"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quelle institution a occupé les lieux de 1872 à 2006 ?",
+      "options": [
+        "L'Office du tourisme",
+        "Le Conservatoire royal",
+        "Les Archives de l'État"
+      ],
+      "answer": 2
+    }
+  ],
+  "Ancienne Caserne de Gendarmerie": [
+    {
+      "question": "En quelle année cette caserne de la rue du Rossignol a-t-elle été construite ?",
+      "options": [
+        "1824",
+        "1870",
+        "1933"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel architecte provincial en a dressé les plans ?",
+      "options": [
+        "Charles-Damas Vincent",
+        "Charles Sury",
+        "Jules Hubert"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "De quel style la façade en briques rouges et pierres blanches relève-t-elle ?",
+      "options": [
+        "Néoclassique militaire",
+        "Gothique hennuyer",
+        "Néo-Renaissance flamande"
+      ],
+      "answer": 2
+    }
+  ],
+  "Prison de Mons": [
+    {
+      "question": "Quel modèle architectural, en étoile, la prison construite entre 1863 et 1867 adopte-t-elle ?",
+      "options": [
+        "Le modèle « Ducpétiaux »",
+        "Le plan basilical",
+        "Le plan en U des couvents"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel poète français y fut incarcéré de 1873 à 1875 ?",
+      "options": [
+        "Arthur Rimbaud",
+        "Paul Verlaine",
+        "Victor Hugo"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pourquoi Verlaine y a-t-il été emprisonné ?",
+      "options": [
+        "Pour désertion",
+        "Pour dettes de jeu",
+        "Pour avoir tiré sur Arthur Rimbaud"
+      ],
+      "answer": 2
+    }
+  ],
+  "Tour Valenciennoise": [
+    {
+      "question": "Quand cette tour des seconds remparts a-t-elle été érigée ?",
+      "options": [
+        "Entre 1358 et 1359",
+        "Entre 1661 et 1672",
+        "En 1825"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quelle est approximativement son diamètre, avec des murs pouvant atteindre 4 mètres d'épaisseur ?",
+      "options": [
+        "12 mètres",
+        "87 mètres",
+        "23 mètres"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pourquoi est-elle particulièrement précieuse aujourd'hui ?",
+      "options": [
+        "C'est la seule survivante de l'enceinte médiévale après la démolition des remparts en 1818",
+        "Elle abrite le carillon de 49 cloches",
+        "Elle est le plus ancien édifice religieux de Mons"
+      ],
+      "answer": 0
+    }
+  ],
+  "Pavillons Caserne Cavalerie": [
+    {
+      "question": "Sous quel nom cette caserne construite entre 1838 et 1841 était-elle connue ?",
+      "options": [
+        "Caserne Guillaume",
+        "Caserne Léopold",
+        "Caserne Major Sabbe"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Combien d'hommes et de chevaux pouvait-elle héberger ?",
+      "options": [
+        "Jusqu'à 1 000 hommes et 600 chevaux",
+        "Jusqu'à 2 000 soldats uniquement",
+        "600 hommes et 1 000 chevaux"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel régiment s'y installa notamment à partir de 1889 ?",
+      "options": [
+        "Le 11e d'Artillerie seulement",
+        "Les chasseurs à pied de 1824",
+        "Le 2e Régiment de Chasseurs à cheval"
+      ],
+      "answer": 2
+    }
+  ],
+  "Tank Sherman": [
+    {
+      "question": "Quel char commémoratif se trouve devant le Mons Memorial Museum ?",
+      "options": [
+        "Un Tigre allemand",
+        "Le M4A1 Sherman « In the Mood »",
+        "Un char léger Renault"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel événement son installation d'août 2019 commémore-t-elle ?",
+      "options": [
+        "Le 75e anniversaire de la libération de Mons en septembre 1944",
+        "La bataille de Waterloo",
+        "L'armistice de 1918"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qui commandait le Sherman original « In the Mood » ?",
+      "options": [
+        "Le général Patton",
+        "Le sergent-chef Lafayette G. Pool",
+        "Un officier belge de 1940"
+      ],
+      "answer": 1
+    }
+  ],
+  "Machine a Eau": [
+    {
+      "question": "Pourquoi Mons a-t-elle décidé de créer une usine hydraulique au XIXe siècle ?",
+      "options": [
+        "Pour alimenter les fontaines de la Grand-Place uniquement",
+        "Pour faire tourner un carillon",
+        "Pour fournir de l'eau potable après les épidémies de choléra"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Quels ingénieur et architecte ont conçu la Machine à Eau (1869-1871) ?",
+      "options": [
+        "Jules Drion et Joseph Hubert",
+        "Louis Fuchs et Jules Hubert",
+        "Van De Polder et Charles Sury"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "D'où l'eau était-elle pompée grâce à la force de la Trouille ?",
+      "options": [
+        "Des puits du Marché aux Herbes",
+        "Des sources de Spiennes",
+        "Du canal Nimy-Blaton"
+      ],
+      "answer": 1
+    }
+  ],
+  "Parc du Waux Hall": [
+    {
+      "question": "Qui a aménagé ce parc de 5 hectares entre 1862 et 1864 ?",
+      "options": [
+        "Joseph Hubert",
+        "Louis Fuchs",
+        "Rémi de Puydt"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quand la Ville de Mons en a-t-elle fait l'acquisition pour en faire un espace public ?",
+      "options": [
+        "En 1892",
+        "En 1821",
+        "En 1936"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel bâtiment se dresse au centre du parc ?",
+      "options": [
+        "Un beffroi baroque",
+        "L'ancien Mont-de-Piété",
+        "Un pavillon de style éclectique conçu par Jules Hubert"
+      ],
+      "answer": 2
+    }
+  ],
+  "Eglise Saint Nicolas": [
+    {
+      "question": "Quand la paroisse Saint-Nicolas, première hors les murs, a-t-elle été érigée ?",
+      "options": [
+        "En 1224",
+        "En 1664",
+        "En 1588"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel incendie a détruit l'église gothique, ne laissant que la tour-clocher ?",
+      "options": [
+        "Celui de 1714 à Sainte-Élisabeth",
+        "Celui de 1664",
+        "Celui de 1548"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel architecte a dirigé la reconstruction baroque entre 1664 et 1702 ?",
+      "options": [
+        "Mathieu de Layens",
+        "Claude-Joseph de Bettignies",
+        "Vincent Anthony"
+      ],
+      "answer": 2
+    }
+  ],
+  "Chapelle du Belian": [
+    {
+      "question": "Quel architecte a construit cette chapelle en 1775 ?",
+      "options": [
+        "Emmanuel-Henri Fonson",
+        "Nicolas de Brissy",
+        "Ouvertus"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "À quelle communauté servait-elle de refuge urbain ?",
+      "options": [
+        "Aux Sœurs Noires",
+        "Aux chanoinesses de l'abbaye de Bélian, à Mesvin",
+        "Aux Visitandines"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quelle institution l'utilise aujourd'hui pour des expositions ?",
+      "options": [
+        "Le BAM",
+        "Les Archives de l'État",
+        "L'Université de Mons"
+      ],
+      "answer": 2
+    }
+  ],
+  "Marche aux Herbes": [
+    {
+      "question": "Comment appelle-t-on souvent la place du Marché aux Herbes ?",
+      "options": [
+        "Le Petit Marché",
+        "Le Grand-Marché",
+        "La Place Saint-Jean"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quand un marché alimentaire distinct du Grand-Marché a-t-il été créé ?",
+      "options": [
+        "En 1833",
+        "En 1409",
+        "En 1955"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quelle fontaine s'y trouvait jusqu'en 1955 avant d'être déplacée ?",
+      "options": [
+        "La Fontaine-Pilori",
+        "Le Ropieur",
+        "La Fontaine du Rouge-Puits"
+      ],
+      "answer": 2
+    }
+  ],
+  "Maison Rue de la Couronne 20 22": [
+    {
+      "question": "De quel siècle cette maison classée témoigne-t-elle ?",
+      "options": [
+        "Du XVIIIe siècle",
+        "Du XVIe siècle",
+        "Du XIXe siècle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Combien de travées et de niveaux sa façade présente-t-elle ?",
+      "options": [
+        "Trois travées sur deux niveaux",
+        "Quatre travées sur trois niveaux",
+        "Sept travées tournaisiennes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Que relie historiquement la rue de la Couronne ?",
+      "options": [
+        "La gare au Waux-Hall",
+        "Le beffroi à la Trouille",
+        "La Grand-Place à la rue de Nimy"
+      ],
+      "answer": 2
+    }
+  ],
+  "Couvent des Soeurs Noires": [
+    {
+      "question": "Pourquoi ces religieuses sont-elles appelées Sœurs Noires ?",
+      "options": [
+        "Elles portaient un scapulaire noir",
+        "Leur couvent était construit en pierre bleue",
+        "Elles desservaient uniquement les funérailles"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année s'établissent-elles en bordure de ville après avoir quitté le béguinage ?",
+      "options": [
+        "1248",
+        "1485",
+        "1498"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Quelle œuvre caritative ont-elles notamment exercée ?",
+      "options": [
+        "L'enseignement militaire",
+        "Les soins aux malades, y compris lors des épidémies de peste",
+        "La gestion du Mundaneum"
+      ],
+      "answer": 1
+    }
+  ],
+  "Carre des Arts": [
+    {
+      "question": "Quelle était la fonction d'origine de l'édifice, construit entre 1824 et 1827 ?",
+      "options": [
+        "Une caserne pour chasseurs à pied, dite caserne Guillaume",
+        "Un conservatoire de musique",
+        "Un palais de justice"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel architecte en a conçu l'architecture néoclassique militaire ?",
+      "options": [
+        "Charles Sury",
+        "Rémi de Puydt",
+        "Jean-Baptiste Huriau"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quelle école supérieure des arts y est installée depuis 1993 ?",
+      "options": [
+        "Le Conservatoire royal uniquement",
+        "L'Académie de Tournai",
+        "L'ESAPV, aujourd'hui intégrée à ARTS²"
+      ],
+      "answer": 2
+    }
+  ],
+  "Anciens Abattoirs": [
+    {
+      "question": "Quel architecte a construit le complexe entre 1854 et 1855 ?",
+      "options": [
+        "Charles Sury",
+        "Louis Fuchs",
+        "Joseph Hubert"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quand les abattoirs ont-ils définitivement fermé ?",
+      "options": [
+        "En 1948",
+        "Le 1er janvier 1984",
+        "En 2006"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quelle vocation le site classé a-t-il depuis son ouverture au public en 2006 ?",
+      "options": [
+        "Un commissariat",
+        "Un marché aux herbes",
+        "Un centre culturel dédié à l'art contemporain"
+      ],
+      "answer": 2
+    }
+  ],
+  "Eglise Notre Dame de Messines": [
+    {
+      "question": "Sous quel nom l'église était-elle connue à l'origine ?",
+      "options": [
+        "Saint-Nicolas en Bertaimont",
+        "Sainte-Élisabeth",
+        "Saint-Germain"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel événement du début du XVIIe siècle a transformé le lieu en pèlerinage ?",
+      "options": [
+        "La construction du beffroi",
+        "La découverte d'un tableau de la Vierge Marie dans le cimetière",
+        "L'arrivée des Récollets seulement"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Où se trouve l'église actuelle ?",
+      "options": [
+        "Place du Parc",
+        "Rue de Nimy",
+        "Rue de Bertaimont"
+      ],
+      "answer": 2
+    }
+  ],
+  "Maison Rue de Bertaimont 17": [
+    {
+      "question": "Depuis quand cette maison est-elle classée au patrimoine wallon ?",
+      "options": [
+        "Le 12 août 1988",
+        "Le 10 novembre 1955",
+        "En 1709"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "De quel siècle son architecture montoise en pierre bleue est-elle caractéristique ?",
+      "options": [
+        "XVe siècle",
+        "XVIIIe siècle",
+        "XXe siècle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quel quartier, connu pour sa ducasse aux géants depuis 1620, se trouve-t-elle ?",
+      "options": [
+        "Havré",
+        "Nimy",
+        "Messines"
+      ],
+      "answer": 2
+    }
+  ],
+  "Maison Rue de Bertaimont 33": [
+    {
+      "question": "Combien de niveaux et de travées cette maison du XVIIIe siècle compte-t-elle ?",
+      "options": [
+        "Trois niveaux et trois travées",
+        "Quatre travées sur deux niveaux",
+        "Douze travées"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quelle particularité présente la travée de droite ?",
+      "options": [
+        "Elle est aveugle",
+        "Elle est légèrement en retrait, plus large, avec porte et baie à balcon",
+        "Elle porte un campanile"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel siège historique le quartier a-t-il notamment connu ?",
+      "options": [
+        "Le siège de 1815",
+        "Le siège hollandais de 1830",
+        "Le siège de Mons en 1691"
+      ],
+      "answer": 2
+    }
+  ],
+  "Casemates": [
+    {
+      "question": "Sous quel régime les Casemates ont-elles été construites entre 1817 et 1822 ?",
+      "options": [
+        "Le Royaume des Pays-Bas",
+        "L'Empire français",
+        "L'État belge indépendant"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Combien de voûtes monumentales composent l'ensemble ?",
+      "options": [
+        "Sept",
+        "Quarante-neuf",
+        "Douze"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "À quelle fin étaient-elles prévues, sans jamais servir ainsi ?",
+      "options": [
+        "Héberger jusqu'à 2 000 soldats en cas de siège",
+        "Servir d'abattoir",
+        "Accueillir le Mundaneum"
+      ],
+      "answer": 0
+    }
+  ],
+  "Bonne Maison de Bouzanton": [
+    {
+      "question": "Qui a fondé cet orphelinat en 1562 dans l'hôtel de Bavière ?",
+      "options": [
+        "Anne de Crécy",
+        "Louise de Bouzanton",
+        "Isabeau d'Antoing"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "À qui l'établissement était-il destiné ?",
+      "options": [
+        "Aux enfants pauvres de Mons",
+        "Aux chanoinesses de Sainte-Waudru",
+        "Aux soldats blessés"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quelle nièce a poursuivi l'œuvre en fondant une aile pour les garçons en 1662 ?",
+      "options": [
+        "Marguerite de Constantinople",
+        "Jeanne de Chantal",
+        "Anne de Crécy"
+      ],
+      "answer": 2
+    }
+  ],
+  "Chapelle du Beguinage": [
+    {
+      "question": "Qui a fondé cette chapelle en 1248 ?",
+      "options": [
+        "Marguerite de Constantinople",
+        "Sainte Waudru",
+        "François de Sales"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "De quel béguinage faisait-elle partie, sur la rive gauche de la Trouille ?",
+      "options": [
+        "Le béguinage de Nimy",
+        "Le béguinage de Cantimpret",
+        "Le couvent des Sœurs Noires"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quel style fut-elle reconstruite entre 1549 et 1551 ?",
+      "options": [
+        "Baroque",
+        "Néoclassique",
+        "Gothique hennuyer"
+      ],
+      "answer": 2
+    }
+  ],
+  "Tour du Val des Ecoliers": [
+    {
+      "question": "Quand cette tour de l'église abbatiale a-t-elle été érigée ?",
+      "options": [
+        "Entre 1739 et 1743",
+        "En 1252",
+        "En 1892"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel architecte en est l'auteur ?",
+      "options": [
+        "Vincent Anthony",
+        "Nicolas de Brissy",
+        "Louis Ledoux"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Que reste-t-il de l'abbaye fondée en 1252, supprimée en 1796 ?",
+      "options": [
+        "Toute l'église abbatiale",
+        "Le cloître complet",
+        "Cette tour, dernier vestige après les démolitions de 1876"
+      ],
+      "answer": 2
+    }
+  ],
+  "Gare de Mons": [
+    {
+      "question": "Qui a conçu la gare-passerelle actuelle ?",
+      "options": [
+        "Santiago Calatrava",
+        "René Panis",
+        "Joseph Hubert"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année la première gare de Mons a-t-elle été mise en service ?",
+      "options": [
+        "1874",
+        "1841",
+        "1952"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel architecte avait conçu la gare moderne inaugurée en 1952, démolie en 2013 ?",
+      "options": [
+        "Santiago Calatrava",
+        "Charles Sury",
+        "René Panis"
+      ],
+      "answer": 2
+    }
+  ],
+  "Statue Saint Georges": [
+    {
+      "question": "Quel artiste français a réalisé cette statue en bronze inaugurée en 2024 ?",
+      "options": [
+        "Gérard Garouste",
+        "Xavier Veilhan",
+        "David Mesguich"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Où se trouve-t-elle ?",
+      "options": [
+        "Place des Congrès, derrière la gare Calatrava",
+        "Au pied de l'Hôtel de Ville",
+        "Dans le Jardin du Mayeur"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quel projet d'art public s'inscrit-elle ?",
+      "options": [
+        "Mons 2015 uniquement",
+        "Europa Nostra",
+        "« L'Art habite la Ville »"
+      ],
+      "answer": 2
+    }
+  ],
+  "Lucie et les Papillons": [
+    {
+      "question": "Qui a créé cette sculpture monumentale installée en 2019 ?",
+      "options": [
+        "David Mesguich",
+        "Xavier Veilhan",
+        "Léon Gobert"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Que symbolisent notamment les papillons et les ciseaux brisés ?",
+      "options": [
+        "La victoire militaire",
+        "L'amour naissant et la fragilité des sentiments",
+        "Le commerce montois"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quelle est approximativement la hauteur de l'œuvre, en acier inoxydable ?",
+      "options": [
+        "3 mètres",
+        "87 mètres",
+        "Plus de 7 mètres"
+      ],
+      "answer": 2
+    }
+  ],
+  "Collegiale Sainte Waudru": [
+    {
+      "question": "De quel style cette collégiale, commencée en 1450, relève-t-elle ?",
+      "options": [
+        "Gothique brabançon",
+        "Baroque",
+        "Roman rhénan"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quelle longueur atteint l'édifice ?",
+      "options": [
+        "87 mètres",
+        "32 mètres",
+        "115 mètres"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pourquoi la tour prévue de 190 mètres est-elle restée inachevée ?",
+      "options": [
+        "Elle fut interrompue en 1691, à hauteur du toit",
+        "Un incendie l'a détruite en 1664",
+        "L'UNESCO l'a interdite"
+      ],
+      "answer": 0
+    }
+  ],
+  "Tresors de Sainte Waudru": [
+    {
+      "question": "Quel objet personnel de sainte Waudru, daté du VIIe siècle, y est notamment conservé ?",
+      "options": [
+        "La Bancloque",
+        "Une bague et l'agrafe dite « Benoîte Affique »",
+        "Le collier de la Toison d'Or"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Que recouvrent aussi les linceuls présentés dans le Trésor ?",
+      "options": [
+        "Les plans du beffroi",
+        "Les archives du Mundaneum",
+        "Les ossements de la sainte, fondatrice de la ville"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Quel événement de 1793 a entraîné des pertes pour le Trésor ?",
+      "options": [
+        "La première occupation française",
+        "Un incendie de la collégiale",
+        "Le siège de 1691"
+      ],
+      "answer": 0
+    }
+  ],
+  "Le Car d Or": [
+    {
+      "question": "À quelle fête, inscrite à l'UNESCO en 2005, le Car d'Or est-il central ?",
+      "options": [
+        "La ducasse de Messines",
+        "La Ducasse de Mons, ou Doudou",
+        "La kermesse de Havré"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quelle épidémie de 1349 est à l'origine de la procession des reliques de sainte Waudru ?",
+      "options": [
+        "Le choléra",
+        "La grippe espagnole",
+        "La peste"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quel style le char actuel, réalisé entre 1779 et 1782, a-t-il été conçu ?",
+      "options": [
+        "Louis XVI",
+        "Gothique flamboyant",
+        "Art nouveau"
+      ],
+      "answer": 0
+    }
+  ],
+  "Porte Rue Courte": [
+    {
+      "question": "D'où provient cette porte gothique réemployée au n° 2 ?",
+      "options": [
+        "De l'Hôtel de Ville",
+        "De l'ancienne abbaye du Val des Écoliers",
+        "De la collégiale Saint-Germain"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "De quel siècle date-t-elle, avant son intégration à une maison tournaisienne du XVIIIe ?",
+      "options": [
+        "XIe siècle",
+        "XIXe siècle",
+        "XVIe siècle"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Quel ornement typique du gothique flamboyant orne son linteau ?",
+      "options": [
+        "Un arc en accolade agrémenté de fleurons et de crochets",
+        "Un fronton triangulaire",
+        "Un œil-de-bœuf"
+      ],
+      "answer": 0
+    }
+  ],
+  "Maison Espagnole": [
+    {
+      "question": "Après quel incendie de 1548 cette maison de la rue des Clercs a-t-elle été reconstruite ?",
+      "options": [
+        "L'incendie de Sainte-Élisabeth en 1714",
+        "Le grand incendie de Mons",
+        "L'incendie du Théâtre Royal en 1869"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Comment appelle-t-on souvent cette architecture gothique des anciens Pays-Bas ?",
+      "options": [
+        "Architecture scaldienne",
+        "Gothique brabançon uniquement",
+        "Style Louis XV"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel élément de toiture la distingue notamment ?",
+      "options": [
+        "Un dôme baroque",
+        "Une toiture mansardée d'ardoise",
+        "Des pignons à gradins, ou pas de moineau"
+      ],
+      "answer": 2
+    }
+  ],
+  "Chapelle Saint Calixte": [
+    {
+      "question": "Qui a fait édifier cette chapelle en 1051 pour les reliques du pape Calixte Ier ?",
+      "options": [
+        "Baudouin IV",
+        "La comtesse Richilde",
+        "Jean d'Avesnes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pourquoi est-elle particulièrement importante dans le patrimoine montois ?",
+      "options": [
+        "C'est le plus ancien édifice religieux conservé de la ville",
+        "Elle abrite le carillon",
+        "Elle est le seul beffroi baroque de Belgique"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "De quelle pierre l'édifice, lié au château comtal, est-il construit ?",
+      "options": [
+        "Pierre de Soignies uniquement",
+        "Marbre de Carrare",
+        "Grès de Bray"
+      ],
+      "answer": 2
+    }
+  ],
+  "Ancien Chateau Comtal": [
+    {
+      "question": "Quel comte, dit le Bâtisseur, fit ériger une forteresse sur cette colline au XIe siècle ?",
+      "options": [
+        "Jean d'Avesnes",
+        "Baudouin IV",
+        "Charles Quint"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quels vestiges du château sont encore visibles ?",
+      "options": [
+        "L'enceinte castrale, la tour César et la chapelle Saint-Calixte",
+        "Le palais entier des comtes",
+        "Un donjon de 87 mètres"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Que servait le château pour le comté de Hainaut ?",
+      "options": [
+        "Uniquement un marché",
+        "Une gare d'eau",
+        "Résidence des comtes et centre administratif"
+      ],
+      "answer": 2
+    }
+  ],
+  "Tour Cesar": [
+    {
+      "question": "De quel ensemble médiéval la Tour César est-elle l'un des rares vestiges ?",
+      "options": [
+        "Des Casemates hollandaises",
+        "De l'ancien château comtal de Mons",
+        "De la caserne Léopold"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "À quelle période a-t-elle probablement été érigée ?",
+      "options": [
+        "Au XIIIe ou XIVe siècle, sous Jean d'Avesnes",
+        "En 1661",
+        "En 1841"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Que voit-on encore aujourd'hui dans le parc du Château ?",
+      "options": [
+        "La tour complète jusqu'au beffroi",
+        "Un campanile Renaissance",
+        "La base de la tour, intégrée au parc aménagé au XIXe siècle"
+      ],
+      "answer": 2
+    }
+  ],
+  "Beffroi": [
+    {
+      "question": "Pourquoi le beffroi de Mons est-il unique en Belgique ?",
+      "options": [
+        "C'est le seul beffroi de style baroque du pays",
+        "C'est le plus ancien édifice religieux",
+        "Il n'a jamais eu de cloches"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quelle est sa hauteur, et quel surnom les Montois lui donnent-ils ?",
+      "options": [
+        "115 mètres ; le Lumeçon",
+        "87 mètres ; El Catiau",
+        "23 mètres ; la Bancloque"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Combien de cloches son carillon compte-t-il ?",
+      "options": [
+        "Douze",
+        "Quatre",
+        "49"
+      ],
+      "answer": 2
+    }
+  ],
+  "Square": [
+    {
+      "question": "Sur les vestiges de quel édifice le Square Saint-Germain a-t-il été aménagé ?",
+      "options": [
+        "L'ancienne collégiale Saint-Germain, détruite à la Révolution française",
+        "Le château comtal",
+        "La caserne Guillaume"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quels architectes ont créé ce jardin public en 1887 ?",
+      "options": [
+        "Louis Ledoux et Vincent Anthony",
+        "Paul Saintenoy et Henri Sauvage",
+        "Joseph Hubert et Louis Fuchs"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "À qui la fontaine commémorative est-elle dédiée ?",
+      "options": [
+        "Aux volontaires montois de 1830",
+        "À sainte Waudru",
+        "À Paul Verlaine"
+      ],
+      "answer": 0
+    }
+  ],
+  "Pilori": [
+    {
+      "question": "En quelle année la Fontaine-Pilori a-t-elle été érigée, en remplacement d'un puits du XVIe siècle ?",
+      "options": [
+        "1450",
+        "1779",
+        "1937"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "De quel style et de quelle pierre est-elle ?",
+      "options": [
+        "Louis XVI, en pierre bleue d'Écaussinnes",
+        "Gothique, en grès de Bray",
+        "Baroque, en brique"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quelle était sa fonction à l'époque, au-delà du décor ?",
+      "options": [
+        "Servir de pilori judiciaire uniquement",
+        "Porter le carillon",
+        "Servir de point d'eau, alimenté par un aqueduc"
+      ],
+      "answer": 2
+    }
+  ],
+  "Lola Goies Rue du Miroir": [
+    {
+      "question": "Quel motif principal déambule dans la ville, de nuit, sur cette fresque ?",
+      "options": [
+        "Un saint Georges à cheval",
+        "Un dragon qui traverse Mons",
+        "Les géants de Messines"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quelle école a formé Lola Goies, auteure de cette fresque ?",
+      "options": [
+        "ARTS², l'école supérieure des arts de Mons",
+        "La Cambre à Bruxelles",
+        "L'Académie royale des Beaux-Arts de Liège"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Avec quel thème local le motif du dragon dialogue-t-il ici, au-delà du nom de la rue ?",
+      "options": [
+        "Le Mundaneum et la Classification décimale",
+        "Le marché dominical du Béguinage",
+        "La Ducasse de Mons et le thème du miroir"
+      ],
+      "answer": 2
+    }
+  ],
+  "Eva Badalamenti Passage de l'ilot": [
+    {
+      "question": "Que transforme cette fresque dans le passage de l'Îlot ?",
+      "options": [
+        "Un ancien puits en fontaine monumentale",
+        "Un tunnel ferroviaire en galerie souterraine",
+        "Un simple lieu de traverse en point d'arrêt visuel"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quel cadre Eva Badalamenti a-t-elle réalisé cette œuvre ?",
+      "options": [
+        "Comme artiste invitée du collectif Farm Prod",
+        "En tant qu'étudiante d'ARTS²",
+        "Lors d'une résidence du Mundaneum"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Où se situe précisément cette fresque ?",
+      "options": [
+        "Dans le passage de l'Îlot",
+        "Rue du Mont du Parc",
+        "Au Marché-aux-Poissons"
+      ],
+      "answer": 0
+    }
+  ],
+  "Laurence Vray Instant suspendu": [
+    {
+      "question": "Quels motifs traverse surtout « Instant suspendu » ?",
+      "options": [
+        "L'intime, l'eau et la légèreté",
+        "Le combat du Lumeçon",
+        "Les lames du tarot"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel médium Laurence Vray emploie-t-elle ici comme une pause dans le trajet ?",
+      "options": [
+        "La sérigraphie sur toile",
+        "Le pochoir photographique",
+        "La photographie"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Où cette artiste montoise a-t-elle installé l'œuvre ?",
+      "options": [
+        "Rue des Barbelés, sur les murs de la prison",
+        "Rue d'Enghien 19",
+        "Place Léopold"
+      ],
+      "answer": 1
+    }
+  ],
+  "Atelier Pica Pica Panorama": [
+    {
+      "question": "Que cherche Atelier Pica Pica dans ce panorama ?",
+      "options": [
+        "Un portrait impérial de Charles Quint",
+        "Les formes et les ombres qui appartiennent à la ville",
+        "Un bestiaire de carpes koï"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qui compose le trio Atelier Pica Pica ?",
+      "options": [
+        "Boris Magotteaux, Manuel Falcata et Jérome Degive",
+        "Jérôme Meynen et Antoine Detaille",
+        "Draw et Contra"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Comment le passage est-il conçu dans cette œuvre ?",
+      "options": [
+        "Comme une salle d'archives du Mundaneum",
+        "Comme une cage à oiseaux ouverte",
+        "Comme une petite scène de théâtre mural"
+      ],
+      "answer": 2
+    }
+  ],
+  "Hell'O Folks": [
+    {
+      "question": "Quel mélange visuel caractérise cette fresque de Hell'O ?",
+      "options": [
+        "Uniquement du lettrage graffiti classique",
+        "Un portrait académique à la manière de Van Ysendick",
+        "Des symboles mystico-ésotériques associés à des figures de cartoons et de bédés"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Que laisse de côté le duo, issu du graff, pour cette œuvre ?",
+      "options": [
+        "La peinture et l'encre",
+        "Le lettrage, au profit du papier, de la peinture et du dessin à l'encre",
+        "Toute référence au folklore"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Sur quel thème montois l'œuvre s'appuie-t-elle aussi ?",
+      "options": [
+        "Le Doudou",
+        "Le beffroi baroque",
+        "La Classification décimale universelle"
+      ],
+      "answer": 0
+    }
+  ],
+  "Kobra Torre de Saber": [
+    {
+      "question": "Quelle présence le titre « Torre de Saber » donne-t-il à l'image ?",
+      "options": [
+        "Celle d'une tour du savoir, presque symbolique",
+        "Celle d'un dragon du Lumeçon",
+        "Celle d'une nature morte du XVIIe siècle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel type de composition Kobra privilégie-t-il ici ?",
+      "options": [
+        "Un pochoir photographique de petit format",
+        "Une installation de mots lumineux",
+        "Un format monumental, aux couleurs franches et aux lignes dynamiques"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quelle rue cette fresque a-t-elle été peinte ?",
+      "options": [
+        "Rue du Rossignol",
+        "Rue du Mont du Parc",
+        "Rue des Chartriers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Olivier Sonck Ivre d'histoires": [
+    {
+      "question": "Que mêle « Ivre d'histoires » sur les murs de la prison ?",
+      "options": [
+        "Uniquement des portraits impériaux",
+        "Image, texte et mémoire",
+        "Des carpes koï éclairées"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "D'où viennent les récits qui nourrissent la fresque ?",
+      "options": [
+        "D'ateliers sur les souvenirs d'enfance, menés avec des détenus puis des habitants",
+        "D'un manuscrit de Roland de Lassus",
+        "Des archives du Mundaneum"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Où cette fresque a-t-elle été réalisée ?",
+      "options": [
+        "Rue de Nimy 126",
+        "Square Saint-Germain",
+        "Sur les murs de la prison, rue des Barbelés"
+      ],
+      "answer": 2
+    }
+  ],
+  "Arts2 Tunnel de la Paix": [
+    {
+      "question": "Quel thème les étudiants ont-ils choisi pour ce tunnel ?",
+      "options": [
+        "Le tarot",
+        "La retraite aux flambeaux",
+        "La paix"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qui a accompagné cette vingtaine d'étudiants d'ARTS² ?",
+      "options": [
+        "Andrea Ravo Mattoni",
+        "Piet Rodriguez, connu pour ses fresques monumentales",
+        "Robert Montgomery"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Que devient le tunnel de la rue de la Croix-Rouge grâce à cette fresque ?",
+      "options": [
+        "Un lieu de passage transformé en espace de réflexion",
+        "Une réplique de la collégiale Sainte-Waudru",
+        "Un marché couvert"
+      ],
+      "answer": 0
+    }
+  ],
+  "Zesar Bahamonte Saint Georges": [
+    {
+      "question": "Quelle figure Zësar Bahamonte fait-il entrer dans le paysage urbain ?",
+      "options": [
+        "Saint Georges",
+        "Sainte Waudru et ses filles",
+        "Paul Otlet"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "D'où vient cet artiste muraliste ?",
+      "options": [
+        "Du Portugal",
+        "De Russie",
+        "D'Espagne"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Où cette fresque se trouve-t-elle ?",
+      "options": [
+        "Rue du Rossignol",
+        "Rue du Grand Jour 29",
+        "Boulevard Charles Quint"
+      ],
+      "answer": 1
+    }
+  ],
+  "Andrea Ravo Mattoni Rue de Nimy 126": [
+    {
+      "question": "Quelle lumière organise la scène, parfois désignée comme « Les bougies » ?",
+      "options": [
+        "Un néon publicitaire",
+        "Celle, en clair-obscur, de la retraite aux flambeaux",
+        "Celle des carpes koï"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Comment Andrea Ravo Mattoni intervient-il sur le mur ?",
+      "options": [
+        "Sans dessin préparatoire, directement au spray",
+        "Uniquement au pochoir photographique",
+        "Par collage de papiers découpés"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quels maîtres nourrissent cette composition unique ?",
+      "options": [
+        "Anto Carte, Louis Buisseret et Antoine Clesse",
+        "Rubens, Memling et Van Eyck",
+        "Vélasquez, Le Caravage et John William Waterhouse"
+      ],
+      "answer": 2
+    }
+  ],
+  "Pierre Liebaert Je crois aux nuits": [
+    {
+      "question": "Que invite à regarder « Je crois aux nuits » ?",
+      "options": [
+        "Les cartes du tarot en haut de façade",
+        "Un Quetzal et des fleurs mexicaines",
+        "Ce qui persiste dans l'ombre : gestes anciens, processions, figures de carnaval"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Quelle est la pratique principale de Pierre Liebaert ?",
+      "options": [
+        "Le lettrage graffiti",
+        "La photographie",
+        "La sculpture monumentale"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "À quels sujets Liebaert s'attache-t-il souvent ?",
+      "options": [
+        "Des sujets vécus de l'intérieur, sur le temps long",
+        "Des commandes publicitaires uniquement",
+        "Des cartes du Mundaneum"
+      ],
+      "answer": 0
+    }
+  ],
+  "Godmess Third Rua Storytelling": [
+    {
+      "question": "Quel point de départ ont choisi Godmess et Third Rua ?",
+      "options": [
+        "Les dessins d'enfants montois",
+        "Un portrait de Charles Quint",
+        "Les Gayoles traditionnelles"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "D'où viennent ces deux artistes ?",
+      "options": [
+        "De Suisse",
+        "Des États-Unis",
+        "Du Portugal"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Où la fresque a-t-elle été peinte ?",
+      "options": [
+        "Rue des Capucins",
+        "À la Cour du Petit Marché, rue de Nimy",
+        "Place du Béguinage"
+      ],
+      "answer": 1
+    }
+  ],
+  "Noir Artist Don't sleep on your dream": [
+    {
+      "question": "Quels univers se croisent dans cette fresque ?",
+      "options": [
+        "Uniquement le folklore du Lumeçon",
+        "La publicité, le pop art, l'art baroque et la calligraphie",
+        "Les natures mortes du XVIIe siècle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel est le vrai nom de Noir Artist ?",
+      "options": [
+        "Lucien Gilson",
+        "Matteo Capobianco",
+        "Fabio Lopez"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue montoise cette fresque s'inscrit-elle ?",
+      "options": [
+        "Rue d'Enghien",
+        "Rue des Barbelés",
+        "Rue de Nimy"
+      ],
+      "answer": 2
+    }
+  ],
+  "Andrea Ravo Mattoni Charles Quint": [
+    {
+      "question": "Quelle image Andrea Ravo Mattoni réinterprète-t-il ici ?",
+      "options": [
+        "Un dragon du Lumeçon",
+        "Un marché dominical",
+        "Un portrait impérial de Charles Quint"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Que cherche l'artiste en transposant une œuvre classique sur le mur ?",
+      "options": [
+        "À remplacer la collégiale par une galerie privée",
+        "À unir le passé et le présent, et à ouvrir le musée à la rue",
+        "À effacer toute référence historique"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Où cette fresque se trouve-t-elle ?",
+      "options": [
+        "Boulevard Charles Quint 18",
+        "Rue du Chapitre",
+        "Square Roosevelt"
+      ],
+      "answer": 0
+    }
+  ],
+  "Zesar Bahamonte Le Dragon": [
+    {
+      "question": "Quelle figure centrale de l'imaginaire montois Zësar revisite-t-il ?",
+      "options": [
+        "Le dragon du Lumeçon",
+        "Le beffroi baroque",
+        "Le Singe du Grand'Garde"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel parcours géographique a mené l'artiste jusqu'à Mons ?",
+      "options": [
+        "New York puis Londres",
+        "Lisbonne puis Porto",
+        "Séville, Barcelone, puis Montevideo"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quelle rue le dragon a-t-il été peint ?",
+      "options": [
+        "Rue du Grand Jour",
+        "Rue du Rossignol",
+        "Rue du Miroir"
+      ],
+      "answer": 1
+    }
+  ],
+  "Leonidas Giannakopoulos Global City": [
+    {
+      "question": "Quelle institution montoise inspire cette composition ?",
+      "options": [
+        "La collégiale Sainte-Waudru",
+        "Le Mundaneum et les idées de ses fondateurs",
+        "L'Hôtel de Ville gothique"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Que résume le titre « Global City » ?",
+      "options": [
+        "L'ambition de faire dialoguer Mons avec un imaginaire ouvert sur le monde",
+        "Un inventaire des enseignes de la Grand-Place",
+        "Un hommage au seul combat de Saint Georges"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quelle vision de Paul Otlet l'artiste reprend-il ?",
+      "options": [
+        "Celle d'un marché aux herbes médiéval",
+        "Celle d'une prison modèle",
+        "Celle d'une ville mondiale qui diffuse les connaissances et la coopération"
+      ],
+      "answer": 2
+    }
+  ],
+  "Stelios Pupet Harmonizing Mons": [
+    {
+      "question": "Comment Stelios Pupet construit-il sa composition ?",
+      "options": [
+        "Uniquement par des aplats zébrés",
+        "Par des mots lumineux",
+        "En mêlant figuration et géométrie"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Que traduit le titre « Harmonizing Mons » ?",
+      "options": [
+        "Un inventaire des remparts",
+        "Un accord entre formes, rythme et mémoire locale",
+        "Un combat entre saint et dragon"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "À quel compositeur montois l'œuvre rend-elle hommage ?",
+      "options": [
+        "Antoine Clesse",
+        "Roland de Lassus",
+        "Jacques Brel"
+      ],
+      "answer": 0
+    }
+  ],
+  "Jana et JS Le couple de la rue Verte": [
+    {
+      "question": "Quel motif architectural organise la scène ?",
+      "options": [
+        "La fenêtre, ouverture entre dedans et dehors",
+        "Une tour du savoir",
+        "Une cage à oiseaux fermée"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quelle technique Jana & JS utilisent-ils depuis 2006 ?",
+      "options": [
+        "Le spray sans dessin préparatoire",
+        "La photographie agrandie sans pochoir",
+        "Le pochoir à partir de leurs propres photographies"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "À quel esprit de la ville cette fresque s'accorde-t-elle ?",
+      "options": [
+        "Au classicisme impérial de Charles Quint",
+        "À l'esprit surréaliste de Mons",
+        "À l'urbanisme des remparts seuls"
+      ],
+      "answer": 1
+    }
+  ],
+  "Ufocinque Passeggiando nella Storia": [
+    {
+      "question": "Sur quel tracé urbain Ufocinque s'appuie-t-il ?",
+      "options": [
+        "La Grand-Place du Lumeçon",
+        "L'ancien tracé des remparts, près de la Tour Valenciennoise",
+        "Le jardin Gustave Jacobs"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel est le vrai nom d'Ufocinque, et que travaille-t-il surtout ?",
+      "options": [
+        "Matteo Capobianco ; la superposition de plusieurs niveaux de lecture",
+        "Lucien Gilson ; la calligraphie publicitaire",
+        "Christian Rebecchi ; la peinture au sol"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Que signifie le titre « Passeggiando nella Storia » ?",
+      "options": [
+        "Une allégorie du tarot",
+        "Un inventaire des Gayoles",
+        "Une invitation à marcher dans l'histoire"
+      ],
+      "answer": 2
+    }
+  ],
+  "Dussart Myncke True story Marche aux herbes": [
+    {
+      "question": "Que voit-on dans les fenêtres murées de cette façade ?",
+      "options": [
+        "Des portraits de chefs montois",
+        "Des comics et des affiches de films hollywoodiens des années 1950",
+        "Des carpes koï éclairées"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel détail urbain les deux étudiants transforment-ils en terrain de fiction ?",
+      "options": [
+        "Les nombreuses fenêtres bouchées de Mons",
+        "Les marches du beffroi",
+        "Les pavés du Lumeçon"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Comment le titre « True story » demande-t-il de regarder le mur ?",
+      "options": [
+        "Comme un plan cadastral",
+        "Comme une nature morte",
+        "Comme une façade qui raconte, entre réel et imaginaire populaire"
+      ],
+      "answer": 2
+    }
+  ],
+  "Levalet L'homme des cavernes": [
+    {
+      "question": "Comment les personnages de Levalet dialoguent-ils avec le bâtiment ?",
+      "options": [
+        "Ils sont peints en aplats zébrés, sans rapport avec les ouvertures",
+        "Ils sont collés au sol, comme un tapis",
+        "Ils sont dessinés à l'encre de Chine et s'insèrent fenêtre après fenêtre"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Quel décalage la scène installe-t-elle sous vos yeux ?",
+      "options": [
+        "L'homme contemporain croisant ses propres origines, entre réalisme et surréalisme",
+        "Un combat de Saint Georges contre le dragon",
+        "Un marché aux herbes du XVIIIe siècle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Que devient la façade rue de Houdain ?",
+      "options": [
+        "Une carte du Mundaneum",
+        "Un décor de narration à lire comme un récit",
+        "Une cage à oiseaux fermée"
+      ],
+      "answer": 1
+    }
+  ],
+  "Farm Prod Rue de la Halle": [
+    {
+      "question": "Quelles figures dominent le haut de la façade ?",
+      "options": [
+        "Sainte Waudru et ses filles",
+        "Adam et Ève",
+        "Cybèle et Poliade"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quelles lames du tarot reconnaît-on plus bas, parmi d'autres signes ?",
+      "options": [
+        "L'Empereur, La Mort, Le Monde et La Tempérance",
+        "La Bancloque, le Car d'Or et le Ropieur",
+        "Le Jugement, L'Ermite et La Roue de Fortune uniquement"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel voyage visuel la composition propose-t-elle, une fois le mur lu de haut en bas ?",
+      "options": [
+        "Un inventaire des métiers de la Grand-Place",
+        "La Classification décimale d'Otlet",
+        "Le tarot, la connaissance de soi et le passage du temps"
+      ],
+      "answer": 2
+    }
+  ],
+  "Hell'O Rue de la Halle": [
+    {
+      "question": "En combien de panneaux le mur est-il découpé ?",
+      "options": [
+        "Quatre",
+        "Neuf",
+        "Seize"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Quel motif revient au centre de cet univers surréaliste ?",
+      "options": [
+        "L'œil",
+        "Le beffroi",
+        "Le Quetzal"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Que faut-il observer dans le dessin, au-delà du lettrage graffiti ?",
+      "options": [
+        "Uniquement des portraits impériaux",
+        "Des êtres imaginaires, des pastels et un assemblage sans un seul sens de lecture imposé",
+        "Des fiches bibliographiques"
+      ],
+      "answer": 1
+    }
+  ],
+  "Ilan Walbrecq Georges Cuvelier": [
+    {
+      "question": "Quel Montois célèbre le portrait met-il en lumière ?",
+      "options": [
+        "Georges Cuvelier, chef étoilé",
+        "Louis Buisseret, peintre",
+        "Charles Malapert, astronome"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "À quelle galerie à ciel ouvert cette image appartient-elle ?",
+      "options": [
+        "Aux fenêtres murées du Marché aux Herbes",
+        "À la série « Montois célèbres » de l'atelier de dessin d'Arts²",
+        "Aux Gayoles de la rue des Arquebusiers"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Comment distinguer ce portrait de celui de Louis Buisseret, plus loin sur le parcours ?",
+      "options": [
+        "Ici c'est un cuisinier ; Buisseret est un peintre",
+        "Ici c'est un dragon ; Buisseret est un coquelicot",
+        "Les deux montrent le même visage, inversé"
+      ],
+      "answer": 0
+    }
+  ],
+  "Cedric Le Borgne La riviere": [
+    {
+      "question": "Que voit-on suspendu au Marché-aux-Poissons ?",
+      "options": [
+        "Un dragon du Lumeçon",
+        "Deux carpes koï géantes qui paraissent nager dans l'air",
+        "Un couple à une fenêtre"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "D'où vient la lumière de ces sculptures ?",
+      "options": [
+        "De l'intérieur des carpes",
+        "Uniquement du soleil rasant, sans source interne",
+        "De projecteurs posés sur le beffroi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel effet d'échelle l'installation produit-elle quand on s'arrête devant elle ?",
+      "options": [
+        "Elle miniature la collégiale",
+        "Elle reconstitue un aquarium de salon",
+        "Elle ramène le passant à sa propre mesure face à une nature agrandie"
+      ],
+      "answer": 2
+    }
+  ],
+  "Taquen Bouquet of memory and hope": [
+    {
+      "question": "Quelle fleur occupe le mur, rue des Chartriers ?",
+      "options": [
+        "Le lys de Sainte-Waudru",
+        "Le coquelicot",
+        "La rose de la Grand-Place"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Que faut-il lire dans ce bouquet, au-delà du motif floral ?",
+      "options": [
+        "Un souvenir lourd et, en même temps, une promesse d'espoir",
+        "Un hommage au tarot de Farm Prod",
+        "Un blason des métiers de bouche"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel passé du lieu le coquelicot rend-il visible ?",
+      "options": [
+        "Le combat annuel du Lumeçon",
+        "Le classement des fiches d'Otlet",
+        "Des bombes y sont tombées ; des coquelicots y poussent aujourd'hui"
+      ],
+      "answer": 2
+    }
+  ],
+  "Dussart Myncke True story Croix Place": [
+    {
+      "question": "Que demande le titre « True story » une fois face à la façade ?",
+      "options": [
+        "De lire le mur comme un récit, sans qu'on vous en donne la fin",
+        "De compter les travées gothiques",
+        "De retrouver Adam et Ève en haut du tarot"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quoi cette « True story » diffère-t-elle de celle du Marché aux Herbes ?",
+      "options": [
+        "Elle est signée Zësar Bahamonte",
+        "Elle n'inventorie pas les fenêtres murées par des affiches des fifties : elle charge toute la rue d'une scène à interpréter",
+        "Elle représente deux carpes koï"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel écart la peinture entretient-elle sous vos yeux ?",
+      "options": [
+        "Entre catalogue et archive",
+        "Entre plan de ville et cadastre",
+        "Entre réalité de la rue et regard d'artiste"
+      ],
+      "answer": 2
+    }
+  ],
+  "Eva Badalamenti Louis Buisseret": [
+    {
+      "question": "Quel visage le mur donne-t-il à voir ?",
+      "options": [
+        "Georges Cuvelier, chef étoilé",
+        "Louis Buisseret, peintre montois",
+        "Roland de Lassus, compositeur"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "À quelle série ce portrait appartient-il visuellement ?",
+      "options": [
+        "« Montois célèbres », une galerie de figures locales peinte par les élèves d'Arts²",
+        "Les fenêtres-comics de True story",
+        "Les seize panneaux de Hell'O"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Que faut-il comparer, si l'on vient de rue de la Halle ?",
+      "options": [
+        "Un cuisinier là-bas, un peintre ici : deux métiers, une même galerie à ciel ouvert",
+        "Deux dragons identiques",
+        "Deux cages à oiseaux fermées"
+      ],
+      "answer": 0
+    }
+  ],
+  "Thomas Istasse La lune de Malapert": [
+    {
+      "question": "Vers où la composition oriente-t-elle le regard ?",
+      "options": [
+        "Vers les caves de la Grand-Place",
+        "Vers le haut, dans une image baignée de lumière",
+        "Vers les pavés du Lumeçon"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Que superpose le nom « Malapert » une fois le mur observé ?",
+      "options": [
+        "Une rue de Mons et un cratère lunaire, hommage au savant qui observait le ciel",
+        "Un quartier de Séville et une Gayole",
+        "Un tunnel ferroviaire et le Mundaneum"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel lien l'œuvre établit-elle entre la ville et l'espace ?",
+      "options": [
+        "Elle reconstitue les remparts",
+        "Elle classe les connaissances d'Otlet",
+        "Elle relie la terre montoise au ciel, sans quitter la mémoire locale"
+      ],
+      "answer": 2
+    }
+  ],
+  "Andrea Buglisi La Gayole": [
+    {
+      "question": "En quoi le bâtiment est-il transformé sous vos yeux ?",
+      "options": [
+        "En cage à oiseaux ouverte, où les oiseaux restent libres",
+        "En tour du savoir",
+        "En aquarium de carpes koï"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel piège visuel Buglisi tend-il d'abord au passant ?",
+      "options": [
+        "Le lettrage graffiti seul",
+        "Des couleurs séduisantes, puis un message plus inquiet, teinté d'ironie",
+        "Un clair-obscur de retraite aux flambeaux"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quelle mémoire populaire le titre « La Gayole » réveille-t-il dans l'image ?",
+      "options": [
+        "Les cages à oiseaux de la tradition montoise",
+        "La Classification décimale",
+        "Le combat de saint Georges"
+      ],
+      "answer": 0
+    }
+  ],
+  "Oli-B L'escapade": [
+    {
+      "question": "Que voit-on se mêler sur le mur ?",
+      "options": [
+        "Un portrait impérial en grisaille",
+        "Des formes abstraites et figuratives, des couleurs vives, une sensation de mouvement",
+        "Des fenêtres remplies d'affiches des fifties"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Comment les formes se comportent-elles par rapport au jardin ?",
+      "options": [
+        "Elles semblent presque respirer avec le végétal",
+        "Elles ignorent le jardin et copient le beffroi",
+        "Elles reproduisent le plan des remparts"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quelle tonalité l'image donne-t-elle à l'espace public ?",
+      "options": [
+        "Une archive militaire",
+        "Un clair-obscur caravagesque",
+        "Une vision onirique et lumineuse, plus douce que le minéral de la ville"
+      ],
+      "answer": 2
+    }
+  ],
+  "Blancbec Le monstrueux": [
+    {
+      "question": "De quoi le mur rue d'Havré est-il peuplé ?",
+      "options": [
+        "De fiches du Mundaneum",
+        "D'animaux et de plantes imaginaires",
+        "De portraits de compositeurs"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "D'où viennent les formes géométriques et la gamme très vive ?",
+      "options": [
+        "De la peinture d'histoire du XIXe siècle",
+        "De la photographie documentaire seule",
+        "Du graffiti et du travail sur les affiches et les personnages"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Quelle figure a d'abord donné naissance à ce style, avant les autres créatures ?",
+      "options": [
+        "L'oiseau",
+        "Le dragon du Lumeçon",
+        "Le Singe du Grand'Garde"
+      ],
+      "answer": 0
+    }
+  ],
+  "Nevercrew Dissipation": [
+    {
+      "question": "Quel sujet « Dissipation » aborde-t-il ?",
+      "options": [
+        "Le réchauffement climatique",
+        "La Ducasse et le Lumeçon",
+        "Le marché du Béguinage"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quelle particularité technique marque ce projet ?",
+      "options": [
+        "L'usage exclusif du pochoir",
+        "L'absence de dessin préparatoire à la manière de Ravo",
+        "Pour la première fois, Nevercrew a travaillé à même le sol de la rue à degrés"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qui compose ce duo suisse ?",
+      "options": [
+        "Jérôme Meynen et Antoine Detaille",
+        "Christian Rebecchi et Pablo Togni",
+        "Fabio Lopez et Elodie Arshak"
+      ],
+      "answer": 1
+    }
+  ],
+  "Duek Eldorado": [
+    {
+      "question": "Quel oiseau emblématique apparaît dans « Eldorado » ?",
+      "options": [
+        "Le dragon du Lumeçon",
+        "Le Quetzal",
+        "Le Singe du Grand'Garde"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "De quelles cultures Duek, artiste d'Espagne, s'inspire-t-il ici ?",
+      "options": [
+        "Du Mexique, de sa nature et de son mysticisme",
+        "Du Mundaneum et de Paul Otlet",
+        "Des Gayoles montoises uniquement"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Où la fresque se trouve-t-elle ?",
+      "options": [
+        "Grand'Rue 8",
+        "Rue des Capucins",
+        "Rue des Fripiers 19"
+      ],
+      "answer": 2
+    }
+  ],
+  "Poni Grand Rue": [
+    {
+      "question": "Que représente Poni sur ce mur ?",
+      "options": [
+        "Deux carpes koï",
+        "Un couple à une fenêtre",
+        "Une figure féminine, la colline de Mons en arrière-plan"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pourquoi dessine-t-elle souvent des femmes sans pupille ?",
+      "options": [
+        "Pour citer Le Caravage",
+        "Pour inviter au voyage",
+        "Pour imiter les géants de Messines"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quelle est la particularité de cette présence à Mons ?",
+      "options": [
+        "C'est la première fois que Hilda Palafox, artiste mexicaine, intervient en Belgique",
+        "Elle enseigne à ARTS² depuis dix ans",
+        "Elle signe ici un hommage à Roland de Lassus"
+      ],
+      "answer": 0
+    }
+  ],
+  "Paul Segard Ma ville s'endort": [
+    {
+      "question": "Quelle scène simple Paul Segard peint-il ?",
+      "options": [
+        "Un personnage endormi qui veille sur la ville",
+        "Un combat de Saint Georges",
+        "Un marché d'abondance"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quelle ambiance chromatique choisit-il ?",
+      "options": [
+        "Des contrastes de clair-obscur caravagesque",
+        "Des aplats zébrés à la manière de MOMO",
+        "Des couleurs pastel, calmes et poétiques"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Où se trouve « Ma ville s'endort » ?",
+      "options": [
+        "Rue de l'Athénée",
+        "Dans le Passage du Centre, Grand'Rue",
+        "Boulevard Sainctelette"
+      ],
+      "answer": 1
+    }
+  ],
+  "Celeste Gangolphe Mille et une feuille": [
+    {
+      "question": "Que dissimule le lierre sur ce mur ?",
+      "options": [
+        "Un portrait de Charles Quint",
+        "Les Hommes et les Enfants de Feuilles, figures inspirées du Doudou",
+        "Les fiches du Mundaneum"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quels médiums Céleste Gangolphe aime-t-elle mêler ?",
+      "options": [
+        "Dessin, peinture, collage et motifs",
+        "Uniquement le spray sans dessin",
+        "L'installation de mots lumineux"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Que fait cette fresque dans une ville minérale ?",
+      "options": [
+        "Elle reconstitue les remparts",
+        "Elle classifie le savoir",
+        "Elle apporte un souffle de nature, au cœur du folklore montois"
+      ],
+      "answer": 2
+    }
+  ],
+  "Dulk The battle": [
+    {
+      "question": "Dans quel monde « The battle » invite-t-il à entrer ?",
+      "options": [
+        "Une archive bibliographique",
+        "Un portrait impérial",
+        "Un monde de rêve peuplé d'animaux et de paysages naturels"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "D'où vient Dulk ?",
+      "options": [
+        "De Russie",
+        "D'Espagne",
+        "Du Royaume-Uni"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Que défend aussi, discrètement, cette fresque rue des Capucins ?",
+      "options": [
+        "Les écosystèmes et les espèces les plus vulnérables",
+        "Le classement des connaissances d'Otlet",
+        "La reconstruction de la Tour Valenciennoise"
+      ],
+      "answer": 0
+    }
+  ],
+  "Nean Cybele et Poliade": [
+    {
+      "question": "À quelles figures NEAN rend-il hommage ?",
+      "options": [
+        "Cybèle et Poliade, présentes dans l'arène du Lumeçon",
+        "Adam et Ève du tarot",
+        "Les Gayoles du quartier"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quelle réflexion traverse le travail de l'artiste belge ?",
+      "options": [
+        "La publicité et le pop art",
+        "La cartographie urbaine abstraite",
+        "Le temps, les souvenirs et la manière dont ils se transforment"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pourquoi le mur convient-il particulièrement à ce sujet ?",
+      "options": [
+        "Parce qu'il jouxte le Mundaneum",
+        "Parce que ses marques et ses strates rendent visible l'histoire",
+        "Parce qu'il sert de tribune au marché dominical"
+      ],
+      "answer": 1
+    }
+  ],
+  "10eme ARTE L'envol des ballons": [
+    {
+      "question": "Que voit-on s'élever au-dessus des visages rassemblés ?",
+      "options": [
+        "Des Gayoles",
+        "Des ballons",
+        "Des fiches bibliographiques"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qui est 10ème ARTE ?",
+      "options": [
+        "Un duo d'Espagne et d'Italie travaillant à Bruxelles",
+        "Un collectif russe",
+        "L'atelier de dessin d'ARTS²"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "De quelle ferveur montoise l'œuvre s'inspire-t-elle ?",
+      "options": [
+        "Du marché du Béguinage",
+        "De la fondation du Mundaneum",
+        "Du folklore et du combat dit Lumeçon, sur la Grand-Place"
+      ],
+      "answer": 2
+    }
+  ],
+  "Arts2 Roland de Lassus": [
+    {
+      "question": "Quel Montois célèbre les étudiants d'Arts² mettent-ils à l'honneur ?",
+      "options": [
+        "Antoine Clesse",
+        "Jacques Du Broeucq",
+        "Roland de Lassus"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "De quel type de création s'agit-il ?",
+      "options": [
+        "D'une installation de mots",
+        "D'une création collective d'étudiants",
+        "D'un pochoir photographique de Jana & JS"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue le portrait s'inscrit-il ?",
+      "options": [
+        "Rue des 5 visages",
+        "Rue Antoine Clesse",
+        "Rue du Chapitre"
+      ],
+      "answer": 0
+    }
+  ],
+  "Andrea Ravo Mattoni Sainte Waudru et ses filles": [
+    {
+      "question": "Quelle scène Andrea Ravo Mattoni transpose-t-il sur le mur ?",
+      "options": [
+        "Sainte Waudru et ses filles visitant les prisonniers",
+        "Le combat de Saint Georges",
+        "La montée du Car d'Or seule"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "De quel peintre cette image est-elle associée, avant sa transposition urbaine ?",
+      "options": [
+        "Anto Carte",
+        "Louis Buisseret",
+        "Antoine Van Ysendick"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pourquoi l'emplacement, rue du Chapitre, compte-t-il ?",
+      "options": [
+        "Parce qu'il longe la prison contemporaine",
+        "Parce qu'il est en lien direct avec la collégiale toute proche",
+        "Parce qu'il suit l'ancien tracé des remparts de Sainctelette"
+      ],
+      "answer": 1
+    }
+  ],
+  "Filip Gilissen Spread your wings": [
+    {
+      "question": "Que évoque l'installation ?",
+      "options": [
+        "Un dragon",
+        "Des ailes et un élan vers le haut",
+        "Un marché d'abondance"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "De quel type d'œuvre s'agit-il, plutôt que d'une fresque plane ?",
+      "options": [
+        "D'une installation",
+        "D'un pochoir sur vitrine",
+        "D'une photographie encadrée"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Avec quel monument le square Saint-Germain fait-il écho ?",
+      "options": [
+        "Le Mundaneum",
+        "Le beffroi seul",
+        "La collégiale Sainte-Waudru, visible dans le paysage"
+      ],
+      "answer": 2
+    }
+  ],
+  "Ana Langeheldt Alegoria de santa Valdetrudis": [
+    {
+      "question": "Quelle tradition Ana Langeheldt réinterprète-t-elle ?",
+      "options": [
+        "Les Feux de la Saint-Jean",
+        "Les Gayoles",
+        "La montée du Car d'Or"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Sous quel autre nom l'artiste espagnole est-elle aussi connue ?",
+      "options": [
+        "Third Rua",
+        "Lahe178",
+        "Poni"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Où l'allégorie de sainte Waudru a-t-elle été peinte ?",
+      "options": [
+        "Sur la rampe Sainte-Waudru",
+        "Rue de Nimy",
+        "Place Léopold"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rachelle Celiane Santerre Jacques Du Broeucq": [
+    {
+      "question": "À qui les sœurs Santerre rendent-elles hommage ?",
+      "options": [
+        "Jacques Du Broeucq, architecte et sculpteur",
+        "Anto Carte, peintre",
+        "Georges Cuvelier, chef"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quel cadre d'Arts² l'œuvre a-t-elle été conçue ?",
+      "options": [
+        "L'atelier de gravure uniquement",
+        "Une résidence au Mundaneum",
+        "L'atelier de dessin, série « Montois célèbres »"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quelle rue, proche de la collégiale, se trouve le portrait ?",
+      "options": [
+        "Rue des 5 visages",
+        "Rue du Chapitre",
+        "Rue des Sœurs Noires"
+      ],
+      "answer": 1
+    }
+  ],
+  "Margaux Del Vecchio Anto Carte": [
+    {
+      "question": "Quel peintre montois Margaux Del Vecchio représente-t-elle ?",
+      "options": [
+        "Louis Buisseret",
+        "Anto Carte",
+        "Antoine Van Ysendick"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "À quelle série cette œuvre appartient-elle ?",
+      "options": [
+        "« Montois célèbres »",
+        "« True story »",
+        "« Torre de Saber »"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Où le portrait a-t-il été peint ?",
+      "options": [
+        "Rue du Chapitre",
+        "Rue Malapert",
+        "Square Roosevelt"
+      ],
+      "answer": 2
+    }
+  ],
+  "Projeto Ruido Le temps": [
+    {
+      "question": "Quels langages graphiques se rencontrent dans « Le temps » ?",
+      "options": [
+        "Uniquement le clair-obscur académique",
+        "Uniquement le lettrage",
+        "Graffiti, figuration, abstraction et couleur"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qui compose Projeto Ruído ?",
+      "options": [
+        "Godmess et Third Rua",
+        "Draw (Frederico Soares Campos) et Contra (Rodrigo Guinea Gonçalves)",
+        "Fabio Lopez et Elodie Arshak"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Vers quel musée cette rue accompagne-t-elle le marcheur ?",
+      "options": [
+        "Le Musée Duesberg",
+        "Le Mundaneum uniquement",
+        "Le Musée du Doudou"
+      ],
+      "answer": 0
+    }
+  ],
+  "Robert Montgomery Invisible graffiti of love": [
+    {
+      "question": "Avec quel matériau Robert Montgomery travaille-t-il ici ?",
+      "options": [
+        "Les mots",
+        "Le tarot peint",
+        "Les carpes koï"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Que demande le titre « Invisible graffiti of love » ?",
+      "options": [
+        "De reconstituer les remparts",
+        "De classer des fiches",
+        "De lever les yeux et de ralentir, pour lire"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Où cette voix intime s'inscrit-elle ?",
+      "options": [
+        "Rue Cantimpré",
+        "Place Léopold",
+        "Rue des Canonniers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Momo Rue Cantimpret": [
+    {
+      "question": "Comment se présente la composition de MOMO ?",
+      "options": [
+        "En clair-obscur de bougies",
+        "En aplats de couleur zébrés",
+        "En personnages à l'encre de Chine"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pour quel type d'interventions l'artiste américain est-il connu ?",
+      "options": [
+        "Des cartographies urbaines, du geste minuscule à la fresque monumentale",
+        "Des installations de carpes lumineuses",
+        "Des portraits de Montois célèbres"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue cette fresque rythme-t-elle le parcours ?",
+      "options": [
+        "Rue des Canonniers",
+        "Rue de Bertaimont",
+        "Rue Cantimpré"
+      ],
+      "answer": 2
+    }
+  ],
+  "Zmogk The elements": [
+    {
+      "question": "Quel élément Zmogk fait-il naître dans la rue ?",
+      "options": [
+        "L'eau des carpes koï",
+        "L'air des ballons",
+        "Le feu"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "D'où vient Zmogk, et quel style a-t-il développé ?",
+      "options": [
+        "Des États-Unis ; des aplats zébrés",
+        "De Russie ; des compositions dynamiques et colorées",
+        "Du Portugal ; le pochoir réaliste"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Avec quel rite proche de la place Nervienne l'œuvre dialogue-t-elle ?",
+      "options": [
+        "Les Feux de la Saint-Jean",
+        "La montée du Car d'Or",
+        "Le marché dominical"
+      ],
+      "answer": 0
+    }
+  ],
+  "Arkane Lalie": [
+    {
+      "question": "De quoi Arkane s'inspire-t-il pour « Lalie » ?",
+      "options": [
+        "Des Géants de Messines, imaginés comme de vraies personnes",
+        "Du dragon du Lumeçon uniquement",
+        "Des lames du tarot"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qu'est-ce qui crée l'ambiance très charnelle de l'image ?",
+      "options": [
+        "Le lettrage seul",
+        "Les aplats zébrés",
+        "La lumière et le cadrage"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quel quartier cette fresque dialogue-t-elle avec le folklore ?",
+      "options": [
+        "Le quartier du Mundaneum",
+        "Le quartier de Messine, rue de Bertaimont",
+        "Le Marché-aux-Poissons"
+      ],
+      "answer": 1
+    }
+  ],
+  "Tris Horizon": [
+    {
+      "question": "Quelle thématique Tris reprend-il sur ce bâtiment aux fenêtres aveugles ?",
+      "options": [
+        "Les Gayoles",
+        "Les portes",
+        "Les coquelicots"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Entre quels registres son univers se situe-t-il ?",
+      "options": [
+        "Comics et réalisme, avec une ambiance de cinéma",
+        "Clair-obscur académique uniquement",
+        "Nature morte du XVIIe siècle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Que suit le boulevard Sainctelette ?",
+      "options": [
+        "Le tracé de la procession du Car d'Or",
+        "L'axe du Mundaneum",
+        "L'ancien tracé des remparts et des portes d'entrée de la ville"
+      ],
+      "answer": 2
+    }
+  ],
+  "Dourone Boulevard Sainctelette": [
+    {
+      "question": "Qu'est-ce que le Doudou représente pour Dourone ?",
+      "options": [
+        "Un motif décoratif sans lien local",
+        "Une référence au Mundaneum",
+        "La solidarité montoise, intergénérationnelle et partagée"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qui compose Dourone ?",
+      "options": [
+        "Christian Rebecchi et Pablo Togni",
+        "Fabio Lopez et Elodie Arshak, venus d'Espagne",
+        "Jérôme Meynen et Antoine Detaille"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quelle reconnaissance internationale rappellent-ils pour la Ducasse ?",
+      "options": [
+        "Son inscription par l'UNESCO au patrimoine oral et immatériel de l'humanité",
+        "Son classement comme monument militaire",
+        "Son lien avec la Classification décimale"
+      ],
+      "answer": 0
+    }
+  ],
+  "Nadege Dauvergne Place du Beguinage": [
+    {
+      "question": "De quoi Nadège Dauvergne s'inspire-t-elle sur cette place ?",
+      "options": [
+        "Du marché dominical et de l'idée d'abondance",
+        "Du combat du Lumeçon",
+        "Des Géants de Messines"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Avec quelles peintures dialogue-t-elle, en changeant d'échelle ?",
+      "options": [
+        "Les portraits impériaux de Titien",
+        "Les paysages de Turner",
+        "Les natures mortes du XVIIe siècle, notamment celles de Joris Van Son"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Où cette fresque monumentale a-t-elle été peinte ?",
+      "options": [
+        "Rue Cantimpré",
+        "Place du Béguinage",
+        "Boulevard Sainctelette"
+      ],
+      "answer": 1
+    }
+  ],
+  "Daniel Eime Resistance": [
+    {
+      "question": "À qui Daniel Eime rend-il hommage dans « Résistance » ?",
+      "options": [
+        "Paul Otlet",
+        "Marguerite Bervoets",
+        "Sainte Waudru"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quelle technique traverse toutes ses créations ?",
+      "options": [
+        "Le pochoir, mêlé de pop, de réalisme et de motifs géométriques",
+        "Le spray sans dessin préparatoire",
+        "L'installation de mots lumineux"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "D'où vient l'artiste, et depuis quand pratique-t-il la rue ?",
+      "options": [
+        "De France, depuis 2022 seulement",
+        "De Suisse, en duo",
+        "Du Portugal ; il a commencé très jeune par le graffiti"
+      ],
+      "answer": 2
+    }
+  ],
+  "Portes du Theatre Royal": [
+    {
+      "question": "Quels médaillons sont présents sur les portes en fonte du Théâtre Royal ?",
+      "options": [
+        "Molière, Racine, Grétry, Roland de Lassus",
+        "Hugo, Balzac, Verlaine, Rimbaud",
+        "Dumas, Zola, Flaubert, Camus"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel matériau a été utilisé pour la fabrication des portes du Théâtre Royal ?",
+      "options": [
+        "Bois",
+        "Fonte",
+        "Pierre"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel est le blason représenté sur les portes du Théâtre Royal ?",
+      "options": [
+        "Blason de Bruxelles",
+        "Blason de Liège",
+        "Blason de Mons"
+      ],
+      "answer": 2
+    }
+  ],
+  "Blasons muets": [
+    {
+      "question": "Quel est le matériau principal des blasons muets visibles au 8 rue du Miroir ?",
+      "options": [
+        "Bois",
+        "Pierre",
+        "Métal"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "En quelle année les blasons muets ont-ils été réalisés ?",
+      "options": [
+        "1600",
+        "1500",
+        "1545"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Quel est le nom de la rue où se trouvent les blasons muets à Mons ?",
+      "options": [
+        "Rue du Miroir",
+        "Rue de la Chaussée",
+        "Rue de la Résistance"
+      ],
+      "answer": 0
+    }
+  ],
+  "Au Gros Visage": [
+    {
+      "question": "Quel motif est représenté sur le bas-relief de l'enseigne 'Au Gros Visage' ?",
+      "options": [
+        "Un lion",
+        "Une fleur",
+        "Un visage joufflu"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "En quelle année l'enseigne 'Au Gros Visage' a-t-elle été créée ?",
+      "options": [
+        "1789",
+        "1801",
+        "1750"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'Au Gros Visage' à Mons ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue du Miroir",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "A la Poire d'Or": [
+    {
+      "question": "Quel motif est représenté sur l'enseigne de 'A la Poire d'Or' ?",
+      "options": [
+        "Une poire suspendue à un ruban",
+        "Un lion rampant",
+        "Une fleur de lys"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année l'enseigne 'A la Poire d'Or' a-t-elle été datée ?",
+      "options": [
+        "1750",
+        "1789",
+        "1801"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'A la Poire d'Or' ?",
+      "options": [
+        "Rue de la Clef",
+        "Rue des Fripiers",
+        "Rue de Nimy"
+      ],
+      "answer": 2
+    }
+  ],
+  "Le Gros Maillet": [
+    {
+      "question": "Quel est le motif principal de l'enseigne au 9 rue de Nimy ?",
+      "options": [
+        "Une hache en bois",
+        "Un maillet sculpté",
+        "Un marteau en fer"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "À quelle époque cette enseigne de métier a-t-elle été réalisée ?",
+      "options": [
+        "Au 17ème siècle",
+        "Au 15ème siècle",
+        "Au 19ème siècle"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne Le Gros Maillet à Mons ?",
+      "options": [
+        "Rue de Nimy",
+        "Rue de la Chaussée",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "The Bootle Arms": [
+    {
+      "question": "Quel blason est représenté sur l'enseigne de The Bootle Arms ?",
+      "options": [
+        "Un blason de la ville de Mons",
+        "Un blason de la province de Hainaut",
+        "Un blason symbolisant le jumelage avec Bootle"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "En quelle année a été établi le jumelage entre Mons et Bootle ?",
+      "options": [
+        "1964",
+        "1980",
+        "1990"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve The Bootle Arms à Mons ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue de Nimy",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Au Paradis": [
+    {
+      "question": "Quel est le motif principal de l'enseigne Au Paradis ?",
+      "options": [
+        "Un ange",
+        "Un démon",
+        "Un arbre"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année l'enseigne Au Paradis a-t-elle été créée ?",
+      "options": [
+        "XVIe siècle",
+        "XVIIIe siècle",
+        "XIXe siècle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne Au Paradis à Mons ?",
+      "options": [
+        "Rue des Fripiers",
+        "Rue de la Chaussée",
+        "Rue de Nimy"
+      ],
+      "answer": 2
+    }
+  ],
+  "IHS Rue de Nimy 71": [
+    {
+      "question": "Quel motif est représenté sur le bas-relief au 71 rue de Nimy ?",
+      "options": [
+        "Une croix latine",
+        "Un Christogramme IHS",
+        "Un symbole de la ville de Mons"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel élément symbolique est associé au Christogramme IHS sur cette enseigne ?",
+      "options": [
+        "Une couronne d'épines",
+        "Un calice",
+        "Trois clous"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne IHS à Mons ?",
+      "options": [
+        "Rue de Nimy",
+        "Rue des Clercs",
+        "Rue de la Chaussée"
+      ],
+      "answer": 0
+    }
+  ],
+  "A le Trois Brouet": [
+    {
+      "question": "Quel motif est représenté sur le bas-relief de l'enseigne À le Trois Brouet ?",
+      "options": [
+        "Une couronne",
+        "Un marteau",
+        "Trois brouettes"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "En quelle année l'enseigne À le Trois Brouet a-t-elle été créée ?",
+      "options": [
+        "1714",
+        "1800",
+        "1650"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne À le Trois Brouet à Mons ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue de Nimy",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Saint-Pierre Rue de Nimy": [
+    {
+      "question": "Quel saint est représenté sur l'enseigne sculptée au 80 rue de Nimy ?",
+      "options": [
+        "Saint Pierre",
+        "Saint Paul",
+        "Saint Jacques"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "À quelle époque cette enseigne a-t-elle probablement été sculptée ?",
+      "options": [
+        "XIXe siècle",
+        "XVIIIe siècle",
+        "XXe siècle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quelle est la rue où se trouve l'enseigne de Saint Pierre à Mons ?",
+      "options": [
+        "Rue des Clercs",
+        "Rue de la Chaussée",
+        "Rue de Nimy"
+      ],
+      "answer": 2
+    }
+  ],
+  "Aux Trois Herrents": [
+    {
+      "question": "Quel motif est représenté en bas-relief sur l'enseigne 'Aux Trois Herrents' ?",
+      "options": [
+        "Trois truites",
+        "Trois harengs",
+        "Trois saumons"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "En quelle année l'enseigne 'Aux Trois Herrents' a-t-elle été créée ?",
+      "options": [
+        "1715",
+        "1730",
+        "1723"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'Aux Trois Herrents' à Mons ?",
+      "options": [
+        "Rue de Nimy",
+        "Rue des Fripiers",
+        "Rue de la Chaussée"
+      ],
+      "answer": 0
+    }
+  ],
+  "Armes de Mons Petit Marche": [
+    {
+      "question": "Quel motif est représenté sur la clé d'arc du blason de Mons ?",
+      "options": [
+        "Une étoile",
+        "Un aigle",
+        "Un lion"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "À quelle époque le blason de Mons a-t-il été sculpté ?",
+      "options": [
+        "XVIIIe siècle",
+        "XVIe siècle",
+        "XIXe siècle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle cour se trouve le blason de Mons ?",
+      "options": [
+        "Cour de la Gare",
+        "Cour du Petit Marché",
+        "Cour de la Bourse"
+      ],
+      "answer": 1
+    }
+  ],
+  "IHS dans un soleil": [
+    {
+      "question": "Quel motif est représenté sur le bas-relief au 89 rue de Nimy ?",
+      "options": [
+        "Un Christogramme IHS",
+        "Un lion",
+        "Une croix"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "À quelle époque remonte le motif religieux observé ?",
+      "options": [
+        "XVIe siècle",
+        "XVIIIe siècle",
+        "XIXe siècle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quelle est la rue où se trouve le bas-relief IHS dans un soleil ?",
+      "options": [
+        "Rue des Clercs",
+        "Rue de la Chaussée",
+        "Rue de Nimy"
+      ],
+      "answer": 2
+    }
+  ],
+  "Aux Trois Verts Chapeaux": [
+    {
+      "question": "Quel motif est représenté sur l'enseigne 'Aux Trois Verts Chapeaux' ?",
+      "options": [
+        "Trois fleurs",
+        "Trois étoiles",
+        "Trois chapeaux"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "En quelle année l'enseigne 'Aux Trois Verts Chapeaux' a-t-elle été créée ?",
+      "options": [
+        "1712",
+        "1705",
+        "1720"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'Aux Trois Verts Chapeaux' à Mons ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue de Nimy",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "A la Tette d'Or": [
+    {
+      "question": "Quel motif est visible sur le bas-relief de l'enseigne 'À la Tette d'Or' ?",
+      "options": [
+        "Une tête burinée",
+        "Un animal sculpté",
+        "Un paysage gravé"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel est le matériau principal utilisé pour le bas-relief de l'enseigne ?",
+      "options": [
+        "Bois",
+        "Pierre",
+        "Métal"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'À la Tette d'Or' ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Fripiers",
+        "Rue d'Havré"
+      ],
+      "answer": 2
+    }
+  ],
+  "Le Lecteur Colas": [
+    {
+      "question": "Quel est le matériau principal utilisé pour la sculpture moderne 'Le Lecteur' ?",
+      "options": [
+        "Bronze",
+        "Pierre",
+        "Bois"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "En quelle année la sculpture 'Le Lecteur' a-t-elle été installée ?",
+      "options": [
+        "1985",
+        "1995",
+        "1990"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quelle rue se trouve la sculpture 'Le Lecteur' à Mons ?",
+      "options": [
+        "Rue d'Havré",
+        "Rue de Nimy",
+        "Rue de la Chaussée"
+      ],
+      "answer": 0
+    }
+  ],
+  "Au Lion d'Or": [
+    {
+      "question": "Quel élément du bas-relief a disparu au fil du temps ?",
+      "options": [
+        "Le cartouche",
+        "La rue",
+        "Le lion"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "En quelle année le bas-relief 'Au Lion d'Or' a-t-il été créé ?",
+      "options": [
+        "1712",
+        "1800",
+        "1650"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'Au Lion d'Or' ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue des Clercs"
+      ],
+      "answer": 1
+    }
+  ],
+  "Millesime MDCCXII": [
+    {
+      "question": "Quel est le motif visible sur la pierre millésimée ?",
+      "options": [
+        "MDCCXII",
+        "Un blason",
+        "Une fleur"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quelle est l'année gravée sur la pierre millésimée ?",
+      "options": [
+        "1800",
+        "1712",
+        "1600"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve la pierre millésimée MDCCXII ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Fripiers",
+        "Rue d'Havré"
+      ],
+      "answer": 2
+    }
+  ],
+  "A la Clef d'Or": [
+    {
+      "question": "Quel motif est représenté sur l'enseigne de 'À la Clef d'Or' ?",
+      "options": [
+        "Un livre ancien",
+        "Une clé ouvragée",
+        "Une fleur stylisée"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "À quelle époque l'enseigne 'À la Clef d'Or' a-t-elle probablement été réalisée ?",
+      "options": [
+        "Au 17ème siècle",
+        "Au 20ème siècle",
+        "Au 19ème siècle"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'À la Clef d'Or' ?",
+      "options": [
+        "Rue d'Havré",
+        "Rue de la Chaussée",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Tasche d'Argent": [
+    {
+      "question": "Quel matériau est utilisé pour l'enseigne de la Tasche d'Argent ?",
+      "options": [
+        "Métal",
+        "Bois",
+        "Pierre"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "En quelle année l'enseigne de la Tasche d'Argent a-t-elle été restaurée ?",
+      "options": [
+        "1934",
+        "1920",
+        "1945"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne de la Tasche d'Argent ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "A la Balance d'Or": [
+    {
+      "question": "Quel motif est sculpté sur l'enseigne de la Balance d'Or ?",
+      "options": [
+        "Une balance",
+        "Un livre",
+        "Une clé"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année la Balance d'Or a-t-elle été créée ?",
+      "options": [
+        "1800",
+        "1768",
+        "1873"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne de la Balance d'Or à Mons ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Fripiers",
+        "Rue d'Havré"
+      ],
+      "answer": 2
+    }
+  ],
+  "Au Renard": [
+    {
+      "question": "Quel motif est représenté sur le bas-relief de l'enseigne 'Au Renard' ?",
+      "options": [
+        "Un lion majestueux",
+        "Un renard courant",
+        "Une chouette perchée"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "En quelle année l'enseigne 'Au Renard' a-t-elle été créée ?",
+      "options": [
+        "1710",
+        "1735",
+        "1724"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'Au Renard' à Mons ?",
+      "options": [
+        "Rue d'Havré",
+        "Rue de la Chaussée",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Lunette d'Or": [
+    {
+      "question": "Quel motif est sculpté sur la façade de l'enseigne À la Lunette d'Or ?",
+      "options": [
+        "Une montre",
+        "Un livre",
+        "Un binocle"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "À quelle époque le binocle sculpté de l'enseigne À la Lunette d'Or a-t-il été réalisé ?",
+      "options": [
+        "Au 19ème siècle",
+        "Au 18ème siècle",
+        "Au 20ème siècle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne À la Lunette d'Or ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Au Pistolet d'Or": [
+    {
+      "question": "Quel motif est représenté en demi-relief sur l'enseigne 'Au Pistolet d'Or' ?",
+      "options": [
+        "Un pistolet",
+        "Une épée",
+        "Un bouclier"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année l'enseigne 'Au Pistolet d'Or' a-t-elle été créée ?",
+      "options": [
+        "1705",
+        "1711",
+        "1720"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'Au Pistolet d'Or' ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Fripiers",
+        "Rue du Hautbois"
+      ],
+      "answer": 2
+    }
+  ],
+  "A l'Ecaille d'Or": [
+    {
+      "question": "Quel motif est représenté sur l'enseigne de l'Écaille d'Or ?",
+      "options": [
+        "Un poisson",
+        "Une coquille",
+        "Une étoile"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "En quelle année l'enseigne de l'Écaille d'Or a-t-elle été créée ?",
+      "options": [
+        "1800",
+        "1725",
+        "1750"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne de l'Écaille d'Or à Mons ?",
+      "options": [
+        "Rue du Hautbois",
+        "Rue de la Chaussée",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Paile d'Or": [
+    {
+      "question": "Quel motif est représenté sur l'enseigne de 'À la Paile d'Or' ?",
+      "options": [
+        "Un moulin à vent",
+        "Une fourchette",
+        "Une pelle de boulanger"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Quel type de métier est associé à l'enseigne 'À la Paile d'Or' ?",
+      "options": [
+        "Boulanger",
+        "Boucher",
+        "Cuisinier"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'À la Paile d'Or' ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Au Corbeau": [
+    {
+      "question": "Quel oiseau est sculpté sur la porte cochère de l'enseigne 'Au Corbeau' ?",
+      "options": [
+        "Un corbeau",
+        "Un pigeon",
+        "Une hirondelle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "À quelle adresse se trouve l'enseigne 'Au Corbeau' ?",
+      "options": [
+        "Rue de la Chaussée 45",
+        "Rue d'Havré 106",
+        "Rue des Fripiers 12"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel type de motif est utilisé pour l'enseigne 'Au Corbeau' ?",
+      "options": [
+        "Sculpture en bois",
+        "Peinture murale",
+        "Sculpture en pierre"
+      ],
+      "answer": 2
+    }
+  ],
+  "Pelles a enfourner 1573": [
+    {
+      "question": "Quel motif est représenté sur les pelles de boulanger ?",
+      "options": [
+        "Quatre baguettes",
+        "Trois pains",
+        "Une miche de pain"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "En quelle année la pierre des pelles a été réalisée ?",
+      "options": [
+        "1565",
+        "1580",
+        "1573"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Où a été retrouvée la pierre des pelles de boulanger ?",
+      "options": [
+        "Rue d'Havré",
+        "Rue de la Chaussée",
+        "Place du Parc"
+      ],
+      "answer": 0
+    }
+  ],
+  "Au Mousqueton d'Or": [
+    {
+      "question": "Quel motif est représenté en demi-relief sur l'enseigne 'Au Mousqueton d'Or' ?",
+      "options": [
+        "Une épée",
+        "Un bouclier",
+        "Un mousqueton"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "En quelle année l'enseigne 'Au Mousqueton d'Or' a-t-elle été créée ?",
+      "options": [
+        "1726",
+        "1710",
+        "1735"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'Au Mousqueton d'Or' à Mons ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "A la Faux d'Or": [
+    {
+      "question": "Quel motif est représenté sur le bas-relief de l'enseigne 'À la Faux d'Or' ?",
+      "options": [
+        "Une faux",
+        "Un blason",
+        "Une couronne"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année l'enseigne 'À la Faux d'Or' a-t-elle été sculptée ?",
+      "options": [
+        "1715",
+        "1723",
+        "1730"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se situe l'enseigne 'À la Faux d'Or' à Mons ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue de Nimy",
+        "Rue d'Havré"
+      ],
+      "answer": 2
+    }
+  ],
+  "La Croix d'Or Havre": [
+    {
+      "question": "Quel motif caractérise la croix de La Croix d'Or ?",
+      "options": [
+        "Motif en spirale",
+        "Extrémités fleurdelisées",
+        "Croix pattée"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "En quelle année La Croix d'Or a-t-elle été créée ?",
+      "options": [
+        "1750",
+        "1789",
+        "1766"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quelle rue se trouve La Croix d'Or à Mons ?",
+      "options": [
+        "Rue d'Havré",
+        "Rue de la Chaussée",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Licorne": [
+    {
+      "question": "Quel motif est représenté sur le bas-relief de l'enseigne 'À la Licorne' ?",
+      "options": [
+        "Un dragon",
+        "Une sirène",
+        "Un cheval et un heaume"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Quelle est la date associée aux Franeau de Gommegnies, liés à l'enseigne 'À la Licorne' ?",
+      "options": [
+        "XVIe siècle",
+        "XVIIe siècle",
+        "XIXe siècle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'À la Licorne' à Mons ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue d'Havré",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "La Belle Plebeienne": [
+    {
+      "question": "Quel matériau est utilisé pour la sculpture 'La Belle Plébéienne' ?",
+      "options": [
+        "Bronze",
+        "Marbre",
+        "Pierre"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année 'La Belle Plébéienne' a-t-elle été réalisée ?",
+      "options": [
+        "1980",
+        "1974",
+        "1965"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quel parc de Mons se trouve 'La Belle Plébéienne' ?",
+      "options": [
+        "Parc de la Dodaine",
+        "Parc de la Serna",
+        "Parc du Waux-Hall"
+      ],
+      "answer": 2
+    }
+  ],
+  "Buste de la reine Astrid": [
+    {
+      "question": "Quel matériau a été utilisé pour réaliser le buste de la reine Astrid ?",
+      "options": [
+        "Marbre",
+        "Bronze",
+        "Pierre"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "En quelle année l'original du buste de la reine Astrid a-t-il été volé ?",
+      "options": [
+        "2005",
+        "2012",
+        "2009"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quel parc de Mons se trouve le buste de la reine Astrid ?",
+      "options": [
+        "Parc du Waux-Hall",
+        "Parc de la Dodaine",
+        "Parc de la Serna"
+      ],
+      "answer": 0
+    }
+  ],
+  "Armes de Mons Rue de la Clef": [
+    {
+      "question": "Quel est le motif principal des Armes de Mons ?",
+      "options": [
+        "Une scène de chasse",
+        "Un paysage rural",
+        "Un blason"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Quel est le contexte historique des Armes de Mons ?",
+      "options": [
+        "Vestige de l'ancienne Grande Boucherie",
+        "Ancienne enseigne de la Rue des Bouchers",
+        "Monument commémoratif de la guerre"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouvent les Armes de Mons ?",
+      "options": [
+        "Rue des Fripiers",
+        "Rue de la Clef",
+        "Rue de la Boucherie"
+      ],
+      "answer": 1
+    }
+  ],
+  "A la Tete Saint-Jean": [
+    {
+      "question": "Quel motif est représenté sur le bas-relief de l'enseigne ?",
+      "options": [
+        "Tête de saint Jean-Baptiste",
+        "Tête de saint Pierre",
+        "Tête de saint Paul"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "À quelle époque pourrait-on estimer que cette enseigne a été réalisée ?",
+      "options": [
+        "XVIe siècle",
+        "XVIIe siècle",
+        "XVIIIe siècle"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'À la Tête Saint-Jean' ?",
+      "options": [
+        "Rue de la Fontaine",
+        "Rue des Fripiers",
+        "Rue de la Clef"
+      ],
+      "answer": 2
+    }
+  ],
+  "Au Grand Laboureur": [
+    {
+      "question": "Quel est le matériau principal utilisé pour l'inscription de l'enseigne 'Au Grand Laboureur' ?",
+      "options": [
+        "Bois",
+        "Pierre",
+        "Métal"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "À quelle époque remonte l'inscription de l'enseigne 'Au Grand Laboureur' ?",
+      "options": [
+        "XIXe siècle",
+        "XXe siècle",
+        "XVIIIe siècle"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'Au Grand Laboureur' à Mons ?",
+      "options": [
+        "Rue de la Clef",
+        "Rue de la Fontaine",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "Colombe du Saint-Esprit": [
+    {
+      "question": "Quel matériau est utilisé pour la colombe située sur le balcon ?",
+      "options": [
+        "Pierre sculptée",
+        "Bois peint",
+        "Fonte dorée"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "À quelle adresse se trouve la colombe du Saint-Esprit ?",
+      "options": [
+        "Rue de Houdain 13",
+        "Rue de la Chaussée 5",
+        "Place du Parc 10"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel est le symbole représenté par la colombe sur le balcon ?",
+      "options": [
+        "La guerre",
+        "La paix",
+        "La prospérité"
+      ],
+      "answer": 1
+    }
+  ],
+  "Mortier et Pilon": [
+    {
+      "question": "Quel est le matériau principal utilisé pour l'enseigne Mortier et Pilon ?",
+      "options": [
+        "Métal",
+        "Bois",
+        "Verre"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année l'enseigne Mortier et Pilon a-t-elle été posée ?",
+      "options": [
+        "1985",
+        "1995",
+        "2005"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne Mortier et Pilon à Mons ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Fripiers",
+        "Rue de Houdain"
+      ],
+      "answer": 2
+    }
+  ],
+  "A la Bonne Femme": [
+    {
+      "question": "Quel est le matériau principal utilisé pour l'enseigne 'À la Bonne Femme' ?",
+      "options": [
+        "Métal",
+        "Bois",
+        "Pierre"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "En quelle année l'enseigne 'À la Bonne Femme' a-t-elle été créée ?",
+      "options": [
+        "1710",
+        "1735",
+        "1723"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quelle rue se trouvait initialement l'enseigne 'À la Bonne Femme' avant d'être déplacée ?",
+      "options": [
+        "Rue Bertaimont",
+        "Rue de la Chaussée",
+        "Rue de Nimy"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Croix d'Or Croix-Place": [
+    {
+      "question": "Quel motif est représenté sur le bas-relief de l'enseigne 'À la Croix d'Or' ?",
+      "options": [
+        "Un lion",
+        "Une fleur",
+        "Une croix"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "En quelle année l'enseigne 'À la Croix d'Or' a-t-elle été créée ?",
+      "options": [
+        "1936",
+        "1920",
+        "1945"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quelle est la particularité historique de l'emplacement de l'enseigne 'À la Croix d'Or' ?",
+      "options": [
+        "Elle marque la fin de la rue des Clercs",
+        "Elle était le point de juridiction d'Havré",
+        "Elle est la plus ancienne enseigne de Mons"
+      ],
+      "answer": 1
+    }
+  ],
+  "Fontaine Rue de Bertaimont": [
+    {
+      "question": "Quel type de relief caractérise la fontaine située au 31 rue de Bertaimont ?",
+      "options": [
+        "Demi-relief",
+        "Bas-relief",
+        "Relief en plein"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "À quelle époque pourrait-on estimer que cette fontaine a été réalisée ?",
+      "options": [
+        "19ème siècle",
+        "18ème siècle",
+        "20ème siècle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve la fontaine à vasques en demi-relief à Mons ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Clercs",
+        "Rue de Bertaimont"
+      ],
+      "answer": 2
+    }
+  ],
+  "Croix plume et pinceau": [
+    {
+      "question": "Quel motif est représenté dans la ferronnerie de la Croix plume et pinceau ?",
+      "options": [
+        "Étoile et lune",
+        "Croix, plume et pinceau",
+        "Fleur de lys"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "À quel chanoine est liée cette belle ferronnerie ?",
+      "options": [
+        "Chanoine Dupont",
+        "Chanoine Martin",
+        "Chanoine Puissant"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quelle rue se trouve la Croix plume et pinceau ?",
+      "options": [
+        "Rue Terre du Prince",
+        "Rue de la Résistance",
+        "Rue des Combattants"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Grande Rose": [
+    {
+      "question": "Quel motif est représenté sur le bas-relief de l'enseigne 'À la Grande Rose' ?",
+      "options": [
+        "Un lion",
+        "Une couronne",
+        "Une rose sculptée"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "De quelle époque date le remploi de la rose sculptée ?",
+      "options": [
+        "XVIe siècle",
+        "XVIIIe siècle",
+        "XVe siècle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'À la Grande Rose' ?",
+      "options": [
+        "Rue des Fripiers",
+        "Rue de la Poterie",
+        "Rue de la Résistance"
+      ],
+      "answer": 1
+    }
+  ],
+  "Chateau de le Marcote": [
+    {
+      "question": "Quel motif animal est sculpté sur l'enseigne du Château de le Marcote ?",
+      "options": [
+        "Trois belettes",
+        "Deux renards",
+        "Quatre lapins"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année l'enseigne du Château de le Marcote a-t-elle été sculptée ?",
+      "options": [
+        "1702",
+        "1689",
+        "1650"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quelle est la particularité de la maison au 33 rue des Marcottes à Mons ?",
+      "options": [
+        "C'est un ancien hôtel de ville",
+        "C'est une ancienne chapelle",
+        "C'est la maison la plus étroite"
+      ],
+      "answer": 2
+    }
+  ],
+  "16 IHS 93": [
+    {
+      "question": "Quel est le motif principal visible sur le bas-relief au 38 rue des Groseilliers ?",
+      "options": [
+        "Une croix latine",
+        "Un Christogramme",
+        "Un blason"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quelle est l'année de datation du Christogramme ?",
+      "options": [
+        "1685",
+        "1701",
+        "1693"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quelle rue se trouve le Christogramme daté de 1693 à Mons ?",
+      "options": [
+        "Rue des Groseilliers",
+        "Rue de la Chaussée",
+        "Rue de la Résistance"
+      ],
+      "answer": 0
+    }
+  ],
+  "Cheval Dore": [
+    {
+      "question": "Quel motif est sculpté sur la clé de l'entrée du Cheval Dore ?",
+      "options": [
+        "Un lion",
+        "Une fleur",
+        "Un cheval"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "À quelle époque le Cheval Dore a-t-il été sculpté ?",
+      "options": [
+        "Au 19ème siècle",
+        "Au 18ème siècle",
+        "Au 20ème siècle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve le Cheval Dore à Mons ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue du Parc",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Bas-relief litterature montoise": [
+    {
+      "question": "Quel matériau est utilisé pour la plaque dédiée aux créateurs de la littérature montoise ?",
+      "options": [
+        "Bronze",
+        "Marbre",
+        "Pierre"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qui est l'auteur de la plaque de bronze honorant les écrivains montois ?",
+      "options": [
+        "Henri Delmotte",
+        "Gustave Jacobs",
+        "Charles Letellier"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve la plaque dédiée à la littérature montoise ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Clercs",
+        "Jardin du Mayeur"
+      ],
+      "answer": 2
+    }
+  ],
+  "A la Coupe d'Or": [
+    {
+      "question": "Quel type d'objet est représenté en haut-relief à l'enseigne 'À la Coupe d'Or' ?",
+      "options": [
+        "Une coupe",
+        "Un ciboire",
+        "Un chandelier"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "À quelle époque le ciboire sculpté de 'À la Coupe d'Or' a-t-il été réalisé ?",
+      "options": [
+        "Au 18ème siècle",
+        "Au 19ème siècle",
+        "Au 17ème siècle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'À la Coupe d'Or' ?",
+      "options": [
+        "Rue de la Coupe",
+        "Rue de la Paix",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "A Saint-Antoine": [
+    {
+      "question": "Quel motif est représenté sur le bas-relief à Saint-Antoine ?",
+      "options": [
+        "Saint Pierre et son poisson",
+        "Saint Jacques et sa coquille",
+        "Saint Antoine et son cochon"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Quelle est la date approximative de création de la chapelle dédiée à Saint-Antoine ?",
+      "options": [
+        "XVIIe siècle",
+        "XVIe siècle",
+        "XVIIIe siècle"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quelle rue se situe le point de visite A Saint-Antoine ?",
+      "options": [
+        "Rue des Fripiers",
+        "Rue de la Coupe",
+        "Rue de la Résistance"
+      ],
+      "answer": 1
+    }
+  ],
+  "Au Paon et au Cygne": [
+    {
+      "question": "Quels animaux sont représentés dans les frontons de l'enseigne 'Au Paon et au Cygne' ?",
+      "options": [
+        "Paon et cygne",
+        "Aigle et héron",
+        "Chien et chat"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel est le numéro de la rue où se situe l'enseigne 'Au Paon et au Cygne' ?",
+      "options": [
+        "15",
+        "22",
+        "30"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue historique de Mons se trouve l'enseigne 'Au Paon et au Cygne' ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Clercs",
+        "Rue des Fripiers"
+      ],
+      "answer": 2
+    }
+  ],
+  "Cartouche et blason Grande Triperie": [
+    {
+      "question": "Quel motif est représenté sur le cartouche de la Grande Triperie ?",
+      "options": [
+        "Écu",
+        "Mascaron",
+        "Chien-lion"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "À quelle époque pourrait-on estimer que le blason a été réalisé ?",
+      "options": [
+        "XVIe siècle",
+        "XIXe siècle",
+        "XVIIIe siècle"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quelle rue se trouve la Grande Triperie à Mons ?",
+      "options": [
+        "Rue de la Grande Triperie",
+        "Rue de la Petite Triperie",
+        "Rue des Bouchers"
+      ],
+      "answer": 0
+    }
+  ],
+  "Le Gant": [
+    {
+      "question": "Quel motif est représenté sur le bas-relief de l'enseigne Le Gant ?",
+      "options": [
+        "Une chaussure",
+        "Un chapeau",
+        "Un gant"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "En quelle année l'enseigne Le Gant a-t-elle été sculptée ?",
+      "options": [
+        "1718",
+        "1720",
+        "1705"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne Le Gant à Mons ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Grand'Rue",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "BF IHS IL": [
+    {
+      "question": "Quel motif est présent sur le Christogramme BF IHS IL ?",
+      "options": [
+        "Cœur et trois clous",
+        "Croix et couronne",
+        "Ange et étoile"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "À quelle époque le Christogramme BF IHS IL a-t-il probablement été réalisé ?",
+      "options": [
+        "XVIe siècle",
+        "XVIIIe siècle",
+        "XXe siècle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve le Christogramme BF IHS IL à Mons ?",
+      "options": [
+        "Rue des Fripiers",
+        "Rue de la Chaussée",
+        "Grand'Rue"
+      ],
+      "answer": 2
+    }
+  ],
+  "A la Couronne Grand Rue": [
+    {
+      "question": "Quel motif est représenté en bas-relief sur l'enseigne de 'À la Couronne' ?",
+      "options": [
+        "Un lion",
+        "Une couronne comtale",
+        "Une fleur de lys"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "À quelle époque la couronne comtale a-t-elle été sculptée ?",
+      "options": [
+        "Au 18ème siècle",
+        "Au 17ème siècle",
+        "Au 19ème siècle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se situe l'enseigne 'À la Couronne' ?",
+      "options": [
+        "Grand'Rue",
+        "Rue de la Chaussée",
+        "Rue des Fripiers"
+      ],
+      "answer": 0
+    }
+  ],
+  "A la Ville d'Avesnes": [
+    {
+      "question": "Quel motif est représenté en bas-relief sur l'enseigne 'À la Ville d'Avesnes' ?",
+      "options": [
+        "Un paysage montois",
+        "Une scène de marché",
+        "Une représentation d'Avesnes"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "En quelle année l'enseigne 'À la Ville d'Avesnes' a-t-elle été créée ?",
+      "options": [
+        "1724",
+        "1710",
+        "1735"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'À la Ville d'Avesnes' ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Grand'Rue",
+        "Rue des Fripiers"
+      ],
+      "answer": 1
+    }
+  ],
+  "Cantoria Roland de Lassus": [
+    {
+      "question": "Quel matériau est utilisé pour les trois chantres du monument à Roland de Lassus ?",
+      "options": [
+        "Bronze",
+        "Marbre",
+        "Pierre"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "En quelle année le monument à Roland de Lassus a-t-il été inauguré ?",
+      "options": [
+        "1965",
+        "1970",
+        "1980"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans quelle rue se trouve le monument à Roland de Lassus à Mons ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue des Fripiers",
+        "Rue du Chapitre"
+      ],
+      "answer": 2
+    }
+  ],
+  "Loge maconnique Rue Chisaire": [
+    {
+      "question": "Quels symboles sont visibles sur la façade de la Loge maçonnique ?",
+      "options": [
+        "Symboles religieux",
+        "Symboles maçonniques",
+        "Symboles militaires"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "En quelle année la Loge maçonnique a-t-elle été fondée ?",
+      "options": [
+        "1804",
+        "1850",
+        "1776"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quelle rue se situe la Loge maçonnique à Mons ?",
+      "options": [
+        "Rue Chisaire",
+        "Rue de la Chaussée",
+        "Rue de Nimy"
+      ],
+      "answer": 0
+    }
+  ],
+  "St Franciscus Kring": [
+    {
+      "question": "Quel est le nom de l'ancienne maison située au 31 rue Masquelier ?",
+      "options": [
+        "Maison des Wallons",
+        "Maison des Belges",
+        "Maison des Flamands"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Quel type de bâtiment est le St Franciscus Kring ?",
+      "options": [
+        "Une maison",
+        "Une église",
+        "Un musée"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve le St Franciscus Kring à Mons ?",
+      "options": [
+        "Rue de la Chaussée",
+        "Rue Masquelier",
+        "Rue de Nimy"
+      ],
+      "answer": 1
+    }
+  ],
+  "Rue Cronque": [
+    {
+      "question": "Quel est le sens du mot 'cronque' en parler montois ?",
+      "options": [
+        "Sinueux",
+        "Large",
+        "Droit"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quelle caractéristique notable peut-on trouver dans le pavage de la Rue Cronque ?",
+      "options": [
+        "Un ancien puits",
+        "Une croix mystérieuse",
+        "Une fontaine"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Vers quel lieu la Rue Cronque mène-t-elle ?",
+      "options": [
+        "La Grand-Place",
+        "La collégiale Saint-Vincent",
+        "Le parc du Château"
+      ],
+      "answer": 2
+    }
+  ],
+  "Chasse du Bon Dieu": [
+    {
+      "question": "Quel type de voie est la Chasse du Bon Dieu à Mons ?",
+      "options": [
+        "Une grande avenue",
+        "Une venelle étroite",
+        "Une place publique"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel est le nom du Christ qui a inspiré le nom de cette chasse ?",
+      "options": [
+        "Christ de la Miséricorde",
+        "Christ des Miracles",
+        "Bon Dieu de Pitié"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Quel aspect du vieux Mons est représenté par la Chasse du Bon Dieu ?",
+      "options": [
+        "Le tissu urbain ancien",
+        "Les boulevards modernes",
+        "Les grandes places"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rampe Borgnagache": [
+    {
+      "question": "Quel oiseau est associé au nom 'Borgnagache' dans le dialecte montois ?",
+      "options": [
+        "Le merle",
+        "Le pigeon",
+        "La pie"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Qui sont les fondateurs de l'hôpital lié au nom 'Borgnagache' ?",
+      "options": [
+        "Jean et Jacques Borgnagache",
+        "Pierre et Paul Dupont",
+        "Marie et Louis Martin"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quel quartier de Mons se trouve la rampe Borgnagache ?",
+      "options": [
+        "Le quartier de la Grand-Place",
+        "Le quartier de la collégiale",
+        "Le quartier de la gare"
+      ],
+      "answer": 1
+    }
+  ],
+  "Rue de la Grosse Pomme": [
+    {
+      "question": "Quel événement traditionnel passait par la Rue de la Grosse Pomme ?",
+      "options": [
+        "La procession du Car d’Or",
+        "Le carnaval de Mons",
+        "La foire de Saint-Vincent"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel est le lien entre la Rue de la Grosse Pomme et l'ancienne enceinte médiévale ?",
+      "options": [
+        "Elle était une voie de commerce",
+        "Elle conserve la mémoire d'un mur défensif",
+        "Elle était le site d'un château"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel monument se trouve à proximité de la Rue de la Grosse Pomme ?",
+      "options": [
+        "Le beffroi de Mons",
+        "La Grand-Place de Mons",
+        "La collégiale Sainte-Waudru"
+      ],
+      "answer": 2
+    }
+  ],
+  "Rue des Cinq Visages": [
+    {
+      "question": "Quel est le nom de la rue qui évoque un mystère lié à cinq visages ?",
+      "options": [
+        "Rue de la Collégiale",
+        "Rue des Cinq Visages",
+        "Rue du Beffroi"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "La Rue des Cinq Visages suit approximativement le tracé de quelle ancienne structure ?",
+      "options": [
+        "Un aqueduc romain",
+        "Un canal industriel",
+        "Une enceinte médiévale"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quel quartier de Mons se situe la Rue des Cinq Visages ?",
+      "options": [
+        "Quartier de la collégiale Sainte-Waudru",
+        "Quartier de la Grand-Place",
+        "Quartier des Arts"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rampe Sainte Waudru": [
+    {
+      "question": "Quel événement se déroule chaque dimanche de la Trinité sur la rampe Sainte-Waudru ?",
+      "options": [
+        "Une foire artisanale est organisée",
+        "Des concerts de musique classique sont donnés",
+        "Le Car d'Or doit gravir la rampe sans s'arrêter"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Quelle est la conséquence si le Car d'Or s'arrête sur la rampe ?",
+      "options": [
+        "Un malheur frappera la ville dans l'année",
+        "La procession sera annulée",
+        "Le char ne pourra plus être utilisé"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "La rampe Sainte-Waudru mène à quel monument emblématique de Mons ?",
+      "options": [
+        "Le beffroi de Mons",
+        "La collégiale Sainte-Waudru",
+        "La Grand-Place de Mons"
+      ],
+      "answer": 1
+    }
+  ],
+  "Rue de la Voussure": [
+    {
+      "question": "Quel élément architectural est désigné par le terme 'voussure' ?",
+      "options": [
+        "Voûte",
+        "Fenêtre",
+        "Colonne"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Sous quel édifice passait le passage voûté de la Rue de la Voussure ?",
+      "options": [
+        "Collégiale Sainte-Waudru",
+        "Église Saint-Germain",
+        "Beffroi de Mons"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quelle est la longueur approximative de la Rue de la Voussure ?",
+      "options": [
+        "100 mètres",
+        "25 mètres",
+        "50 mètres"
+      ],
+      "answer": 2
+    }
+  ],
+  "Rue à Degrés": [
+    {
+      "question": "Quel type de rue est la rue à Degrés ?",
+      "options": [
+        "Une rue piétonne",
+        "Un escalier",
+        "Une rue commerçante"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quelle œuvre d'art se trouve dans la rue à Degrés ?",
+      "options": [
+        "Un portrait de la ville",
+        "Une sculpture en bronze",
+        "Une fresque de Nevercrew"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quel quartier de Mons se situe la rue à Degrés ?",
+      "options": [
+        "Quartier Rachot",
+        "Quartier de la Grand-Place",
+        "Quartier du Beffroi"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rue de la Peine Perdue": [
+    {
+      "question": "Quel type d'architecture caractérise l'église Sainte-Élisabeth, située près de la Rue de la Peine Perdue ?",
+      "options": [
+        "Renaissance",
+        "Moderne",
+        "Baroque et gothique"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Quel est le sens de l'expression 'peine perdue' qui a inspiré le nom de cette rue ?",
+      "options": [
+        "Un effort vain",
+        "Un succès assuré",
+        "Une récompense méritée"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quel quartier de Mons se trouve la Rue de la Peine Perdue ?",
+      "options": [
+        "Quartier de la Grand-Place",
+        "Quartier de Vieux Mons",
+        "Quartier de la Collégiale"
+      ],
+      "answer": 1
+    }
+  ],
+  "Cour du Noir Lévrier": [
+    {
+      "question": "Quel animal est associé à la Cour du Noir Lévrier ?",
+      "options": [
+        "Un lévrier noir",
+        "Un chat",
+        "Un cheval"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel autre lieu de Mons partage une référence à un lévrier dans son nom ?",
+      "options": [
+        "La Rue des Artisans",
+        "Le Blanc Lévrier",
+        "La Place du Marché"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel type d'espace est la Cour du Noir Lévrier ?",
+      "options": [
+        "Une grande avenue",
+        "Un parc public",
+        "Une impasse pavée"
+      ],
+      "answer": 2
+    }
+  ],
+  "Cour de l'Âne Barré": [
+    {
+      "question": "Quel est le sens du terme 'barré' en référence à l'âne dans le nom de cette cour ?",
+      "options": [
+        "Un âne enchaîné",
+        "Marqué d'une raie sombre sur le dos",
+        "Un âne de petite taille"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pourquoi les enseignes comme celle de l'Âne Barré étaient-elles importantes pour les analphabètes ?",
+      "options": [
+        "Elles indiquaient la qualité des établissements",
+        "Elles étaient des symboles de pouvoir",
+        "Elles servaient de repères pour se retrouver"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "À proximité de quelle célèbre place se trouve la Cour de l'Âne Barré ?",
+      "options": [
+        "La Grand-Place",
+        "La Place du Parc",
+        "La Place du Marché"
+      ],
+      "answer": 0
+    }
+  ],
+  "Ruelle aux Quinettes": [
+    {
+      "question": "Quel est le nom historique probable de la Ruelle aux Quinettes ?",
+      "options": [
+        "Rachot",
+        "Cronque",
+        "Hocquinette"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quel quartier se situe la Ruelle aux Quinettes ?",
+      "options": [
+        "Quartier Rachot",
+        "Grand-Place",
+        "Quartier des Arts"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel aspect caractérise la Ruelle aux Quinettes ?",
+      "options": [
+        "Elle est très large",
+        "Elle est très intime et étroite",
+        "Elle est bordée de monuments historiques"
+      ],
+      "answer": 1
+    }
+  ],
+  "Rue des Clercs": [
+    {
+      "question": "Quel bâtiment emblématique peut être aperçu depuis la rue des Clercs ?",
+      "options": [
+        "Le beffroi",
+        "La collégiale Saint-Waudru",
+        "Le musée des beaux-arts"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel est le lien historique des clercs avec la rue des Clercs ?",
+      "options": [
+        "Ils étaient des artisans du cuir",
+        "Ils étaient des gens d’écriture et d’Église",
+        "Ils étaient des marchands de vin"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quelle maison, située dans la rue des Clercs, est devenue Maison des patrimoines UNESCO ?",
+      "options": [
+        "La Maison des Métiers",
+        "La Maison des Arts",
+        "La Maison espagnole"
+      ],
+      "answer": 2
+    }
+  ],
+  "Rampe du Château": [
+    {
+      "question": "Quel type de revêtement est utilisé sur la Rampe du Château ?",
+      "options": [
+        "Bitume",
+        "Pavé",
+        "Gravier"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel monument historique se trouvait à l'emplacement de la Rampe du Château avant le beffroi baroque ?",
+      "options": [
+        "La collégiale Sainte-Waudru",
+        "Le Palais des Princes-Évêques",
+        "Le château des comtes de Hainaut"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "La Rampe du Château est située dans quel secteur de Mons ?",
+      "options": [
+        "Le quartier du beffroi",
+        "Le quartier de la Grand-Place",
+        "Le quartier des Arts"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rue des Gades": [
+    {
+      "question": "Que signifie le terme 'Gades' en parler montois ?",
+      "options": [
+        "Champs",
+        "Rivières",
+        "Chèvres"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Quel type de pavage caractérise la Rue des Gades ?",
+      "options": [
+        "Pavés",
+        "Gravier",
+        "Bitume"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "La Rue des Gades est située près de quel monument emblématique de Mons ?",
+      "options": [
+        "La collégiale",
+        "Le beffroi",
+        "La Grand-Place"
+      ],
+      "answer": 1
+    }
+  ],
+  "Cour du Bailly": [
+    {
+      "question": "Quel type d'espace représente la Cour du Bailly dans le contexte médiéval de Mons ?",
+      "options": [
+        "Un espace de service et de passage",
+        "Un lieu de culte",
+        "Un marché public"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel était le rôle du bailli dans le contexte historique de Mons ?",
+      "options": [
+        "Chef militaire",
+        "Représentant du prince",
+        "Artisan local"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "La Cour du Bailly est située derrière un ancien château. Quel est le nom de ce château ?",
+      "options": [
+        "Château de la Duchesse",
+        "Château de la Grand-Place",
+        "Château comtal"
+      ],
+      "answer": 2
+    }
+  ],
+  "Ruelle du Cerf Blanc": [
+    {
+      "question": "Quel type de maisons peut-on trouver dans la Ruelle du Cerf Blanc ?",
+      "options": [
+        "Maisons modernes",
+        "Maisons du XVIIe siècle",
+        "Maisons en bois"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Que symbolise le cerf blanc dans l'imagerie ancienne ?",
+      "options": [
+        "Un animal de compagnie",
+        "Un symbole de la guerre",
+        "Une créature rare et magique"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dans quel quartier de Mons se situe la Ruelle du Cerf Blanc ?",
+      "options": [
+        "Quartier du Parc",
+        "Quartier de la Grand-Place",
+        "Quartier de la Collégiale"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rue de l'Âtre": [
+    {
+      "question": "Quel est le sens du mot 'âtre' dans le contexte de la Rue de l'Âtre ?",
+      "options": [
+        "Un type de monument",
+        "Un quartier historique",
+        "Le foyer de la maison"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "En quelle année l'église Saint-Nicolas-en-Havré a-t-elle été fondée ?",
+      "options": [
+        "1224",
+        "1300",
+        "1450"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel élément religieux est documenté contre la façade latérale de l'église Saint-Nicolas-en-Havré ?",
+      "options": [
+        "Une statue de Saint Nicolas",
+        "Un Christ douloureux",
+        "Un vitrail représentant la Vierge"
+      ],
+      "answer": 1
+    }
+  ],
+  "Rue des Trois Boudins": [
+    {
+      "question": "Quel bâtiment se trouve à proximité de la Rue des Trois Boudins ?",
+      "options": [
+        "Le Mundaneum",
+        "La Collégiale Sainte-Waudru",
+        "Le Beffroi de Mons"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "D'où provient probablement le nom 'Rue des Trois Boudins' ?",
+      "options": [
+        "D'une blague de quartier",
+        "D'une enseigne de triperie",
+        "D'un événement historique"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel style architectural est visible sur la façade du Mundaneum ?",
+      "options": [
+        "Gothique",
+        "Baroque",
+        "Expressionnisme de l'École d'Amsterdam"
+      ],
+      "answer": 2
+    }
+  ],
+  "Rue des Quatre Fils Aymon": [
+    {
+      "question": "Quel est le nom du cheval légendaire associé aux Quatre Fils Aymon ?",
+      "options": [
+        "Braveheart",
+        "Bayard",
+        "Tornado"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel type de bâtiment se trouve au n°14 de la Rue des Quatre Fils Aymon ?",
+      "options": [
+        "Une église",
+        "Un musée",
+        "Un ancien hôtel de maître"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Quel est le thème principal de la légende des Quatre Fils Aymon ?",
+      "options": [
+        "La fuite de Charlemagne",
+        "La conquête de Mons",
+        "La fondation de la Grand-Place"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rue des Fillettes": [
+    {
+      "question": "Quel est le lien historique de la Rue des Fillettes avec la prostitution ?",
+      "options": [
+        "Elle était un lieu de rencontre pour les artistes",
+        "Elle était un marché aux fleurs",
+        "Elle était liée à la prostitution médiévale"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "En quelle année la Rue des Fillettes est-elle mentionnée dans un document communal ?",
+      "options": [
+        "1543",
+        "1602",
+        "1450"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel quartier de Mons est à proximité de la Rue des Fillettes ?",
+      "options": [
+        "Le quartier des arts",
+        "Le quartier des plaisirs",
+        "Le quartier historique"
+      ],
+      "answer": 1
+    }
+  ],
+  "Rue de la Terre du Prince": [
+    {
+      "question": "Quel type de vestiges peut-on observer dans la Rue de la Terre du Prince ?",
+      "options": [
+        "Des vestiges de l'ancienne enceinte de Mons",
+        "Des ruines d'un ancien château",
+        "Des fondations d'une église"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel était le domaine associé au nom 'Terre du Prince' ?",
+      "options": [
+        "Le domaine des ducs de Brabant",
+        "Le domaine des comtes de Hainaut",
+        "Le domaine des rois de France"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "La Rue de la Terre du Prince se situe à proximité de quel type de structure historique ?",
+      "options": [
+        "Une collégiale",
+        "Une gare",
+        "Un beffroi"
+      ],
+      "answer": 2
+    }
+  ],
+  "Rue des Sœurs Grises": [
+    {
+      "question": "Quelle couleur caractérisait l'habit des sœurs grises ?",
+      "options": [
+        "Noir",
+        "Gris cendré",
+        "Blanc"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel type de communauté religieuse étaient les sœurs grises ?",
+      "options": [
+        "Bénédictines",
+        "Cisterciennes",
+        "Tertiaires franciscaines"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Quel autre point de Mons partage une histoire similaire avec la rue des Sœurs Grises ?",
+      "options": [
+        "Rue des Sœurs Noires",
+        "Place du Chapitre",
+        "Avenue des Chanoinesses"
+      ],
+      "answer": 0
+    }
+  ],
+  "Rue de la Petite Guirlande": [
+    {
+      "question": "Quel événement traditionnel passe par la Rue de la Petite Guirlande ?",
+      "options": [
+        "La Ducasse de Mons",
+        "Le Carnaval de Binche",
+        "La Procession du Car d’Or"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Quel est le sens du nom 'Petite Guirlande' dans le contexte de cette rue ?",
+      "options": [
+        "Une décoration festive",
+        "Un ancien métier",
+        "Un type de bâtiment"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quelle est la direction générale de la Rue de la Petite Guirlande par rapport à la gare ?",
+      "options": [
+        "Vers l'est",
+        "Vers l'ouest",
+        "Vers le sud"
+      ],
+      "answer": 1
+    }
+  ],
+  "La clé rouge": [
+    {
+      "question": "Quel motif est sculpté sur l'enseigne de 'La clé rouge' ?",
+      "options": [
+        "Un lion",
+        "Une grande clé",
+        "Une fleur"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "À quelle époque pourrait-on estimer que l'enseigne a été réalisée, en se basant sur le style de burinage ?",
+      "options": [
+        "XVIIIe siècle",
+        "XXe siècle",
+        "XIXe siècle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dans quelle rue se trouve l'enseigne 'La clé rouge' ?",
+      "options": [
+        "Rue de Nimy",
+        "Rue de la Clé d'Or",
+        "Rue de la Paix"
+      ],
+      "answer": 0
+    }
+  ]
+};

@@ -1,0 +1,277 @@
+{
+  "Lola Goies Rue du Miroir": [
+    {"question": "Quel motif principal déambule dans la ville, de nuit, sur cette fresque ?", "options": ["Un saint Georges à cheval", "Un dragon qui traverse Mons", "Les géants de Messines"], "answer": 1},
+    {"question": "Quelle école a formé Lola Goies, auteure de cette fresque ?", "options": ["ARTS², l'école supérieure des arts de Mons", "La Cambre à Bruxelles", "L'Académie royale des Beaux-Arts de Liège"], "answer": 0},
+    {"question": "Avec quel thème local le motif du dragon dialogue-t-il ici, au-delà du nom de la rue ?", "options": ["Le Mundaneum et la Classification décimale", "Le marché dominical du Béguinage", "La Ducasse de Mons et le thème du miroir"], "answer": 2}
+  ],
+  "Eva Badalamenti Passage de l'ilot": [
+    {"question": "Que transforme cette fresque dans le passage de l'Îlot ?", "options": ["Un ancien puits en fontaine monumentale", "Un tunnel ferroviaire en galerie souterraine", "Un simple lieu de traverse en point d'arrêt visuel"], "answer": 2},
+    {"question": "Dans quel cadre Eva Badalamenti a-t-elle réalisé cette œuvre ?", "options": ["Comme artiste invitée du collectif Farm Prod", "En tant qu'étudiante d'ARTS²", "Lors d'une résidence du Mundaneum"], "answer": 1},
+    {"question": "Où se situe précisément cette fresque ?", "options": ["Dans le passage de l'Îlot", "Rue du Mont du Parc", "Au Marché-aux-Poissons"], "answer": 0}
+  ],
+  "Laurence Vray Instant suspendu": [
+    {"question": "Quels motifs traverse surtout « Instant suspendu » ?", "options": ["L'intime, l'eau et la légèreté", "Le combat du Lumeçon", "Les lames du tarot"], "answer": 0},
+    {"question": "Quel médium Laurence Vray emploie-t-elle ici comme une pause dans le trajet ?", "options": ["La sérigraphie sur toile", "Le pochoir photographique", "La photographie"], "answer": 2},
+    {"question": "Où cette artiste montoise a-t-elle installé l'œuvre ?", "options": ["Rue des Barbelés, sur les murs de la prison", "Rue d'Enghien 19", "Place Léopold"], "answer": 1}
+  ],
+  "Atelier Pica Pica Panorama": [
+    {"question": "Que cherche Atelier Pica Pica dans ce panorama ?", "options": ["Un portrait impérial de Charles Quint", "Les formes et les ombres qui appartiennent à la ville", "Un bestiaire de carpes koï"], "answer": 1},
+    {"question": "Qui compose le trio Atelier Pica Pica ?", "options": ["Boris Magotteaux, Manuel Falcata et Jérome Degive", "Jérôme Meynen et Antoine Detaille", "Draw et Contra"], "answer": 0},
+    {"question": "Comment le passage est-il conçu dans cette œuvre ?", "options": ["Comme une salle d'archives du Mundaneum", "Comme une cage à oiseaux ouverte", "Comme une petite scène de théâtre mural"], "answer": 2}
+  ],
+  "Hell'O Folks": [
+    {"question": "Quel mélange visuel caractérise cette fresque de Hell'O ?", "options": ["Uniquement du lettrage graffiti classique", "Un portrait académique à la manière de Van Ysendick", "Des symboles mystico-ésotériques associés à des figures de cartoons et de bédés"], "answer": 2},
+    {"question": "Que laisse de côté le duo, issu du graff, pour cette œuvre ?", "options": ["La peinture et l'encre", "Le lettrage, au profit du papier, de la peinture et du dessin à l'encre", "Toute référence au folklore"], "answer": 1},
+    {"question": "Sur quel thème montois l'œuvre s'appuie-t-elle aussi ?", "options": ["Le Doudou", "Le beffroi baroque", "La Classification décimale universelle"], "answer": 0}
+  ],
+  "Kobra Torre de Saber": [
+    {"question": "Quelle présence le titre « Torre de Saber » donne-t-il à l'image ?", "options": ["Celle d'une tour du savoir, presque symbolique", "Celle d'un dragon du Lumeçon", "Celle d'une nature morte du XVIIe siècle"], "answer": 0},
+    {"question": "Quel type de composition Kobra privilégie-t-il ici ?", "options": ["Un pochoir photographique de petit format", "Une installation de mots lumineux", "Un format monumental, aux couleurs franches et aux lignes dynamiques"], "answer": 2},
+    {"question": "Dans quelle rue cette fresque a-t-elle été peinte ?", "options": ["Rue du Rossignol", "Rue du Mont du Parc", "Rue des Chartriers"], "answer": 1}
+  ],
+  "Olivier Sonck Ivre d'histoires": [
+    {"question": "Que mêle « Ivre d'histoires » sur les murs de la prison ?", "options": ["Uniquement des portraits impériaux", "Image, texte et mémoire", "Des carpes koï éclairées"], "answer": 1},
+    {"question": "D'où viennent les récits qui nourrissent la fresque ?", "options": ["D'ateliers sur les souvenirs d'enfance, menés avec des détenus puis des habitants", "D'un manuscrit de Roland de Lassus", "Des archives du Mundaneum"], "answer": 0},
+    {"question": "Où cette fresque a-t-elle été réalisée ?", "options": ["Rue de Nimy 126", "Square Saint-Germain", "Sur les murs de la prison, rue des Barbelés"], "answer": 2}
+  ],
+  "Arts2 Tunnel de la Paix": [
+    {"question": "Quel thème les étudiants ont-ils choisi pour ce tunnel ?", "options": ["Le tarot", "La retraite aux flambeaux", "La paix"], "answer": 2},
+    {"question": "Qui a accompagné cette vingtaine d'étudiants d'ARTS² ?", "options": ["Andrea Ravo Mattoni", "Piet Rodriguez, connu pour ses fresques monumentales", "Robert Montgomery"], "answer": 1},
+    {"question": "Que devient le tunnel de la rue de la Croix-Rouge grâce à cette fresque ?", "options": ["Un lieu de passage transformé en espace de réflexion", "Une réplique de la collégiale Sainte-Waudru", "Un marché couvert"], "answer": 0}
+  ],
+  "Zesar Bahamonte Saint Georges": [
+    {"question": "Quelle figure Zësar Bahamonte fait-il entrer dans le paysage urbain ?", "options": ["Saint Georges", "Sainte Waudru et ses filles", "Paul Otlet"], "answer": 0},
+    {"question": "D'où vient cet artiste muraliste ?", "options": ["Du Portugal", "De Russie", "D'Espagne"], "answer": 2},
+    {"question": "Où cette fresque se trouve-t-elle ?", "options": ["Rue du Rossignol", "Rue du Grand Jour 29", "Boulevard Charles Quint"], "answer": 1}
+  ],
+  "Andrea Ravo Mattoni Rue de Nimy 126": [
+    {"question": "Quelle lumière organise la scène, parfois désignée comme « Les bougies » ?", "options": ["Un néon publicitaire", "Celle, en clair-obscur, de la retraite aux flambeaux", "Celle des carpes koï"], "answer": 1},
+    {"question": "Comment Andrea Ravo Mattoni intervient-il sur le mur ?", "options": ["Sans dessin préparatoire, directement au spray", "Uniquement au pochoir photographique", "Par collage de papiers découpés"], "answer": 0},
+    {"question": "Quels maîtres nourrissent cette composition unique ?", "options": ["Anto Carte, Louis Buisseret et Antoine Clesse", "Rubens, Memling et Van Eyck", "Vélasquez, Le Caravage et John William Waterhouse"], "answer": 2}
+  ],
+  "Pierre Liebaert Je crois aux nuits": [
+    {"question": "Que invite à regarder « Je crois aux nuits » ?", "options": ["Les cartes du tarot en haut de façade", "Un Quetzal et des fleurs mexicaines", "Ce qui persiste dans l'ombre : gestes anciens, processions, figures de carnaval"], "answer": 2},
+    {"question": "Quelle est la pratique principale de Pierre Liebaert ?", "options": ["Le lettrage graffiti", "La photographie", "La sculpture monumentale"], "answer": 1},
+    {"question": "À quels sujets Liebaert s'attache-t-il souvent ?", "options": ["Des sujets vécus de l'intérieur, sur le temps long", "Des commandes publicitaires uniquement", "Des cartes du Mundaneum"], "answer": 0}
+  ],
+  "Godmess Third Rua Storytelling": [
+    {"question": "Quel point de départ ont choisi Godmess et Third Rua ?", "options": ["Les dessins d'enfants montois", "Un portrait de Charles Quint", "Les Gayoles traditionnelles"], "answer": 0},
+    {"question": "D'où viennent ces deux artistes ?", "options": ["De Suisse", "Des États-Unis", "Du Portugal"], "answer": 2},
+    {"question": "Où la fresque a-t-elle été peinte ?", "options": ["Rue des Capucins", "À la Cour du Petit Marché, rue de Nimy", "Place du Béguinage"], "answer": 1}
+  ],
+  "Noir Artist Don't sleep on your dream": [
+    {"question": "Quels univers se croisent dans cette fresque ?", "options": ["Uniquement le folklore du Lumeçon", "La publicité, le pop art, l'art baroque et la calligraphie", "Les natures mortes du XVIIe siècle"], "answer": 1},
+    {"question": "Quel est le vrai nom de Noir Artist ?", "options": ["Lucien Gilson", "Matteo Capobianco", "Fabio Lopez"], "answer": 0},
+    {"question": "Dans quelle rue montoise cette fresque s'inscrit-elle ?", "options": ["Rue d'Enghien", "Rue des Barbelés", "Rue de Nimy"], "answer": 2}
+  ],
+  "Andrea Ravo Mattoni Charles Quint": [
+    {"question": "Quelle image Andrea Ravo Mattoni réinterprète-t-il ici ?", "options": ["Un dragon du Lumeçon", "Un marché dominical", "Un portrait impérial de Charles Quint"], "answer": 2},
+    {"question": "Que cherche l'artiste en transposant une œuvre classique sur le mur ?", "options": ["À remplacer la collégiale par une galerie privée", "À unir le passé et le présent, et à ouvrir le musée à la rue", "À effacer toute référence historique"], "answer": 1},
+    {"question": "Où cette fresque se trouve-t-elle ?", "options": ["Boulevard Charles Quint 18", "Rue du Chapitre", "Square Roosevelt"], "answer": 0}
+  ],
+  "Zesar Bahamonte Le Dragon": [
+    {"question": "Quelle figure centrale de l'imaginaire montois Zësar revisite-t-il ?", "options": ["Le dragon du Lumeçon", "Le beffroi baroque", "Le Singe du Grand'Garde"], "answer": 0},
+    {"question": "Quel parcours géographique a mené l'artiste jusqu'à Mons ?", "options": ["New York puis Londres", "Lisbonne puis Porto", "Séville, Barcelone, puis Montevideo"], "answer": 2},
+    {"question": "Dans quelle rue le dragon a-t-il été peint ?", "options": ["Rue du Grand Jour", "Rue du Rossignol", "Rue du Miroir"], "answer": 1}
+  ],
+  "Leonidas Giannakopoulos Global City": [
+    {"question": "Quelle institution montoise inspire cette composition ?", "options": ["La collégiale Sainte-Waudru", "Le Mundaneum et les idées de ses fondateurs", "L'Hôtel de Ville gothique"], "answer": 1},
+    {"question": "Que résume le titre « Global City » ?", "options": ["L'ambition de faire dialoguer Mons avec un imaginaire ouvert sur le monde", "Un inventaire des enseignes de la Grand-Place", "Un hommage au seul combat de Saint Georges"], "answer": 0},
+    {"question": "Quelle vision de Paul Otlet l'artiste reprend-il ?", "options": ["Celle d'un marché aux herbes médiéval", "Celle d'une prison modèle", "Celle d'une ville mondiale qui diffuse les connaissances et la coopération"], "answer": 2}
+  ],
+  "Stelios Pupet Harmonizing Mons": [
+    {"question": "Comment Stelios Pupet construit-il sa composition ?", "options": ["Uniquement par des aplats zébrés", "Par des mots lumineux", "En mêlant figuration et géométrie"], "answer": 2},
+    {"question": "Que traduit le titre « Harmonizing Mons » ?", "options": ["Un inventaire des remparts", "Un accord entre formes, rythme et mémoire locale", "Un combat entre saint et dragon"], "answer": 1},
+    {"question": "À quel compositeur montois l'œuvre rend-elle hommage ?", "options": ["Antoine Clesse", "Roland de Lassus", "Jacques Brel"], "answer": 0}
+  ],
+  "Jana et JS Le couple de la rue Verte": [
+    {"question": "Quel motif architectural organise la scène ?", "options": ["La fenêtre, ouverture entre dedans et dehors", "Une tour du savoir", "Une cage à oiseaux fermée"], "answer": 0},
+    {"question": "Quelle technique Jana & JS utilisent-ils depuis 2006 ?", "options": ["Le spray sans dessin préparatoire", "La photographie agrandie sans pochoir", "Le pochoir à partir de leurs propres photographies"], "answer": 2},
+    {"question": "À quel esprit de la ville cette fresque s'accorde-t-elle ?", "options": ["Au classicisme impérial de Charles Quint", "À l'esprit surréaliste de Mons", "À l'urbanisme des remparts seuls"], "answer": 1}
+  ],
+  "Ufocinque Passeggiando nella Storia": [
+    {"question": "Sur quel tracé urbain Ufocinque s'appuie-t-il ?", "options": ["La Grand-Place du Lumeçon", "L'ancien tracé des remparts, près de la Tour Valenciennoise", "Le jardin Gustave Jacobs"], "answer": 1},
+    {"question": "Quel est le vrai nom d'Ufocinque, et que travaille-t-il surtout ?", "options": ["Matteo Capobianco ; la superposition de plusieurs niveaux de lecture", "Lucien Gilson ; la calligraphie publicitaire", "Christian Rebecchi ; la peinture au sol"], "answer": 0},
+    {"question": "Que signifie le titre « Passeggiando nella Storia » ?", "options": ["Une allégorie du tarot", "Un inventaire des Gayoles", "Une invitation à marcher dans l'histoire"], "answer": 2}
+  ],
+  "Dussart Myncke True story Marche aux herbes": [
+    {"question": "Que mettent les deux étudiants dans les fenêtres murées ?", "options": ["Des portraits de Charles Quint", "Des carpes koï", "Des références aux comics et aux affiches de films hollywoodiens des années 1950"], "answer": 2},
+    {"question": "Qui a accompagné Calvin Dussart et Charles Myncke à ARTS² ?", "options": ["Piet Rodriguez", "Djos Janssens", "Andrea Ravo Mattoni"], "answer": 1},
+    {"question": "Quelle question simple ouvre ce « True story » ?", "options": ["Que cachent les nombreuses fenêtres murées de la ville ?", "Qui a fondé le Mundaneum ?", "Où se tient le combat du Lumeçon ?"], "answer": 0}
+  ],
+  "Levalet L'homme des cavernes": [
+    {"question": "Comment Levalet traite-t-il la façade ?", "options": ["Comme un décor de narration, fenêtre après fenêtre", "Comme une carte du Mundaneum", "Comme une nature morte florale"], "answer": 0},
+    {"question": "De quelle technique ses personnages sont-ils issus ?", "options": ["Du pochoir photographique", "De l'installation lumineuse", "Du dessin à l'encre de Chine"], "answer": 2},
+    {"question": "D'où vient Levalet, et où l'œuvre se trouve-t-elle ?", "options": ["De Suisse, rue à degrés", "De France, rue de Houdain", "Du Portugal, boulevard Sainctelette"], "answer": 1}
+  ],
+  "Farm Prod Rue de la Halle": [
+    {"question": "Quelles figures dominent le haut de la composition ?", "options": ["Sainte Waudru et ses filles", "Adam et Ève", "Cybèle et Poliade"], "answer": 1},
+    {"question": "Autour de quel système symbolique le collectif belge construit-il la façade ?", "options": ["Le tarot, la connaissance de soi et le passage du temps", "La Classification décimale universelle", "Les blasons des métiers de la Grand-Place"], "answer": 0},
+    {"question": "Quelles lames reconnaît-on plus bas, parmi d'autres ?", "options": ["La Bancloque, le Car d'Or et le Ropieur", "Le Jugement, L'Ermite et La Roue de Fortune", "L'Empereur, La Mort, Le Monde et La Tempérance"], "answer": 2}
+  ],
+  "Hell'O Rue de la Halle": [
+    {"question": "Combien de panneaux structurent cette composition ?", "options": ["Quatre", "Neuf", "Seize"], "answer": 2},
+    {"question": "Quels moyens plastiques le duo privilégie-t-il ici ?", "options": ["Le lettrage graffiti uniquement", "Les couleurs pastel et le dessin fin", "L'installation de mots lumineux"], "answer": 1},
+    {"question": "Quel motif revient au centre de cet univers surréaliste ?", "options": ["L'œil", "Le beffroi", "Le Quetzal"], "answer": 0}
+  ],
+  "Ilan Walbrecq Georges Cuvelier": [
+    {"question": "Qui cette fresque met-elle en lumière ?", "options": ["Georges Cuvelier, chef étoilé montois", "Anto Carte, peintre", "Jacques Du Broeucq, architecte"], "answer": 0},
+    {"question": "Dans quel projet collectif s'inscrit-elle ?", "options": ["« Torre de Saber »", "« Invisible graffiti of love »", "« Montois célèbres », avec l'atelier de dessin d'ARTS²"], "answer": 2},
+    {"question": "Où se trouve cette réalisation ?", "options": ["Rue des Sœurs Noires", "Rue de la Halle 42", "Square Roosevelt"], "answer": 1}
+  ],
+  "Cedric Le Borgne La riviere": [
+    {"question": "Que voit-on au Marché-aux-Poissons ?", "options": ["Un dragon du Lumeçon", "Deux carpes koï géantes qui paraissent nager dans l'air", "Un couple à une fenêtre"], "answer": 1},
+    {"question": "Comment ces sculptures sont-elles éclairées ?", "options": ["De l'intérieur", "Uniquement par le soleil rasant", "Par des projecteurs au sol, sans lumière interne"], "answer": 0},
+    {"question": "Pourquoi le lieu donne-t-il un sens particulier à l'œuvre ?", "options": ["Parce qu'il jouxte la prison", "Parce qu'il abrite le Mundaneum", "Parce que le Marché-aux-Poissons rappelle l'eau et le vivant"], "answer": 2}
+  ],
+  "Taquen Bouquet of memory and hope": [
+    {"question": "Quelle fleur Taquen érige en symbole ?", "options": ["Le lys de Sainte-Waudru", "La rose de la Grand-Place", "Le coquelicot, souvenir et poésie"], "answer": 2},
+    {"question": "Que dit le titre « Bouquet of memory and hope » ?", "options": ["Un inventaire des métiers de bouche", "Qu'une image simple peut porter une mémoire lourde, et aussi l'espoir", "Un hommage au compositeur Antoine Clesse"], "answer": 1},
+    {"question": "Que rappelle le lieu, rue des Chartriers ?", "options": ["Qu'où des bombes sont tombées poussent aujourd'hui des coquelicots", "Que Paul Otlet y classait ses fiches", "Que le Lumeçon s'y déroule chaque année"], "answer": 0}
+  ],
+  "Dussart Myncke True story Croix Place": [
+    {"question": "Comment le titre invite-t-il à lire la façade ?", "options": ["Comme un récit, entre réalité et regard d'artiste", "Comme une carte militaire des remparts", "Comme une nature morte du XVIIe siècle"], "answer": 0},
+    {"question": "Qui signe cette seconde « True story » ?", "options": ["Godmess et Third Rua", "Jana et JS", "Calvin Dussart et Charles Myncke"], "answer": 2},
+    {"question": "Où cette version se trouve-t-elle ?", "options": ["Marché aux Herbes", "Croix-Place, rue de Houdain", "Passage Victor Hugo"], "answer": 1}
+  ],
+  "Eva Badalamenti Louis Buisseret": [
+    {"question": "À qui ce portrait rend-il hommage ?", "options": ["Georges Cuvelier", "Louis Buisseret, peintre", "Roland de Lassus"], "answer": 1},
+    {"question": "Dans quel projet d'ARTS² l'œuvre s'inscrit-elle ?", "options": ["« Montois célèbres »", "« Tunnel de la Paix »", "« Instant suspendu »"], "answer": 0},
+    {"question": "Dans quelle rue se trouve la fresque ?", "options": ["Rue de la Halle", "Rue Malapert", "Rue des Sœurs Noires"], "answer": 2}
+  ],
+  "Thomas Istasse La lune de Malapert": [
+    {"question": "Vers où Thomas Istasse oriente-t-il le regard ?", "options": ["Vers les caves de la Grand-Place", "Vers les remparts", "Vers le haut, dans une image baignée de lumière"], "answer": 2},
+    {"question": "Que désigne aussi « Malapert » hors de Mons ?", "options": ["Un quartier de Séville", "Un cratère lunaire, comme le savant montois qui observait le ciel", "Une porte des remparts détruite en 1914"], "answer": 1},
+    {"question": "Qui était Charles Malapert ?", "options": ["Un chercheur et mathématicien montois", "Un chef étoilé", "L'architecte de la collégiale"], "answer": 0}
+  ],
+  "Andrea Buglisi La Gayole": [
+    {"question": "Comment Buglisi imagine-t-il le bâtiment ?", "options": ["Comme une cage à oiseaux ouverte, où les oiseaux restent libres", "Comme une tour du savoir", "Comme un tunnel de la paix"], "answer": 0},
+    {"question": "Quelle stratégie visuelle l'artiste italien emploie-t-il souvent ?", "options": ["Le lettrage seul", "Le pochoir photographique exclusivement", "Attirer par des couleurs séduisantes, puis glisser un message plus inquiet"], "answer": 2},
+    {"question": "Quelle tradition montoise le titre « La Gayole » revisite-t-il ?", "options": ["La retraite aux flambeaux", "Les Gayoles, ces cages à oiseaux de la mémoire populaire", "Le marché dominical du Béguinage"], "answer": 1}
+  ],
+  "Oli-B L'escapade": [
+    {"question": "Quel univers Oli-B installe-t-il sur le mur ?", "options": ["Un clair-obscur caravagesque", "Des formes abstraites et figuratives, en mouvement", "Un portrait impérial"], "answer": 1},
+    {"question": "D'où vient Oli-B ?", "options": ["De Bruxelles", "De Séville", "De Porto"], "answer": 0},
+    {"question": "Où l'œuvre dialogue-t-elle avec le végétal ?", "options": ["Rue des Barbelés", "Place Léopold", "Dans le jardin Gustave Jacobs"], "answer": 2}
+  ],
+  "Blancbec Le monstrueux": [
+    {"question": "De quoi le mur est-il peuplé ?", "options": ["De fiches du Mundaneum", "De portraits de compositeurs", "D'animaux et de plantes imaginaires"], "answer": 2},
+    {"question": "D'où viennent les formes géométriques et la gamme vive de Blancbec ?", "options": ["De la peinture d'histoire du XIXe siècle", "Du graffiti et de ses recherches autour des affiches et des personnages", "De la photographie documentaire seule"], "answer": 1},
+    {"question": "Avec qui l'artiste a-t-il conçu cette fresque rue d'Havré ?", "options": ["Avec les voisins", "Avec le collectif Nevercrew", "Avec les chanoinesses de Sainte-Waudru"], "answer": 0}
+  ],
+  "Nevercrew Dissipation": [
+    {"question": "Quel sujet « Dissipation » aborde-t-il ?", "options": ["Le réchauffement climatique", "La Ducasse et le Lumeçon", "Le marché du Béguinage"], "answer": 0},
+    {"question": "Quelle particularité technique marque ce projet ?", "options": ["L'usage exclusif du pochoir", "L'absence de dessin préparatoire à la manière de Ravo", "Pour la première fois, Nevercrew a travaillé à même le sol de la rue à degrés"], "answer": 2},
+    {"question": "Qui compose ce duo suisse ?", "options": ["Jérôme Meynen et Antoine Detaille", "Christian Rebecchi et Pablo Togni", "Fabio Lopez et Elodie Arshak"], "answer": 1}
+  ],
+  "Duek Eldorado": [
+    {"question": "Quel oiseau emblématique apparaît dans « Eldorado » ?", "options": ["Le dragon du Lumeçon", "Le Quetzal", "Le Singe du Grand'Garde"], "answer": 1},
+    {"question": "De quelles cultures Duek, artiste d'Espagne, s'inspire-t-il ici ?", "options": ["Du Mexique, de sa nature et de son mysticisme", "Du Mundaneum et de Paul Otlet", "Des Gayoles montoises uniquement"], "answer": 0},
+    {"question": "Où la fresque se trouve-t-elle ?", "options": ["Grand'Rue 8", "Rue des Capucins", "Rue des Fripiers 19"], "answer": 2}
+  ],
+  "Poni Grand Rue": [
+    {"question": "Que représente Poni sur ce mur ?", "options": ["Deux carpes koï", "Un couple à une fenêtre", "Une figure féminine, la colline de Mons en arrière-plan"], "answer": 2},
+    {"question": "Pourquoi dessine-t-elle souvent des femmes sans pupille ?", "options": ["Pour citer Le Caravage", "Pour inviter au voyage", "Pour imiter les géants de Messines"], "answer": 1},
+    {"question": "Quelle est la particularité de cette présence à Mons ?", "options": ["C'est la première fois que Hilda Palafox, artiste mexicaine, intervient en Belgique", "Elle enseigne à ARTS² depuis dix ans", "Elle signe ici un hommage à Roland de Lassus"], "answer": 0}
+  ],
+  "Paul Segard Ma ville s'endort": [
+    {"question": "Quelle scène simple Paul Segard peint-il ?", "options": ["Un personnage endormi qui veille sur la ville", "Un combat de Saint Georges", "Un marché d'abondance"], "answer": 0},
+    {"question": "Quelle ambiance chromatique choisit-il ?", "options": ["Des contrastes de clair-obscur caravagesque", "Des aplats zébrés à la manière de MOMO", "Des couleurs pastel, calmes et poétiques"], "answer": 2},
+    {"question": "Où se trouve « Ma ville s'endort » ?", "options": ["Rue de l'Athénée", "Dans le Passage du Centre, Grand'Rue", "Boulevard Sainctelette"], "answer": 1}
+  ],
+  "Celeste Gangolphe Mille et une feuille": [
+    {"question": "Que dissimule le lierre sur ce mur ?", "options": ["Un portrait de Charles Quint", "Les Hommes et les Enfants de Feuilles, figures inspirées du Doudou", "Les fiches du Mundaneum"], "answer": 1},
+    {"question": "Quels médiums Céleste Gangolphe aime-t-elle mêler ?", "options": ["Dessin, peinture, collage et motifs", "Uniquement le spray sans dessin", "L'installation de mots lumineux"], "answer": 0},
+    {"question": "Que fait cette fresque dans une ville minérale ?", "options": ["Elle reconstitue les remparts", "Elle classifie le savoir", "Elle apporte un souffle de nature, au cœur du folklore montois"], "answer": 2}
+  ],
+  "Dulk The battle": [
+    {"question": "Dans quel monde « The battle » invite-t-il à entrer ?", "options": ["Une archive bibliographique", "Un portrait impérial", "Un monde de rêve peuplé d'animaux et de paysages naturels"], "answer": 2},
+    {"question": "D'où vient Dulk ?", "options": ["De Russie", "D'Espagne", "Du Royaume-Uni"], "answer": 1},
+    {"question": "Que défend aussi, discrètement, cette fresque rue des Capucins ?", "options": ["Les écosystèmes et les espèces les plus vulnérables", "Le classement des connaissances d'Otlet", "La reconstruction de la Tour Valenciennoise"], "answer": 0}
+  ],
+  "Nean Cybele et Poliade": [
+    {"question": "À quelles figures NEAN rend-il hommage ?", "options": ["Cybèle et Poliade, présentes dans l'arène du Lumeçon", "Adam et Ève du tarot", "Les Gayoles du quartier"], "answer": 0},
+    {"question": "Quelle réflexion traverse le travail de l'artiste belge ?", "options": ["La publicité et le pop art", "La cartographie urbaine abstraite", "Le temps, les souvenirs et la manière dont ils se transforment"], "answer": 2},
+    {"question": "Pourquoi le mur convient-il particulièrement à ce sujet ?", "options": ["Parce qu'il jouxte le Mundaneum", "Parce que ses marques et ses strates rendent visible l'histoire", "Parce qu'il sert de tribune au marché dominical"], "answer": 1}
+  ],
+  "10eme ARTE L'envol des ballons": [
+    {"question": "Que voit-on s'élever au-dessus des visages rassemblés ?", "options": ["Des Gayoles", "Des ballons", "Des fiches bibliographiques"], "answer": 1},
+    {"question": "Qui est 10ème ARTE ?", "options": ["Un duo d'Espagne et d'Italie travaillant à Bruxelles", "Un collectif russe", "L'atelier de dessin d'ARTS²"], "answer": 0},
+    {"question": "De quelle ferveur montoise l'œuvre s'inspire-t-elle ?", "options": ["Du marché du Béguinage", "De la fondation du Mundaneum", "Du folklore et du combat dit Lumeçon, sur la Grand-Place"], "answer": 2}
+  ],
+  "Arts2 Roland de Lassus": [
+    {"question": "Quel Montois célèbre les étudiants d'ARTS² mettent-ils à l'honneur ?", "options": ["Antoine Clesse", "Jacques Du Broeucq", "Roland de Lassus"], "answer": 2},
+    {"question": "De quel type de création s'agit-il ?", "options": ["D'une installation de mots", "D'une création collective d'étudiants", "D'un pochoir photographique de Jana & JS"], "answer": 1},
+    {"question": "Dans quelle rue le portrait s'inscrit-il ?", "options": ["Rue des 5 visages", "Rue Antoine Clesse", "Rue du Chapitre"], "answer": 0}
+  ],
+  "Andrea Ravo Mattoni Sainte Waudru et ses filles": [
+    {"question": "Quelle scène Andrea Ravo Mattoni transpose-t-il sur le mur ?", "options": ["Sainte Waudru et ses filles visitant les prisonniers", "Le combat de Saint Georges", "La montée du Car d'Or seule"], "answer": 0},
+    {"question": "De quel peintre cette image est-elle associée, avant sa transposition urbaine ?", "options": ["Anto Carte", "Louis Buisseret", "Antoine Van Ysendick"], "answer": 2},
+    {"question": "Pourquoi l'emplacement, rue du Chapitre, compte-t-il ?", "options": ["Parce qu'il longe la prison contemporaine", "Parce qu'il est en lien direct avec la collégiale toute proche", "Parce qu'il suit l'ancien tracé des remparts de Sainctelette"], "answer": 1}
+  ],
+  "Filip Gilissen Spread your wings": [
+    {"question": "Que évoque l'installation ?", "options": ["Un dragon", "Des ailes et un élan vers le haut", "Un marché d'abondance"], "answer": 1},
+    {"question": "De quel type d'œuvre s'agit-il, plutôt que d'une fresque plane ?", "options": ["D'une installation", "D'un pochoir sur vitrine", "D'une photographie encadrée"], "answer": 0},
+    {"question": "Avec quel monument le square Saint-Germain fait-il écho ?", "options": ["Le Mundaneum", "Le beffroi seul", "La collégiale Sainte-Waudru, visible dans le paysage"], "answer": 2}
+  ],
+  "Ana Langeheldt Alegoria de santa Valdetrudis": [
+    {"question": "Quelle tradition Ana Langeheldt réinterprète-t-elle ?", "options": ["Les Feux de la Saint-Jean", "Les Gayoles", "La montée du Car d'Or"], "answer": 2},
+    {"question": "Sous quel autre nom l'artiste espagnole est-elle aussi connue ?", "options": ["Third Rua", "Lahe178", "Poni"], "answer": 1},
+    {"question": "Où l'allégorie de sainte Waudru a-t-elle été peinte ?", "options": ["Sur la rampe Sainte-Waudru", "Rue de Nimy", "Place Léopold"], "answer": 0}
+  ],
+  "Rachelle Celiane Santerre Jacques Du Broeucq": [
+    {"question": "À qui les sœurs Santerre rendent-elles hommage ?", "options": ["Jacques Du Broeucq, architecte et sculpteur", "Anto Carte, peintre", "Georges Cuvelier, chef"], "answer": 0},
+    {"question": "Dans quel cadre d'ARTS² l'œuvre a-t-elle été conçue ?", "options": ["L'atelier de gravure uniquement", "Une résidence au Mundaneum", "L'atelier de dessin, série « Montois célèbres »"], "answer": 2},
+    {"question": "Dans quelle rue, proche de la collégiale, se trouve le portrait ?", "options": ["Rue des 5 visages", "Rue du Chapitre", "Rue des Sœurs Noires"], "answer": 1}
+  ],
+  "Margaux Del Vecchio Anto Carte": [
+    {"question": "Quel peintre montois Margaux Del Vecchio représente-t-elle ?", "options": ["Louis Buisseret", "Anto Carte", "Antoine Van Ysendick"], "answer": 1},
+    {"question": "À quelle série cette œuvre appartient-elle ?", "options": ["« Montois célèbres »", "« True story »", "« Torre de Saber »"], "answer": 0},
+    {"question": "Où le portrait a-t-il été peint ?", "options": ["Rue du Chapitre", "Rue Malapert", "Square Roosevelt"], "answer": 2}
+  ],
+  "Projeto Ruido Le temps": [
+    {"question": "Quels langages graphiques se rencontrent dans « Le temps » ?", "options": ["Uniquement le clair-obscur académique", "Uniquement le lettrage", "Graffiti, figuration, abstraction et couleur"], "answer": 2},
+    {"question": "Qui compose Projeto Ruído ?", "options": ["Godmess et Third Rua", "Draw (Frederico Soares Campos) et Contra (Rodrigo Guinea Gonçalves)", "Fabio Lopez et Elodie Arshak"], "answer": 1},
+    {"question": "Vers quel musée cette rue accompagne-t-elle le marcheur ?", "options": ["Le Musée Duesberg", "Le Mundaneum uniquement", "Le Musée du Doudou"], "answer": 0}
+  ],
+  "Robert Montgomery Invisible graffiti of love": [
+    {"question": "Avec quel matériau Robert Montgomery travaille-t-il ici ?", "options": ["Les mots", "Le tarot peint", "Les carpes koï"], "answer": 0},
+    {"question": "Que demande le titre « Invisible graffiti of love » ?", "options": ["De reconstituer les remparts", "De classer des fiches", "De lever les yeux et de ralentir, pour lire"], "answer": 2},
+    {"question": "Où cette voix intime s'inscrit-elle ?", "options": ["Rue Cantimpré", "Place Léopold", "Rue des Canonniers"], "answer": 1}
+  ],
+  "Momo Rue Cantimpret": [
+    {"question": "Comment se présente la composition de MOMO ?", "options": ["En clair-obscur de bougies", "En aplats de couleur zébrés", "En personnages à l'encre de Chine"], "answer": 1},
+    {"question": "Pour quel type d'interventions l'artiste américain est-il connu ?", "options": ["Des cartographies urbaines, du geste minuscule à la fresque monumentale", "Des installations de carpes lumineuses", "Des portraits de Montois célèbres"], "answer": 0},
+    {"question": "Dans quelle rue cette fresque rythme-t-elle le parcours ?", "options": ["Rue des Canonniers", "Rue de Bertaimont", "Rue Cantimpré"], "answer": 2}
+  ],
+  "Zmogk The elements": [
+    {"question": "Quel élément Zmogk fait-il naître dans la rue ?", "options": ["L'eau des carpes koï", "L'air des ballons", "Le feu"], "answer": 2},
+    {"question": "D'où vient Zmogk, et quel style a-t-il développé ?", "options": ["Des États-Unis ; des aplats zébrés", "De Russie ; des compositions dynamiques et colorées", "Du Portugal ; le pochoir réaliste"], "answer": 1},
+    {"question": "Avec quel rite proche de la place Nervienne l'œuvre dialogue-t-elle ?", "options": ["Les Feux de la Saint-Jean", "La montée du Car d'Or", "Le marché dominical"], "answer": 0}
+  ],
+  "Arkane Lalie": [
+    {"question": "De quoi Arkane s'inspire-t-il pour « Lalie » ?", "options": ["Des Géants de Messines, imaginés comme de vraies personnes", "Du dragon du Lumeçon uniquement", "Des lames du tarot"], "answer": 0},
+    {"question": "Qu'est-ce qui crée l'ambiance très charnelle de l'image ?", "options": ["Le lettrage seul", "Les aplats zébrés", "La lumière et le cadrage"], "answer": 2},
+    {"question": "Dans quel quartier cette fresque dialogue-t-elle avec le folklore ?", "options": ["Le quartier du Mundaneum", "Le quartier de Messine, rue de Bertaimont", "Le Marché-aux-Poissons"], "answer": 1}
+  ],
+  "Tris Horizon": [
+    {"question": "Quelle thématique Tris reprend-il sur ce bâtiment aux fenêtres aveugles ?", "options": ["Les Gayoles", "Les portes", "Les coquelicots"], "answer": 1},
+    {"question": "Entre quels registres son univers se situe-t-il ?", "options": ["Comics et réalisme, avec une ambiance de cinéma", "Clair-obscur académique uniquement", "Nature morte du XVIIe siècle"], "answer": 0},
+    {"question": "Que suit le boulevard Sainctelette ?", "options": ["Le tracé de la procession du Car d'Or", "L'axe du Mundaneum", "L'ancien tracé des remparts et des portes d'entrée de la ville"], "answer": 2}
+  ],
+  "Dourone Boulevard Sainctelette": [
+    {"question": "Qu'est-ce que le Doudou représente pour Dourone ?", "options": ["Un motif décoratif sans lien local", "Une référence au Mundaneum", "La solidarité montoise, intergénérationnelle et partagée"], "answer": 2},
+    {"question": "Qui compose Dourone ?", "options": ["Christian Rebecchi et Pablo Togni", "Fabio Lopez et Elodie Arshak, venus d'Espagne", "Jérôme Meynen et Antoine Detaille"], "answer": 1},
+    {"question": "Quelle reconnaissance internationale rappellent-ils pour la Ducasse ?", "options": ["Son inscription par l'UNESCO au patrimoine oral et immatériel de l'humanité", "Son classement comme monument militaire", "Son lien avec la Classification décimale"], "answer": 0}
+  ],
+  "Nadege Dauvergne Place du Beguinage": [
+    {"question": "De quoi Nadège Dauvergne s'inspire-t-elle sur cette place ?", "options": ["Du marché dominical et de l'idée d'abondance", "Du combat du Lumeçon", "Des Géants de Messines"], "answer": 0},
+    {"question": "Avec quelles peintures dialogue-t-elle, en changeant d'échelle ?", "options": ["Les portraits impériaux de Titien", "Les paysages de Turner", "Les natures mortes du XVIIe siècle, notamment celles de Joris Van Son"], "answer": 2},
+    {"question": "Où cette fresque monumentale a-t-elle été peinte ?", "options": ["Rue Cantimpré", "Place du Béguinage", "Boulevard Sainctelette"], "answer": 1}
+  ],
+  "Daniel Eime Resistance": [
+    {"question": "À qui Daniel Eime rend-il hommage dans « Résistance » ?", "options": ["Paul Otlet", "Marguerite Bervoets", "Sainte Waudru"], "answer": 1},
+    {"question": "Quelle technique traverse toutes ses créations ?", "options": ["Le pochoir, mêlé de pop, de réalisme et de motifs géométriques", "Le spray sans dessin préparatoire", "L'installation de mots lumineux"], "answer": 0},
+    {"question": "D'où vient l'artiste, et depuis quand pratique-t-il la rue ?", "options": ["De France, depuis 2022 seulement", "De Suisse, en duo", "Du Portugal ; il a commencé très jeune par le graffiti"], "answer": 2}
+  ]
+}

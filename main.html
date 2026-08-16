@@ -11,7 +11,7 @@
   <meta name="msapplication-TileColor" content="#b30000">
   <meta name="msapplication-tap-highlight" content="no">
   <title data-translate="title_chevauchee">La Chevauchée de Saint Georges</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css?v=40">
   <style>
     /* Badge LITE/FULL retiré — filet si cache PWA ancien */
     #clq-version-badge,
@@ -398,8 +398,9 @@
         max-width: 320px;
     }
     
-    /* Flèches de guidage clignotantes */
+    /* Flèches de guidage : mécanique conservée, affichage désactivé (rails plus clairs) */
     .guide-arrow {
+        display: none !important;
         position: fixed;
         z-index: 2000;
         background: rgba(255, 255, 0, 0.9);
@@ -407,7 +408,6 @@
         border-radius: 50%;
         width: 60px;
         height: 60px;
-        display: flex;
         flex-direction: column;
         align-items: center;
         justify-content: center;
@@ -850,6 +850,16 @@
     .ui-rail--right.is-open .ui-rail-panel button {
       transform: translateX(0) scale(1);
     }
+    #ui-rail-right-panel #doudou-btn,
+    #ui-rail-right-panel #quiz-resume-btn,
+    #ui-rail-right-panel #selfie-btn {
+      width: auto;
+      min-width: 84px;
+      padding: 0 10px;
+      font-size: 13px;
+      line-height: 1;
+      white-space: nowrap;
+    }
 
     .ui-rail--bottom {
       left: 50%;
@@ -903,6 +913,24 @@
       display: inline-block;
       width: 100%;
     }
+    #map-container {
+      position: relative;
+    }
+    .map-photo-standin {
+      position: absolute;
+      inset: 0;
+      z-index: 2;
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      background: #111;
+      border: 2px solid #ccc;
+      border-radius: 10px;
+      box-sizing: border-box;
+    }
+    .map-photo-standin[hidden] {
+      display: none !important;
+    }
     .photo-listen-btn {
       position: absolute;
       left: 50%;
@@ -955,6 +983,194 @@
       0%, 100% { transform: translate(-50%, -50%) scale(1); }
       50% { transform: translate(-50%, -50%) scale(1.05); }
     }
+    .point-cluster-hint {
+      margin: 0 0 6px;
+      padding: 6px 10px;
+      border-radius: 10px;
+      background: rgba(18, 18, 18, 0.48);
+      color: #fff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      line-height: 1.3;
+      text-align: center;
+      pointer-events: none;
+      text-shadow: 0 1px 3px rgba(0, 0, 0, 0.7);
+    }
+    .point-cluster-hint-stop {
+      color: #ff2d2d !important;
+      font-weight: 800 !important;
+      text-shadow: 0 1px 2px rgba(0, 0, 0, 0.85);
+    }
+    .point-cluster-hint[hidden],
+    .point-cluster[hidden] {
+      display: none !important;
+    }
+    .learn-more-btn {
+      display: inline-block;
+      width: auto;
+      max-width: calc(100vw - 30px);
+      margin: 10px auto 0;
+      padding: 10px 18px;
+      border: none;
+      border-radius: 12px;
+      background: #c8102e;
+      color: #fff;
+      font-size: 1rem;
+      font-weight: 700;
+      line-height: 1.3;
+      text-align: center;
+      cursor: pointer;
+      box-shadow: 0 4px 14px rgba(200, 16, 46, 0.35);
+      width: fit-content;
+    }
+    .learn-more-btn:hover,
+    .learn-more-btn:focus {
+      background: #a50d24;
+    }
+    .learn-more-btn[hidden] {
+      display: none !important;
+    }
+    .inline-audio-controls {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+      width: 90%;
+      max-width: calc(100vw - 30px);
+      margin: 10px auto 0;
+      padding: 8px 10px;
+      box-sizing: border-box;
+    }
+    .inline-audio-controls[hidden] {
+      display: none !important;
+    }
+    .inline-audio-controls button {
+      display: inline-flex !important;
+      align-items: center !important;
+      justify-content: center !important;
+      width: 48px !important;
+      height: 48px !important;
+      min-width: 48px !important;
+      min-height: 48px !important;
+      max-width: 48px !important;
+      max-height: 48px !important;
+      margin: 0 !important;
+      padding: 0 !important;
+      border: none !important;
+      border-radius: 12px !important;
+      background: #c8102e !important;
+      color: #fff !important;
+      font-size: 22px !important;
+      line-height: 1 !important;
+      text-align: center !important;
+      cursor: pointer;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.22);
+      transform: none !important;
+    }
+    .inline-audio-controls button:hover,
+    .inline-audio-controls button:focus {
+      background: #a00020 !important;
+      transform: none !important;
+    }
+    .inline-audio-hint {
+      width: 90%;
+      max-width: calc(100vw - 30px);
+      margin: 6px auto 0;
+      padding: 8px 10px;
+      box-sizing: border-box;
+      text-align: center;
+    }
+    .inline-audio-hint[hidden] {
+      display: none !important;
+    }
+    .inline-audio-hint p {
+      margin: 0 0 8px;
+      font-size: 0.82rem;
+      line-height: 1.35;
+      color: #333;
+    }
+    .inline-audio-hint-dismiss {
+      display: inline-block !important;
+      width: auto !important;
+      max-width: none !important;
+      margin: 0 auto !important;
+      padding: 5px 10px !important;
+      border: 1px solid #999 !important;
+      border-radius: 8px !important;
+      background: #f3f3f3 !important;
+      color: #333 !important;
+      font-size: 0.75rem !important;
+      font-weight: 600;
+      line-height: 1.2 !important;
+      cursor: pointer;
+      box-shadow: none !important;
+      transform: none !important;
+    }
+    .inline-audio-hint-dismiss:hover,
+    .inline-audio-hint-dismiss:focus {
+      background: #e4e4e4 !important;
+      transform: none !important;
+    }
+    .point-cluster {
+      display: grid;
+      gap: 4px;
+      width: 100%;
+      max-height: min(46vh, 420px);
+    }
+    .point-cluster[data-count="3"] {
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: minmax(90px, 1.15fr) minmax(80px, 1fr);
+    }
+    .point-cluster[data-count="3"] .cluster-tile:first-child {
+      grid-column: 1 / -1;
+    }
+    .point-cluster[data-count="4"] {
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: minmax(80px, 1fr) minmax(80px, 1fr);
+    }
+    .cluster-tile {
+      position: relative;
+      overflow: hidden;
+      border-radius: 8px;
+      cursor: pointer;
+      border: 2px solid rgba(255,255,255,0.35);
+      min-height: 72px;
+      background: #222 !important;
+      color: #fff;
+      padding: 0 !important;
+      width: 100% !important;
+      max-width: none !important;
+      font-size: inherit !important;
+      box-shadow: none;
+      transform: none;
+    }
+    .cluster-tile:hover {
+      background: #222 !important;
+      transform: none;
+    }
+    .cluster-tile.is-active {
+      border-color: #c8102e;
+      box-shadow: 0 0 0 2px rgba(200,16,46,0.45);
+    }
+    .cluster-tile img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      pointer-events: none;
+    }
+    .cluster-tile span {
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      padding: 4px 6px;
+      background: rgba(0,0,0,0.52);
+      color: #fff;
+      font-size: 0.68rem;
+      font-weight: 700;
+      line-height: 1.2;
+    }
 
     @media screen and (max-width: 480px) {
       body.clq-ot-shell #main-content {
@@ -972,6 +1188,13 @@
         min-width: 42px;
         height: 42px;
         font-size: 13px;
+      }
+      #ui-rail-right-panel #doudou-btn,
+      #ui-rail-right-panel #quiz-resume-btn,
+      #ui-rail-right-panel #selfie-btn {
+        width: auto;
+        min-width: 78px;
+        font-size: 12px;
       }
       .ui-rail--bottom .ui-rail-panel button {
         min-width: 64px;
@@ -996,17 +1219,34 @@
     <section id="main-content">
       <div id="map-container">
         <div id="map">Chargement de la carte...</div>
+        <img id="map-photo-standin" class="map-photo-standin" alt="" hidden />
       </div>
       <div id="info-container" style="flex-direction: column; align-items: center; position: relative;">
         <div class="legal-mention">© Toga Thrust SNC - 2025</div>
         <div id="point-image-frame" class="point-image-frame">
+          <p id="point-cluster-hint" class="point-cluster-hint" hidden>
+            <span class="photo-cluster-hint-main" data-translate="photo_cluster_hint">Cliquez sur l'image qui vous intéresse</span>
+            <span class="photo-cluster-hint-sep"> — </span>
+            <span class="photo-cluster-hint-stop" data-translate="photo_cluster_hint_stop">Pour revenir au choix, cliquez sur le bouton stop dans le menu audio</span>
+          </p>
           <img id="point-image" src="images/grand-place.jpg" alt="Photo du lieu" style="max-width: 100%; height: auto;" />
+          <div id="point-cluster" class="point-cluster" hidden></div>
           <button type="button" id="photo-listen-btn" class="photo-listen-btn" hidden>
             <span class="photo-listen-icon" aria-hidden="true">🎧</span>
             <span class="photo-listen-label" data-translate="photo_listen_hint">Cliquez pour écouter</span>
           </button>
         </div>
         <div id="media-display" style="display: none; padding: 15px; white-space: pre-line; font-size: 1rem; line-height: 1.4; text-align: justify;"></div>
+        <div id="inline-audio-controls" class="inline-audio-controls" hidden>
+          <button type="button" id="inline-audio-btn" class="inline-audio-play" title="Play">▶️</button>
+          <button type="button" id="inline-stop-btn" title="Stop">⏹️</button>
+          <button type="button" id="inline-restart-btn" title="Recommencer">🔁</button>
+        </div>
+        <div id="inline-audio-hint" class="inline-audio-hint" hidden>
+          <p id="inline-audio-hint-text" data-translate="inline_audio_hint">Cliquez sur le petit carré STOP pour revenir aux images du POI, ou bien sur la flèche de direction droite pour passer au POI suivant.</p>
+          <button type="button" id="inline-audio-hint-dismiss" class="inline-audio-hint-dismiss" data-translate="inline_audio_hint_dismiss">Ne plus afficher ceci</button>
+        </div>
+        <button type="button" id="learn-more-btn" class="learn-more-btn" hidden data-translate="learn_more_button">Voulez-vous en savoir plus ?</button>
       </div>
     </section>
 
@@ -1052,9 +1292,9 @@
     <div class="ui-rail-panel" id="ui-rail-right-panel">
       <button id="poi-interest-btn" style="--i:0" title="Points d'intérêt">📍</button>
       <button id="culture-btn" style="--i:1" title="Culture montoise">🎭</button>
-      <button id="doudou-btn" style="--i:2" data-translate="doudou_song" title="Doudou">🎶</button>
+      <button id="doudou-btn" style="--i:2" data-translate="doudou_song" title="Doudou">Doudou</button>
       <button id="quiz-resume-btn" class="footer-btn" style="--i:3; display: none;" data-translate="quiz_footer_btn" title="Quiz">Quiz</button>
-      <button id="selfie-btn" style="--i:4; display: none;" title="Prendre un selfie avec Saint Georges">📸</button>
+      <button id="selfie-btn" style="--i:4; display: none;" data-translate="selfie_rail_btn" title="Selfie">Selfie</button>
     </div>
   </nav>
 
@@ -1066,16 +1306,7 @@
     </div>
   </nav>
   
-  <!-- Flèches de guidage pour le premier point -->
-  <div id="guide-arrow-1" class="guide-arrow guide-arrow-1" style="display: none;">
-    <span class="arrow-number">1</span>
-    <span class="arrow-symbol">⬅️</span>
-  </div>
-  
-  <div id="guide-arrow-2" class="guide-arrow guide-arrow-2" style="display: none;">
-    <span class="arrow-number">2</span>
-    <span class="arrow-symbol">➡️</span>
-  </div>
+  <!-- Ronds 1/2 retirés de l'affichage ; la mécanique reste dans hideGuideArrow1/2 -->
 
   <!-- Popup Itinéraire Transports -->
   <div id="transit-modal" class="transit-hidden">
@@ -1108,7 +1339,7 @@
  <!-- Service Worker -->
 <script>
   (function () {
-    var EPOCH = 'ot-sw-v9';
+    var EPOCH = 'ot-sw-v78';
     try {
       if (localStorage.getItem('clq_sw_epoch') !== EPOCH) {
         localStorage.setItem('clq_sw_epoch', EPOCH);
@@ -1136,13 +1367,14 @@
 <!-- Scripts de ton projet -->
 <!-- Clé API Google Maps (obfusquée en production) -->
 <script src="api-key.js"></script>
-<script defer src="quizData.js"></script>
+<script defer src="quizData.js?v=30"></script>
 <script src="circuit.js"></script>
-<script src="circuit-data.js"></script>
+<script src="circuit-data.js?v=6"></script>
 <script src="js/main-geo-prompt.js?v=6"></script>
 <script src="version.js"></script>
 <script src="js/clq-city-config.js"></script>
-<script defer src="app.js?v=20"></script>
+<script src="js/poi-image-map.js"></script>
+<script defer src="app.js?v=41"></script>
 
 <script>
 window.addEventListener("load", function () {
@@ -1222,90 +1454,33 @@ document.addEventListener('DOMContentLoaded', function() {
     // Afficher le popup d'instructions pour le premier point
     showFirstPointPopup();
 });
-function initGuideArrows() {
-    // Ne pas afficher les flèches en mode musée
-    const isMuseumMode = localStorage.getItem('museumMode') === 'true';
-    if (isMuseumMode) {
-        const arrow1 = document.getElementById('guide-arrow-1');
-        const arrow2 = document.getElementById('guide-arrow-2');
-        if (arrow1) arrow1.style.display = 'none';
-        if (arrow2) arrow2.style.display = 'none';
-        return;
-    }
-    
-    const currentIndex = parseInt(localStorage.getItem('mons_currentIndex') || '0');
-    const audioClicked = localStorage.getItem('guide_audio_clicked') === 'true';
-    const nextClicked = localStorage.getItem('guide_next_clicked') === 'true';
-    
-    // Afficher les flèches seulement si on est au premier point (index 0)
-    if (currentIndex === 0) {
-        const arrow1 = document.getElementById('guide-arrow-1');
-        const arrow2 = document.getElementById('guide-arrow-2');
-        
-        // Masquer les deux flèches d'abord
-        if (arrow1) arrow1.style.display = 'none';
-        if (arrow2) arrow2.style.display = 'none';
-        
-        // Afficher la flèche 1 seulement si l'audio n'a pas été cliqué
-        if (arrow1 && !audioClicked) {
-            arrow1.style.display = 'flex';
-        }
-        
-        // Afficher la flèche 2 seulement si l'audio a été cliqué ET que suivant n'a pas été cliqué
-        if (arrow2 && audioClicked && !nextClicked) {
-            arrow2.style.display = 'flex';
-        }
-    } else {
-        // Si on n'est pas au premier point, masquer toutes les flèches
-        const arrow1 = document.getElementById('guide-arrow-1');
-        const arrow2 = document.getElementById('guide-arrow-2');
-        if (arrow1) arrow1.style.display = 'none';
-        if (arrow2) arrow2.style.display = 'none';
-    }
-}
-
-// Fonction pour masquer la flèche 1 (audio)
-function hideGuideArrow1() {
-    // Ne rien faire en mode musée
-    const isMuseumMode = localStorage.getItem('museumMode') === 'true';
-    if (isMuseumMode) return;
-    
-    const currentIndex = parseInt(localStorage.getItem('mons_currentIndex') || '0');
+function hideGuideArrowElements() {
     const arrow1 = document.getElementById('guide-arrow-1');
     const arrow2 = document.getElementById('guide-arrow-2');
-    
-    if (arrow1) {
-        arrow1.style.display = 'none';
-        localStorage.setItem('guide_audio_clicked', 'true');
-    }
-    
-    // Afficher la flèche 2 seulement si on est au premier point ET que suivant n'a pas été cliqué
-    if (arrow2 && currentIndex === 0 && localStorage.getItem('guide_next_clicked') !== 'true') {
-        arrow2.style.display = 'flex';
-    }
+    if (arrow1) arrow1.remove();
+    if (arrow2) arrow2.remove();
 }
 
-// Fonction pour masquer la flèche 2 (suivant)
+function initGuideArrows() {
+    hideGuideArrowElements();
+}
+
+function hideGuideArrow1() {
+    if (localStorage.getItem('museumMode') === 'true') return;
+    localStorage.setItem('guide_audio_clicked', 'true');
+    hideGuideArrowElements();
+}
+
 function hideGuideArrow2() {
-    // Ne rien faire en mode musée
-    const isMuseumMode = localStorage.getItem('museumMode') === 'true';
-    if (isMuseumMode) return;
-    
-    const arrow2 = document.getElementById('guide-arrow-2');
-    if (arrow2) {
-        arrow2.style.display = 'none';
-        localStorage.setItem('guide_next_clicked', 'true');
-    }
+    if (localStorage.getItem('museumMode') === 'true') return;
+    localStorage.setItem('guide_next_clicked', 'true');
+    hideGuideArrowElements();
 }
 
-// Fonction pour réinitialiser les flèches de guidage
 function resetGuideArrows() {
     localStorage.removeItem('guide_audio_clicked');
     localStorage.removeItem('guide_next_clicked');
-    const arrow1 = document.getElementById('guide-arrow-1');
-    const arrow2 = document.getElementById('guide-arrow-2');
-    if (arrow1) arrow1.style.display = 'none';
-    if (arrow2) arrow2.style.display = 'none';
+    hideGuideArrowElements();
 }
 
 // Fonction pour afficher le popup d'instructions du premier point

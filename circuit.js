@@ -11,7 +11,21 @@ function confirmYes() {
   const parcoursType = {
     grand: 'long',
     moyen: 'moyen',
-    petit: 'court'
+    petit: 'court',
+    famille: 'famille',
+    complet: 'complet',
+    art_est: 'art',
+    art_sud: 'art',
+    art_ouest: 'art',
+    patrimoine: 'patrimoine',
+    curiosites_nord: 'curiosites',
+    curiosites_est: 'curiosites',
+    curiosites_sud: 'curiosites',
+    curiosites_ouest: 'curiosites',
+    commerces: 'commerces',
+    insolite_mystere: 'insolite',
+    insolite_secret: 'insolite',
+    insolite_noms: 'insolite'
   }[selectedCircuit];
   localStorage.setItem('mons_parcoursType', parcoursType);
 
