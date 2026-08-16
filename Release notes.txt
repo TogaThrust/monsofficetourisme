@@ -1,4 +1,9 @@
 CityLoop Quest Mons - Release notes
+Version 26.08.181
+----------------------------------------
+Le Gros Maillet : IHS lu I H S, n° 71 et 89 lu numéros (TTS).
+
+CityLoop Quest Mons - Release notes
 Version 26.08.180
 ----------------------------------------
 Le Gros Maillet : photo dist alignée sur images/Le_Gros_Maillet.jpg (gros plan du maillet).
