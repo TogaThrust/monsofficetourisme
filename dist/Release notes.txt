@@ -1,4 +1,9 @@
 CityLoop Quest Mons - Release notes
+Version 26.08.185
+----------------------------------------
+Au Pistolet d'Or : « avec le n°33 » lu « au numéro 33 » (TTS).
+
+CityLoop Quest Mons - Release notes
 Version 26.08.184
 ----------------------------------------
 Au Lion d'Or et Millesime MDCCXII : n°40 / n°50 lus numéro 40 / numéro 50 (TTS).

@@ -43,6 +43,8 @@
  * Bootle → Bouh teul (comme « bouh ! ») ;
  * IHS → I H S (lettres épelées) ;
  * n° 71 et 89 / n°s / n°71 (deux numéros liés par « et ») → numéros 71 et 89
+ * avec le n°33 / avec le n° 33 → au numéro 33
+ *   (avant le générique n°\s*(\d+) → numéro $1 ; pas « avec le numéro 33 ») ;
  * n°40 / n° 40 / n°50 / n° 50 → numéro 40 / numéro 50
  *   (n°\s*(\d+) → numéro $1, après le cas « et » pluriel) ;
  * AV TROIS HERRENT → Au Trois Herrent (V = U ; pas « a vé ») ;
@@ -216,8 +218,10 @@ export function pronounceForTts(text, lang = 'fr') {
       .replace(/\bTette\b/g, 'Tètt')
       .replace(/\bTASCHE\b/g, 'Tachè')
       .replace(/\bTasche\b/g, 'Tachè')
+      .replace(/avec le n[°º]\s*33/gi, 'au numéro 33')
       .replace(/n[°º]s?\s*(\d+)\s+et\s+(\d+)/g, 'numéros $1 et $2')
       .replace(/n[°º]\s*(\d+)/g, 'numéro $1')
+      .replace(/avec le numéro 33/gi, 'au numéro 33')
       .replace(/(?:www\.)?visitmons\.be/gi, 'Visite Monss point B E')
       .replace(/VisitMons/g, 'Visite Monss')
       .replace(/visitMons/g, 'visite Monss')
@@ -276,7 +280,7 @@ export function pronounceForTts(text, lang = 'fr') {
 }
 
 export function needsMonsPronunciationFix(text) {
-  return /VisitMons|visitMons|visitmons\.be|\bMons\b|Waudru|\bGillis\b|ein balcon|s['’]invole|p['’]tits infants|Kieffer-Desert|\bPuissant\b|gayole|pinchons|Villers[\s-]+Saint[\s-]Ghislain|plus harmonieux|, plus le |\bBootle\b|\bIHS\b|n[°º]s?\s*\d+|n°40|AV TROIS HERRENT|AV TROIS VERD CHAPEAVX|\bVERD\b|\bCHAPEAVX\b|A LA CLEE ROVGE|\bCLEE\b|\bROVGE\b|\bTETTE\b|\bTette\b|A LA BONNE FEMME|A LA TETE|\bTETE\b|TAETE|Taette|AV LION|AV RENARD|\bD OR\b|MDCCXII|A LA CLEF|\bCLEF\b|\bClef\b|\bTASCHE\b|\bTasche\b|D ARGENT|1768\/1873|A LÉ CAILLE|LÉ CAILLE|PAILE DOR|PAILE|A LA FAUX D OR|A LA FAUX|A LA CROIX D['’]OR|A LA CROIX D OR|LA CROIX D OR|CROIX D OR|\bCHATEAU\b|\bDE LE\b|\bMARCOTE\b|\bBuef\b|A SAINT ANTOINE|\bJ BTE\b|J\.-B\.|\bJacobs\b|Gust\.|AVX MOVSQVETON|AVX|MOVSQVETON|Charleroy|Harvent|parcours artistique|\bGoies\b|ARTS?²|\bArts2\b|\bARTS2\b|Torre de Saber|Tunnel de la Paix|\bPiet Rodriguez\b|\bPieta Rodrigueza\b|Zësar|\bZesar\b|Bahamonte|riche de sens|Vélasquez|Velasquez|Velázquez|Liebaert|\b126\b|Giannakopoulos|Mundaneum|\bPupet|\bHarmonizing\b|Ufocinque|Passeggiando|street art|True story|Nevercrew|Langeheldt|Valdetrudis|Anto Carte|Gonçalves|Goncalves|Invisible graffiti|Zmogk|Bertaimont|Bervoets|aux Herbes|Djos Janssens|[Œœ]uvre|\bOeuvre\b|\bcouppe\b|Grand['’]Rue|Grand-Rue|A LA COURONE|A LA COURONNE|A LA VILLE|\bAVESNES\b|\bAVESNE\b|\bAvesnes\b|D AVESNE|D AVESNES|Chisaire|LASSVS|mvnich|A ROLAND DE Lassus|Franciscus|\bKring\b|Masquelier|ST\.?\s*FRANCISCUS/i.test(
+  return /VisitMons|visitMons|visitmons\.be|\bMons\b|Waudru|\bGillis\b|ein balcon|s['’]invole|p['’]tits infants|Kieffer-Desert|\bPuissant\b|gayole|pinchons|Villers[\s-]+Saint[\s-]Ghislain|plus harmonieux|, plus le |\bBootle\b|\bIHS\b|avec le n[°º]\s*33|n[°º]s?\s*\d+|n°40|AV TROIS HERRENT|AV TROIS VERD CHAPEAVX|\bVERD\b|\bCHAPEAVX\b|A LA CLEE ROVGE|\bCLEE\b|\bROVGE\b|\bTETTE\b|\bTette\b|A LA BONNE FEMME|A LA TETE|\bTETE\b|TAETE|Taette|AV LION|AV RENARD|\bD OR\b|MDCCXII|A LA CLEF|\bCLEF\b|\bClef\b|\bTASCHE\b|\bTasche\b|D ARGENT|1768\/1873|A LÉ CAILLE|LÉ CAILLE|PAILE DOR|PAILE|A LA FAUX D OR|A LA FAUX|A LA CROIX D['’]OR|A LA CROIX D OR|LA CROIX D OR|CROIX D OR|\bCHATEAU\b|\bDE LE\b|\bMARCOTE\b|\bBuef\b|A SAINT ANTOINE|\bJ BTE\b|J\.-B\.|\bJacobs\b|Gust\.|AVX MOVSQVETON|AVX|MOVSQVETON|Charleroy|Harvent|parcours artistique|\bGoies\b|ARTS?²|\bArts2\b|\bARTS2\b|Torre de Saber|Tunnel de la Paix|\bPiet Rodriguez\b|\bPieta Rodrigueza\b|Zësar|\bZesar\b|Bahamonte|riche de sens|Vélasquez|Velasquez|Velázquez|Liebaert|\b126\b|Giannakopoulos|Mundaneum|\bPupet|\bHarmonizing\b|Ufocinque|Passeggiando|street art|True story|Nevercrew|Langeheldt|Valdetrudis|Anto Carte|Gonçalves|Goncalves|Invisible graffiti|Zmogk|Bertaimont|Bervoets|aux Herbes|Djos Janssens|[Œœ]uvre|\bOeuvre\b|\bcouppe\b|Grand['’]Rue|Grand-Rue|A LA COURONE|A LA COURONNE|A LA VILLE|\bAVESNES\b|\bAVESNE\b|\bAvesnes\b|D AVESNE|D AVESNES|Chisaire|LASSVS|mvnich|A ROLAND DE Lassus|Franciscus|\bKring\b|Masquelier|ST\.?\s*FRANCISCUS/i.test(
     String(text || ''),
   );
 }
