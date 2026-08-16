@@ -1,4 +1,9 @@
 CityLoop Quest Mons - Release notes
+Version 26.08.182
+----------------------------------------
+The Bootle Arms : photo dist alignée sur images/The_Bootle_Arms.jpg.
+
+CityLoop Quest Mons - Release notes
 Version 26.08.181
 ----------------------------------------
 Le Gros Maillet : IHS lu I H S, n° 71 et 89 lu numéros (TTS).
