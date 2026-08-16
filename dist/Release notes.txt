@@ -1,4 +1,9 @@
 CityLoop Quest Mons - Release notes
+Version 26.08.180
+----------------------------------------
+Le Gros Maillet : photo dist alignée sur images/Le_Gros_Maillet.jpg (gros plan du maillet).
+
+CityLoop Quest Mons - Release notes
 Version 26.08.179
 ----------------------------------------
 St Franciscus Kring : texte long réécrit (sans répéter le court), 10 langues + audio long.
